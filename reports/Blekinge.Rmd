@@ -1,0 +1,369 @@
+---
+title: "Blekinge"
+author: "JJayes"
+date: "10/03/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+```{r}
+library(tidyverse)
+library(readxl)
+```
+
+## Cover page
+
+STATE PUBLIC INVESTIGATIONS 1924: 10
+Ministry of Agriculture
+
+NOTICES FROM THE ROYAL ELECTRIFICATION COMMITTEE. 11
+
+INVESTIGATION CONCERNING PLANNED ELECTRIFICATION OF THE RURAL AREA IN BLEKINGE COUNTY
+
+Stockholm 1924
+
+## Contents
+
+State Public Investigations 1924 Chronological list
+
+```{r}
+text <- c(
+  "1. Regarding the organization of the state's commercial information activities. Memorandum, issued by the head of the Foreign Ministry's special trade department. Marcus.28 pp. U.
+2. Swedish agricultural production production costs. 2. The accounting years 1920—1921 and 1921—1922. By L. Nanneson.Message from King. The Swedish Board of Agriculture no. 217 (No. 6 1923). Svanbäck. (C), 107 pp. Jo.
+3. Kungl. Notifications from the Electrification Committee. 12. Investigation regarding planned electrification of the countryside within Kopparberg County. Beckman. 47 pp. 3 maps. Yes
+4. Supplement no. 2 to Sverge's family name 1920. Stat.Repr.-anst. 10 pp. Ju.
+5. Report with inquiry and proposals regarding it free and voluntary public education work. Eklund, five 208 pp. E.
+6. Inquiry into a new waterway between the Baltic Sea and Lake Vänern, Göta Canal, together with appendices, including preliminary investigation concerning waterway between Hjälmaren and Lake Vänern, Svea canal. Messages from King. Channel the Commission. No. i. Hseggström. 173 pp. 3 maps. K 
+7. Report and proposals regarding educational and country library. Uppsala, Almqvist & Wiksell. xj, 611 pp. E
+8. Kungl. Notifications from the Electrification Committee. 13. Ut report on the planned electrification of land the countryside within Västmanland County. Beckman. 36 pp. 2 maps Yes.
+9. Kungl. Notifications from the Electrification Committee. 14. Ut report on the planned electrification of land the countryside within Värmland County. Beckman. 52 pp. 2 maps. Yes
+10. Kungl. Notifications from the Electrification Committee. 11. Ut report on the planned electrification of land the countryside within Blekinge County. Beckman. 32 p. 2 maps. Yes
+11. Kungl. Notifications from the Electrification Committee. 15. Ut report on the planned electrification of land the countryside within Jämtland County. Beckman. 32 p. in map. Yes
+12. Kungl. Notifications from the Electrification Committee. 18. Ut report on the planned electrification of land the countryside within Gotland County. Beckman. 18 p. 1 map. Yes")
+
+text %>% 
+  as_tibble() %>% 
+  separate_rows(., value, sep = "\\n") %>% 
+  knitr::kable()
+```
+
+
+```{r}
+text <- c("TABLE OF CONTENTS.
+Sid.
+Introduction 5
+Description of the current electrical installations in Blekinge County 5
+Hydropower resources a within Bleking e lä n 8
+Energy and power requirements 9
+Proposal for planned electrification of Blekinge County 11
+Sources of power 11
+Principles for arranging local distribution 11
+The cost a for electrification of Bleking e lä n 19
+Summary g 20
+LIST OF APPENDICES.
+Map of existing and projected electrical installations within Blekinge
+county
+ x Appendix 1
+Table of existing electrical installations within Blekinge County with information on certain technical data »2
+Map a of the extent of the electrified areas and the distribution of arable land within Blekinge County »3
+Table of power requirements within the various county municipalities in Blekinge County ... »4
+An account of the technical devices, which are proposed within the specific
+the distribution areas within Blekinge County in order to promote continued rural electrification »5")
+
+text %>% 
+  as_tibble() %>% 
+  separate_rows(., value, sep = "[0-9]") %>% 
+  mutate(value = str_squish(value)) %>% 
+  filter(nchar(value) > 0) %>% 
+  knitr::kable()
+```
+
+
+```{r}
+text <- c("LIST OF APPENDICES.
+Map of existing and projected electrical installations within Blekinge
+county
+  x Appendix 1
+Table of existing electrical installations within Blekinge County with information on certain technical data »2
+Map a of the extent of the electrified areas and the distribution of arable land within Blekinge County »3
+Table of power requirements within the various county municipalities in Blekinge County ... »4
+An account of the technical devices, which are proposed within the specific
+the distribution areas within Blekinge County in order to promote continued rural electrification »5")
+
+text %>% 
+  as_tibble() %>% 
+  separate_rows(., value, sep = "[0-9]") %>% 
+  mutate(value = str_squish(value)) %>% 
+  filter(nchar(value) > 0) %>% 
+  knitr::kable()
+```
+
+## Investigation regarding planned electrification of the countryside within Blekinge County.
+
+### Introduction
+
+```{r}
+text <- c("Although hydropower in the Blekinge rivers has been used to some extent
+for industrial companies already in the last decades of the 19th century, it was
+only with the advent of Hemsjö Kraft Aktiebolag in 1906, when the county's power resources began to be utilized to a greater extent and made available to the public through the distribution of electrical energy over long-distance lines.
+Hemsjöbolaget has from the outset set up urban and rural electrification in its program and has in connection with this expanded a distribution network,
+which now extends over large parts of Blekinge County and far beyond
+county boundaries. Alongside Hemsjöbolaget's management network, which is currently
+the county's most significant, some smaller, from there different distribution companies have arisen.
+An assessment of the question of the most appropriate development of it recently
+hinted manner began the electrification of the county and especially its rural must
+based on a thorough knowledge of all the electrical installations within
+the county and the electrification conditions prevailing there, Below are left
+therefore primarily a description of these facilities.")
+
+text %>% str_squish()
+```
+
+### Description of the current electrical installations in Blekinge County.
+
+```{r}
+text <- c("The electrical installations in Blekinge County are listed on the attached
+map, appendix 1, partly in the attached table, appendix 2.
+The most comprehensive of the companies listed in the mentioned appendices is Hemsjö
+Kraft Aktiebolag, which started its electrification business in 1907 with
+distribution of electrical energy from Hemsjö upper power station in Mörrumsström.
+The company, whose entire facilities are now purchased by Sydsvenska Kraft Aktiebolaget, expanded a 40 kV landline network to Sölvesborg and Kristianstaod and
+the cement factories Ifö and Maltesholm and then also to Karlshamn. Year 1909
+the Torsebro hydropower station in Kristianstad County was connected to the former
+line and in 1912 the steam power station in Karlshamn to the latter. In Mörrumsström, the Hemsjö lower power station was later expanded. Landline network
+now extends partly to Ronneby and is connected to those in Ronnebyån
+expanded hydropower stations Djupafors, Brantafors and Värperyd, partly to several
+places in Kronoberg County, where energy is distributed, partly via Torsebro to Tomelilla
+in southern Kristianstad County. A line made for 40 kV Ronneby — Karlskrona
+operated only for the time being with 20 kV. The power distribution from the Hemsjö facilities
+to the countryside was initially done with 6 kV rural voltage, which was transformed down to 500 volts for larger motors and 190 volts for lighting and
+small engines. With this system, Karlshamn's surroundings have been electrified from
+a secondary station located in said city. Later you have fr. o. m. 1912
+switched to the system 20 kV local voltage and 1500/220 volt local distribution,
+which came into use in the electrified from Ronneby secondary station
+the eastern part of the Blekinge coastal area and in the Sölvesborg area.")
+
+text %>% str_squish()
+
+```
+
+```{r}
+text <- c("As previously indicated, there are several smaller power plants within the county. Of these
+are some connected to the Hemsjön network in parallel operation with its power stations
+e.g. Hoby Kraft Aktiebolag's power station and Mariebergs power station, from which
+both extracted distribution networks for 6,000 volts. Among the completely independent companies, Svenska Stålpressningsaktiebolaget Olofström's power station is marked with 3,000
+volt distribution voltage, Belganets Kraft Aktiebolag's plant for 6,000 volts
+and Fagerfors Gjuteri & Mek. Verkstad's 10,000 volt mains and Näsums Elektriska
+Kraft Aktiebolag's 6,000 volt network, both of which the latter receive energy from
+power stations located outside the county's borders. In addition, there are a smaller number
+very small direct current plants.
+The power stations in Blekinge County are divided into different groups
+so, as the table below shows.")
+
+text %>% str_squish()
+
+```
+
+```{r}
+# library(magick)
+# png <- image_read("snips/Blekinge_1.PNG")
+# 
+# pdf <- image_convert(png, format = "pdf")
+# 
+# pdf %>% image_write("snips_pdf/Blekinge_1.pdf", quality = 100)
+```
+
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_current.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+
+
+```{r}
+text <- c("The stations located within the county, which belong to Sydsvenska Kraft Aktiebolaget,
+supply power also to Skåne and Småland. The part of the generating power of these stations (total approx. 9,400 kV A), which can be considered to fall on energy deliveries within
+county boundary, has been estimated at about 2,400 kVA. On the other hand, power is delivered
+to a couple of local distribution networks from stations in neighboring counties, corresponding
+about 120 kVA generator power. It is thus available to meet the county's needs
+about 7,500 kVA. Of this falls in round numbers
+ 1 / s
+ or about 1,500 kVA generator power on
+the bourgeois power consumption of agriculture and rural areas.
+On the map, Appendix 3, the hitherto electrified areas have been marked as
+dashed areas, at the same time the extent of the arable area has been indicated by brown
+squares, each of which corresponds to 100 hectares (according to Dr. J. Anricks »Map
+over Sweden's arable land »). From this map it is shown that large parts of the Blekinge
+the countryside has not yet been electrified. The electrification performed so far
+mainly covers only certain parts of the coastal area and the Ronnebyån valley.
+The distribution of electrical energy from the Hemsjö facilities takes place accordingly
+so-called »three-voltage system» at the older distribution networks with 6000/500/190 volts
+and at the newer ones with 20000/1500/220 volts. The larger of the local companies
+use only two distribution voltages and can therefore be considered to apply the voltage system », although the arrangement of the networks is often also comparable to that of the wide
+local networks in a three-voltage system (the power station replaces the rural network). At the smallest plants, only a single distribution voltage was used. The extent of the use of the different system types within the county can
+expressed by indicating the arable area, which has been electrified with resp. system,
+as happened in the table below.")
+
+text %>% str_squish()
+
+```
+
+```{r}
+
+df <- read_excel("data/Blekinge/Blekinge_phases.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+The three-voltage system has thus been used in about 2/3 of the electrification carried out so far.
+The use of different consumption voltages is shown in the table below.
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_voltage.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+As shown here, 220 volts or lower are the most common consumption voltages, in that they are used in about 3/4 of the district electrification performed so far.
+A number of different local tensions have found use within the county. This relationship is illustrated by the following table
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_voltage_distribution.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+The two-voltage system includes all plants where the local grids are directly connected to the power stations, even if the distribution voltage used is comparable to the local voltage
+in a three-voltage system.
+
+
+As shown here, 1,500 volts is the most commonly used local voltage.
+The electrified arable area amounts, as stated in the tables above, to approximately 18,700 hectares, constituting approximately 30% of the county's total arable area of 62,600 hectares. Of the mentioned area, approximately 6,700 hectares are electrified with lighting only and approximately 12,000 hectares with both motor operation and lighting, corresponding to approximately 11% resp. 19% of the county's entire arable land.
+The table, Annex 2, has compiled certain information regarding the size of the connection and energy consumption. As can be seen, the total connection is approximately 16,000 kW and the total energy consumption approximately 20 million kWh is attributed to the power stations.
+Those from resp. In some cases, the information obtained by companies does not allow the division of the connection into different consumer groups, nor can the energy consumption figures be distributed among different types of consumption. With the support of more detailed information from some companies, e.g. a. However, the following approximate specification can be drawn up at the home facilities, which make up the greater part of the whole.
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_consumption_groups.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+## Hydropower resources in Blekinge County
+
+```{r}
+text <- c("Blekinge County is part of the power district «Sydsvenska Hemsjö», for which investigation
+if the power supplies were executed in the Electrification Committee's Communication 2. This
+investigation shows that the watercourses in Blekinge after regulation and rational expansion
+contain relatively significant amounts of energy and this to such an extent that
+Blekingeåarna and Lagan will most likely be in the near future
+The 20-year period satisfies all the power needs of the said power district. Then thus
+t. o. m. an export of energy from Blekinge to neighboring landscapes, especially
+Skåne, it is possible, it is so much clearer, that the power supplies in the Blekinge rivers will be sufficient for the county's own needs for a long time to come.
+The county's energy resources are mainly found in Mörrumsström and Ronnebyån, where Sydsvenska Kraft Aktiebolaget's power sources are located. This company's distribution network is already branched over large parts of the county and can join reasonable additions are extended so that all parts of the county's countryside can be reached thereby. The county's power supply can and should therefore in the future be mediated over this network, and the small isolated companies that now exist will be connected to it. An expansion of smaller, local power stations for distribution to the surrounding area is unnecessary in the future, and should also in most cases be more expensive than connection to a larger power company, so such an expansion should be undertaken only after thorough expert examination in each particular case.")
+
+text %>% str_squish()
+```
+
+With regard to the stated conditions, a more detailed examination of the capacity of the various waterfalls resp. special suitability for use for rural distribution lack interest. In addition, such an investigation would require consideration of such circumstances of a local or legal nature, which require in-depth special investigations, and which could not be dealt with in this investigation.
+
+### Energy and power needs
+
+The calculation of the power requirement has been performed for each of the four consumption categories: rural, urban, large-scale industry and railways; two different values of the power demand have been calculated, namely a «present value», regarding the currently prevailing conditions, and a «future value», regarding the power demand, which in all probability can be expected to arise after a period of approx. 20 years or so.
+
+In the case of rural areas, calculations have been carried out in accordance with the principles set out in the Communication of the Electrification Committee 5 and have thus primarily been intended to estimate the size of the power requirement for a complete electrification at the connection and energy consumption for various purposes. the character occurring within the county. The results of these calculations are shown in the following table.
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_projection_consumption_groups.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+
+The maximum power amounts of approx. 3,800 resp. 5,400 kW, attributable to the power stations.
+For cities, large-scale industry and railways, the power requirement has been calculated in the manner described in the Electrification Committee's Communication 8.
+
+Table: Power requirements for complete electrification and attributable to the power stations
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_projection_consumption_groups_detailed.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+As previously mentioned, the current energy consumption amounts to approximately 20 million. kWh for the first three groups specified in the table below, whose energy requirements for complete electrification are approximately 34 mill. kWh. The average degree of electrification is thus currently about 59%. The distribution of resp. consumption groups are as follows.
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_requirements_consumption_groups.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+
+Although the degree of electrification is likely to increase eventually, it should be the same does not even in 20 years amount to 100%. The probable values compiled in the table below should be considered.
+
+```{r}
+df <- read_excel("data/Blekinge/Blekinge_requirements_consumption_groups_full_electrification.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+## Proposal for planned electrification of Blekinge County.
+
+### Sources of power
+
+It has been emphasized above that only the more significant of the Blekinge River's power sources should be fully sufficient to cover the county's power needs for a long time to come. No expansion of smaller, local power stations is therefore necessary, but the most suitable solution to the power supply issue should be a coherent large-scale distribution network. This does not, of course, prevent the expansion of smaller power stations, but these and the distribution networks belonging to them should in such a case be arranged so that they can be arranged as subdivisions in the larger network and connected to it during parallel work. Suitable distribution voltage in such cases is 3,000 volts (see below) for companies with up to 7 to 8 km distribution range; if significantly larger independent networks are expanded, they should be arranged for 20,000 / 3,000 volts. Due to the very limited development possibilities of the DC systems due to the low distribution voltage (in this case always equal to the consumption voltage), and due to the DC systems not being able to connect to and cooperate with the AC networks, the DC system should no longer be used in some cases. The existing rural facilities with direct current should, if possible, be converted for alternating current and connected to the nearest major distribution line.
+
+### Principle guidelines for arranging the local distribution.
+
+The settlement in Blekinge County is the so-called "widespread settlement" of fairly high density even in the forest areas. Three-voltage systems should therefore be used. The county's rural areas can be divided into two main groups, one of which, the «coastal area», has a high density, at least in some areas, especially around the estuaries. The second group, the "forest area", to which the archipelago can also be attributed, in that its character from an electrification point of view is consistent with that of the actual forest area, is more sparse. The areas of use in the forest area are smaller than in the coastal area, which later, in terms of character, is more similar to plains. Especially the westernmost part of the Blekinge coastal area has a character that approaches the Scanian. It is therefore natural that the threshing in this part and otherwise in the entire coastal area is carried out with larger engines (around 15 hp), while the forest area uses relatively small (approx. 7-5 hp). In general, therefore, so-called "high-voltage threshing" should be applied in coastal areas in cases where the magnitude of the distribution voltage used does not prevent such an arrangement. In the forest area, on the other hand, even at relatively low distribution voltages, the threshing motors will probably be connected to the farm networks and thus so-called «low-voltage threshing» will be applied. In the coastal area, it should be possible to choose between local voltages of 1,500 volts or 3,000 volts. In addition, as the 1,500 volt system has already been incorporated in large parts of the coastal area, this system should be used throughout this part of the county (cf. the Electrification Committee's communication 6). In the forest area, on the other hand, 1500 volts is not a high enough voltage for a sufficiently large connection to be able to gather within each rural station area. The local networks should therefore be extended longer than the 1,500 volt voltage allows, and as no practice has yet been developed, it should be unhindered to choose 3,000 volts as the standard local voltage for the forest area. As stated above, high voltage threshing is the appropriate system in the coastal area. Under such conditions, of course, the farm voltage should be limited to 220 volts within this range. In the forest area, where low voltage threshing will probably be used, it could possibly be assumed that 380 volts are required. However, the motor sizes there are rather small, so that the effects on the farm networks in many places should allow the use of the lower voltage without too great additional costs. It therefore seems sufficient to use 220 volts there as a rule. Only if there are strong reasons for deviating from the standard voltage, the farm voltage should be raised to 380 volts. i In most places in southern and central Sweden, the rural voltage of 20 kV has now been trained to standard. This is also the case in some parts of Blekinge County. A departure from this rule is not justified within the county, in the event that one still has freedom of choice of rural tension. To the extent that the electrification carried out so far does not stand in the way, the following standard distribution systems should therefore be used in Blekinge County: in the coastal area 20,000/1 500/220 volts with high voltage threshing, in the forest area 20,000 / 3,000 / 220 or 380 volts, with low voltage threshing. However, a number of distribution systems have already been used in Blekinge County, which deviate from the ones just mentioned. Thus, 6,000 volts have been used mainly as rural voltage within Hemsjö Kraft Aktiebolag's secondary station area at Karlshamn and as local voltage at a number of smaller power plants with their own power station. That this tension has been used in Hemsjöbolaget's distribution is explained, as has already been emphasized, by the fact that this distribution began relatively early, when it has not yet come to light about the advantages of the higher rural tensions, which according to later experience proved more suitable. That the same voltage has been used in the smaller private companies is probably due to the example given by Hemsjöbolaget. It is now agreed that the 6,000 volt voltage is too low as a rural voltage and especially in the areas in question - except possibly in exceptional cases - too high as a local voltage. However, as its use has become relatively large in certain areas of Blekinge County, a change in this respect should no longer be possible. One should be content to limit the spread of this voltage system as much as possible. The local networks connected to the 6,000 volt rural networks were carried out by Hemsjöbolaget with a 500 volt local voltage, probably for similar reasons, as mentioned above regarding the rural voltage. It is now revealed that 1,500 volts is a much more suitable voltage in the areas where the now mentioned distribution took place. However, a transition to 1500 volts within the now electrified areas in question should no longer be possible with reasonable costs. It should therefore be possible to maintain this voltage within the local networks where 500 volts now exist, but limit it as much as possible. Where the 6,000 volt voltage according to what has been stated above must be used, the same should in future in the case of new electrification be considered equally as local voltage. Bygdenäten should therefore be trained with centralized wiring in such a way that certain main strings are freed from all detail distribution and this is gathered on the less important branches, which star-shaped may start from a few central points on the main line trained as switching stations. Since 6,000 volts was used as the local voltage, in many cases advantages can be gained through the farm voltage of 380 volts. Yid as high a local voltage as 6,000 volts, namely the throttle motors should be connected to the low voltage lines (low voltage threshing), and since these motors, at least in the coastal area, are relatively large, it is important not to use a high farm voltage (see Electrification Committee notice 6). In the farm networks constructed so far within the 6,000 volt electrified parts of the Hemsjö area, however, 190 volts were used, which voltage could, however, be raised to 220 volts without much difficulty. From a uniformity point of view, therefore, 220 volts could be preferred. However, due to the reasons cited above for a high surge voltage, it was assumed in the following that the special system 6,000/380 volts will be used in new electrification. Further deviations from the standard systems mentioned above also occur here and there. To these conditions is returned, however, has below in the account of the electrification of the various distribution areas. The rural electrification carried out by the former Hemsjöbolaget in the county has been organized according to the so-called «Hemsjö system», which has previously been described on several occasions (see, for example, the Electrification Committee's messages 2 and 7). It should therefore suffice to mention here only that the system involves direct detail distribution of the energy to the individual consumers and by the power producer the care, operation and maintenance of all plant parts all the way to the consumers' farms. In the application of this system, consumer associations (cooperatives) are formed, but their function is mainly limited to the raising of capital and the conclusion of the general agreement with Kraftbolaget on the conditions for power distribution in the area in question. The technical distribution system adheres to the administrative system in such a way that the boundaries of the distribution areas of the rural stations and the areas of activity of the cooperatives coincide; as a rule, these areas have hitherto been kept relatively small; A change for the future in this regard is to be recommended. The direct distribution method is also used in the smaller distribution companies, although in these companies the rational limitation of the sales area or systematic division into distribution areas has been omitted. It is highly desirable that the boundaries of the sales areas are also fixed in the case of the latter companies. A proposal for this has been indicated on the map, Appendix 1, which shows how the entire county can be divided into suitable distribution areas. Of course, this proposal is not the only solution, but it should be appropriate to follow mainly, since it joins the current distribution. An account of those within resp. The proposed facilities are listed in Appendix 5. About 2 years ago, Hemsjöanläggningarna was taken over by Sydsvenska Kraft Aktiebolaget, which company was originally formed to provide the Skåne cities with power. The municipal interest also still has the greatest influence on the company's operations. In such circumstances, it can be feared that the company is not willing to invest the capital and significant work on the less desirable rural electrification from a profitability point of view, which an application of the "Hemsjö system" would require in future new electrification. It is therefore conceivable that a transfer to consumers of some of the functions which, in the hitherto electrified areas, rest with the power producer, will prove desirable with regard to the as yet unelectrified areas. It should also be pointed out that such a shift should be justified by the greater sparsity of the unelectrified areas, which should require a longer-term variation of the devices and their better adaptation to special conditions existing in different areas, than the centralized "Hemsjöorganisationen" should be able to reasonable cost. In the above-mentioned, hitherto unelectrified areas, it is therefore probable that the organizational system applied at the state power plant will be the most suitable, and the same is therefore recommended for use there. Within the facilities hitherto electrified from the Hemsjö facilities, the so-called "Hemsjö system" has been consistently applied and should also preferably be maintained there. Should the power supplier not find it necessary to take care of the detailed distribution, it should become necessary to depart from the so-called «Hemsjö system» within the already electrified areas. One should then, as stated with regard to Kristianstad County, be referred to either organizing the local distribution according to the Vattenfall Board's system or also entrusting it to so-called «power administrations». The Vattenfall Board's system is chosen, which means that all district lines are carried out by the power supplier - in this case Sydsvenska Kraft A.-B.
+while local distribution is handled by local companies, formed by the power consumers themselves, it should be ensured that each local company is large enough to be rationally managed as an independent administrative unit, and it is likely that you will often have to connect networks from several rural stations to the same local distribution company. In doing so, however, care should be taken to ensure that the measurement is arranged so that, as far as possible, the charge is the same as if the power supply were based on a single point and measured in it. The difference between such an application of the Vattenfall Board's system and an organization of the detailed distribution through so-called «power administrations», would, according to the Electrification Committee stated in its opinion on Kristianstad County, be that in the power management system also certain district lines and stations are owned by the local distribution company. and that this also handles industrial power supplies. Finally, it should be emphasized that in most places, especially in the case of smaller companies, they have been satisfied with electrification, which only includes lighting. In these cases, the focus should be on supplementing the facilities in such a way that the electrical energy can also be used for propulsion. Only in this way can the full currency of the capital expenditures made be obtained
+
+### The costs of electrification of Blekinge County.
+
+The table, appendix 2, of the existing electrical installations within the county lacks information on the costs for the same. However, an estimate of the construction costs is made possible by the information in the table on line lengths, transformer and power station installations and the like. With the help of the mentioned data, it has been calculated that the costs incurred so far at the county's electrical installations are as follows:
+
+```{r}
+tibble(items = c("Power stations", "Powerlines and major substations", "Rural networks, local networks and the like."),
+       costs_mill_kr = c(8, 1.3, 4))
+```
+
+However, some parts of this also amount to the distribution of electrical energy outside the county's borders. The following amounts fall on the county's own electrification.
+
+```{r}
+tibble(items = c("Power stations", "Powerlines and major substations", "Rural networks, local networks and the like."),
+       costs_mill_kr = c(4, 0.7, 4))
+```
+
+These costs correspond to the capital invested in reality, and thus relate to the different price levels, which have prevailed during the different stages of the construction period. Do you want to obtain a more reliable basis for e.g. comparison with costs in other localities, it is appropriate to state the costs reduced to a certain fixed price situation. A corporate recalculation suggests that the costs, attributable to the 1914 peace price situation, constitute the following:
+
+```{r}
+tibble(items = c("Power stations", "Powerlines and major substations", "Rural networks, local networks and the like."),
+       costs_mill_kr = c(3.7, 0.6, 3))
+```
+
+A summary calculation of the costs, which would need to be further incurred on the county's electrification according to the above-mentioned proposal, has been carried out and has resulted in the following amounts, which relate to the 1914 price situation.
+
+```{r}
+tibble(items = c("Power stations", "Distribution devices"),
+       costs_mill_kr = c(2.5, 4))
+```
+
+A complete electrification of the current power needs (excluding the railways) of Blekinge County would thus require a total cost, which at the 1914 price level can be estimated at around 14 million. kr.
+
+### Summary.
+
+In the foregoing, an account is given of the facilities within Blekinge County. Their location has been indicated on the map, Appendix 1, and some data has been provided for them in the table, Appendix 2. The county has so far been mainly electrified through the former Hemsjö Kraft Aktiebolag, whose facilities have now been taken over by Sydsvenska Kraft Aktiebolaget. This electrification has taken place from power stations in Mörrumsström and Bonnebyån, from which the energy is distributed over land lines for 40 kV and district lines for 20 or 6 kV. There are also some smaller power stations with networks of more local importance, some of which are connected to the Hemsjön network. The electrification of the county's countryside has so far been limited mainly to the coastal countryside and the more densely populated river valleys; the same currently covers about 19,000 hectares of arable land or about 30% of the county's entire cultivated area. It should be emphasized that about 12,000 hectares are electrified with motor operation, while about 7,000 hectares only use the power for lighting. It is recommended that the pipeline networks are also used as much as possible for motor operation, only in this way can the large capital, which the distribution facilities represent, become profitable for consumers. Power consumption within the county currently amounts to about 20 million. kWh and about 5,500 kW, attributed to the power stations, but if the county were fully electrified, the corresponding figure would be (with the exception of the railways) about 34 million. kWh and about 9,000 kW. The degree of electrification is thus 58%. For rural areas, electrification has not even reached such an extent, in that rural energy consumption is about 2'6 million. kWh, but its need at 100% degree of electrification approx. 9-5 mill. kWh. The county's entire power requirement in about 20 years has been estimated at approximately 60 million. kWh and approx. 17,000 kW at full electrification. It seems possible that the degree of electrification at the said time may have risen to close to 80%, so that about 50 mill. kWh could then be consumed in the form of electrical energy. The total load of the power stations would then amount to approximately 14,000 kW. For rural areas, the total need at the time in question has been estimated at approx. 15 mill. kWh. The electrification should not have been complete for the countryside then either, but the consumption of electrical energy should be limited to about 10 million. kWh. A proposal for planned electrification of the county has been submitted, based on the assumption that the power supply takes place from larger power stations over a large distribution network extending throughout the county, to which even existing smaller power stations are connected in parallel operation. The DC system now used in some small stations should, when it comes to rural distribution, cease. If the choice of distribution system was initially free, the three-voltage system 20,000/1 500/220 volts with high-voltage threshing should have been applied in the coastal area and 20,000/3,000/220 volts with low-voltage threshing should have been applied in the forest areas. Admittedly, the electrification of the coastal area has partly taken place in such a way, but in several cases, for one reason or another, the deviations mentioned above have come into use. Due to difficulties in making changes to this now, it will in some cases be necessary to carry out new electrification with other than the proposed standard systems in the future as well. The devices proposed have been briefly described for each of the 40 or so distribution areas, in which the county's countryside has been systematically divided. The costs for the county's electrification have only been able to be summarized completely. The existing facilities represent a capital outlay of around t a! about 13 mill. SEK, of which, however, only about 9 mill. kr. fall on the parts of the facilities, which are used within the county. At the 1914 price level, these plant parts can be considered to cost approximately SEK 7 "5 million. If a complete electrification of the county was carried out, the additional capital required for this can be estimated at approximately SEK 6'5 million at the 1914 price situation. Stockholm, February 16, 1923.

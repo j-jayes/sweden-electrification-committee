@@ -1,0 +1,43 @@
+---
+title: "Untitled"
+author: "JJayes"
+date: '2022-04-13'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(readxl)
+```
+
+# Investigation regarding planned electrification of the countryside within Jönköping County.
+
+## Introduction.
+
+Jönköping County consists mainly of forest areas, located on the high plateau, where most of southern Sweden's watercourses originate. A large number of watercourses are therefore found within the county, but the amount of water in them is relatively insignificant. The many rapids and falls of these watercourses have nevertheless been used early on for the construction of a variety of water wheels for the operation of saws and mills. Facilities of this kind still exist to a significant extent and in many cases have recently been equipped with electrical equipment. Within the county, there are also some large-scale industrial companies with more modern power plants, and pipelines for general distribution have also been developed. The number of electrical installations in the county is extremely large due to these circumstances. In the following, a description of these facilities must first be provided.
+
+### Description of the current electrical installations in Jönköping County.
+
+Through Jönköpings Läns Elektricitetsförening, certain basic information regarding the electrical companies within Jönköpings län has been acquired by its consultant engineer T. Landén. On the basis of this, the attached map, appendix 1, all electrical installations and wiring networks have been drawn up, and the attached table, appendix 2, in which certain technical data for the installations specified on the map are given. Within Jönköping County, there are no state-owned electrical installations. The largest of the companies intended for general distribution of electrical energy within the county is Smålands Kraft A.-B., which in the north-eastern parts of the county has drawn a pipeline network for 30 kV, from which the countryside largely receives power. Furthermore, a 20 kV line from Finsjö Kraft A.-B's plant in Kalmar County has been extended across the county border and from it a small part of Jönköping County's countryside has been electrified. . The largest industrial facilities within the county are located in the Jönköping area. Among these, special mention must be made of Munksjö A.-B. and Huskvarna Vapenfabriks A.-B. The City of Jönköping receives power partly from its own power station in Edekvarn, and partly from Södra Vätterns Kraft A.-B's power station in Röttleån, from which plant a 40 kV line transfers energy to Jönköping's electricity plant. Electrical installations specially designed for rural areas are also found to a significant extent within the county. Among these are the largest such as e.g. Värnamo Kraft A.-B., whose 20 kV network also extends into Kronoberg County, Västbo Kraft A.-B., located in Nissan's valley in the county's southwestern part, etc. The western part of the county in particular has been electrified through very small facilities, usually consisting only of a small power station with associated low-voltage networks. The power stations located within the county are divided into different groups in the manner shown in the following table:
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_current.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+
+As can be seen from this, the installed generator power in the stations mainly intended for rural electrification amounts to a total of approximately 4,000 kVA. In other stations, approximately 1,050 kVA is available for rural electrification. From power stations located outside the county, power is obtained to a certain extent, e.g. from Finsjö Kraft A.-B., from Hylte Bruk and from Värnamo Kraft A.-B's station in Kronoberg County. The generator power in power stations located outside the county's boundaries, which is available for such power supply, can roughly be estimated at about 1,000 kVA. For Jönköping County's power supply, approximately 28,500 kVA will thus be used, of which approximately 5,500 kVA can be estimated to fall on the rural part. The table shows that of the power stations occupied there, a significant number consist of direct current stations, in that more than 2 / a of the county's all stations are intended for this power system. However, the installed power in those of these stations, which are intended for rural areas, is rather insignificant. The same amounts to an average of about 8 kVA per station, while the rural AC stations have an average size of about 45 kVA. Also, the area electrified with direct current is relatively insignificant; the same constitutes only about 15% of the whole, as can be seen from the table below, where the arable area electrified by different types of electricity and system types is stated.
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_phases.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
