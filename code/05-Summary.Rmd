@@ -1,0 +1,70 @@
+---
+title: "Summary"
+author: "JJayes"
+date: '2022-04-19'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Purpose
+
+A summary of the electrification committee reports produced between 1924 and 1926 by the electrification committee, focussing on what data to extract.
+
+## Which regions?
+
+```{r}
+c("Blekinge",
+  "Jämtland.pdf",
+  "Södermanland.pdf",
+  "Västerbotten.pdf",
+  "Värmland.pdf",
+  "Gotland.pdf",
+  "Jönköping.pdf",
+  "Kristianstad.pdf",
+  "Kronobergs",
+  "Örebro.pdf",
+  "Koppaberg.pdf",
+  "Norrbottens",
+  "Västernorrland.pdf",
+  "Halland.pdf",
+  "Uppsala.pdf",
+  "Skaraborgs",
+  "Kalmar",
+  "Östergötland.pdf",
+  "Älvsborg.pdf",
+  "Goteborgs och Bohus",
+  "Västmanland.pdf",
+  "Stockholm.pdf",
+  "Gävleborg.pdf") %>% 
+  as_tibble() %>% 
+  mutate(value = str_remove(value, "\\.pdf"))
+```
+
+
+## What are the contents of each report??
+
+- Introduction
+- Description of current electrical installations
+- Description of resources that remain to be tapped
+- Analysis of the needs in the county and projection into the future
+- Propposal for planned electrification
+  - Sources of power
+  - Local distribution
+  - Costs of electrification
+- Summary
+
+A big table with very detailed information about the power generation in each little town! Wow!
+
+### What tables do we want to get?
+
+- Full consumption estimate and probable electrification
+
+Missing Gotland.
+Missing Kristianstad
+
+- Water vs Heat power:
+
+Missing Gotland, Halland,

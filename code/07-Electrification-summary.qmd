@@ -1,0 +1,146 @@
+---
+title: "Electrification summary"
+format: html
+---
+
+## Purpose
+
+EDA on electrification summary transcribed with textract.
+
+```{r}
+library(tidyverse)
+library(here)
+theme_set(theme_light())
+```
+
+## Map init
+
+```{r}
+library(sf)
+map <- read_rds(here("data", "county_map.rds"))
+
+map %>% 
+  ggplot() +
+  geom_sf() +
+  geom_sf_label(aes(label = lan_name))
+```
+
+
+```{r}
+library(ggiraph)
+
+gg_iraph_map <- map %>% 
+    ggplot() +
+    geom_sf_interactive(aes(tooltip = lan_name)) +
+    theme_void()
+
+girafe(
+  ggobj = gg_iraph_map,
+  width_svg = 8,
+  height_svg = 4,
+  options = list(
+    # opts_tooltip(css = tooltip_css, delay_mouseover = 0, delay_mouseout = 0),
+    opts_hover_inv(css = "opacity:0.1;"),
+    opts_hover(css = "stroke-width:2;")
+  )
+)
+```
+
+### Read in data
+
+Data is in two tables with two sets of codebooks.
+
+Starting with table 1, about costs and such.
+
+```{r}
+df <- readxl::read_excel("data/electricity_summary_table_1.xlsx")
+
+df <- df %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(-c(x1, x2)) %>% 
+  mutate(name = parse_number(name)) %>% 
+  rename(index = x1, county = x2, col = name)
+
+df <- df %>% 
+  filter(!county %in% c("Summa", "check"),
+         !is.na(county))
+
+codebook <- readxl::read_excel("data/Electricity_summary_table_1_codebook.xlsx")
+
+df <- df %>% 
+  inner_join(codebook, by = "col")
+```
+
+```{r}
+df %>% 
+  select(county, desc, value) %>% 
+  pivot_wider(names_from = desc, values_from = value) %>% 
+  gt::gt()
+```
+
+### Sections
+
+```{r}
+df %>% distinct(desc) %>% pull()
+```
+
+Geographic stuff:
+- Total land area A1. 
+- Field area A0
+- Population and pop density* check
+
+Farm features
+- Average farm size
+- Farm size vs pop density.
+
+### Geographic area
+
+```{r}
+df %>%
+  filter(desc %in% c("Total land area A1", "Field area A0", "Forest area As")) %>% 
+  mutate(county = fct_reorder(county, value)) %>% 
+  ggplot(aes(value, county, fill = desc)) +
+  geom_col(position = "dodge", show.legend = F) +
+  scale_x_continuous(labels = scales::number_format()) +
+  facet_wrap(~ desc, scales = "free")
+```
+
+I should do a shiny app with four panels, one being a table with coloured columns...
+
+### Electrified field area
+
+```{r}
+df %>%
+  filter(str_detect(desc, "Electrified field area: as a")) %>%
+  mutate(county = fct_reorder(county, value)) %>%
+  ggplot(aes(value, county, fill = desc)) +
+  geom_col(position = "dodge", show.legend = F) +
+  scale_x_continuous(labels = scales::percent_format(scale = 1)) +
+  facet_wrap(~desc, scales = "free")
+```
+
+For the regions we can - distinguishing between lighting and motor:
+
+```{r}
+counties <- df %>%
+  filter(str_detect(desc, "Electrified field area: with"),
+         !is.na(value)) %>% 
+  distinct(county)
+
+df %>%
+  filter(
+    county %in% counties$county,
+    str_detect(desc, "Electrified field area: with|Field area A0")
+  ) %>%
+  select(county, value, desc) %>%
+  pivot_wider(names_from = desc, values_from = value) %>%
+  mutate(across(starts_with("Elect"), ~ .x / `Field area A0`)) %>%
+  mutate(county = fct_reorder(county, `Electrified field area: with lighting and motors`)) %>%
+  pivot_longer(-c(county, `Field area A0`)) %>%
+  mutate(name = fct_relevel(name, "Electrified field area: with lighting only")) %>% 
+  ggplot(aes(value, county, fill = name)) +
+  geom_col(position = "stack") +
+  scale_x_continuous(labels = scales::percent_format(scale = 100)) +
+  labs(x = "Percentage of arable land")
+```
+

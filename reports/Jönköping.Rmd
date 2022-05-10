@@ -1,12 +1,12 @@
 ---
-title: "Untitled"
+title: "Jönköping"
 author: "JJayes"
 date: '2022-04-13'
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F)
 ```
 
 ```{r}
@@ -41,3 +41,138 @@ df %>%
   DT::datatable()
 ```
 
+The table shows that the two system types two-voltage systems and three-voltage systems are approximately equally represented in Jönköping County, although the former has been used to a somewhat greater extent. The extent to which different consumption voltages have been used is shown by the following table:
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_voltage.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+(Note that I haven't done the summations and percentage shares as these are easy to calculate)
+
+This shows that the main electrification within Jönköping County took place using 380 volts as the consumption voltage. With this voltage, approximately 3 / l of the electrification to date have been carried out. The use of different distribution voltages is shown by the following table:
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_local_voltage.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+Among the two-voltage systems, which together comprise about 60% of the electrified arable area, the 10,000-volt distribution voltage system is the most widely used, with more than 30% being electrified thereby. Among various three-voltage systems, with 1500 volt local voltage, it is almost exclusively used. The same covers 23% of the electrification to date. As can be seen from the table above, the current rural electrification comprises approximately 61,000 hectares of arable land. Of this, however, only 1/3 or about 21,000 hectares have been provided with wiring, adapted for the utilization of electrical energy also for motor power. The remainder or about 2/3 refers only to lighting. Of the county's total arable land, which amounts to 140,000 hectares, about 15% are thus electrified with both engine power and lighting and about 29% with lighting only. Electrification comprises a total of about 44% of the total arable land. The map, Appendix 3, shows the approximate extent of the electrified areas. At that of Smålands Kraft A.-B. The electrification carried out distributes the electrical energy to the various consumers. Over lines, which all the way to the various farms belong to the power producer. Even in the case of local electrification due to local initiatives, the fairly common cooperative organization occurs elsewhere to a relatively small extent. As a rule, the local rural facilities are limited companies or they are owned by individuals, who all distribute the energy directly to their subscribers. Only in exceptional cases have cooperative consumer associations been formed. These are usually of insignificant extent. As previously pointed out, the utilization of the existing rural facilities is generally less good, in that the energy is in most cases only used for lighting. The connection value as well as the energy consumption for agriculture's motor operation is also proportionally very low. This is apparent from the following specification of the distribution of the connection value and energy consumption on different
+consumption groups.
+
+```{r}
+tibble(consumption_group = c("Lighting, household, crafts",
+                             "Agricultural engine operation",
+                             "Small industry",
+                             "Energy losses"),
+       connection_value_kW = c(6900, 1800, 1300, 0),
+       power_consumption_mkWh = c(0.9, .2, .5, 1.2))
+```
+
+### Hydropower resources in Jönköping County.
+
+Jönköping County belongs to the power districts Sydsvenska -Hemsjö, Finsjö and Yngeredsfors, for which an investigation regarding the hydropower resources was carried out in the Electrification Committee's Communication 8. Within Jönköping County, virtually all watercourses in southern Sweden originate. However, as the rivers flowing into the Baltic Sea or Kattegat only have their source areas within the county's boundaries, and the watercourses belonging to the Vättern system are very small, there are no power sources of significant dimensions within the county. On the other hand, the number of falls and rapids is very large. With regard to the power supply, the county can be divided into 4 different areas. In the north-eastern parts of the county, there are already pipelines for general power distribution to such an extent that all parts of the countryside can be reached from them. To the extent that the own power resources in this area are not sufficient, power can therefore easily be transferred there over the said distribution network, either from the power district Finsjö, with whose larger power grid the area's power companies are already connected, or also from the north, i.e. from Vattenfallsstyrelsen's power plant in Motala. whose pipeline network will eventually be likely to be extended to the Eksjö area. In the area closest to Jönköping and on Vätternstranden up to Gränna are the county's largest hydropower resources, namely those from which Munksjö, Huskvarna and Jönköping obtain their energy. In the southwestern parts of the county, there are already a fairly large number of hydropower stations in Nissan's river system. These can and should be connected to a complex, to which the beginning has already been made, in that some of the other smaller facilities are connected to Västbo Kraft A.-B's pipeline network. This power complex should naturally co-operate with the Halland power stations located in Nissan's lower barrel and thus come into contact with the power district Yngeredsfors, from whose main line network power can be supplied to the now relevant part of Jönköping County1 in case of need1. The number of power stations within this part of the county should, moreover, be sufficient for a fairly complete connection of the rural consumers existing there. The north-western part of the county again lacks distribution facilities of significant scope as well as major hydropower sources. Admittedly, the power needs that can be expected to arise in this part of the county are rather small, and it is probable that in most cases they will be able to be met from the small waterfalls that are also abundant in this area, but it is likely that it is assumed that the development of such smaller local power sources will prove to be less economically advantageous than the supply of power from larger power sources over long-distance lines. This part of the county should therefore most advantageously have its power needs met, if a power line is drawn to it from the power plants existing in nearby parts of Alvsborg County, which belong to Trollhätte Kraftverk. Thus, Jönköping County's power needs are likely to be met either over public distribution networks that already exist or that will soon need to be expanded, and which will be connected to more powerful areas' distribution facilities or also (in the case of the Jönköping area) from own power sources, such as are already extensively developed, a closer examination of all the county's small waterfalls and their special suitability for use in rural electrification should not be necessary.
+
+### Energy and power needs.
+
+The calculation of the power requirement has been performed for each of the four consumption categories: rural, urban, large-scale industry and railways. In doing so, two different values of the power demand have been calculated, namely a «present value», regarding the currently prevailing conditions and a «future value», regarding the power demand, which can probably be expected to arise after a period of about 20 years or thereabouts. In the case of rural areas, calculations have been carried out in accordance with the principles set out in the Electrification Committee's Communication 5 and have thus primarily intended an estimate of the size of the power requirement at a complete electrification and at the connection, which can be considered normal for rural areas of the county. the times just mentioned. The results of these calculations are shown in the table below:
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_projection_consumption_groups.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+
+Against the stated energy amounts, which relate to the power stations, correspond to maximum power amounts of approx. 8,000 resp. 11000 kW. For cities, large-scale industry and railways, the power requirement has been calculated in the manner specified in the Electrification Committee's Communication 8. The total power requirement can be estimated at the following amounts:
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_projection_consumption_groups_detailed.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+The actual consumption of electrical energy within the county currently amounts to approximately 45 million. kWh. The average degree of electrification is thus about 40%. The distribution of resp. consumption groups are given in the following table:
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_requirements_consumption_groups.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+Although the degree of electrification can certainly be expected to increase over time, the same should not amount to 100% around 1940 either. Estimated for the latter time, the following values can be specified as probable:
+
+```{r}
+df <- read_excel("data/Jönköping/Jonkoping_requirements_consumption_groups_full_electrification.xlsx")
+
+df %>% 
+  DT::datatable()
+```
+
+## Proposal for planned electrification of Jönköping County.
+
+### Sources of power.
+
+It has been indicated above under the heading «hydropower resources» how Jönköping County's power supply should be arranged. Except for the north-western part, it should not even be necessary in the future, other than in exceptional cases, to build new power stations, intended for rural electrification. On the contrary, a centralization of power production should in all probability lead to lower power costs and also increase the quality of rural power. The reasons for measures in such a direction have been developed in more detail in the Electrification Committee's Communication 10, containing an investigation into Gävleborg County's planned electrification, which is why they should not need to be developed in more detail here. However, the proposed centralization of power generation necessitates the interconnection of the facilities of the various power companies, which also has the advantage that the existing power stations can be better utilized. A proposal for devices suitable for such a connection is shown on the map, Appendix 1.
+
+### Local distribution.
+
+The countryside in Jönköping County is fairly similar and belongs to the type which in the Electrification Committee's communication 6 has been termed «widespread countryside». The degree of cultivation is, except in some parts in the southwest and northeast, greater than 10%, the calf, according to the reasons further developed in the Electrification Committee's just mentioned notice 6, the three-voltage system is the most suitable system form. In the south-western and north-eastern parts, where the degree of cultivation is lower than 10%, there are great opportunities for connection to the local networks of small industrial plants, especially saws and mills, and handicrafts, at least in the border areas with Älvsborg County, can be counted as consumers of electrical energy. . Due to this, even in these areas, the devices necessary for the three-voltage system will probably be used sufficiently to fully make this system form suitable there as well. As the Småland countryside is rather sparse everywhere, a local voltage lower than 3,000 volts should not be chosen, and since a higher voltage for such reasons, as discussed in more detail in the Electrification Committee's communication 6, should not be considered, 3,000 volts should be considered as the for the whole county the most suitable standard voltage. The engines used in the countryside of Jönköping County are relatively small. In each case, the engine power should not exceed SEK 10 on average. For this reason, as shown in the Electrification Committee's Communication 6, the low voltage threshing system is the most suitable. In such a case, even insignificant benefits can be gained with a higher farm voltage. The county's countryside has also been electrified mainly using 380 volts, which for these reasons should be considered as the only standard consumption voltage. The size of the rural tension must be determined in Jönköping County as well as elsewhere, taking into account other than the needs of the countryside. However, a certain practice has already been trained within the county. Smålands Kraft A.-B's main lines are all designed for a voltage of 30 kV, which in most places has been transformed down to 10 kV. However, since the former higher voltage is available within the entire area of ​​operation of the power company in question, and since it can be used as a rural voltage as well as 10 or 20 kV (now even 40 kV is used with advantage as a rural voltage), there should be sufficient reasons for a transformation on behalf of the countryside to an intermediate voltage between 30 kV and the local voltage, provided, however, that the latter is rather high. In these areas, 30 kV should therefore be used as rural voltage.
+
+At Finsjö Kraft A.-B. and e.g. at Värnamo Kraft A.-B. 20 kV is used and this voltage should also be the most suitable rural voltage for the future. Within the Nissadalen power area, the prevailing distribution voltage is 10 kV, which voltage should also be fully sufficient in these areas, both with regard to the size of the power requirements and the transmission distances. What has been said above can possibly also be applied to the north-western part of the county, whose power supply will probably take place either from small stations or by transmission from Trollhätte Kraftverk. For the time being, however, a more detailed plan for the arrangement of local distribution within this area cannot be drawn up, but must therefore wait until more definite profitability calculations for various projects have been drawn up, a matter which should be in the local interests. For the county in general, if the choice had been free from the beginning, a three-voltage system with low-voltage throttling and 3,000/380 volts would have been chosen as the standard distribution system. From the previously provided description of the rural electrification carried out so far, however, it appears that voltages or voltage combinations deviating from the mentioned standard system have in reality come into use. In most cases, the electrification already carried out is so extensive that a change in the abnormal systems is now hardly possible. One should therefore be content to limit their scope and to use the more appropriate standard system in the hitherto unelectrified areas. In the descriptive part it has been mentioned that the distribution usually takes place directly to resp. consumers. Consumer associations of the kind common in other parts of the country therefore do not occur in Jönköping County. Nor have the areas of activity of the various distribution companies been delimited from each other, but the local networks have often been allowed to grow out in a rather unplanned way. In some cases, the distribution distances for this reason have become quite large in relation to the voltage used. In other cases, and these are likely to be the majority, the distribution voltage has not been utilized, but the transmission distances are considerably smaller than is technically possible. The development of rural electrification would certainly be promoted and a more general electrification could be achieved, if the boundaries of the areas of activity were fixed by agreement between the neighbors, and if an attempt was made to match the extent of the areas of activity and the technical possibilities available. A proposal for the county's systematic division into distribution areas has been prepared and can be found on the map, Appendix 1. An account of the technical devices, which are proposed within the distribution areas indicated on the map, is provided in Appendix 5. 
+
+As has just been pointed out, power sales usually take place directly to consumers.
+
+Their interests could be better safeguarded if consumer associations were formed, for example by the scope that is common in the state's rural distribution. The cooperative co-operative form should then be the most suitable. That the direct current system has become widespread within the county has previously been described. The inadequacy of this system has been demonstrated in many places in the Electrification Committee's previous inquiries, in particular in the Committee's Communication 10. It should be further pointed out here that the fragmentation of consumers arising from the implied procedure must in the long run harm their interests and thus hamper rural electrification. The electrical energy is used in Jönköping County to a lesser extent than is the case in most other counties. Despite the fact that about 44% of the arable land within the county is connected to the electrical wiring, only about 14% of the energy amount, which corresponds to complete electrification, is consumed. The degree of consumption is thus only about 30%, which is partly explained by the previously mentioned situation, that a large part of the rural electrification carried out so far only concerns lighting. But even the small industry, which kind of facilities abound in the county, has so far to a very limited extent used the electric power. In fact, the electrification rate of small industry is only 5%. Finally, it must be emphasized that a better utilization of the power even on the farms, where the installations were carried out with a view to engine operation, could certainly be achieved. The electrical energy can be used on electrified farms for a variety of purposes, but it is required that the installations have been carried out in an appropriate manner and with motors, adapted to the power needs of the various work operations. As a rule, it should be advantageous if the engines intended for threshing and possible sawing are used jointly for several farms, while for smaller work operations the individual farms acquire their own small engines of about 1/2 to 3 hp each. A better utilization of the electrical installations and the consequent better profitability would thus be achieved, if small industries were to a greater extent connected to the electrical distribution companies, and if the farms' own motor installations were more specialized and the motors were used for a number of such work operations. can be advantageously electrified and finally, if the networks arranged for lighting only were changed so that the power could also be used for motor operation.
+
+### The costs for electrification of Jönköping County.
+
+Information regarding the costs of the electrical installations within the county could not be obtained for all companies, but have for the others been calculated approximately in proportion to line lengths, number of transformers, installed machine power, etc. In this way it has been calculated that so far at Jönköping County electrical installations The capital invested amounts to the following amounts:
+
+
+```{r}
+tibble(items = c("Power stations", "Powerlines and major substations", "Distribution network"),
+       costs_mill_kr = c(16.7, 2.2, 11))
+```
+
+This amount corresponds to the costs actually incurred and relates to the different price levels that have prevailed during the various stages of the construction period. A more objective basis for the comparison with costs in other counties is obtained by attributing the fixed capital to a certain fixed price situation. Attributed to the 1914 price situation, the construction costs consist of:
+
+```{r}
+tibble(items = c("Power stations", "Powerlines and major substations", "Distribution network"),
+       costs_mill_kr = c(12.6, 1.5, 6.7))
+```
+
+An approximate distribution of these costs in rural and large-scale industry shows that rural electrification would amount to the following approximate sums, attributed to the 1914 price situation:
+
+```{r}
+tibble(items = c("Rural power stations", "Local distribution network", "Part of the large industry's power stations and lines"),
+       costs_mill_kr = c(2.6, 5.1, 1.2))
+```
+
+A summary calculation of the costs, which would further be required due to complete electrification of Jönköping County's countryside at current power demand, shows the following approximate amounts, attributed to the 1914 price situation:
+
+```{r}
+
+
+tibble(items = c("Power stations, major power lines, interconnection networks between different companies and the like", "Local distribution network"),
+       costs_mill_kr = c(2.5, 9))
+```
+
+A complete electrification of Jönköping County's countryside in the current power demand would thus require a total construction cost of around 20 million. kr. at the 1914 price level.
+
+### Summary
+
+In the forthcoming investigation, an account is primarily given of the electrification of Jönköping County that has been carried out so far. On the map, appendix 1, all currently existing electrical installations have been plotted and in the table, appendix 2, some technical data for them have been given. The largest of the electrical companies in Jönköping County is Smålands. Kraft A.-B., and power to certain areas is obtained from Finsjö Kraft A.-B. There are also electrical installations for large-scale industrial purposes, the largest of which are located in the Jönköping area, e.g. Huskvarnaanläggningarna, Munksjöanläggningarna, etc. The countryside has also to a large extent been electrified from smaller power stations with associated networks, intended only for local distribution. The electrification carried out so far has been estimated to cover approximately 61,000 hectares, constituting 44% of the county's total arable area. However, 2/3 of this electrification refers only to lighting and only Va also the rural supply with electric power for motor operation, so the quality of the electrification to date is relatively low.
+
+The investigation has also provided a brief account of the technical devices that have been used in the county. It has been demonstrated that a significant number of small DC stations have been built. The direct current stations are in fact four times as numerous as the alternating current stations intended for rural areas, but the electrified area connected to them is relatively insignificant, it constitutes only about 15% of the whole. Among the AC voltages used, 380 volts is the most represented, with 65% of the entire electrification falling on it. Among the distribution voltages, of which a large number are represented within the county, 10,000 volts, which occur in about 1/3 of the electrified area, are the most common. Next in line is 1,500 volts, which in the areas electrified with three-voltage systems is virtually the only voltage used. The consumption of electrical energy within the county currently amounts to around 45 million. kWh, of which only 2 "8 million kWh fall in rural areas. standard in terms of consumption would be levied on complete electrification in the county's rural areas, which the latter amount was calculated at about 19 "6 mill. kWh. If other consumer categories are also included, the complete power requirement would be approximately 112 mill. kWh. The future need for power has also been estimated. It seems probable that with complete electrification around the year 1940 about 164 mill. kWh would be required, of which about 30 "6 million kWh fall in rural areas.
+
+A proposal for planned electrification of the county's countryside has been drawn up. It has been stated in the first instance that Jönköping County's power needs should suitably be filled over such networks for public distribution, which either already exist or which will soon be able to be expanded, and all of which will be connected to more powerful areas' distribution facilities, e.g. ex. Yngeredsforsnätet, which in turn is connected to Götaälvs verken, or Finsjönätet, which in turn will be connected to Hemsjöanläggningarna in the near future and can probably also be connected to Älvkarleby- and Motalaverken's facilities. In any case, power production for the future should be centralized to a greater extent than has been the case so far. The significant number of small power stations that have already been expanded should not be able to provide power to a sufficient extent, nor at such favorable costs in proportion to the quality of the power, as in the case of power, generated in larger plants. The small station system should therefore be phased out in such a way that the existing small stations either either cease completely or are also connected during co-operation to the nearest major distribution network. The direct current system now used at the small stations in question should not be maintained, but should be gradually replaced with alternating current systems as soon as possible. A collaboration between all the county's power stations should be established to achieve better utilization and water management. A interconnection network suitable for such a purpose has been designed. A proposal for the arrangement of the local distribution has also been drawn up. If the choice had been free from the beginning, a three-voltage system with low-voltage threshing and 3,000/380 volt local distribution would have been the most suitable for the county's countryside. The same should also be applied to the hitherto unelectrified areas, insofar as these will be supplied with electric power. Within the already electrified parts, voltages deviating from the said system have come into use in many places.
+
+In most cases, the electrification already carried out is so extensive that a change in the abnormal systems is now hardly possible. One should therefore be content to limit their scope as much as possible. Fixing the boundaries of the various distribution companies' areas of activity, something that has so far been neglected, is recommended. A proposal for such a systematic division into distribution areas has been drawn up on the map, Appendix 1. Local distribution in these areas should, with regard to the technical systems, be arranged as specified in Appendix 5. As a rule, power sales in Jönköping County are made directly to consumers. Associations between these, such as are common elsewhere in the country, thus occur only rarely in Jönköping County. However, the electrified countryside would certainly not benefit so much if cooperative consumer associations were formed, for example on the basis of the proposed proposal for the division of the county into distribution areas, so such a procedure would be abandoned. The intensity of the electrification performed so far is, as indicated above, rather small, in that the power is used only to a small degree for motor operation. An intensification in this respect should be sought, whereby the motor installations should be arranged so that the motor sizes are adapted to the power requirements of the various work operations. In this way, a better utilization of installations in other electrical distribution facilities could be achieved, whereby greater value would be obtained for the costs incurred. The costs for the county's electrification have only been able to be calculated completely in summary. The existing facilities represent a cost of approx. 29'9 mill. SEK, which amount, attributed to the 1914 price situation, amounts to approx. 208 mill. kr. Of these, approximately SEK 8 "9 million amount to rural power supply. In order to achieve a complete electrification of the countryside at current power needs, additional capital expenditures of approximately SEK 11-6 million would be required, at the 1914 price level. The electrification of the countryside was to require a total of about DKK 20 million. Stockholm on May 30, 1923.

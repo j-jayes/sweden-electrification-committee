@@ -1,0 +1,108 @@
+---
+title: "Untitled"
+format: html
+---
+
+## Purpose
+
+EDA on electrification requirements transcribed.
+
+```{r}
+library(tidyverse)
+library(here)
+theme_set(theme_light())
+```
+
+## Map init
+
+```{r}
+library(sf)
+map <- read_rds(here("data", "county_map.rds"))
+
+map %>% 
+  ggplot() +
+  geom_sf() +
+  geom_sf_label(aes(label = lan_name))
+```
+
+
+```{r}
+library(ggiraph)
+
+gg_iraph_map <- map %>% 
+    ggplot() +
+    geom_sf_interactive(aes(tooltip = lan_name)) +
+    theme_void()
+
+girafe(
+  ggobj = gg_iraph_map,
+  width_svg = 8,
+  height_svg = 4,
+  options = list(
+    # opts_tooltip(css = tooltip_css, delay_mouseover = 0, delay_mouseout = 0),
+    opts_hover_inv(css = "opacity:0.1;"),
+    opts_hover(css = "stroke-width:2;")
+  )
+)
+```
+
+## Electrification requirements
+
+```{r}
+df <- readxl::read_excel("data/requirements_consumption_groups_full_electrification.xlsx")
+
+df <- df %>% 
+  janitor::clean_names()
+
+df %>% 
+  distinct(period)
+```
+
+
+```{r}
+df %>% 
+  ggplot(aes(value, consumption_group, fill = period)) +
+  geom_col() +
+  facet_wrap(~ lan)
+```
+
+Which regions are most industry intensive?
+
+```{r}
+library(gt)
+
+df %>% 
+  filter(period == "Energy needs after about 20 years at 100% electrification degree") %>% 
+  pivot_wider(names_from = consumption_group, values_from = value) %>% 
+  select(-period, -type) %>% 
+  gt()
+```
+
+
+```{r}
+df %>% 
+  filter(consumption_group %in% c("The countryside", "The cities", "Large industry"),
+         period == "Energy requirements at the probable degree of electrification") %>% 
+  group_by(lan) %>% 
+  mutate(sum = sum(value)) %>% 
+  ungroup() %>% 
+  mutate(lan = fct_reorder(lan, sum)) %>% 
+  ggplot(aes(value, lan, fill = consumption_group)) +
+  geom_col()
+```
+
+
+```{r}
+df %>%
+  filter(period == "Probable degree of electrification") %>%
+  ggplot(aes(x = value, y = lan, fill = consumption_group)) +
+  geom_col(position = "fill")
+```
+
+What are the differences in probable degrees of electrification??
+
+```{r}
+df %>% 
+  filter()
+```
+
