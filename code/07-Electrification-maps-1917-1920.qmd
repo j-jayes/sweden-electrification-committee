@@ -1,0 +1,52 @@
+---
+title: "Maps 1917"
+format: html
+---
+
+
+```{r}
+library(tidyverse)
+library(sf)
+
+map_file <- here::here("data", "maps", "1917_lines_shapefile_only_lines.shp")
+
+map <- sf::read_sf(map_file)
+
+map_simple <- st_simplify(map, preserveTopology = FALSE, dTolerance = 2000)
+
+map_file_2 <- here::here("data", "maps", "1920_lines_shapefile_only_lines.shp")
+
+map_2 <- sf::read_sf(map_file_2)
+
+map_2_simple <- st_simplify(map_2, preserveTopology = FALSE, dTolerance = 2000)
+```
+
+This works
+
+```{r}
+ggplot() +
+  geom_sf(colour = "darkred", data = map_2_simple, alpha = .5) +
+  geom_sf(colour = "midnightblue", data = map_simple, alpha = .5)
+
+```
+
+Now let's add a title
+
+```{r}
+library(ggtext)
+
+ggplot() +
+  geom_sf(colour = "#D55E00", data = map_2_simple, alpha = .5) +
+  geom_sf(colour = "#0072B2", data = map_simple, alpha = .5) +
+  labs(
+    title = "<span style = 'font-size:14pt; font-family:Helvetica;'>The state power plant's distribution network in central Sweden</span><br>
+In the years <span style = 'font-size:14pt; color:#0072B2;'>1917</span>
+and <span style = 'font-size:14pt; color:#D55E00;'>1920</span>"
+  ) +
+  theme_bw() +
+  theme(
+    plot.title.position = "plot",
+    plot.title = element_markdown(size = 11, lineheight = 1.2)
+  )
+```
+

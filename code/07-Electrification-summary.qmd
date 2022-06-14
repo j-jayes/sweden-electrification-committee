@@ -53,7 +53,7 @@ Data is in two tables with two sets of codebooks.
 Starting with table 1, about costs and such.
 
 ```{r}
-df <- readxl::read_excel("data/electricity_summary_table_1.xlsx")
+df <- readxl::read_excel(here("data/electricity_summary_table_1.xlsx"))
 
 df <- df %>% 
   janitor::clean_names() %>% 
@@ -65,13 +65,15 @@ df <- df %>%
   filter(!county %in% c("Summa", "check"),
          !is.na(county))
 
-codebook <- readxl::read_excel("data/Electricity_summary_table_1_codebook.xlsx")
+codebook <- readxl::read_excel(here("data/Electricity_summary_table_1_codebook.xlsx"))
 
 df <- df %>% 
   inner_join(codebook, by = "col")
+
 ```
 
 ```{r}
+#| column: page
 df %>% 
   select(county, desc, value) %>% 
   pivot_wider(names_from = desc, values_from = value) %>% 
@@ -92,6 +94,8 @@ Geographic stuff:
 Farm features
 - Average farm size
 - Farm size vs pop density.
+
+
 
 ### Geographic area
 
@@ -117,9 +121,36 @@ df %>%
   geom_col(position = "dodge", show.legend = F) +
   scale_x_continuous(labels = scales::percent_format(scale = 1)) +
   facet_wrap(~desc, scales = "free")
+
+gg_iraph_map <- df %>%
+  filter(str_detect(desc, "Electrified field area: as a")) %>% 
+  inner_join(map, by = c("county" = "lan_name")) %>%
+  mutate(tooltip = str_c(county, "\n", value, " %")) %>% 
+  ggplot() +
+  geom_sf_interactive(aes(tooltip = tooltip, data_id = county,
+                          fill = value, geometry = geometry)) +
+  scale_fill_gradient2(
+    low = "blue",
+    high = "red",
+    mid = "pink",
+    midpoint = 40
+  ) +
+  theme_void() +
+  labs(fill = "Electrified field area %")
+
+girafe(
+  ggobj = gg_iraph_map,
+  width_svg = 8,
+  height_svg = 4,
+  options = list(
+    # opts_tooltip(css = tooltip_css, delay_mouseover = 0, delay_mouseout = 0),
+    opts_hover_inv(css = "opacity:0.1;"),
+    opts_hover(css = "stroke-width:2;")
+  )
+)
 ```
 
-For the regions we can - distinguishing between lighting and motor:
+For some regions we can - distinguishing between lighting and motor:
 
 ```{r}
 counties <- df %>%
@@ -127,7 +158,7 @@ counties <- df %>%
          !is.na(value)) %>% 
   distinct(county)
 
-df %>%
+df_electvar <- df %>%
   filter(
     county %in% counties$county,
     str_detect(desc, "Electrified field area: with|Field area A0")
@@ -135,12 +166,152 @@ df %>%
   select(county, value, desc) %>%
   pivot_wider(names_from = desc, values_from = value) %>%
   mutate(across(starts_with("Elect"), ~ .x / `Field area A0`)) %>%
-  mutate(county = fct_reorder(county, `Electrified field area: with lighting and motors`)) %>%
+  mutate(county = 
+           fct_reorder(county, `Electrified field area: with lighting and motors`)) %>%
   pivot_longer(-c(county, `Field area A0`)) %>%
-  mutate(name = fct_relevel(name, "Electrified field area: with lighting only")) %>% 
+  mutate(name = fct_relevel(name, "Electrified field area: with lighting only"))
+
+# df_electvar %>% write_rds("data/df_electvar.rds")
+
+df_electvar %>% 
   ggplot(aes(value, county, fill = name)) +
   geom_col(position = "stack") +
   scale_x_continuous(labels = scales::percent_format(scale = 100)) +
   labs(x = "Percentage of arable land")
 ```
 
+
+### Rural consumption
+
+```{r}
+#| column: page
+
+df %>%
+  filter(str_detect(desc, "Rural consumption:")) %>%
+  mutate(
+    desc = str_remove(desc, "Rural consumption: "),
+    desc = str_c(desc, " - ", units),
+    desc = str_to_title(desc)
+  ) %>%
+  select(county, desc, value) %>%
+  pivot_wider(names_from = desc, values_from = value) %>%
+  arrange(desc(`Electrification Degree Currently - Pct`)) %>%
+  gt::gt()
+```
+
+
+
+Cost per hectare for rural electrification: Electrification plant performed so far: Costs reduced to the 1914 price situation
+
+```{r}
+
+gg_iraph_map_cost <- df %>%
+  filter(str_detect(desc, "Cost per hectare for rural electrification: Electrification plant performed so far: Costs reduced to the 1914 price situation")) %>%
+  inner_join(map, by = c("county" = "lan_name")) %>%
+  mutate(tooltip = str_c(county, "\n", value, " kronor")) %>% 
+  ggplot() +
+  geom_sf_interactive(aes(tooltip = tooltip, 
+                          data_id = county,
+                          fill = value, geometry = geometry)) +
+  scale_fill_gradient2(
+    low = "purple",
+    high = "orange",
+    mid = "yellow",
+    midpoint = 100,
+    labels = scales::dollar_format(suffix = "Kr", prefix = "")
+  ) +
+  theme_void() +
+  labs(fill = "Cost per hectare for rural electrification")
+
+girafe(
+  ggobj = gg_iraph_map_cost,
+  width_svg = 8,
+  height_svg = 4,
+  options = list(
+    # opts_tooltip(css = tooltip_css, delay_mouseover = 0, delay_mouseout = 0),
+    opts_hover_inv(css = "opacity:0.1;"),
+    opts_hover(css = "stroke-width:2;")
+  )
+)
+```
+
+Combined
+
+```{r}
+library(cowplot)
+
+int_fig <- girafe(
+  ggobj = plot_grid(gg_iraph_map, gg_iraph_map_cost, nrow = 2),
+  width_svg = 5,
+  height_svg = 3,
+  options = list(
+    # opts_tooltip(css = tooltip_css, delay_mouseover = 0, delay_mouseout = 0),
+    opts_hover(css = "fill: #E69F00; fill-opacity: 1.0; stroke: #E69F00;")
+  )
+)
+
+# write_rds(int_fig, "data/interactive_fig.rds")
+
+```
+
+
+
+Cost vs 
+
+```{r}
+df %>%
+  filter(str_detect(desc, "Electrified field area: as a|Cost per hectare for rural electrification: Electrification plant performed so far: Costs reduced to the 1914 price situation")) %>%
+  select(county, value, desc) %>%
+  pivot_wider(names_from = "desc") %>%
+  ggplot(aes(
+    `Electrified field area: as a percentage of total arable land area`,
+    `Cost per hectare for rural electrification: Electrification plant performed so far: Costs reduced to the 1914 price situation`
+  )) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  geom_label(aes(label = county)) +
+  scale_x_continuous(labels = scales::percent_format(scale = 1)) +
+  scale_y_continuous(labels = scales::dollar_format(prefix = "", suffix = " Kr")) +
+  labs(y = "Cost per hectare for rural electrification (1914 prices)")
+```
+
+
+## Table 2
+
+```{r}
+df <- readxl::read_excel(here("data/electricity_summary_table_2.xlsx"))
+
+df <- df %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(-c(x1, x2)) %>% 
+  mutate(name = parse_number(name)) %>% 
+  rename(index = x1, county = x2, col = name)
+
+df <- df %>% 
+  filter(!county %in% c("Summa för hela landet", "check"),
+         !is.na(county))
+
+codebook <- readxl::read_excel(here("data/Electricity_summary_table_2_codebook.xlsx"))
+
+df <- df %>% 
+  inner_join(codebook, by = "col")
+```
+
+
+```{r}
+#| column: page
+
+df %>% 
+  select(county, desc, value) %>%
+  pivot_wider(names_from = desc, values_from = value) %>% 
+  gt::gt()
+```
+
+```{r}
+df %>% 
+  filter(desc %in% c("Number of power stations", "Total power")) %>% 
+  mutate(county = fct_reorder(county, value)) %>% 
+  ggplot(aes(value, county)) +
+  geom_col() +
+  facet_wrap(~ desc, scales = "free")
+```
