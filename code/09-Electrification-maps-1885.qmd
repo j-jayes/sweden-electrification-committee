@@ -99,9 +99,6 @@ map_2 <- map_2 %>%
   mutate(type = "Water power") %>% 
   filter(id != 111)
 
-map %>% 
-  st_join(map_2)
-
 map <- map %>% 
   bind_rows(map_2)
 
@@ -122,6 +119,8 @@ map_out <- centroids %>%
 # map_out %>% write_rds(here::here("data", "maps", "1885_water_and_heat.rds"))
 ```
 
+It works!
+
 ```{r}
 map <- read_rds(here::here("data", "maps", "1885_water_and_heat.rds"))
 
@@ -130,14 +129,112 @@ map %>%
   geom_sf(aes(colour = type, size = power))
 ```
 
+### Now for the 1900 one.
 
-How do we work it out? The ratio is 
-
-
-Now do an overlap with map of Sweden
+Start with water power
 
 ```{r}
-centroids
+map_file <- here::here("data", "maps", "1900_water_power_2.shp")
+
+map <- sf::read_sf(map_file)
+
+scale <- map %>% 
+  # that's the one that is the scale!
+  filter(id == 356) %>% 
+  pull(area)
+
+# make conversion factor
+conv_factor <- 6000 / scale
+
+map <- map %>% 
+  mutate(power = area * conv_factor)
+
+# now for the heat power one
+
+map_file_2 <- here::here("data", "maps", "1900_heat_power_2.shp")
+
+map_2 <- sf::read_sf(map_file_2)
+
+map_2 <- map_2 %>%
+  select(!area_2) %>% 
+  mutate(power = area * conv_factor)
+
+map_2 <- map_2 %>% 
+  mutate(type = "Heat power") %>% 
+  filter(id != 1222)
+
+map <- map %>% 
+  mutate(type = "Water power") %>% 
+  filter(id != 356)
+
+# now to combine
+map <- map %>% 
+  bind_rows(map_2)
+
+centroids <- map %>% st_centroid()
+
+map_out <- centroids %>% 
+  select(!area) %>% 
+  st_join(map %>% select(id, geometry)) %>% 
+  select(-id.y) %>% 
+  rename(id = id.x)
+
+# map_out %>% write_rds(here::here("data", "maps", "1900_water_and_heat.rds"))
+
+map_out %>% 
+  ggplot() +
+  geom_sf(aes(colour = type, size = power))
+```
+
+### Now we want to get the parish that each is in.
+
+```{r}
+library(histmaps)
+
+p_map <- get_boundaries("1900", "parish")
+
+st_map <- p_map %>% left_join(geom_meta, by = c("geom_id"))
+
+st_map <- st_transform(st_map, 3857 )
+
+st_map %>% filter(str_detect(name, "Lund")) %>% view()
+
+st_map %>%
+  filter(county == 12) %>%
+  mutate(name = str_remove(name, "församling")) %>%
+  ggplot() +
+  geom_sf(fill = "lightgrey", color = "black") +
+  # geom_sf_label(aes(label = name)) +
+  theme_minimal()
+```
+
+Maybe do it in two steps?
+
+First find the names of the parishes that each of the power stations is in. We want to keep that information.
+
+```{r}
+overlap <- st_join(map_out, st_map)
+
+overlap %>% 
+  select(geom_id, name, id, power, type = type.x, county) %>% 
+  ggplot() +
+  geom_sf(data = st_map, fill = "lightgrey", colour = "black") +
+  geom_sf(aes(colour = type, size = power)) 
+
+
+  # filter(county == 12) %>%
+  mutate(name = str_remove(name, "församling")) %>%
+  ggplot() +
+  geom_sf(fill = "lightgrey", color = "black") +
+  # geom_sf_label(aes(label = name)) +
+  theme_minimal()
+```
+
+
+```{r}
+france_intersected = st_intersection(france, seine)
+
+
 ```
 
 
