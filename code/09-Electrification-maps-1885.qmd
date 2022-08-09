@@ -1,0 +1,143 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+
+```{r}
+library(tidyverse)
+library(sf)
+
+map_lan <- read_rds(here("data", "county_map.rds"))
+
+map_lan %>% 
+  ggplot() +
+  geom_sf() +
+  geom_sf_label(aes(label = lan_name))
+
+map_file <- here::here("data", "maps", "1885_heat_power_2.shp")
+
+map <- sf::read_sf(map_file)
+
+map_file_2 <- here::here("data", "maps", "1885_water_power_2.shp")
+
+map_2 <- sf::read_sf(map_file_2)
+```
+
+This works
+
+```{r}
+ggplot() +
+  geom_sf(colour = "darkred", data = map_lan, alpha = .5) +
+  geom_sf(colour = "darkred", data = map, alpha = .5) +
+  geom_sf(colour = "blue", data = map_2, alpha = .5)
+```
+
+Now let's add a title
+
+```{r}
+library(ggtext)
+
+ggplot() +
+  geom_sf(colour = "#D55E00", data = map_2_simple, alpha = .5) +
+  geom_sf(colour = "#0072B2", data = map_simple, alpha = .5) +
+  labs(
+    title = "<span style = 'font-size:14pt; font-family:Helvetica;'>The state power plant's distribution network in central Sweden</span><br>
+In the years <span style = 'font-size:14pt; color:#0072B2;'>1917</span>
+and <span style = 'font-size:14pt; color:#D55E00;'>1920</span>"
+  ) +
+  theme_bw() +
+  theme(
+    plot.title.position = "plot",
+    plot.title = element_markdown(size = 11, lineheight = 1.2)
+  )
+```
+
+
+## Calculate centre of polygon in R
+
+```{r}
+
+centroids = st_centroid(map)
+
+ggplot() +
+  geom_sf(colour = "darkred", data = map, alpha = .5) +
+  geom_sf(aes(size = area), colour = "blue", data = centroids, alpha = .5)
+
+```
+
+## Some way to scale the area values
+
+For the 1885 map - the scale is id 111.
+
+```{r}
+map_file_2 <- here::here("data", "maps", "1885_water_power_2.shp")
+
+map_2 <- sf::read_sf(map_file_2)
+
+scale <- map_2 %>% 
+  filter(id == 111) %>% 
+  pull(area)
+
+conv_factor <- 400 / scale
+
+map_2 <- map_2 %>% 
+  mutate(power = area * conv_factor)
+
+map_file <- here::here("data", "maps", "1885_heat_power_2.shp")
+
+map <- sf::read_sf(map_file)
+
+map <- map %>% 
+  mutate(power = area * conv_factor)
+
+map <- map %>% 
+  mutate(type = "Heat power")
+
+map_2 <- map_2 %>% 
+  mutate(type = "Water power") %>% 
+  filter(id != 111)
+
+map %>% 
+  st_join(map_2)
+
+map <- map %>% 
+  bind_rows(map_2)
+
+centroids <- map %>% st_centroid()
+
+
+```
+
+Lets combine these and save
+
+```{r}
+map_out <- centroids %>% 
+  select(!area) %>% 
+  st_join(map %>% select(id, geometry)) %>% 
+  select(-id.y) %>% 
+  rename(id = id.x)
+
+# map_out %>% write_rds(here::here("data", "maps", "1885_water_and_heat.rds"))
+```
+
+```{r}
+map <- read_rds(here::here("data", "maps", "1885_water_and_heat.rds"))
+
+map %>% 
+  ggplot() +
+  geom_sf(aes(colour = type, size = power))
+```
+
+
+How do we work it out? The ratio is 
+
+
+Now do an overlap with map of Sweden
+
+```{r}
+centroids
+```
+
+
