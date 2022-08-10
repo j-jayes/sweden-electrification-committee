@@ -1,9 +1,9 @@
 ---
-title: "Untitled"
+title: "Ingest maps"
 format: html
 ---
 
-
+## Purpose - ingest the digitized maps of production and distribution into R.
 
 ```{r}
 library(tidyverse)
@@ -33,27 +33,6 @@ ggplot() +
   geom_sf(colour = "darkred", data = map, alpha = .5) +
   geom_sf(colour = "blue", data = map_2, alpha = .5)
 ```
-
-Now let's add a title
-
-```{r}
-library(ggtext)
-
-ggplot() +
-  geom_sf(colour = "#D55E00", data = map_2_simple, alpha = .5) +
-  geom_sf(colour = "#0072B2", data = map_simple, alpha = .5) +
-  labs(
-    title = "<span style = 'font-size:14pt; font-family:Helvetica;'>The state power plant's distribution network in central Sweden</span><br>
-In the years <span style = 'font-size:14pt; color:#0072B2;'>1917</span>
-and <span style = 'font-size:14pt; color:#D55E00;'>1920</span>"
-  ) +
-  theme_bw() +
-  theme(
-    plot.title.position = "plot",
-    plot.title = element_markdown(size = 11, lineheight = 1.2)
-  )
-```
-
 
 ## Calculate centre of polygon in R
 
@@ -184,6 +163,8 @@ map_out <- centroids %>%
 map_out %>% 
   ggplot() +
   geom_sf(aes(colour = type, size = power))
+
+production_1900 <- read_rds(here::here("data", "maps", "1900_water_and_heat.rds"))
 ```
 
 ### Now we want to get the parish that each is in.
@@ -196,6 +177,8 @@ p_map <- get_boundaries("1900", "parish")
 st_map <- p_map %>% left_join(geom_meta, by = c("geom_id"))
 
 st_map <- st_transform(st_map, 3857 )
+
+# st_map %>% write_rds(here::here("data", "maps", "1900_parish_map.rds"))
 
 st_map %>% filter(str_detect(name, "Lund")) %>% view()
 
@@ -213,21 +196,66 @@ Maybe do it in two steps?
 First find the names of the parishes that each of the power stations is in. We want to keep that information.
 
 ```{r}
-overlap <- st_join(map_out, st_map)
+overlap <- st_join(production_1900, st_map)
+
+overlap <- overlap %>% 
+  select(geom_id, name, id, power, type = type.x, county)
+
+ggplot() +
+  geom_sf(data = st_map, fill = "lightgrey", colour = "grey80", alpha = .5) +
+  geom_sf(data = overlap, aes(colour = type, size = power)) 
 
 overlap %>% 
-  select(geom_id, name, id, power, type = type.x, county) %>% 
+  filter(!is.na(name)) %>% 
+  group_by(type) %>% 
+  slice_max(power, n = 12, with_ties = F) %>% 
+  mutate(name = fct_reorder(name, power)) %>% 
+  ungroup() %>% 
+  ggplot(aes(power, name, fill = type)) +
+  geom_col(show.legend = F) +
+  facet_wrap(~ type, scales = "free_y") +
+  labs(title = "Top power production by parish",
+       subtitle = "Year: 1900")
+```
+
+## Grid expansion
+
+```{r}
+grid_1900 <- here::here("data", "maps", "1900_grid_2.shp")
+
+grid_1900 <- sf::read_sf(grid_1900)
+
+# grid_1900 %>% write_rds(here::here("data", "maps", "1900_grid.rds"))
+
+grid_1900 %>% 
   ggplot() +
-  geom_sf(data = st_map, fill = "lightgrey", colour = "black") +
-  geom_sf(aes(colour = type, size = power)) 
+  geom_sf()
+
+# 1911
+
+grid_1911 <- here::here("data", "maps", "1911_grid_3.shp")
+
+grid_1911 <- sf::read_sf(grid_1911)
+
+# grid_1911 %>% write_rds(here::here("data", "maps", "1911_grid.rds"))
 
 
-  # filter(county == 12) %>%
-  mutate(name = str_remove(name, "församling")) %>%
+grid_1911 %>% 
   ggplot() +
-  geom_sf(fill = "lightgrey", color = "black") +
-  # geom_sf_label(aes(label = name)) +
-  theme_minimal()
+  geom_sf(data = st_map, fill = "lightgrey", colour = "grey80", alpha = .5) +
+  geom_sf(colour = "red") 
+
+ggplot() +
+  geom_sf(data = st_map, fill = "lightgrey", colour = "grey80", alpha = .5) +
+  geom_sf(data = overlap, aes(colour = type, size = power)) +
+  geom_sf(data = grid_1900, colour = "red")
+
+
+grid_1926 <- here::here("data", "maps", "1926_grid.shp")
+
+grid_1926 <- sf::read_sf(grid_1926)
+
+# grid_1926 %>% write_rds(here::here("data", "maps", "1926_grid.rds"))
 ```
 
 
@@ -237,4 +265,86 @@ france_intersected = st_intersection(france, seine)
 
 ```
 
+What do we take away? 
+
+There is a delay between the expansion of production and then the expansion of the power grid itself.
+
+If we look at the production in 1885 - it looks like this:
+
+```{r}
+production_1885 <- read_rds(here::here("data", "maps", "1885_water_and_heat.rds"))
+
+ggplot() +
+  geom_sf(data = st_map, fill = "lightgrey", colour = "grey80", alpha = .5) +
+  geom_sf(data = production_1885, aes(colour = type, size = power)) +
+  theme_minimal() +
+  labs(size = "Power in kWh",
+       colour = "")
+
+```
+
+The in 1900 we get the production and grid for the first time
+
+```{r}
+production_1900 <- read_rds(here::here("data", "maps", "1900_water_and_heat.rds"))
+
+grid_1900 <- read_rds(here::here("data", "maps", "1900_grid.rds"))
+
+ggplot() +
+  geom_sf(data = st_map, fill = "lightgrey", colour = "grey80", alpha = .5) +
+  geom_sf(data = production_1900, aes(colour = type, size = power)) +
+  geom_sf(data = grid_1900, colour = "red") +
+  theme_minimal()  +
+  labs(size = "Power in kWh",
+       colour = "")
+```
+
+Then in 1911 we can overlap the 1911 grid with the 1900 production and see that the grid has expanded in the mean time.
+
+```{r}
+grid_1911 <- read_rds(here::here("data", "maps", "1911_grid.rds"))
+
+ggplot() +
+  geom_sf(data = st_map, fill = "lightgrey", colour = "grey80", alpha = .5) +
+  geom_sf(data = production_1900, aes(colour = type, size = power)) +
+  geom_sf(data = grid_1911, colour = "red") +
+  theme_minimal()
+```
+
+What about the grid in 1926?
+
+```{r}
+grid_1926 <- read_rds(here::here("data", "maps", "1926_grid.rds"))
+
+ggplot() +
+  geom_sf(data = st_map, fill = "lightgrey", colour = "grey80", alpha = .5) +
+  # geom_sf(data = production_1900, aes(colour = type, size = power)) +
+  geom_sf(data = grid_1926, colour = "red") +
+  theme_minimal()
+```
+
+
+Norrköping - spinning and weaving - they make cloth. 
+
+Make a timeline:
+
+What was the water power being used for in 1885? It's not very much power but it does have a use, right? Where is it being used and what for? 
+
+In 1866, Werner von Siemens made his most important contribution to electrical engineering. Building on the work of Michael Faraday, he discovered the dynamo-electric principle and constructed a dynamo machine, the forerunner of modern, large-scale electric generators. Unlike other researchers in the field who were working on the same problem, Werner von Siemens recognized the economic significance of his invention and, in 1867, took out patents to ensure his right to commercialize it.
+
+After roughly 10 years of development and testing, the dynamo was ready for series production in 1875. Its launch marked the start of a new era in the history of electrical engineering. The ability to generate and distribute large amounts of electrical energy at low cost gave a major boost to the economy. High-voltage engineering began its triumphal march.
+
+The first areas of application were electric lighting and drives technology. On March 1, 1879, the Siemens villa in Charlottenburg became Germany’s first private residence to be lit by electrical energy. At the Berlin Trade Fair a few weeks later, Siemens & Halske presented the world’s first electric railway powered by an external electricity supply.
+
+https://new.siemens.com/global/en/company/about/history/stories/dynamo-machine.html 
+
+
+The flatiron building in Norrköping - Strykjärnet - built in 1916 to house Holmens Bruks och Fabriks AB and originally housed a textile industry. https://sv.wikipedia.org/wiki/Strykj%C3%A4rnet. see also holmens bruk: https://sv.wikipedia.org/wiki/Holmens_Bruk 
+
+
+1905: photo of the electricity plant at Svedala - https://digitaltmuseum.se/021018113291/det-torveldade-kraftverket-i-roslatt-svedala. It used peat to create heat - it then must have generated steam and run it throgh a generator, right? 
+
+1916 - pictures of the construction of Trollehatten. 
+
+https://digitaltmuseum.se/021016300125/trollhatte-kraftverk-nedmontering-av-stridsberg-bjorks-gamla-fabriker-pa
 
