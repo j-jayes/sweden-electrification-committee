@@ -1,11 +1,70 @@
 ---
 title: "Digitizing the reports of the Swedish Electrification Committee"
 format: 
-  html:
-    theme: minty
+  # html:
+  #   theme: minty
+  pdf:
+    toc: false
+    number-sections: true
+    colorlinks: true
+execute: 
+  echo: false
 ---
 
 ## Purpose
 
-This document is written to explain the important parts of the reports of the Swedish Electrification Committee.
+This document is written to explain the important parts of the reports of the Swedish Electrification Committee to digitize.
+
+### Introduction
+
+There are reports for 23 län and two summary reports in the folder on dropbox.
+
+The reports for each län on the electrification of rural areas contain:
+
+- Introduction
+- Description of current electrical installations
+- Description of resources that remain to be tapped
+- Analysis of the needs in the county and projection into the future
+- Proposal for planned electrification
+  - Sources of power
+  - Local distribution
+  - Costs of electrification
+- Summary
+
+At the end of the report is a map of the current distribution and a set of tables reporting the location and details of the power stations.
+
+### Completeness
+
+Some of the reports contain less information than others. Specifically, Gotland has less information because it is less electrified.
+
+### To digitize
+
+It would be ideal to digitize the table specifying the generation capacity for each power station in the län. These tables are towards the end of each report.
+
+An example is shown below for Gotland:
+
+```{r}
+knitr::include_graphics(here::here("snips", "Gotland_1.png"))
+```
+
+There is a template in excel for digitizing these tables available for download [here](https://github.com/j-jayes/sweden-electrification-committee/raw/main/Digitize-template.xlsx)
+
+It looks like this:
+
+```{r}
+knitr::include_graphics(here::here("snips", "digitize-template.png"))
+```
+
+### Maps
+
+Here is an example of a ma containing the generation areas for each power station, as numbered on the tables. 
+
+Potentially we could come back to these and extract the boundaries for each generation area.
+
+It does not seem necessary for the moment.
+
+```{r}
+knitr::include_graphics(here::here("snips", "Gotland_map_1.png"))
+
+```
 
