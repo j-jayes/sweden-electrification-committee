@@ -1,8 +1,8 @@
 ---
 title: "Digitizing the reports of the Swedish Electrification Committee"
 format: 
-  # html:
-  #   theme: minty
+  html:
+    theme: minty
   pdf:
     toc: false
     number-sections: true
@@ -17,7 +17,7 @@ This document is written to explain the important parts of the reports of the Sw
 
 ### Introduction
 
-There are reports for 23 län and two summary reports in the folder on dropbox.
+There are reports for 23 län and two summary reports in the folder on dropbox, and linked [here on GitHub](https://github.com/j-jayes/sweden-electrification-committee/tree/main/committee-reports-pdf) where you can download them.
 
 The reports for each län on the electrification of rural areas contain:
 
@@ -35,7 +35,7 @@ At the end of the report is a map of the current distribution and a set of table
 
 ### Completeness
 
-Some of the reports contain less information than others. Specifically, Gotland has less information because it is less electrified.
+Some of the reports contain less information than others. Specifically, Gotland has less information because it is less electrified. Älvsborg contains a great deal of information, as does Halland (157 pages!).
 
 ### To digitize
 
