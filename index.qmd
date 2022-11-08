@@ -1,0 +1,11 @@
+---
+title: "Digitizing the reports of the Swedish Electrification Committee"
+format: 
+  html:
+    theme: minty
+---
+
+## Purpose
+
+This document is written to explain the important parts of the reports of the Swedish Electrification Committee.
+

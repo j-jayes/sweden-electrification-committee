@@ -348,3 +348,16 @@ The flatiron building in Norrköping - Strykjärnet - built in 1916 to house Hol
 
 https://digitaltmuseum.se/021016300125/trollhatte-kraftverk-nedmontering-av-stridsberg-bjorks-gamla-fabriker-pa
 
+```{r}
+library(sf)
+library(tidyverse)
+
+mpttp_parishes <- here::here("data", "maps", "more_power_to_the_people_parishes.shp")
+
+mpttp_parishes <- sf::read_sf(mpttp_parishes)
+
+# mpttp_parishes %>% write_rds(here::here("data", "maps", "mpttp_parishes.rds"))
+```
+
+
+
