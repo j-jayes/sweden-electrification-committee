@@ -1,0 +1,68 @@
+---
+title: "Untitled"
+format: html
+---
+
+## Purpose
+
+Ingest textract data
+
+```{r}
+library(tidyverse)
+
+df <- read.csv("ingest/kristianstad_1.csv")
+
+df %>% 
+  as_tibble() %>% 
+  janitor::clean_names() %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+```
+
+```{r}
+df <- read.csv("ingest/kristianstad_2.csv")
+
+df %>% 
+  as_tibble() %>% 
+  janitor::clean_names() %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+```
+
+
+```{r}
+df <- read.csv("ingest/kristianstad_3.csv")
+
+df %>% 
+  as_tibble() %>% 
+  janitor::clean_names() %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+```
+
+
+```{r}
+df <- read.csv("ingest/kristianstad_4.csv")
+
+df %>% 
+  as_tibble() %>% 
+  janitor::clean_names() %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+```
+
+
+```{r}
+df <- read.csv("ingest/kristianstad_5.csv")
+
+df %>% 
+  as_tibble() %>% 
+  janitor::clean_names() %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+```
+
+```{r}
+df <- read.csv("ingest/kristianstad_6.csv")
+
+df %>% 
+  as_tibble() %>% 
+  janitor::clean_names() %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+```
+
