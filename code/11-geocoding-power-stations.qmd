@@ -41,6 +41,52 @@ names <- tibble::tibble(
                           "Notes","Number")
    )
 
+names_blekinge <- tibble(
+  column = c(
+    1L, 2L, 3L, 4L, 5L, 6L,
+    7L, 8L, 9L, 10L, 11L, 12L, 13L, 14L, 15L, 16L, 17L, 18L,
+    19L, 20L, 21L, 22L
+  ),
+  swedish_title = c(
+    "Anlägningens.nr.å.karten", "Socken eller landskommun (stad)",
+    "Anlägningens namn", 
+    "geocode_key",
+    "coords_manual",
+    "ägare",
+    "Energien erhålles från egen kraftstation av följande typ och storlek, medelst abonnement fran nedanståene företag. Kraftmaskiner system",
+    "Sammanlegd effekt hkr", "Utbyggd fallhöjd",
+    "Strömart och periodtal", "Spänning volt",
+    "Sammanlegd effekt kVA", "Alstrad energi kWh",
+    "Sammanlegd primar transformator effekt kVA", "Distributionsledningar Klass",
+    "Distributionsledningar spänning volt",
+    "Sammanlagd längd km",
+    "Sammanlagd sekundär transformatoreffekt excl abonnenternas egna transformatorer",
+    "Sammanlagd anslutning av motorer, lampor",
+    "Sammanlagd komsumtion inkl förluster",
+    "Elektrifierad areal odlad jord med blott belysning",
+    "Elektrifierad areal odlad jord total"
+  ),
+  english_title = c(
+    "Number on the map", "Parish or rural municipality (city)",
+    "The name of the plant", 
+        "geocode_key",
+    "coords_manual",
+    "owner",
+    "The energy is obtained from its own power station of the following type and size, by subscription from the below companies. Power machines systems", "Confidential effect HKR",
+    "Expanded fall height",
+    "Streaming and period number", "Tension volts",
+    "Confidential effect kVA", "Generated energy kwh",
+    "Confederate Primar Transformer Power KVA",
+    "Distribution lines class",
+    "Distribution lines voltage volts", "Total length km",
+    "Total secondary transformer power EXCL Subscribers' own transformers",
+    "Total connection of engines, lamps",
+    "Total comsumtion including losses",
+    "Electrified area cultivated soil with only lighting",
+    "Electrified area cultivated soil total"
+  )
+)
+
 ```
 
 ### Geocoding
@@ -50,36 +96,113 @@ df_gotland <- readxl::read_excel("data/Gotland_power_stations.xlsx") %>%
   janitor::clean_names()
 
 df_gotland <- df_gotland %>% 
-  mutate(location_to_code = str_squish(str_remove(kraftstationenes_namn_eller_lage, " .*")),
-         location_to_code = str_c(location_to_code, ", Gotland, Sweden"))
+  mutate(geocode_key = str_squish(str_remove(kraftstationenes_namn_eller_lage, " .*")),
+         geocode_str = str_c(geocode_key, ", Gotland, Sweden"))
 ```
 
 ```{r}
 library(tidygeocoder)
 
-locations <- geocode(df_gotland, address = location_to_code)
+geocode_gotland <- geocode(df_gotland, address = geocode_str, lat = "lat_osm", long = "long_osm")
 
-locations %>% 
-  filter(is.na(lat)) %>% 
-  select(location_to_code)
+geocode_gotland %>% 
+  filter(is.na(lat_osm)) %>% 
+  select(geocode_key)
 ```
 
-
 Vallviks cementfabrik is at Valleviken when you look on the map.
+
+```{r}
+# from google maps
+geocode_gotland <- geocode_gotland %>% 
+  mutate(lat_manual = case_when(
+    geocode_key == "Vallvik" ~ 57.79199319084988,
+    TRUE ~ NA_real_
+  ),
+  long_manual = case_when(
+    geocode_key == "Vallvik" ~ 18.938451110308755,
+    TRUE ~ NA_real_
+  ))
+
+geocode_gotland <- geocode_gotland %>% 
+  mutate(lat = case_when(
+    !is.na(lat_osm) ~ lat_osm,
+    is.na(lat_osm) ~ lat_manual,
+    is.na(lat_osm) & is.na(lat_manual) ~ NA_real_
+  ),
+  long = case_when(
+    !is.na(long_osm) ~ long_osm,
+    is.na(long_osm) ~ long_manual,
+    is.na(long_osm) & is.na(long_manual) ~ NA_real_
+  ))
+```
+
+Join together geocode and data
+
+```{r}
+df_gotland <- readxl::read_excel("data/Gotland_power_stations.xlsx") %>% 
+  janitor::clean_names()
+
+df_gotland <- df_gotland %>% 
+  mutate(geocode_key = str_squish(str_remove(kraftstationenes_namn_eller_lage, " .*")),
+         geocode_str = str_c(geocode_key, ", Gotland, Sweden"))
+
+geocode_gotland %>% 
+  select(geocode_key, long, lat)
+```
+
 
 ### Blekinge
 
 ```{r}
-library(googledrive)
+# df <- read_excel("ingest/blekinge_clean.xlsx")
+drive_files <- googledrive::drive_find(n_max = 10)
 
-drive_find(n_max = 10)
+googledrive::drive_download("Blekinge_power stations", type = "csv", path = "drive/Blekinge_power stations.csv", overwrite = TRUE)
 
-drive_download(file = "Blekinge_power stations", type = "csv")
+df <- read.csv("drive/Blekinge_power stations.csv")
 
-df_blekinge <- read.csv("drive/Blekinge_power stations.csv") %>% 
+colnames(df) <- names_blekinge$english_title
+
+df <- df %>% 
+  janitor::clean_names()
+
+df <- df %>%
+  separate(coords_manual, 
+           into = c("lat_manual", "long_manual"), 
+           sep = ",", 
+           convert = TRUE)
+
+df <- df %>% 
+  mutate(geocode_str = str_c(geocode_key, ", Blekinge, Sweden"))
+
+geocode_blekinge <- geocode(df, address = geocode_str, lat = "lat_osm", long = "long_osm")
+
+geocode_blekinge <- geocode_blekinge %>% 
+  mutate(lat = case_when(
+    !is.na(lat_osm) ~ lat_osm,
+    is.na(lat_osm) ~ lat_manual,
+    is.na(lat_osm) & is.na(lat_manual) ~ NA_real_
+  ),
+  long = case_when(
+    !is.na(long_osm) ~ long_osm,
+    is.na(long_osm) ~ long_manual,
+    is.na(long_osm) & is.na(long_manual) ~ NA_real_
+  ))
+
+# geocode_blekinge %>% 
+#   select(geocode_key, lat, long) %>% 
+#   write_rds("geocode/blekinge.rds")
+
+geocode_blekinge <- read_rds("geocode/blekinge.rds")
+
+df <- df %>% 
+  left_join(geocode_blekinge, by = c("geocode_key"))
+
+df <- df %>% 
   as_tibble()
 
-df_blekinge %>% view()
+df %>% write_rds("ingest/blekinge_geocoded.rds")
 ```
 
 ### Uppsala
@@ -148,5 +271,19 @@ geocode_uppsala <- geocode_uppsala %>%
 
 geocode_uppsala <- geocode_uppsala %>% 
   select(geocode_key, long, lat)
+
+# geocode_uppsala %>% write_rds("geocode/uppsala.rds")
+
+df <- read_excel("ingest/uppsala_clean.xlsx")
+
+df <- df %>% 
+  select(!contains(c("long", "lat"))) %>% 
+  select(!geocode)
+
+df <- df %>% 
+  left_join(geocode_uppsala) %>% 
+  distinct()
+
+# df %>% write_rds("ingest/uppsala_geocoded.rds")
 ```
 

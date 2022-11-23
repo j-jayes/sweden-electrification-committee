@@ -1,0 +1,77 @@
+---
+title: "Analysis of power plants Uppsala and Blekinge"
+format: html
+---
+
+## Purpose
+
+Use geocoded 
+
+```{r}
+library(tidyverse)
+df <- read_rds("ingest/uppsala_geocoded.rds")
+```
+
+### Feature engineering
+
+What needs to be done?
+
+- Convert waterfall height to numeric.
+- Convert all other numeric - recipe for this
+
+```{r}
+df <- df %>% 
+  janitor::clean_names()
+
+df <- df %>% 
+  separate(x6, into = c("waterfall_h1", "waterfall_h2"), sep = "-") %>% 
+  # the height is given in m, sometimes a range. I want to take the mean of the range
+  mutate(across(contains("waterfall_h"), ~ as.numeric(str_replace(.x, ",", ".")))) %>% 
+  mutate(waterfall_height = case_when(
+    is.na(waterfall_h1) ~ NA_real_,
+    !is.na(waterfall_h1) & !is.na(waterfall_h2) ~ (waterfall_h1 + waterfall_h2) / 2,
+    TRUE ~ waterfall_h1
+  ))
+
+df <- df %>% 
+  mutate(across(x11:x19, ~ str_remove_all(.x, "[:punct:]")),
+         across(x11:x19, ~ parse_number(str_remove_all(.x, " "))))
+
+df <- df %>% 
+  mutate(across(c(x7, x9), ~ str_remove_all(.x, "[:punct:]")),
+         across(c(x7, x9), ~ parse_number(str_remove_all(.x, " "))))
+
+df %>% skimr::skim()
+
+df %>% 
+  mutate(x2 = fct_reorder(x2, x1)) %>% 
+  ggplot(aes(x19, x2)) +
+  geom_col()
+
+df_map <- df %>%
+  filter(!str_detect(x2, "Rosen")) %>%
+  mutate(elec_from_alv = ifelse(x4 == "Ab. frân Alvkarleby kraftverk", TRUE, FALSE))
+
+df_map %>% 
+  ggplot(aes(long, lat, label = x2, fill = elec_from_alv)) +
+  geom_label_repel() +
+  geom_point(aes(size = x19))
+```
+
+
+```{r}
+library(ggrepel)
+
+df_map %>%
+  filter(!is.na(x7)) %>%
+  ggplot(aes(long, lat, label = x2, fill = elec_from_alv)) +
+  geom_label_repel() +
+  geom_point(aes(size = x7))
+```
+
+
+### Blekinge
+
+What can we learn? 
+
+Here we see that some places have backup generators in 
