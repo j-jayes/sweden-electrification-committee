@@ -1,0 +1,44 @@
+Table: Table_1
+
+;;;;5 ;6 ;7 ;8 ;9 ;10 ;11 ;12 ;13 ;14 ;15 ;16 ;17 ;18 ;;
+1 ;2 ;3 ;4 ;;;;;;;;;;;;;;;;
+;;;Navekvarn, 2 stationer ;V ;15o.20 ;210 ;3-fas ;50 ;5000/6000/380 ;;;;;;;;;;
+73a ;Navekvarns Bruks A.-B. ;Tunaberg ;;;33 ;200 ;;50 ;6000/380 ;;;;;;;;;;
+b ;;Tuna ;Fada ;;16 ;230 ;;50 ;3000/220 ;;;;;;;;;;
+74 ;Alberga gard och ;Kila ;Alberga ;;;;;;;;;;;;;;;;
+;Alberga el. distr.-fören. ;;;;;;;50 ;3000/380 ;- ;;;;;;;;;
+75 ;Stavsj A.-B. ;;Stavsjo ;;14 ;130 ;L ;- ;220 ;;;;;;;;;;
+;;;;;;;3-fas ;50 ;3000/380 och 220 ;- ;;;;;;;;;
+76 ;Hargs fabriker ;Helgona ;Harg ;" ;5'8 ;330 ;L ;;2x 110 ;;;;;;;;- ;;
+;;;kraftverk ;;;- ;3-fas ;50 ;20000/ ;;;- ;;;;;1446 ;109 700 ;
+77 ;Forola A.-B. ;Svärta ;Ab. fran Motala ;- ;;;;50 ;20000/3000/220 ;70 ;13 ;297 ;;;;;;;
+78 ;Bogstaortens el. distr.-foren. ;Bogsta ;" ;;;8 ;L ;;220 ;;;;;;;;2406 ;83 400 ;
+79 ;S. Palme ;Svärta ;Anga kraftverk ;V ;;- ;3-fas ;50 ;20000/3000/220 ;90 ;15 ;87 ;;;;;;;
+80 ;Husby-Oppunda el distr.- foren. ;Husby- Oppunda ;Ab. fran Motala ;;;;;;;;;;;;;;1691 ;83 500 ;
+81 ;Runtuna-Lids el. distr.- fören. ;Runtuna, Lid ;" " ;;;;;50 50 ;20000/3000/220 20000/3000/220 ;90 90 ;35 22 ;357 364 ;;;;;1772 ;75 100 ;
+82 ;Ludgo och Spelviks el. distr.-fören. ;Ludgo, Spelvik ;" ;;;;;50 ;20000/3000/220 ;60 ;48 ;255 ;;;;;1098 ;72 500 ;
+83 ;L. Mellösa el. distr.-fören. ;L. Mellosa ;" ;;5 ;75 ;;50 ;20000/220 ;;;;;;;;- ;;
+84 ;Hallefors bruk ;;Hallefors ;f V I à ;- ;46 ;;;;;;;;;;;;;
+85 ;Granheds Kvarn & Kraft A.-B. ;Floda ;Granhed ;V ;;40 ;;50 50 ;3000/380 20000/3000/220 ;;;;;;;;;;
+86 ;Flens el.-verk och ;Flen ;Ab. fran Motala kraftverk (Flens kraftstation ;O ;;40 ;L ;- ;2 x 220 ;120 ;;;;;;;1408 ;79 300 ;
+;Stenhammars egendom ;Dunker ;Ab. fran Motala kraftverk ;;- ;- ;3-fas ;50 ;20000/3000/220 ;60 ;19 ;129 ;;;;;;72500 ;
+87 88 ;Dunkers el.cdistr.fören. L. Malma el. distr.-fören. ;L. Malma ;;;- ;- ;" ;50 ;20000/3000/220 ;120 ;5 ;255 ;;;;;1098 650 ;45 700 ;
+;Malmkopings el.-verk ;Malmkoping ;;;;;;50 ;20000/3000/220 ;60 ;12 ;128 ;;;;;;;
+89 ;Skebokvarns el. distr.-fören. samt A.-B. Skebo kvarn och trä- föradlingsfabrik ;Helgesta ;;;;;;50 ;20000/3000/220 ;150 ;;;;;;;;;
+90 ;Sparreholms municipalsam- halle, Sparreholms snickerifabrik ;Hyltinge ;;;;;;;;;;;;;;;;24 900 ;
+91 ;E. Dickson ;;Sparreholm Ab. fran Motala kraftverk ;;;35 ;;50 ;20000/3000/220 och 500/110 ;150 ;28 ;265 ;190 ;25 ;4 ;219 ;250 1 446 ;43 394 ;
+92 ;Frustuna el. distr.-foren. ;Frustuna ;Ab. fran Älvkarleby kraft- ;;;;;50 ;20000/3000/220 ;200 ;{ 11 ;161 ;150 ;96 ;44 ;290 ;- ;226 894 ;
+;Gnesta El. A.-B. och Gnesta el. valskvarn ;;verk ;;;;;50 ;20000/3000/220 ;90 ;61 ;406 ;235 ;34 ;2 ;271 ;2155 ;90153 ;
+93 ;Gasinge-Dillnäs el. distr.- fören. ;GAsinge, Dillnäs ;Al ;;;;;50 ;20000/3000/220 ;100 ;36 ;225 ;205 ;19 ;- 9 ;224 224 ;457 1597 ;89 628 919 ;
+94 95 ;Björnlunda el. distr.-fören. Gryts el. distr.-foren. ;Bjornlunda Gryt ;. ;;;;;50 ;20000/3000/220 ;100 100 ;46 47 ;283 269 ;170 160 ;45 28 ;6 ;194 ;1988 ;80405 ;
+96 ;Holo el. distr.-foren. ;Holo ;10 ;;;;;50 ;20000/3000/220 ;150 ;28 ;190 ;105 ;42 ;5 ;152 ;1125 ;42 019 47 765 ;
+97 ;Mörko el. distr.-foren., A.-B. Karta & Oaxens kalk- bruk ;Mörkö ;;;;;;50 50 ;20000/3000/220 20000/3000/220 ;100 ;61 ;1 50 498 ;110 330 ;13 42 ;- 4 ;123 376 ;2 ;194 112 980 ;
+98 ;Vagnharads el. distr.-fören. ;Vagnhärad, Trosa landsfors., Holo, ;;;;;;;;;;2 ;50 ;48 ;62 ;4 114 ;- ;49 328 ;
+;;Vasterljung ;;;;;;50 ;20000/3000/220 ;100 ;;33 232 ;140 ;;35 ;2 177 ;1427 ;60 020 ;
+99 ;Trosa stads el.-verk och ;Trosa, ;;;;;;;;;;;;;;;;- ;
+100 ;Trosa el. distr.-fören. Akers styckebruk, Skatt- vangsgruvan ;Vasterljung Gasinge ;;;;;;50 ;20000/- ;;;- ;;;;;;;
+
+
+
+
+

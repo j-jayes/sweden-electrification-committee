@@ -9,13 +9,27 @@ Ingest textract data
 
 ```{r}
 library(tidyverse)
+library(readxl)
 
 df <- read.csv("ingest/kristianstad_1.csv")
 
-df %>% 
+k1 <- df %>% 
   as_tibble() %>% 
   janitor::clean_names() %>% 
-  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'"))))
+
+
+k1 <- k1 %>% 
+  select(x_1:x_22) %>%
+  mutate(rn = row_number()) %>% 
+  pivot_longer(-rn, names_to = "col", values_to = "value") %>% 
+  mutate(col = parse_number(col))
+
+k1 <- k1 %>%
+  filter(!is.na(value)) %>%
+  pivot_wider(names_from = col, names_prefix = "col_")
+
+k1 %>% write_excel_csv2(file = "ingest/kristianstad_1_clean.csv")
 ```
 
 ```{r}
@@ -64,5 +78,31 @@ df %>%
   as_tibble() %>% 
   janitor::clean_names() %>% 
   mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% view()
+```
+
+### Uppsala
+
+```{r}
+df <- readxl::read_excel("ingest/uppsala.xlsx")
+
+df %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% 
+  write_excel_csv("ingest/uppsala_clean.csv")
+
+df <- readxl::read_excel("ingest/uppsala_clean.xlsx")
+
+df %>% 
+
+```
+
+
+### Sodermanland
+
+```{r}
+df <- read_excel("ingest/sodermanland.xlsx")
+
+df %>% 
+  mutate(across(everything(), ~ str_squish(str_remove(.x, "\\'")))) %>% 
+  write_excel_csv("ingest/sodermanland_clean.csv")
 ```
 

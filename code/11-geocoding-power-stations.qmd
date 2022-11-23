@@ -67,7 +67,86 @@ locations %>%
 
 Vallviks cementfabrik is at Valleviken when you look on the map.
 
-```{r}
+### Blekinge
 
+```{r}
+library(googledrive)
+
+drive_find(n_max = 10)
+
+drive_download(file = "Blekinge_power stations", type = "csv")
+
+df_blekinge <- read.csv("drive/Blekinge_power stations.csv") %>% 
+  as_tibble()
+
+df_blekinge %>% view()
+```
+
+### Uppsala
+
+```{r}
+df <- read_excel("ingest/uppsala_clean.xlsx")
+
+# create manual lookup columns
+df <- df %>%
+  separate(coords_manual, 
+           into = c("lat_manual", "long_manual"), 
+           sep = ",", 
+           convert = TRUE)
+
+df <- df %>% 
+  mutate(geocode_str = str_c(geocode_key, ", Uppsala, Sweden"))
+
+library(tidygeocoder)
+
+geocode_uppsala <- geocode(df, address = geocode_str, lat = "lat_osm", long = "long_osm")
+```
+
+
+```{r}
+geocode_uppsala %>% 
+  select(contains("long")) %>% view()
+
+geocode_uppsala %>%
+  ggplot(aes(long_osm, lat_osm, label = geocode_key)) +
+  geom_point() +
+  geom_label()
+```
+
+### Process
+
+Basically I need to do a few things to get the geocoding down.
+
+First I need to create a key - to look back to with the codes.
+
+Then I need to do the geocoding with excel, because it will cut down on the time
+
+Then I use tidygeocoder.
+
+If they agree - we choose it.
+
+If they disagree - we make a flag.
+
+If neither return a result - we make a flag.
+
+This will be done in the future, for now we want to have some results just for Uppsala.
+
+It seems that the OSM lookup is way better than the one from Bing...
+
+```{r}
+geocode_uppsala <- geocode_uppsala %>% 
+  mutate(lat = case_when(
+    !is.na(lat_osm) ~ lat_osm,
+    is.na(lat_osm) ~ lat_manual,
+    is.na(lat_osm) & is.na(lat_manual) ~ NA_real_
+  ),
+  long = case_when(
+    !is.na(long_osm) ~ long_osm,
+    is.na(long_osm) ~ long_manual,
+    is.na(long_osm) & is.na(long_manual) ~ NA_real_
+  ))
+
+geocode_uppsala <- geocode_uppsala %>% 
+  select(geocode_key, long, lat)
 ```
 
