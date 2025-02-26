@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "index": 219,
+      "company_name": "A. M. Lindström",
+      "location": "Dalskog, Skalåker",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Dalskog, Skalåker, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 95 Dalskog, Sweden",
+        "location": {
+          "lat": 58.74829449999999,
+          "lng": 12.2883665
+        }
+      }
+    },
+    {
+      "index": 220,
+      "company_name": "A. Pettersson",
+      "location": "Färnebo, Svingen",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Färnebo, Svingen, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 291,
+      "company_name": "P. J. Mellin & A. A. Ran",
+      "location": "Rämmeland, Edsleskog",
+      "power_station_name": "Hårbolmen",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Rämmeland, Edsleskog, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "662 91 Edsleskog, Sweden",
+        "location": {
+          "lat": 59.05865299999999,
+          "lng": 12.466934
+        }
+      }
+    },
+    {
+      "index": 292,
+      "company_name": "A.-B. Färgelanda el.-verk",
+      "location": "Färgelanda, Hogstorp",
+      "power_station_name": "Redsland",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Färgelanda, Hogstorp, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "451 94 Hogstorp, Sweden",
+        "location": {
+          "lat": 58.3956196,
+          "lng": 11.7626869
+        }
+      }
+    },
+    {
+      "index": 293,
+      "company_name": "Näsbo el. distr.-fören.",
+      "location": "Högsägen, Änäs",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Högsägen, Änäs, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 294,
+      "company_name": "Ödeborgs Bruk A-B.",
+      "location": "Ödeborg, Ödeborg",
+      "power_station_name": "Dystorp",
+      "power_source": "steam",
+      "installed_capacity_kva": 300,
+      "full_location": "Ödeborg, Ödeborg, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "458 40 Ödeborg, Sweden",
+        "location": {
+          "lat": 58.54539930000001,
+          "lng": 11.9759492
+        }
+      }
+    },
+    {
+      "index": 2941,
+      "company_name": "Ödeborgs Bruk A-B.",
+      "location": "Ödeborg, Ödeborg",
+      "power_station_name": "subscription from L",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ödeborg, Ödeborg, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "458 40 Ödeborg, Sweden",
+        "location": {
+          "lat": 58.54539930000001,
+          "lng": 11.9759492
+        }
+      }
+    },
+    {
+      "index": 295,
+      "company_name": "Stigens A.-B.",
+      "location": "Färgelanda, Ö. och V. Stigens fall",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 495,
+      "full_location": "Färgelanda, Ö. och V. Stigens fall, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Färgelanda, Sweden",
+        "location": {
+          "lat": 58.567559,
+          "lng": 11.994926
+        }
+      }
+    },
+    {
+      "index": 296,
+      "company_name": "Rådanefors el. and.-fören.",
+      "location": "Ödeborg, Rådanefors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Ödeborg, Rådanefors, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "458 93 Rådanefors, Sweden",
+        "location": {
+          "lat": 58.53215689999999,
+          "lng": 12.0966602
+        }
+      }
+    },
+    {
+      "index": 297,
+      "company_name": "Gustavsfors Fabr. A.-B.",
+      "location": "Torrskog, Gustavsfors",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 85,
+      "full_location": "Torrskog, Gustavsfors, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "666 91 Torrskog, Sweden",
+        "location": {
+          "lat": 59.166667,
+          "lng": 12.083333
+        }
+      }
+    },
+    {
+      "index": 298,
+      "company_name": "Kinnaströms Väver A.-B.",
+      "location": "Kinna, Johannessnål",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 37,
+      "full_location": "Kinna, Johannessnål, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kinna, Sweden",
+        "location": {
+          "lat": 57.506158,
+          "lng": 12.6971981
+        }
+      }
+    },
+    {
+      "index": 299,
+      "company_name": "Skeplandala el. distr.-fören.",
+      "location": "Skeplanda",
+      "power_station_name": "subscription from Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Skeplanda, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skepplanda, Sweden",
+        "location": {
+          "lat": 57.9818654,
+          "lng": 12.3033998
+        }
+      }
+    }
+  ],
+  "filename": "Älvsborg_8.png"
+}

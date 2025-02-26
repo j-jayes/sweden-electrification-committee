@@ -1,0 +1,221 @@
+{
+    "data": [
+        {
+            "index": 20,
+            "company_name": "Säve el. distr.-fören.",
+            "location": "Säve",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 21,
+            "company_name": "Kungälvs stads el.-verk",
+            "location": "Kungälv",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 22,
+            "company_name": "Torsby-Harestads el. distr.-fören.",
+            "location": "Torsby och Harestad",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 23,
+            "company_name": "Tjörn egendom",
+            "location": "Lycke",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 24,
+            "company_name": "Gullbringa egendom",
+            "location": ".ditto",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 25,
+            "company_name": "Marstrands stads el.-verk",
+            "location": "Marstrand",
+            "power_station_name": "Marstrands reservestation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 26,
+            "company_name": "Bromelanda el.distr.-fören.",
+            "location": "Bromelanda",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 27,
+            "company_name": "Stora Borgs tegelbruk",
+            "location": "Västerlanda",
+            "power_station_name": ".ditto",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 28,
+            "company_name": "Norums och Ucklums el. distr.-fören.",
+            "location": "Spekeröd, Ucklum och Uddamal",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 29,
+            "company_name": "Hjärtums och Hjärtums västra el. distr.-fören.",
+            "location": "Hjärtum",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 30,
+            "company_name": "Island papperfabrik",
+            "location": "Island",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 31,
+            "company_name": "Ytterby el. distr.-fören.",
+            "location": "Ytterby",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 32,
+            "company_name": "Casselgården",
+            "location": ".ditto",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 33,
+            "company_name": "Trollhätte kraftverk Socknarkstationen i Uddevalla",
+            "location": "Uddevalla",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 34,
+            "company_name": "Uddevalla stads el.-verk",
+            "location": "Uddevalla",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 35,
+            "company_name": "Båve el. distr.-fören.",
+            "location": "Båve",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 36,
+            "company_name": "Forshälla el. distr.-fören.",
+            "location": "Forshälla",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 37,
+            "company_name": "Ljung el. distr.-fören.",
+            "location": "Ljung",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 38,
+            "company_name": "Herrestads el.distr.-fören.",
+            "location": "Herrestad",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 39,
+            "company_name": "Foss och Håby el. distr.-fören.",
+            "location": "Foss och Håby",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 40,
+            "company_name": "Munkedals A.-B.",
+            "location": "Foss",
+            "power_station_name": "Munkedal",
+            "power_source": "water",
+            "installed_capacity_kva": 41
+        },
+        {
+            "index": 41,
+            "company_name": "Lyse el. distr.-fören.",
+            "location": "Lyse",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 42,
+            "company_name": "Lysekils stads el.-verk",
+            "location": "Lysekil",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 43,
+            "company_name": "Skandinaviska Granit A.-B.",
+            "location": "Brostad",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 44,
+            "company_name": "Stångenäs el. distr.-fören.",
+            "location": "Bro och Brostad",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 45,
+            "company_name": "Sotenäs el. distr.-fören.",
+            "location": "Tossene, Askum, Malmön, Säm",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 46,
+            "company_name": "Skarstads el. distr.-fören.",
+            "location": "Fiskebäck, Grundsund",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        }
+    ],
+    "filename": "Goteborgs-och-Bohus_2.png"
+}

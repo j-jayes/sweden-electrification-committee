@@ -1,0 +1,357 @@
+{
+  "data": [
+    {
+      "index": 181,
+      "company_name": "Yabergs elektriska förening",
+      "location": "Hylletofta",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Hylletofta, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Hylletofta, Sweden",
+        "location": {
+          "lat": 57.4047279,
+          "lng": 14.5060431
+        }
+      }
+    },
+    {
+      "index": 182,
+      "company_name": "Hagshults belysningsförening",
+      "location": "Byarum",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Byarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Byarum, Sweden",
+        "location": {
+          "lat": 57.5403392,
+          "lng": 14.1431541
+        }
+      }
+    },
+    {
+      "index": 183,
+      "company_name": "Femsåg belysningsförening",
+      "location": "Femsåg pr Unnen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Femsåg pr Unnen, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 184,
+      "company_name": "Nabba kvarn",
+      "location": "Femsåg pr Unnen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Femsåg pr Unnen, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 185,
+      "company_name": "Unvulls elektricitetsverk",
+      "location": "Femsåg pr Unnen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Femsåg pr Unnen, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 186,
+      "company_name": "Härda elektricitetsverk",
+      "location": "Södra Unnaryd pr Unnen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Södra Unnaryd pr Unnen, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södra Unnaryds Socken, 314 51 Unnaryd, Sweden",
+        "location": {
+          "lat": 56.9548238,
+          "lng": 13.5283186
+        }
+      }
+    },
+    {
+      "index": 187,
+      "company_name": "A.B. Mullebark",
+      "location": "Unnaryd pr Unnen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Unnaryd pr Unnen, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "310 83 Unnaryd, Sweden",
+        "location": {
+          "lat": 56.980667,
+          "lng": 13.5183251
+        }
+      }
+    },
+    {
+      "index": 188,
+      "company_name": "Unnaryds elektricitetsverk",
+      "location": "Unnaryd pr Unnen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Unnaryd pr Unnen, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "310 83 Unnaryd, Sweden",
+        "location": {
+          "lat": 56.980667,
+          "lng": 13.5183251
+        }
+      }
+    },
+    {
+      "index": 189,
+      "company_name": "Omnekvarns elektricitetsverk",
+      "location": "Unnaryd pr Unnen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Unnaryd pr Unnen, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "310 83 Unnaryd, Sweden",
+        "location": {
+          "lat": 56.980667,
+          "lng": 13.5183251
+        }
+      }
+    },
+    {
+      "index": 190,
+      "company_name": "Kvarnagårds kraftstation",
+      "location": "Dannäs Hanger pr Forsheda",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Dannäs Hanger pr Forsheda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "331 72 Dannäs, Sweden",
+        "location": {
+          "lat": 57.06494989999999,
+          "lng": 13.8603402
+        }
+      }
+    },
+    {
+      "index": 191,
+      "company_name": "Tannåkers elektricitetsverk",
+      "location": "Tannåker pr Ljungby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Tannåker pr Ljungby, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 192,
+      "company_name": "Ekersholms gårds elektricitetsverk",
+      "location": "Bratteborg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Bratteborg, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Bratteborg, Sweden",
+        "location": {
+          "lat": 57.57674470000001,
+          "lng": 14.1259149
+        }
+      }
+    },
+    {
+      "index": 193,
+      "company_name": "Krofnagula elektriska förening",
+      "location": "Bratteborg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Bratteborg, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Bratteborg, Sweden",
+        "location": {
+          "lat": 57.57674470000001,
+          "lng": 14.1259149
+        }
+      }
+    },
+    {
+      "index": 194,
+      "company_name": "Bratteborgs bysbolag",
+      "location": "Bratteborg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 260,
+      "full_location": "Bratteborg, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Bratteborg, Sweden",
+        "location": {
+          "lat": 57.57674470000001,
+          "lng": 14.1259149
+        }
+      }
+    },
+    {
+      "index": 195,
+      "company_name": "Bratteborgs elektriska distributionsförening",
+      "location": "Bratteborg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 605,
+      "full_location": "Bratteborg, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Bratteborg, Sweden",
+        "location": {
+          "lat": 57.57674470000001,
+          "lng": 14.1259149
+        }
+      }
+    },
+    {
+      "index": 196,
+      "company_name": "Hogafors kvarns elektricitetsverk",
+      "location": "Byarum",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Byarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Byarum, Sweden",
+        "location": {
+          "lat": 57.5403392,
+          "lng": 14.1431541
+        }
+      }
+    },
+    {
+      "index": 197,
+      "company_name": "Ryds elektriska förening",
+      "location": "Byarum",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Byarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Byarum, Sweden",
+        "location": {
+          "lat": 57.5403392,
+          "lng": 14.1431541
+        }
+      }
+    },
+    {
+      "index": 198,
+      "company_name": "Skogsfors bruks elektricitetsverk",
+      "location": "Byarum",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Byarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "567 92 Byarum, Sweden",
+        "location": {
+          "lat": 57.5403392,
+          "lng": 14.1431541
+        }
+      }
+    },
+    {
+      "index": 199,
+      "company_name": "Mjöhult kvarn",
+      "location": "Vaggeryd",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 30,
+      "full_location": "Vaggeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vaggeryd, Sweden",
+        "location": {
+          "lat": 57.4989621,
+          "lng": 14.1486297
+        }
+      }
+    },
+    {
+      "index": 200,
+      "company_name": "Vaggeryds samfällighets elektricitetsverk",
+      "location": "Vaggeryd",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 950,
+      "full_location": "Vaggeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vaggeryd, Sweden",
+        "location": {
+          "lat": 57.4989621,
+          "lng": 14.1486297
+        }
+      }
+    },
+    {
+      "index": 201,
+      "company_name": "Götafors suflutfabrik",
+      "location": "Vaggeryd",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 950,
+      "full_location": "Vaggeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vaggeryd, Sweden",
+        "location": {
+          "lat": 57.4989621,
+          "lng": 14.1486297
+        }
+      }
+    },
+    {
+      "index": 202,
+      "company_name": "A.B. Oljekrafts elektricitetsverk",
+      "location": "Åker pr Skillingaryd",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 1500,
+      "full_location": "Åker pr Skillingaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "568 92 Åker, Sweden",
+        "location": {
+          "lat": 57.3819473,
+          "lng": 13.9967739
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_9.png"
+}

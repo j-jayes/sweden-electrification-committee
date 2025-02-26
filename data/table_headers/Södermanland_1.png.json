@@ -1,0 +1,80 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer på raden"
+        },
+        {
+            "id": 2,
+            "label": "Företags namn, ägare eller innehavare",
+            "description": "Namnet på företaget som äger eller driver anläggningen"
+        },
+        {
+            "id": 3,
+            "label": "Kommun",
+            "description": "Kommun där anläggningen är belägen"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn eller läge",
+            "description": "Namn eller placering av kraftstationen"
+        },
+        {
+            "id": 5,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft"
+        },
+        {
+            "id": 6,
+            "label": "Installerad effekt i kVA",
+            "description": "Kapacitet i kilovoltampere (kVA)"
+        },
+        {
+            "id": 7,
+            "label": "Periodal",
+            "description": "Periodiska data"
+        },
+        {
+            "id": 8,
+            "label": "Spänningssystem volt",
+            "description": "Volt-styrka av spänningssystemet"
+        },
+        {
+            "id": 9,
+            "label": "Huvudtransformatorernas sammansättning",
+            "description": "Sammansättning av huvudtransformatorer"
+        },
+        {
+            "id": 10,
+            "label": "Ortstransformatorernas antal",
+            "description": "Antal ortstransformatorer"
+        },
+        {
+            "id": 11,
+            "label": "Anslutning år 1922",
+            "description": "År för anslutning"
+        },
+        {
+            "id": 12,
+            "label": "Elektriskt bruks år 1922 kWh",
+            "description": "Elektrisk användning under år 1922"
+        },
+        {
+            "id": 13,
+            "label": "Energi förbrukning år 1922 kWh",
+            "description": "Energi konsumerad under år 1922"
+        },
+        {
+            "id": 14,
+            "label": "Anmärkningar",
+            "description": "Eventuella kommentarer"
+        },
+        {
+            "id": 15,
+            "label": "Nr",
+            "description": "Ytterligare nummer"
+        }
+    ],
+    "filename": "Södermanland_1.png"
+}

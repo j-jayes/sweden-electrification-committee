@@ -1,0 +1,501 @@
+{
+  "data": [
+    {
+      "index": 50,
+      "company_name": "Vangaortens El. Distr.-Fören.",
+      "location": "Vånga",
+      "power_station_name": "Vånga",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Vånga, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "617 90 Vånga, Sweden",
+        "location": {
+          "lat": 58.5794043,
+          "lng": 15.8113046
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "Doverstorps El. Distr.-Fören.",
+      "location": "Vånga",
+      "power_station_name": "subscription from A.-B. Knutsbro kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Vånga, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "617 90 Vånga, Sweden",
+        "location": {
+          "lat": 58.5794043,
+          "lng": 15.8113046
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "Kullerstads El. Distr.-Fören.",
+      "location": "Kullerstad",
+      "power_station_name": "subscription from Skärblacka A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Kullerstad, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "617 30 Kullerstad, Sweden",
+        "location": {
+          "lat": 58.58145769999999,
+          "lng": 15.9420345
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "Distr. i Skärblacka",
+      "location": "Skärblacka",
+      "power_station_name": "Skärblacka A.-B.",
+      "power_source": "water",
+      "installed_capacity_kva": 800,
+      "full_location": "Skärblacka, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skärblacka, Sweden",
+        "location": {
+          "lat": 58.5810488,
+          "lng": 15.9142731
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "Skärblacka A.-B. — Transformatorstationen i Norrköping",
+      "location": "Norrköping",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1500,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "Kvarn A.-B. J. G. Swartz",
+      "location": "Dagsberg",
+      "power_station_name": "subscription from Skärblacka A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 215,
+      "full_location": "Dagsberg, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "605 91 Dagsberg, Sweden",
+        "location": {
+          "lat": 58.583321,
+          "lng": 16.314692
+        }
+      }
+    },
+    {
+      "index": 56,
+      "company_name": "Vikbolandets El. Kraft A.-B. — Kuddbyverket",
+      "location": "Kuddby",
+      "power_station_name": "Dagsberg",
+      "power_source": "diesel",
+      "installed_capacity_kva": 215,
+      "full_location": "Kuddby, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "610 33 Kuddby, Sweden",
+        "location": {
+          "lat": 58.530193,
+          "lng": 16.474411
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Vikbolandets El. Kraft A.-B. — Jonsbergsverk",
+      "location": "Jonsberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 7,
+      "full_location": "Jonsberg, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "610 25 Jonsberg, Sweden",
+        "location": {
+          "lat": 58.52452479999999,
+          "lng": 16.8285629
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Vikbolandets El. Kraft A.-B. — Furingstadverket",
+      "location": "Furingstad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Furingstad, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "605 93 Furingstad, Sweden",
+        "location": {
+          "lat": 58.55548679999999,
+          "lng": 16.3454948
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Vikbolandets El. Kraft A.-B. — Ö. Stenbyverket",
+      "location": "Östra Stenby",
+      "power_station_name": "subscription from Motala Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Östra Stenby, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "610 31 Östra Stenby, Sweden",
+        "location": {
+          "lat": 58.5830007,
+          "lng": 16.4759936
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "Vikbolandets El. Kraft A.-B. — Yxelkedsstation",
+      "location": "Östra Husby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Östra Husby, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "610 24 Östra Husby, Sweden",
+        "location": {
+          "lat": 58.5787358,
+          "lng": 16.5608478
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Vikbolandets El. Kraft A.-B. — Vikbolandets El. Kraft A.-B. — Lönsanätsverk",
+      "location": "Östra XY",
+      "power_station_name": "subscription from Norrköpings stad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Östra XY, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Östergötland County, Sweden",
+        "location": {
+          "lat": 58.3453635,
+          "lng": 15.5197843
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": "St. Långans Gruv A.-B.",
+      "location": "Vikbolandet",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 51,
+      "full_location": "Vikbolandet, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vikbolandet, 610 29 Vikbolandet, Sweden",
+        "location": {
+          "lat": 58.5333333,
+          "lng": 16.6666667
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "C.J. Lundbergs Lädefabriks A.-B.",
+      "location": "Valdemarsvik",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Valdemarsvik, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Valdemarsvik, Sweden",
+        "location": {
+          "lat": 58.20245139999999,
+          "lng": 16.6013626
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Gusums Bruks o. Fabriks A.-B.",
+      "location": "Ringarum",
+      "power_station_name": "Mellanbruket",
+      "power_source": "water",
+      "installed_capacity_kva": 140,
+      "full_location": "Ringarum, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "615 74 Ringarum, Sweden",
+        "location": {
+          "lat": 58.3327141,
+          "lng": 16.4462982
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Gusums Bruks o. Fabriks A.-B.",
+      "location": "Ringarum",
+      "power_station_name": "Utsíter",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Ringarum, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "615 74 Ringarum, Sweden",
+        "location": {
+          "lat": 58.3327141,
+          "lng": 16.4462982
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "Belysnings A.-B. Tomten",
+      "location": "Skönberga, Söderköping",
+      "power_station_name": "subscription from Motala Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 240,
+      "full_location": "Skönberga, Söderköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skönberga, 614 93 Söderköping, Sweden",
+        "location": {
+          "lat": 58.4409675,
+          "lng": 16.3862964
+        }
+      }
+    },
+    {
+      "index": 66,
+      "company_name": "Distr. i Karterop",
+      "location": "Drothem, Söderköping",
+      "power_station_name": "subscription from Motala Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 75,
+      "full_location": "Drothem, Söderköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Drothemsgatan 8, 614 34 Söderköping, Sweden",
+        "location": {
+          "lat": 58.48086049999999,
+          "lng": 16.315855
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "H. Jonsson o. abonnenter, bl. a. O. Ryds El. Distr.-Fören.",
+      "location": "Östra Ryd, Atvid",
+      "power_station_name": "St Johannes",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Östra Ryd, Atvid, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "614 96 Östra Ryd, Sweden",
+        "location": {
+          "lat": 58.4052802,
+          "lng": 16.1649747
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Baronet Adelswärd",
+      "location": "Söderköping",
+      "power_station_name": "subscription from Baroniet Adelsvärd",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Söderköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Söderköping, Sweden",
+        "location": {
+          "lat": 58.4759013,
+          "lng": 16.3234307
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Norsholmskretsens El. Distr.-Fören.",
+      "location": "Kimstad, Skärkind, Gårdeby",
+      "power_station_name": "Rabboteberg",
+      "power_source": "diesel",
+      "installed_capacity_kva": 25,
+      "full_location": "Kimstad, Skärkind, Gårdeby, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kimstad, Sweden",
+        "location": {
+          "lat": 58.5505888,
+          "lng": 15.9622759
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Bankekinds El. Distr.-Fören.",
+      "location": "Bankekind",
+      "power_station_name": "subscription from Baroniet Adelsvärd",
+      "power_source": "subscription",
+      "installed_capacity_kva": 800,
+      "full_location": "Bankekind, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "585 93 Bankekind, Sweden",
+        "location": {
+          "lat": 58.374747,
+          "lng": 15.8254772
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "A.-B. Knutsbro Kraftstation",
+      "location": "Kind",
+      "power_station_name": "Hovetorp",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Kind, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Östergötland County, Sweden",
+        "location": {
+          "lat": 58.3453635,
+          "lng": 15.5197843
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Th. G. Bäck",
+      "location": "Sturefors",
+      "power_station_name": "Nykarra",
+      "power_source": "water",
+      "installed_capacity_kva": 130,
+      "full_location": "Sturefors, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "589 61 Sturefors, Sweden",
+        "location": {
+          "lat": 58.33005929999999,
+          "lng": 15.7257118
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "A.-B. Nyvkams Emgsdaleikrafiks",
+      "location": "Linköping",
+      "power_station_name": "Tankefors",
+      "power_source": "water",
+      "installed_capacity_kva": 215,
+      "full_location": "Linköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Linköping, Sweden",
+        "location": {
+          "lat": 58.41080700000001,
+          "lng": 15.6213727
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Linköpings El. Kraft o. Bel-A.-B.",
+      "location": "Linköping",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 325,
+      "full_location": "Linköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Linköping, Sweden",
+        "location": {
+          "lat": 58.41080700000001,
+          "lng": 15.6213727
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Ditto",
+      "location": "Linkoping",
+      "power_station_name": "subscription from Odonots",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Linkoping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Linköping, Sweden",
+        "location": {
+          "lat": 58.41080700000001,
+          "lng": 15.6213727
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Ditto",
+      "location": "Linkoping",
+      "power_station_name": "Svanfors",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Linkoping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Linköping, Sweden",
+        "location": {
+          "lat": 58.41080700000001,
+          "lng": 15.6213727
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Ditto",
+      "location": "Linkoping",
+      "power_station_name": "Nykarra",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Linkoping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Linköping, Sweden",
+        "location": {
+          "lat": 58.41080700000001,
+          "lng": 15.6213727
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Söderköpings Vidbo",
+      "location": "Tierp",
+      "power_station_name": "subscription from Linköpings El. Kraft o. Bel-A.-B",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Tierp, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Östergötland County, Sweden",
+        "location": {
+          "lat": 58.3453635,
+          "lng": 15.5197843
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Ditto",
+      "location": "Nykarra",
+      "power_station_name": "Söderköping",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Nykarra, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Östergötland County, Sweden",
+        "location": {
+          "lat": 58.3453635,
+          "lng": 15.5197843
+        }
+      }
+    }
+  ],
+  "filename": "Östergötland_3.png"
+}

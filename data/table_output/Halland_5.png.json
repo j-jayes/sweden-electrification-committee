@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "index": 64,
+            "company_name": "Bjärnum elektricitetsverk, Eriksson.",
+            "location": "Bjärnum",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 65,
+            "company_name": "Osby Industrier a.-b.",
+            "location": "Osby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 66,
+            "company_name": "Sjönevads elektriska bolag, Fjoerst, Säll.",
+            "location": "Vessigebro",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 67,
+            "company_name": "Njelmeds gård, Glafsgård.",
+            "location": "Falkenberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 16
+        },
+        {
+            "index": 68,
+            "company_name": "Hertings kvarn och elek.",
+            "location": "Mjölnare",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 11
+        },
+        {
+            "index": 69,
+            "company_name": "Boberg kraftförening, Helgeberg.",
+            "location": "Hylte",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 140
+        },
+        {
+            "index": 70,
+            "company_name": "Sanmarps Gård, Fru M. Threeskow.",
+            "location": "Heberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 71,
+            "company_name": "Knoseholm sg och kvarn",
+            "location": "Sloinge",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 72,
+            "company_name": "Berte kvarn a.-b, Sloinge",
+            "location": "Sloinge",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 73,
+            "company_name": "Äbylle tråddragen, injen. Fabriker v. J. Johansson.",
+            "location": "Åbylle",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 74,
+            "company_name": "Kinnareds sg och elektr.",
+            "location": "Kinnared",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 75,
+            "company_name": "Förenade kvarn, Elv avd.",
+            "location": "Kinnared",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 76,
+            "company_name": "Franses Möllen, Kinnared.",
+            "location": "Kinnared",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 77,
+            "company_name": "Torup kvarn och fabr.",
+            "location": "Torup",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 78,
+            "company_name": "Bosgårdens elektricitetsk",
+            "location": "Torup",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 79,
+            "company_name": "Gustafsfabr",
+            "location": "Byxlorg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 80,
+            "company_name": "Rynbo kvarn och fabr.",
+            "location": "Byxlorg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 81,
+            "company_name": "Nysbo snickeri- och bygg.",
+            "location": "Torup",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 82,
+            "company_name": "Torup kvarn och fabr.",
+            "location": "Torup",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        }
+    ],
+    "filename": "Halland_5.png"
+}

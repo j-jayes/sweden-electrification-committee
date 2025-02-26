@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "index": 48,
+            "company_name": "Gödeby kvarn och elektricitetsverk, Aline Nils Cansdotter",
+            "location": "Gödeby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 49,
+            "company_name": "Damtjärns kraftförening, F. P. Johansson",
+            "location": "Köinge",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 50,
+            "company_name": "Åvalla kvarn och elekt.",
+            "location": "Okome",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 51,
+            "company_name": "Okome kvarn och elektricitetsverk, Patron Per Eriksson",
+            "location": "Okome",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 52,
+            "company_name": "Okome kvarn och elektricitetsverk, Patron Per Eriksson",
+            "location": "Okome",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 53,
+            "company_name": "Yngeredfors kraft a.-b.",
+            "location": "Ätrafors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 54,
+            "company_name": "Yngeredfors kraft a.-b.",
+            "location": "Ätrafors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 55,
+            "company_name": "Yngeredfors kraft a.-b.",
+            "location": "Möndal",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 56,
+            "company_name": "Yngeredfors kraft a.-b.",
+            "location": "Möndal",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 57,
+            "company_name": "Attarps kvarn, Kyrkarnäf",
+            "location": "Ljungby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 58,
+            "company_name": "Turtserfors kvarn och elektricitetsverk, Kvarnagare Karl Andersson",
+            "location": "Ljungby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 59,
+            "company_name": "Tellsgårds kvarn och elektricitetsverk, Kvarnägareskaret",
+            "location": "Ljungby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 60,
+            "company_name": "Föhrs kvarn och såg",
+            "location": "Alvsång",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 61,
+            "company_name": "Bola och Dale kraftbolag",
+            "location": "Vinberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 880
+        },
+        {
+            "index": 62,
+            "company_name": "Vinberg elektriska förening",
+            "location": "Vinberg",
+            "power_station_name": "subscription from Falkenberg stads elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 63,
+            "company_name": "Falkenberg stads elektricitetsverk",
+            "location": "Falkenberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 656
+        }
+    ],
+    "filename": "Halland_4.png"
+}

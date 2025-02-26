@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "index": 21,
+            "company_name": "Ödby El. För.",
+            "location": "Ödby",
+            "power_station_name": "Ödby El. Underbyggn.",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 22,
+            "company_name": "Länslinjen Syd.",
+            "location": "Älvestorp",
+            "power_station_name": "Runstorp",
+            "power_source": "water",
+            "installed_capacity_kva": 15000
+        },
+        {
+            "index": 23,
+            "company_name": "Företag Bruk A.B.",
+            "location": "Asker",
+            "power_station_name": "Brevensfattel",
+            "power_source": "water",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 24,
+            "company_name": "Företag Bruk A.B.",
+            "location": "Asker Norrby, Kalkudden, Ekeby, Svennevad, Svingstad",
+            "power_station_name": "Ab. fr. Örebro E.I.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 40000
+        },
+        {
+            "index": 25,
+            "company_name": "Mindre distr. företag",
+            "location": "Svennevad",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 41500
+        },
+        {
+            "index": 26,
+            "company_name": "Gräve El, Hamilton",
+            "location": "Bo",
+            "power_station_name": "Haddeforss",
+            "power_source": "water",
+            "installed_capacity_kva": 4500
+        },
+        {
+            "index": 27,
+            "company_name": "Hallberg",
+            "location": "Hallberg",
+            "power_station_name": "Högsta",
+            "power_source": "water",
+            "installed_capacity_kva": 40000
+        },
+        {
+            "index": 28,
+            "company_name": "Moistla Kraftverksförening, Hallstahammar, Vissbo, Avesta",
+            "location": "Hallstahammar",
+            "power_station_name": "Ab. fr. Örebro E.I.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 40000
+        },
+        {
+            "index": 29,
+            "company_name": "Moistla Kraftverksförening, Hallstahammar, Vissbo, Avesta",
+            "location": "Vissbo",
+            "power_station_name": "Ab. fr. Örebro E.I.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 30,
+            "company_name": "Ab. Hallbergs El.",
+            "location": "Hallstahammar, Kumla",
+            "power_station_name": "Ab. fr. Örebro E.I.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 31,
+            "company_name": "Kumla El. A.B.",
+            "location": "Abrahamsänge",
+            "power_station_name": "Ab. fr. Örebro E.I.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 32,
+            "company_name": "Yxhults Stenhuggeri",
+            "location": "Kumla",
+            "power_station_name": "Ab. fr. Örebro E.I.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 33,
+            "company_name": "Lesjöfors Bruk A.B.",
+            "location": "Lesjöfors, Lesjöholm, Hammartorp",
+            "power_station_name": "Ab. fr. Motala E.I.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 34,
+            "company_name": "Lesjöfors Bruk A.B.",
+            "location": "Lesjöholm Leiden",
+            "power_station_name": "Ab. fr. Kraft A.B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 35,
+            "company_name": "Medevi m. El. Distr. Förening",
+            "location": "Medela",
+            "power_station_name": "Ab, fr. Mariestads Köping",
+            "power_source": "subscription",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 36,
+            "company_name": "Skåne Elsyföreningen",
+            "location": "Skåne",
+            "power_station_name": "Grönby",
+            "power_source": "water",
+            "installed_capacity_kva": 2900
+        },
+        {
+            "index": 37,
+            "company_name": "Åsbro Aldresta B.",
+            "location": "Viby",
+            "power_station_name": "Lännaholm",
+            "power_source": "water",
+            "installed_capacity_kva": 3800
+        },
+        {
+            "index": 38,
+            "company_name": "Tjörshult",
+            "location": "Hammarudden",
+            "power_station_name": "Vimmerby A.I.",
+            "power_source": "water",
+            "installed_capacity_kva": 1920
+        },
+        {
+            "index": 39,
+            "company_name": "Leds Träsk A.B.",
+            "location": "Karlskoga, Södertälje",
+            "power_station_name": "Wijkmanhausen",
+            "power_source": "steam",
+            "installed_capacity_kva": 16200
+        },
+        {
+            "index": 40,
+            "company_name": "Bocks Kraftaktiebolaget",
+            "location": "Adolfsberg, Kungsängen",
+            "power_station_name": "Karlskoga Trådarbeten",
+            "power_source": "steam",
+            "installed_capacity_kva": 3380
+        },
+        {
+            "index": 41,
+            "company_name": "Ryet, Kåna, Skällskogen",
+            "location": "Säffle",
+            "power_station_name": "Load Valverket",
+            "power_source": "water",
+            "installed_capacity_kva": 4500
+        },
+        {
+            "index": 42,
+            "company_name": "Yxhults Stenhuggeri",
+            "location": "Yxhult",
+            "power_station_name": "Hörken",
+            "power_source": "water",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 43,
+            "company_name": "Kumla El. A.B.",
+            "location": "Ljungsbro",
+            "power_station_name": "Heidruder",
+            "power_source": "water",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 44,
+            "company_name": "Topoe Kraft A.B.",
+            "location": "Filipstad",
+            "power_station_name": "Torkato Ljus",
+            "power_source": "steam",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 45,
+            "company_name": "Yxhults Stenhuggeri",
+            "location": "Ljusdal",
+            "power_station_name": "Eidanger",
+            "power_source": "water",
+            "installed_capacity_kva": 2500
+        },
+        {
+            "index": 46,
+            "company_name": "Yxhults Stenhuggeri",
+            "location": "Norra Rönneberga",
+            "power_station_name": "Torvökvarn",
+            "power_source": "steam",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 47,
+            "company_name": "Mindre distr. företag",
+            "location": "Klolangst",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 12000
+        },
+        {
+            "index": 48,
+            "company_name": "Yxhults Stenhuggeri",
+            "location": "Karlstad",
+            "power_station_name": "Värmlands Kvarn",
+            "power_source": "steam",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 49,
+            "company_name": "Östra Kalandderiet",
+            "location": "Örebro",
+            "power_station_name": "Erichsbergsverket",
+            "power_source": "steam",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 50,
+            "company_name": "Toffes Wulkangan",
+            "location": "Gävle",
+            "power_station_name": "Lufors",
+            "power_source": "water",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 51,
+            "company_name": "Länslinjen öst",
+            "location": "Vadsbro",
+            "power_station_name": "Sätna",
+            "power_source": "water",
+            "installed_capacity_kva": 5200
+        },
+        {
+            "index": 52,
+            "company_name": "Mindre distr. företag",
+            "location": "Långemarken",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 11000
+        },
+        {
+            "index": 53,
+            "company_name": "Yxhults Stenhuggeri",
+            "location": "Gruvhem",
+            "power_station_name": "Årby",
+            "power_source": "steam",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 54,
+            "company_name": "Rundmark",
+            "location": "Kristinehamn",
+            "power_station_name": "Vilingskogen",
+            "power_source": "steam",
+            "installed_capacity_kva": 8000
+        },
+        {
+            "index": 55,
+            "company_name": "Hallstahammars Kraftaktiebolaget",
+            "location": "Kribbe, Kvistbro",
+            "power_station_name": "Öm",
+            "power_source": "water",
+            "installed_capacity_kva": 9200
+        },
+        {
+            "index": 56,
+            "company_name": "Mölntorps Kvarn A.B.",
+            "location": "Krifva",
+            "power_station_name": "Malmö Respektive Kraftst",
+            "power_source": "steam",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 57,
+            "company_name": "Mindre distr. företag",
+            "location": "Mellby",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 58,
+            "company_name": "Grand Karlsson",
+            "location": "Slöinge",
+            "power_station_name": "Skogen",
+            "power_source": "steam",
+            "installed_capacity_kva": 9000
+        }
+    ],
+    "filename": "Örebro_2.png"
+}

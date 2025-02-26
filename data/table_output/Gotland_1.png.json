@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Visby stads elektricitetsverk",
+            "location": "Visby kraftstation",
+            "power_station_name": "Visby kraftstation",
+            "power_source": "diesel",
+            "installed_capacity_kva": 180
+        },
+        {
+            "index": 2,
+            "company_name": "Visby cementfabrik",
+            "location": "Visby cementfabrik",
+            "power_station_name": "Visby cementfabrik",
+            "power_source": "steam",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 3,
+            "company_name": "A.-B. Vallviks cementfabrik",
+            "location": "Vallvik",
+            "power_station_name": "Vallvik",
+            "power_source": "steam",
+            "installed_capacity_kva": 285
+        },
+        {
+            "index": 4,
+            "company_name": "Slite cement och kalk A.-B.",
+            "location": "Slite",
+            "power_station_name": "Slite",
+            "power_source": "steam",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 5,
+            "company_name": "E. C. Elvström",
+            "location": "Roma",
+            "power_station_name": "Roma",
+            "power_source": "diesel",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 6,
+            "company_name": "H. Andersson",
+            "location": "Klintehamns kraftstation",
+            "power_station_name": "Klintehamns kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 7,
+            "company_name": "Klinte belysningsförening",
+            "location": "Klintehamn",
+            "power_station_name": "Klintehamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 8,
+            "company_name": "Bröderna Edmark",
+            "location": "Ljugarns belysningsbolag",
+            "power_station_name": "Ljugarns belysningsbolag",
+            "power_source": "subscription",
+            "installed_capacity_kva": 65
+        },
+        {
+            "index": 9,
+            "company_name": "V. Larsson",
+            "location": "Garde",
+            "power_station_name": "Garde",
+            "power_source": "oil",
+            "installed_capacity_kva": 3
+        },
+        {
+            "index": 10,
+            "company_name": "N. Bergvall och J. Broström",
+            "location": "Ethelhem",
+            "power_station_name": "subscription from Ethelhem",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 11,
+            "company_name": "J. Johansson",
+            "location": "Lye",
+            "power_station_name": "subscription from Lye",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2
+        },
+        {
+            "index": 12,
+            "company_name": "A.-B. Hemse elektricitetsverk",
+            "location": "Hemse kraftstation",
+            "power_station_name": "Hemse kraftstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 36
+        },
+        {
+            "index": 13,
+            "company_name": "Föreningen Havdhems elektricitetesverk",
+            "location": "Havdhem",
+            "power_station_name": "Havdhem",
+            "power_source": "water",
+            "installed_capacity_kva": 11
+        },
+        {
+            "index": 14,
+            "company_name": "K. G. Hoffman och K. Stenström",
+            "location": "Burgsvik",
+            "power_station_name": "subscription from Burgsvik",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        }
+    ],
+    "filename": "Gotland_1.png"
+}

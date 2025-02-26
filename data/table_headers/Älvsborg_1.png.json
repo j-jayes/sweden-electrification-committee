@@ -1,0 +1,65 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer och registreringsnummer av anläggning"
+        },
+        {
+            "id": 2,
+            "label": "Företags namn, ägare eller innehavare",
+            "description": "Namnet på företaget och dess ägare eller innehavare"
+        },
+        {
+            "id": 3,
+            "label": "Kommun, stad",
+            "description": "Den kommun eller stad där anläggningen ligger"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn eller läge",
+            "description": "Namnet på kraftstationen eller dess plats"
+        },
+        {
+            "id": 5,
+            "label": "Drivy kraft",
+            "description": "Typ av drivkraft för anläggningen"
+        },
+        {
+            "id": 6,
+            "label": "Utbyggd installerad effekt i kW",
+            "description": "Installerad effekt uttryckt i kilowatt (kW) som är tillgänglig i anläggningen"
+        },
+        {
+            "id": 7,
+            "label": "Strömmens generell frekvens i kVA",
+            "description": "Frekvens för den elektriska strömmen i kilovoltampere (kVA)"
+        },
+        {
+            "id": 8,
+            "label": "Spänningssystem volt",
+            "description": "Det spänning systemet som används, angivet i volt"
+        },
+        {
+            "id": 9,
+            "label": "Huvudtransformatorernas sammansättning effekt i kVA",
+            "description": "Effekten av huvudtransformatorerna, uttryckt i kilovoltampere (kVA)"
+        },
+        {
+            "id": 10,
+            "label": "Antal motorer kW",
+            "description": "Det totala antalet motorer och deras effekt i kilowatt (kW)"
+        },
+        {
+            "id": 11,
+            "label": "Förbrukning år 1922 kWh",
+            "description": "Elförbrukning under året 1922 uttryckt i kilowattimmar (kWh)"
+        },
+        {
+            "id": 12,
+            "label": "Energiförbrukning år 1922 kWh",
+            "description": "Uppgifter om den totala energiförbrukningen i kilowattimmar under 1922"
+        }
+    ],
+    "filename": "Älvsborg_1.png"
+}

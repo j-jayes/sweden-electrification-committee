@@ -1,0 +1,245 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Hedesunda Elektr. A.B.",
+            "location": "Hedesunda",
+            "power_station_name": "subscription from Söderfors bruk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 2,
+            "company_name": "Hedesunda Södra Kraft- och belys.fören.",
+            "location": "Hedesunda",
+            "power_station_name": "Ölbo kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 3,
+            "company_name": "Östra Bodaams Kraft- och bell.-fören.",
+            "location": "Ölbo",
+            "power_station_name": "Bångsta",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 4,
+            "company_name": "Östra Bodaams Kraft- och bell.-fören.",
+            "location": "Österbyggebo",
+            "power_station_name": "Storsjögbo",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 5,
+            "company_name": "Mindre distributionsföretag",
+            "location": "Käbbo",
+            "power_station_name": "subscription from Hornålds järnverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 6,
+            "company_name": "Mindre distributionsföretag",
+            "location": "Käbbo",
+            "power_station_name": "subscription from kverakerby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 7,
+            "company_name": "Ärsunda kraft- och belysningsförening",
+            "location": "Ärsunda",
+            "power_station_name": "Hammarfallet",
+            "power_source": "water",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 8,
+            "company_name": "Hemlingby och Järfsta Kraft. o. bel.-fören.",
+            "location": "Valbo",
+            "power_station_name": "subscription from Stärnforsen",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 9,
+            "company_name": "Mackmyra Bruk",
+            "location": "Valbo",
+            "power_station_name": "subscription from Forsbacka och Stärnforsen",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2010
+        },
+        {
+            "index": 10,
+            "company_name": "Mackmyra Bruk",
+            "location": "Sulfatbrik.",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 11,
+            "company_name": "Gävle—Dala Järnvägs A.B.",
+            "location": "Hagaström",
+            "power_station_name": "Hagaströms kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 175
+        },
+        {
+            "index": 12,
+            "company_name": "Abyfors A.B.",
+            "location": "Abyfors",
+            "power_station_name": "Abyfors",
+            "power_source": "water",
+            "installed_capacity_kva": 336
+        },
+        {
+            "index": 13,
+            "company_name": "Forsbacka Järnverks A.B.",
+            "location": "Forsbacka",
+            "power_station_name": "Forsbacka",
+            "power_source": "water",
+            "installed_capacity_kva": 386
+        },
+        {
+            "index": 14,
+            "company_name": "Stambaneks Elektricitetsverk",
+            "location": "Älvkarleby",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 15,
+            "company_name": "Östbaneks Flåfabriks elektricitetsverk",
+            "location": "Östanbäck",
+            "power_station_name": "Östanbäck",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 16,
+            "company_name": "Öns Kraftbolag",
+            "location": "Öns",
+            "power_station_name": "Öns kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 325
+        },
+        {
+            "index": 17,
+            "company_name": "Sandvikens Järnverks A.B.",
+            "location": "Högbo",
+            "power_station_name": "Sandvikens kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 925
+        },
+        {
+            "index": 18,
+            "company_name": "Gävle stads elektricitetsverk",
+            "location": "Gävle stad",
+            "power_station_name": "Holmens Kraf. Avsk och Nås kraftst.",
+            "power_source": "water",
+            "installed_capacity_kva": 480
+        },
+        {
+            "index": 19,
+            "company_name": "Gävle stads elektricitetsverk",
+            "location": "Gävle stad",
+            "power_station_name": "Industrial kraftibruk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 20,
+            "company_name": "Konsäs Sågverks A.B.",
+            "location": "Hille",
+            "power_station_name": "subscription from Forsby kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 21,
+            "company_name": "Konsäs Sågverks A.B.",
+            "location": "Hille",
+            "power_station_name": "subscription from Forsby",
+            "power_source": "subscription",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 22,
+            "company_name": "A.-B. Norrland,",
+            "location": "Forsbo",
+            "power_station_name": "Forsbo kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 23,
+            "company_name": "Berg-Älvns Byarn. och belysnings. A.B.",
+            "location": "Hammarne",
+            "power_station_name": "subscription from Fägis",
+            "power_source": "subscription",
+            "installed_capacity_kva": 350
+        },
+        {
+            "index": 24,
+            "company_name": "Älv Sveriges A.B.",
+            "location": "Bergs",
+            "power_station_name": "subscription from Vormsuden kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 330
+        },
+        {
+            "index": 25,
+            "company_name": "Mackmyra Tjärnvers A.B.",
+            "location": "Ockelbo",
+            "power_station_name": "Mackmyra kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 265
+        },
+        {
+            "index": 26,
+            "company_name": "Svedians Bruk",
+            "location": "Ullungen",
+            "power_station_name": "Svedians bruk",
+            "power_source": "water",
+            "installed_capacity_kva": 85
+        },
+        {
+            "index": 27,
+            "company_name": "Svedians Bruk",
+            "location": "Amsbergs",
+            "power_station_name": "Amsbergs kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 28,
+            "company_name": "Ockelbo Elektriska A. B.",
+            "location": "Ockelbo",
+            "power_station_name": "Stromsberg",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 29,
+            "company_name": "Vij Bruk",
+            "location": "Vij",
+            "power_station_name": "Älvkarleby",
+            "power_source": "water",
+            "installed_capacity_kva": 900
+        },
+        {
+            "index": 30,
+            "company_name": "Jädräss järnverk",
+            "location": "Jädraås",
+            "power_station_name": "Pallatanke kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 1
+        }
+    ],
+    "filename": "Gävleborg_1.png"
+}

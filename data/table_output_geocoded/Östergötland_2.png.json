@@ -1,0 +1,453 @@
+{
+  "data": [
+    {
+      "index": 25,
+      "company_name": "Rejmyre Bruks A.-B.",
+      "location": "Skedevi",
+      "power_station_name": "Ab. från Motala Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Skedevi, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "643 94 Skedevi, Sweden",
+        "location": {
+          "lat": 58.93801389999999,
+          "lng": 15.8822757
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Motala Kraftverk",
+      "location": "Risinge",
+      "power_station_name": "Ab. från Motala Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Risinge, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "612 92 Risinge, Sweden",
+        "location": {
+          "lat": 58.7024492,
+          "lng": 15.8448957
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Sekundastationen i Finspång",
+      "location": "Finspång",
+      "power_station_name": "Ab. från Motala Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Finspång, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Finspång, Sweden",
+        "location": {
+          "lat": 58.7074884,
+          "lng": 15.773595
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Finspångs Metallverks A.-B.",
+      "location": "Hällestad",
+      "power_station_name": "Rämminge",
+      "power_source": "water",
+      "installed_capacity_kva": 950,
+      "full_location": "Hällestad, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "612 75 Hällestad, Sweden",
+        "location": {
+          "lat": 58.7441245,
+          "lng": 15.5725347
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "E. Tapper",
+      "location": "Risinge",
+      "power_station_name": "Stjärnviks",
+      "power_source": "steam",
+      "installed_capacity_kva": 280,
+      "full_location": "Risinge, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "612 92 Risinge, Sweden",
+        "location": {
+          "lat": 58.7024492,
+          "lng": 15.8448957
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Motala Kraftverk",
+      "location": "Borg",
+      "power_station_name": "Sekundstationen i Norrköping vid Ekudden",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Borg, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "605 97 Borg, Sweden",
+        "location": {
+          "lat": 58.566667,
+          "lng": 16.083333
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Norrköpings stad Transformatorstationen vid Skär",
+      "location": "Norrköping",
+      "power_station_name": "subscription from Norrköpings stad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 4000,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Norrköpings stad Transformatorstationen i staden",
+      "location": "Norrköping",
+      "power_station_name": "subscription from Norrköpings stad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Norrköpings stad",
+      "location": "Norrköping",
+      "power_station_name": "Omformarstationen",
+      "power_source": "steam",
+      "installed_capacity_kva": 390,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Fiskeby Fabriks A.-B.",
+      "location": "Fiskeby",
+      "power_station_name": "Fiskeby",
+      "power_source": "water",
+      "installed_capacity_kva": 670,
+      "full_location": "Fiskeby, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Fiskeby, Norrköping, Sweden",
+        "location": {
+          "lat": 58.5983622,
+          "lng": 16.0998259
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Fiskeby Fabriks A.-B.",
+      "location": "Fiskeby",
+      "power_station_name": "Ab. från Skärblacka A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15000,
+      "full_location": "Fiskeby, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Fiskeby, Norrköping, Sweden",
+        "location": {
+          "lat": 58.5983622,
+          "lng": 16.0998259
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Norrköpings Bomullsväfveri A.-B.",
+      "location": "Norrköping",
+      "power_station_name": "Gryt och Draggruppon",
+      "power_source": "steam",
+      "installed_capacity_kva": 200,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Drags A.-B.",
+      "location": "Norrköping",
+      "power_station_name": "Bergs Bolagsfall",
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Holmens Bruks o. Fabriks A.-B.",
+      "location": "Norrköping",
+      "power_station_name": "Ströms övre verk",
+      "power_source": "steam",
+      "installed_capacity_kva": 670,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "A.-B. Förenade Yllefabrikerna",
+      "location": "Norrköping",
+      "power_station_name": "Bergsbrogruppen",
+      "power_source": "water",
+      "installed_capacity_kva": 240,
+      "full_location": "Norrköping, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrköping, Sweden",
+        "location": {
+          "lat": 58.587745,
+          "lng": 16.192421
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Holmens Bruks o. Fabriks A.-B.",
+      "location": "Krokek",
+      "power_station_name": "Bergsborn—Havet",
+      "power_source": "steam",
+      "installed_capacity_kva": 360,
+      "full_location": "Krokek, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Krokek, Sweden",
+        "location": {
+          "lat": 58.6756076,
+          "lng": 16.3701089
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "Fastighets A.-B. C. L. Svensson & Co.",
+      "location": "Risinge",
+      "power_station_name": "Kerstin Pommerinka",
+      "power_source": "steam",
+      "installed_capacity_kva": 310,
+      "full_location": "Risinge, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "612 92 Risinge, Sweden",
+        "location": {
+          "lat": 58.7024492,
+          "lng": 15.8448957
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "Holmens Bruks o. Fabriks A.-B.",
+      "location": "Hällestad",
+      "power_station_name": "Kräftkolmens verk",
+      "power_source": "water",
+      "installed_capacity_kva": 700,
+      "full_location": "Hällestad, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "612 75 Hällestad, Sweden",
+        "location": {
+          "lat": 58.7441245,
+          "lng": 15.5725347
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "Distr. i Dagsberg och Styrestad",
+      "location": "Dagsberg, Styrestad",
+      "power_station_name": "Ab. från Norrköpings stad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 800,
+      "full_location": "Dagsberg, Styrestad, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "605 92 Styrstad, Sweden",
+        "location": {
+          "lat": 58.5618664,
+          "lng": 16.2727592
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Distr. i O. Eneby, Kvillinge El.-Fören., m. fl.",
+      "location": "Östra Eneby, Kvillinge",
+      "power_station_name": "Ab. från Norrköpings stad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 875,
+      "full_location": "Östra Eneby, Kvillinge, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "616 34 Kvillinge, Sweden",
+        "location": {
+          "lat": 58.64810499999999,
+          "lng": 16.1332491
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "Distr. i Kolmården P. Svärta",
+      "location": "Krokek",
+      "power_station_name": "Krokek",
+      "power_source": "water",
+      "installed_capacity_kva": 24,
+      "full_location": "Krokek, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Krokek, Sweden",
+        "location": {
+          "lat": 58.6756076,
+          "lng": 16.3701089
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Säfhska Bomullsspinneri o. Väveri A.-B.",
+      "location": "Eneby",
+      "power_station_name": "Torstorp",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Eneby, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "590 42 Eneby, Sweden",
+        "location": {
+          "lat": 57.91597939999999,
+          "lng": 15.8852372
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "Hults Bruk",
+      "location": "Kvillinge",
+      "power_station_name": "Hults Bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 275,
+      "full_location": "Kvillinge, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "616 34 Kvillinge, Sweden",
+        "location": {
+          "lat": 58.64810499999999,
+          "lng": 16.1332491
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "Hults Bruk",
+      "location": "Hults Bruk",
+      "power_station_name": "Hults Bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 295,
+      "full_location": "Hults Bruk, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hultsbruk, 616 90 Åby, Sweden",
+        "location": {
+          "lat": 58.67365900000001,
+          "lng": 16.128747
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "Hults Bruk",
+      "location": "Hults Bruk",
+      "power_station_name": "Dvardsala",
+      "power_source": "water",
+      "installed_capacity_kva": 56,
+      "full_location": "Hults Bruk, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hultsbruk, 616 90 Åby, Sweden",
+        "location": {
+          "lat": 58.67365900000001,
+          "lng": 16.128747
+        }
+      }
+    },
+    {
+      "index": 47,
+      "company_name": "Skärblacka A.-B.",
+      "location": "Kullerstad",
+      "power_station_name": "Skärblacka",
+      "power_source": "steam",
+      "installed_capacity_kva": 565,
+      "full_location": "Kullerstad, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "617 30 Kullerstad, Sweden",
+        "location": {
+          "lat": 58.58145769999999,
+          "lng": 15.9420345
+        }
+      }
+    },
+    {
+      "index": 48,
+      "company_name": "Ljusfors A.-B.",
+      "location": "Ljusfors",
+      "power_station_name": "Ljusfors",
+      "power_source": "water",
+      "installed_capacity_kva": 760,
+      "full_location": "Ljusfors, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "617 31 Ljusfors, Sweden",
+        "location": {
+          "lat": 58.583333,
+          "lng": 15.883333
+        }
+      }
+    },
+    {
+      "index": 49,
+      "company_name": "Grensholms och Rosendals egendomar",
+      "location": "Vång",
+      "power_station_name": "Ab. från A.-B. Knutsbro kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3800,
+      "full_location": "Vång, Östergötland county, Sweden",
+      "geocoding": {
+        "formatted_address": "617 90 Vånga, Sweden",
+        "location": {
+          "lat": 58.5794043,
+          "lng": 15.8113046
+        }
+      }
+    }
+  ],
+  "filename": "Östergötland_2.png"
+}

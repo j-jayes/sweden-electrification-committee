@@ -1,0 +1,81 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+```{r}
+library(tidyverse)
+
+filenames <- tribble(
+    ~filename,
+    "Älvsborg.pdf", "Blekinge.pdf", "Gävleborg.pdf", "Goteborgs-och-Bohus.pdf",
+    "Gotland.pdf", "Halland.pdf", "Jämtland.pdf", "Jönköping.pdf",
+    "Kalmar.pdf", "Kopparberg.pdf", "Kristianstad.pdf", "Kronobergs.pdf",
+    "Norrbottens Lan.pdf", "Örebro.pdf", "Östergötland.pdf", "Skaraborgs län.pdf",
+    "Södermanland.pdf", "Stockholm.pdf", "Uppsala.pdf",
+    "urn-nbn-se-kb-digark-1892077.pdf", "urn-nbn-se-kb-digark-2562198.pdf",
+    "Värmland.pdf", "Västerbotten.pdf", "Västernorrland.pdf", "Västmanland.pdf"
+)
+
+filenames_and_pages <- filenames %>%
+    mutate(
+        start_page = case_when(
+            filename == "Älvsborg.pdf" ~ 17,
+            filename == "Blekinge.pdf" ~ 21,
+            filename == "Gävleborg.pdf" ~ 47,
+            filename == "Goteborgs-och-Bohus.pdf" ~ 15,
+            filename == "Gotland.pdf" ~ 16,
+            filename == "Halland.pdf" ~ 77,
+            filename == "Jämtland.pdf" ~ 21,
+            filename == "Jönköping.pdf" ~ 23,
+            filename == "Kalmar.pdf" ~ 21,
+            filename == "Kopparberg.pdf" ~ 25,
+            filename == "Kristianstad.pdf" ~ 63,
+            filename == "Kronobergs.pdf" ~ 18,
+            filename == "Norrbottens Lan.pdf" ~ 19,
+            filename == "Örebro.pdf" ~ 21,
+            filename == "Östergötland.pdf" ~ 25,
+            filename == "Skaraborgs län.pdf" ~ 19,
+            filename == "Södermanland.pdf" ~ 15,
+            filename == "Stockholm.pdf" ~ 15,
+            filename == "Uppsala.pdf" ~ 15,
+            filename == "urn-nbn-se-kb-digark-1892077.pdf" ~ 29,
+            filename == "urn-nbn-se-kb-digark-2562198.pdf" ~ 0,
+            filename == "Värmland.pdf" ~ 23,
+            filename == "Västerbotten.pdf" ~ 19,
+            filename == "Västernorrland.pdf" ~ 35,
+            filename == "Västmanland.pdf" ~ 19
+        ),
+        end_page = case_when(
+            filename == "Älvsborg.pdf" ~ 32,
+            filename == "Blekinge.pdf" ~ 26,
+            filename == "Gävleborg.pdf" ~ 60,
+            filename == "Goteborgs-och-Bohus.pdf" ~ 20,
+            filename == "Gotland.pdf" ~ 16,
+            filename == "Halland.pdf" ~ 96,
+            filename == "Jämtland.pdf" ~ 28,
+            filename == "Jönköping.pdf" ~ 52,
+            filename == "Kalmar.pdf" ~ 30,
+            filename == "Kopparberg.pdf" ~ 42,
+            filename == "Kristianstad.pdf" ~ 80,
+            filename == "Kronobergs.pdf" ~ 21,
+            filename == "Norrbottens Lan.pdf" ~ 22,
+            filename == "Örebro.pdf" ~ 32,
+            filename == "Östergötland.pdf" ~ 32,
+            filename == "Skaraborgs län.pdf" ~ 32,
+            filename == "Södermanland.pdf" ~ 22,
+            filename == "Stockholm.pdf" ~ 26,
+            filename == "Uppsala.pdf" ~ 20,
+            filename == "urn-nbn-se-kb-digark-1892077.pdf" ~ 32,
+            filename == "urn-nbn-se-kb-digark-2562198.pdf" ~ 0,
+            filename == "Värmland.pdf" ~ 44,
+            filename == "Västerbotten.pdf" ~ 26,
+            filename == "Västernorrland.pdf" ~ 54,
+            filename == "Västmanland.pdf" ~ 26
+        ))
+        
+filenames_and_pages %>% write_csv2("data/temp/filenames_and_pages.csv")
+
+```
+

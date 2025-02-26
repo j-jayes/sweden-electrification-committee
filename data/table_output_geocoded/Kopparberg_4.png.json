@@ -1,0 +1,501 @@
+{
+  "data": [
+    {
+      "index": 104,
+      "company_name": "Arhytte El. Kraft A.-B.",
+      "location": "Arhytan",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 3725,
+      "full_location": "Arhytan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 105,
+      "company_name": "Dala-Husby El. Distr.-För.",
+      "location": "Husby",
+      "power_station_name": "subscription from Älverkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Husby, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 97 Husby, Sweden",
+        "location": {
+          "lat": 60.38876889999999,
+          "lng": 15.9994302
+        }
+      }
+    },
+    {
+      "index": 106,
+      "company_name": "Transf.-stat v. Stjärnsund",
+      "location": "Stjärnsund",
+      "power_station_name": "Långshyttan",
+      "power_source": "water",
+      "installed_capacity_kva": 1016,
+      "full_location": "Stjärnsund, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 74 Stjärnsund, Sweden",
+        "location": {
+          "lat": 60.4333012,
+          "lng": 16.2117374
+        }
+      }
+    },
+    {
+      "index": 107,
+      "company_name": "-",
+      "location": "Långshyttan",
+      "power_station_name": "Rörshyttan",
+      "power_source": "water",
+      "installed_capacity_kva": 9730,
+      "full_location": "Långshyttan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Långshyttan, Sweden",
+        "location": {
+          "lat": 60.4522805,
+          "lng": 16.0330768
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Klosters A.-B.",
+      "location": "Stjernsund",
+      "power_station_name": "Rörshyttan",
+      "power_source": "water",
+      "installed_capacity_kva": 820,
+      "full_location": "Stjernsund, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 74 Stjärnsund, Sweden",
+        "location": {
+          "lat": 60.4333012,
+          "lng": 16.2117374
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Rörshyttan, Kallbäck, Österbyns o, Västersbyes B. D.-F.",
+      "location": "Kloster",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 820,
+      "full_location": "Kloster, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 98 Kloster, Sweden",
+        "location": {
+          "lat": 60.37010249999999,
+          "lng": 16.1674024
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Klosters A.-B.",
+      "location": "Kloster",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 1850,
+      "full_location": "Kloster, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 98 Kloster, Sweden",
+        "location": {
+          "lat": 60.37010249999999,
+          "lng": 16.1674024
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "Hummelbo El. Distr.-För.",
+      "location": "Husby o Garpenberg",
+      "power_station_name": "Hofors",
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Husby o Garpenberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 98 Garpenberg, Sweden",
+        "location": {
+          "lat": 60.3130086,
+          "lng": 16.1880406
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "-",
+      "location": "Hedemora",
+      "power_station_name": "Hofors",
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Hedemora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hedemora, Sweden",
+        "location": {
+          "lat": 60.2775453,
+          "lng": 15.985892
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Mindre distr.-företag",
+      "location": "Hofs",
+      "power_station_name": "Moholm",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Hofs, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Sekundära stationer",
+      "location": "Hedemora",
+      "power_station_name": "Hofors",
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Hedemora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hedemora, Sweden",
+        "location": {
+          "lat": 60.2775453,
+          "lng": 15.985892
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Hedemora Stads El-verk",
+      "location": "Hofors",
+      "power_station_name": "subscription from Älverkadleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Hofors, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hofors, Sweden",
+        "location": {
+          "lat": 60.544958,
+          "lng": 16.2700612
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Transf.-stat v. maskinverkstad",
+      "location": "Hedemora",
+      "power_station_name": "subscription from Älverkadleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Hedemora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hedemora, Sweden",
+        "location": {
+          "lat": 60.2775453,
+          "lng": 15.985892
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Vikmanshyttan",
+      "location": "Vikmanshyttan",
+      "power_station_name": "subscription from Älverkadleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Vikmanshyttan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 70 Vikmanshyttan, Sweden",
+        "location": {
+          "lat": 60.29772490000001,
+          "lng": 15.826766
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Hedemora-Grytlinis B. D.-F.",
+      "location": "Hedemora",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 2714,
+      "full_location": "Hedemora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hedemora, Sweden",
+        "location": {
+          "lat": 60.2775453,
+          "lng": 15.985892
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Lorsbo-Norns A.-B.",
+      "location": "Husby",
+      "power_station_name": "Jänisk",
+      "power_source": "steam",
+      "installed_capacity_kva": 0,
+      "full_location": "Husby, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 97 Husby, Sweden",
+        "location": {
+          "lat": 60.38876889999999,
+          "lng": 15.9994302
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "-",
+      "location": "Hedemora",
+      "power_station_name": "Hofors",
+      "power_source": "steam",
+      "installed_capacity_kva": 1000,
+      "full_location": "Hedemora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hedemora, Sweden",
+        "location": {
+          "lat": 60.2775453,
+          "lng": 15.985892
+        }
+      }
+    },
+    {
+      "index": 121,
+      "company_name": "Dyreslagenning-Hedemora E. D.-F.",
+      "location": "Hedemora",
+      "power_station_name": "Kloster",
+      "power_source": "water",
+      "installed_capacity_kva": 1120,
+      "full_location": "Hedemora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hedemora, Sweden",
+        "location": {
+          "lat": 60.2775453,
+          "lng": 15.985892
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Älvkarleby Kraftverk",
+      "location": "Kvarnbacken",
+      "power_station_name": "subscription from Långshyttan",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1000,
+      "full_location": "Kvarnbacken, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "Iden Orsholmen",
+      "location": "Borbo",
+      "power_station_name": "Kvarnbacken",
+      "power_source": "water",
+      "installed_capacity_kva": 850,
+      "full_location": "Borbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Nornhyttan El. And.-För.",
+      "location": "Nornhyttan",
+      "power_station_name": "Borbo",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Nornhyttan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "Transf.-stat. v. Intänget",
+      "location": "Garpenberg",
+      "power_station_name": "Näs",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Garpenberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 98 Garpenberg, Sweden",
+        "location": {
+          "lat": 60.3130086,
+          "lng": 16.1880406
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "-",
+      "location": "Garpenberg",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Garpenberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 98 Garpenberg, Sweden",
+        "location": {
+          "lat": 60.3130086,
+          "lng": 16.1880406
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "Jelken",
+      "location": "Grufvan",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 132,
+      "full_location": "Grufvan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "-",
+      "location": "Holmgruvan",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Holmgruvan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "Grufgrådsen",
+      "location": "Grufvan",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 250,
+      "full_location": "Grufvan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 130,
+      "company_name": "Kungl. Domänstyrelsen",
+      "location": "Garpenberg El-verk",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 650,
+      "full_location": "Garpenberg El-verk, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 98 Garpenberg, Sweden",
+        "location": {
+          "lat": 60.3130086,
+          "lng": 16.1880406
+        }
+      }
+    },
+    {
+      "index": 131,
+      "company_name": "Garpenbergs El-verk",
+      "location": "Ans Less",
+      "power_station_name": "subscription from Hofors Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Ans Less, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Dala-Pinsehyttans E. D.-F.",
+      "location": "Buskas",
+      "power_station_name": "subscription from Hofors Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 260,
+      "full_location": "Buskas, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "774 98 Buska, Sweden",
+        "location": {
+          "lat": 60.24287459999999,
+          "lng": 16.4519658
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Mindre distr.-företag",
+      "location": "Garpenberg",
+      "power_station_name": "subscription from Hofors Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 103,
+      "full_location": "Garpenberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "776 98 Garpenberg, Sweden",
+        "location": {
+          "lat": 60.3130086,
+          "lng": 16.1880406
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "Transf.-stat. v. Grytnis",
+      "location": "Grytnis",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Grytnis, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    }
+  ],
+  "filename": "Kopparberg_4.png"
+}

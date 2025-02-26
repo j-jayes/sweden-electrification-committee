@@ -1,0 +1,40 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Företagets namn, ägare eller innehavare"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn",
+            "description": "Kommune, stad"
+        },
+        {
+            "id": 3,
+            "label": "Kraftstationens namn eller läge",
+            "description": "Drivkraft"
+        },
+        {
+            "id": 4,
+            "label": "Utbyggd fall, generell tolkning i kVA",
+            "description": "Stromart"
+        },
+        {
+            "id": 5,
+            "label": "Periodtal",
+            "description": "Spänningssystem volt"
+        },
+        {
+            "id": 6,
+            "label": "Huvudtransformatorernas effekt kVA",
+            "description": "Överföringssammanlag effektiv kVA"
+        },
+        {
+            "id": 7,
+            "label": "Anslutning år 1922",
+            "description": "Energiförbrukning Nr 1923 hektar"
+        }
+    ],
+    "filename": "Goteborgs-och-Bohus_1.png"
+}

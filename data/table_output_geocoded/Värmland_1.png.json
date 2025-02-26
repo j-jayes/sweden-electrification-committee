@@ -1,0 +1,405 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Långflons distributionsområde",
+      "location": "N. Finnskoga",
+      "power_station_name": "Kraftstationen belägen i Norge",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "N. Finnskoga, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södra Finnskoga, 680 61 Bograngen, Sweden",
+        "location": {
+          "lat": 60.70519399999999,
+          "lng": 12.567852
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Aspergets elektriska anläggning",
+      "location": "Asperget",
+      "power_station_name": "kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 11,
+      "full_location": "Asperget, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "A.-B. Mölnbacka—Trysil",
+      "location": "Ö. Karlstadsrdslands",
+      "power_station_name": "Husbäckens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Ö. Karlstadsrdslands, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "— ” —",
+      "location": "— ” —",
+      "power_station_name": "Husbäckens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "— ” —, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Gräsmarks elektriska andelsförening",
+      "location": "N. Finnskoga",
+      "power_station_name": "Digerfallets kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 11,
+      "full_location": "N. Finnskoga, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södra Finnskoga, 680 61 Bograngen, Sweden",
+        "location": {
+          "lat": 60.70519399999999,
+          "lng": 12.567852
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Näckeåns elektriska A.-B.",
+      "location": "Dalby",
+      "power_station_name": "Näckeåns kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Dalby, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "” ”",
+      "location": "” ”",
+      "power_station_name": "Näckeåns kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 250,
+      "full_location": "” ”, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Andelsföreningen Leta—S. Finnskoga elektriska kraftstation",
+      "location": "Leta fos",
+      "power_station_name": "Leta foss kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Leta fos, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "B. Carlson",
+      "location": "Kindgönäs",
+      "power_station_name": "Leta foss kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 6,
+      "full_location": "Kindgönäs, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "A.-B. Femtnäs elektricitetsverk",
+      "location": "V. By",
+      "power_station_name": "Femtnäs kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "V. By, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Värms elektriska förening",
+      "location": "Värne",
+      "power_station_name": "Fennås kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 283,
+      "full_location": "Värne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Hornings—Stackeruds mekaniska förening",
+      "location": "Elshärad",
+      "power_station_name": "Brattfallets kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 700,
+      "full_location": "Elshärad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 60 Ekshärad, Sweden",
+        "location": {
+          "lat": 60.172769,
+          "lng": 13.4964549
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "J. Örebroiks stärkhus",
+      "location": "Gullspång",
+      "power_station_name": "Grundfors kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Gullspång, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gullspång, Sweden",
+        "location": {
+          "lat": 59.00292280000001,
+          "lng": 14.1069389
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Hofors elektriska förening",
+      "location": "Gullspång",
+      "power_station_name": "Skedviks kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Gullspång, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gullspång, Sweden",
+        "location": {
+          "lat": 59.00292280000001,
+          "lng": 14.1069389
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Solbergs belysningsförening",
+      "location": "Solbergs",
+      "power_station_name": "Solbergs kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Solbergs, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 61 Solberg, Sweden",
+        "location": {
+          "lat": 60.1754154,
+          "lng": 13.3954177
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "A.-B. Ystads elektricitetsverk",
+      "location": "Vitsand",
+      "power_station_name": "Vitsands kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Vitsand, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "685 94 Vitsand, Sweden",
+        "location": {
+          "lat": 60.333139,
+          "lng": 13.013239
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "—",
+      "location": "—",
+      "power_station_name": "Vitsands kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "—, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Nils Larsson",
+      "location": "Fryksände",
+      "power_station_name": "Fensbols kvarn och såg",
+      "power_source": "water",
+      "installed_capacity_kva": 6,
+      "full_location": "Fryksände, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Torsby Municipality, Sweden",
+        "location": {
+          "lat": 60.60933889999999,
+          "lng": 12.9219628
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Kilberga elektricitetsverk",
+      "location": "Hugneröding",
+      "power_station_name": "Rudbergs kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 4,
+      "full_location": "Hugneröding, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Villers A.-B.",
+      "location": "Torsby bruk",
+      "power_station_name": "Rydbergs kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Torsby bruk, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Torsby, Sweden",
+        "location": {
+          "lat": 60.14090719999999,
+          "lng": 13.0102132
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Hässel elektriska andelsförening",
+      "location": "Östmark",
+      "power_station_name": "Hassel kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 7,
+      "full_location": "Östmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "685 97 Östmark, Sweden",
+        "location": {
+          "lat": 60.2795644,
+          "lng": 12.7609368
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "—",
+      "location": "Viggafors",
+      "power_station_name": "Viggafors",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Viggafors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Billnora A.-B.",
+      "location": "Torsby",
+      "power_station_name": "Kornadfors",
+      "power_source": "water",
+      "installed_capacity_kva": 7,
+      "full_location": "Torsby, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Torsby, Sweden",
+        "location": {
+          "lat": 60.14090719999999,
+          "lng": 13.0102132
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Larsen",
+      "location": "Lekvattnet",
+      "power_station_name": "Turisthotellets kraftstation",
+      "power_source": "oil",
+      "installed_capacity_kva": 10,
+      "full_location": "Lekvattnet, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "685 91 Lekvattned, Sweden",
+        "location": {
+          "lat": 60.1923584,
+          "lng": 12.6695633
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Turisthotellet Lekvattnet",
+      "location": "Turisthotellets",
+      "power_station_name": "Hotellet kraftstation",
+      "power_source": "oil",
+      "installed_capacity_kva": 3,
+      "full_location": "Turisthotellets, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    }
+  ],
+  "filename": "Värmland_1.png"
+}

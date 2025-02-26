@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Moälv EL. Ab.",
+      "location": "Moälv",
+      "power_station_name": "Ab. fr. Örebro EL. verks AB",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Moälv, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Lantbrukarnas EL. Förening",
+      "location": "Kilanda",
+      "power_station_name": "Ab. fr. Mölnå Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Kilanda, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "A.-B. Garphytta Bruk",
+      "location": "Västra Tysslinge",
+      "power_station_name": "Garphyttan och Yxhult, Lanna med flera",
+      "power_source": "steam",
+      "installed_capacity_kva": 630,
+      "full_location": "Västra Tysslinge, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "719 95 Tysslinge, Sweden",
+        "location": {
+          "lat": 59.2852115,
+          "lng": 15.0198075
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Strömsnäs JBM. Tyslinge H.-F.",
+      "location": "Tysslinge",
+      "power_station_name": "Ab. fr. Örebro EL. verks AB",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Tysslinge, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "719 95 Tysslinge, Sweden",
+        "location": {
+          "lat": 59.2852115,
+          "lng": 15.0198075
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Örebro El. Ab.- Kraftnät Ab. El. Forskn. vid Långbro",
+      "location": "Långbro, Anta",
+      "power_station_name": "Karlslunda",
+      "power_source": "diesel",
+      "installed_capacity_kva": 10,
+      "full_location": "Långbro, Anta, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "703 48 Längbro parish, Sweden",
+        "location": {
+          "lat": 59.2779631,
+          "lng": 15.1500773
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Motala Kraftverkets Intress. vat. verk",
+      "location": "Örebro",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 7000,
+      "full_location": "Örebro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro, Sweden",
+        "location": {
+          "lat": 59.2752626,
+          "lng": 15.2134105
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Örebro EL. AB.",
+      "location": "Örebro",
+      "power_station_name": "Tysinge Virsunda Ab. Fr. Kalmar ",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Örebro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro, Sweden",
+        "location": {
+          "lat": 59.2752626,
+          "lng": 15.2134105
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Ab. Betaniedal",
+      "location": "Örebro",
+      "power_station_name": "Örebro EL. AB.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Örebro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro, Sweden",
+        "location": {
+          "lat": 59.2752626,
+          "lng": 15.2134105
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Ab. Södra Hammarnäs",
+      "location": "Sjöbäck",
+      "power_station_name": "Ab. fr. Örebro EL. verks AB",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Sjöbäck, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Järnvägens Starta AB ögon",
+      "location": "Ahlby, Mbab Albro",
+      "power_station_name": "Ab. fr. Örebro EL. verks AB",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ahlby, Mbab Albro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Arvika Ortnamnsf.",
+      "location": "Västra Långbro Kyrka",
+      "power_station_name": "Dylta kvarn",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Västra Långbro Kyrka, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Församlingsvägen 4, 703 48 Örebro, Sweden",
+        "location": {
+          "lat": 59.2787179,
+          "lng": 15.1512983
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Djäk, Samarbets.",
+      "location": "Dylta kvams",
+      "power_station_name": "Ab. fr. Örebro EL. verks AB",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Dylta kvams, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södra Dylta, 718 96 Dyltabruk, Sweden",
+        "location": {
+          "lat": 59.41936699999999,
+          "lng": 15.231958
+        }
+      }
+    }
+  ],
+  "filename": "Örebro_1.png"
+}

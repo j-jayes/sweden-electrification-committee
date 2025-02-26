@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "index": 116,
+      "company_name": "Härjeåns Kraft A.-B.",
+      "location": "Svegs socken",
+      "power_station_name": "Kvarnforsen",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Svegs socken, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sveg, Sweden",
+        "location": {
+          "lat": 62.0346245,
+          "lng": 14.3590366
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Bror Jonasson, Överberg",
+      "location": "Vemhåns socken",
+      "power_station_name": "Hånrad",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Vemhåns socken, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "846 93 Vemhån, Sweden",
+        "location": {
+          "lat": 62.3126783,
+          "lng": 14.0377738
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Linsells El. Bol. A.-B.",
+      "location": "Linsäll",
+      "power_station_name": "Linsärn",
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Linsäll, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Göto El. Ljuso. & Såg-fören.",
+      "location": "Glöte",
+      "power_station_name": "Glöte",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Glöte, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "842 91 Glöte, Sweden",
+        "location": {
+          "lat": 62.10113399999999,
+          "lng": 13.5254719
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Älvars Belysn.-Fören.",
+      "location": "Älvros",
+      "power_station_name": "Mojekvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 2,
+      "full_location": "Älvros, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "842 93 Älvros, Sweden",
+        "location": {
+          "lat": 62.0462401,
+          "lng": 14.6550534
+        }
+      }
+    },
+    {
+      "index": 121,
+      "company_name": "Älvars Belysn.-Fören.",
+      "location": "Smedjevallen",
+      "power_station_name": "Smedjevallen",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Smedjevallen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Ytterhogdals El. Kraft. A.-B.",
+      "location": "Ytterhogdal",
+      "power_station_name": "Hornforsen",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Ytterhogdal, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "842 71 Ytterhogdal, Sweden",
+        "location": {
+          "lat": 62.17487999999999,
+          "lng": 14.94114
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "Ångesjio Flot.-Stornäs El.-Fören.",
+      "location": "Ytterhogdal",
+      "power_station_name": "Kvarnsjön",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Ytterhogdal, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "842 71 Ytterhogdal, Sweden",
+        "location": {
+          "lat": 62.17487999999999,
+          "lng": 14.94114
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Ångesjö Kraft- & Belysn.-Fören.",
+      "location": "Vänsjövallen, Ytterhogdal",
+      "power_station_name": "Vänsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Vänsjövallen, Ytterhogdal, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "842 71 Ytterhogdal, Sweden",
+        "location": {
+          "lat": 62.17487999999999,
+          "lng": 14.94114
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "Vänsjö Kraft- & Bel.-För.",
+      "location": "Ytterhogdal",
+      "power_station_name": "Vänsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Ytterhogdal, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "842 71 Ytterhogdal, Sweden",
+        "location": {
+          "lat": 62.17487999999999,
+          "lng": 14.94114
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "Hede Kraft och Belysn. Fören.",
+      "location": "Hede",
+      "power_station_name": "Savnvallsbygget",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Hede, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "846 31 Hede, Sweden",
+        "location": {
+          "lat": 62.41899669999999,
+          "lng": 13.489904
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "Hede El. A.-B.",
+      "location": "Sunnå",
+      "power_station_name": "Sunnå",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Sunnå, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "Håns El. Förren.",
+      "location": "Håkansta",
+      "power_station_name": "Kvarnströmmens",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Håkansta, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "845 91 Håkansta, Sweden",
+        "location": {
+          "lat": 63.1251384,
+          "lng": 14.2932758
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "Kvarnströmmens El. A.-B.",
+      "location": "Strömsund",
+      "power_station_name": "Kvarnströmen",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Strömsund, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Strömsund, Sweden",
+        "location": {
+          "lat": 63.85366209999999,
+          "lng": 15.5568691
+        }
+      }
+    },
+    {
+      "index": 130,
+      "company_name": "Bergs Tingslags El. A.-B.",
+      "location": "Asarne",
+      "power_station_name": "Ab. fr. Bergs Tingsl. El. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Asarne, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "845 51 Åsarna, Sweden",
+        "location": {
+          "lat": 62.6443671,
+          "lng": 14.3715816
+        }
+      }
+    },
+    {
+      "index": 131,
+      "company_name": "Skönviks A.-B., Kolugnama",
+      "location": "Sandön",
+      "power_station_name": "Sandsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Sandön, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Mindre distr.-företag",
+      "location": "Råtan",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Råtan, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "845 95 Rätan, Sweden",
+        "location": {
+          "lat": 62.47749589999999,
+          "lng": 14.5432052
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Ljungan El. Samdistr.-Fören.",
+      "location": "Storsjö",
+      "power_station_name": "Råtan",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Storsjö, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "845 98 Storsjö, Sweden",
+        "location": {
+          "lat": 62.8021837,
+          "lng": 13.0580181
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "J. Jonsson",
+      "location": "Rönnberg",
+      "power_station_name": "Rönnberg",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Rönnberg, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    }
+  ],
+  "filename": "Jämtland_4.png"
+}

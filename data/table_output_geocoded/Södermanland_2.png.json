@@ -1,0 +1,405 @@
+{
+  "data": [
+    {
+      "index": 19,
+      "company_name": "Eskilstuna stads el-verk med Norra Klosters och Södra Klosters el. distr. fören.",
+      "location": "Eskilstuna",
+      "power_station_name": "Ab. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Eskilstuna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Eskilstuna, Sweden",
+        "location": {
+          "lat": 59.37124859999999,
+          "lng": 16.5098045
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Karl Gustavs stads gevärsfaktori",
+      "location": "Eskilstuna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 115,
+      "full_location": "Eskilstuna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Eskilstuna, Sweden",
+        "location": {
+          "lat": 59.37124859999999,
+          "lng": 16.5098045
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Eskilstuna Järnmanuf. A.-B.",
+      "location": "Tunafors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Tunafors, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tunafors, 633 57 Eskilstuna, Sweden",
+        "location": {
+          "lat": 59.35929340000001,
+          "lng": 16.5192888
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Eskilstuna Stålpressnings A.-B.",
+      "location": "Samarbete med Eskilstuna el-verk",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Samarbete med Eskilstuna el-verk, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tunnbindarvägen 1, 632 23 Eskilstuna, Sweden",
+        "location": {
+          "lat": 59.3766834,
+          "lng": 16.4675966
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Eskilstuna Stålpressnings A.-B.",
+      "location": "Samarbete med Eskilstuna el-verk",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Samarbete med Eskilstuna el-verk, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tunnbindarvägen 1, 632 23 Eskilstuna, Sweden",
+        "location": {
+          "lat": 59.3766834,
+          "lng": 16.4675966
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Nyborg Bruks A.-B.",
+      "location": "Torshälla",
+      "power_station_name": "Kvarnfallet",
+      "power_source": "water",
+      "installed_capacity_kva": 105,
+      "full_location": "Torshälla, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Torshälla, Sweden",
+        "location": {
+          "lat": 59.42129649999999,
+          "lng": 16.4769698
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Torshälla sockens el. distr. fören.",
+      "location": "Torshälla",
+      "power_station_name": "Kvarnfallet",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Torshälla, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Torshälla, Sweden",
+        "location": {
+          "lat": 59.42129649999999,
+          "lng": 16.4769698
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Mälarbadens el. fören.",
+      "location": "Tumbo, Råby-Rekarne",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Tumbo, Råby-Rekarne, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "635 12 Råby-Rekarne, Sweden",
+        "location": {
+          "lat": 59.38333300000001,
+          "lng": 16.3
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Tumbo el. distr. fören.",
+      "location": "Tumbo, Råby",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Tumbo, Råby, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "635 35 Råby, Sweden",
+        "location": {
+          "lat": 59.2954233,
+          "lng": 16.075834
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Vallby–Jäders el. distr. fören.",
+      "location": "Vallby",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vallby, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "635 09 Vallby, Sweden",
+        "location": {
+          "lat": 59.42139290000001,
+          "lng": 16.5671456
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Eskilstuna Stålpressnings A.-B. m. fl.",
+      "location": "Eskilstuna",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 6000,
+      "full_location": "Eskilstuna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Eskilstuna, Sweden",
+        "location": {
+          "lat": 59.37124859999999,
+          "lng": 16.5098045
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Rekarnebygdens el. distr. fören.",
+      "location": "Husby-Rekarne",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Husby-Rekarne, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "635 18 Husby-rekarne, Sweden",
+        "location": {
+          "lat": 59.24721820000001,
+          "lng": 16.4759882
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Stenkvista el. distr.—foren.",
+      "location": "Stenkvista",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Stenkvista, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stenkvista Stenkulla 1, 635 19 Eskilstuna, Sweden",
+        "location": {
+          "lat": 59.314417,
+          "lng": 16.5327127
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Ärla el. distr.—fören.",
+      "location": "Ärla",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ärla, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "635 36 Ärla, Sweden",
+        "location": {
+          "lat": 59.2782348,
+          "lng": 16.6857822
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Gillberga–Lista el. distr. fören.",
+      "location": "Lista",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lista, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "635 14 Lista, Sweden",
+        "location": {
+          "lat": 59.31630509999999,
+          "lng": 16.2710108
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Öja Kvarn A.-B.",
+      "location": "Öja, Väster",
+      "power_station_name": "Nässjön",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Öja, Väster, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerås, Sweden",
+        "location": {
+          "lat": 59.5798186,
+          "lng": 16.5598824
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Ö. Andersson, Hedensö",
+      "location": "Näsutla",
+      "power_station_name": "Näsutla kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Näsutla, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Motala kraftverk, sekundär stationen i Kantorp",
+      "location": "Sköldinge",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Sköldinge, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "641 64 Sköldinge, Sweden",
+        "location": {
+          "lat": 59.0310046,
+          "lng": 16.4460913
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "Kantorp el. distr.-fören.",
+      "location": "Kantorp",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Kantorp, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "641 99 Kantorp, Sweden",
+        "location": {
+          "lat": 59.02006849999999,
+          "lng": 16.4700555
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Floda el. distr.-foren.",
+      "location": "Floda",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Floda, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "641 97 Katrineholm, Sweden",
+        "location": {
+          "lat": 59.0671967,
+          "lng": 16.3620865
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "Söderporvrestens el. distr.-fören.",
+      "location": "Y. Vingåker, Floda",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Y. Vingåker, Floda, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vingåker, Sweden",
+        "location": {
+          "lat": 59.04337529999999,
+          "lng": 15.8709394
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "Julita el. distr.-foren.",
+      "location": "Julita",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 510,
+      "full_location": "Julita, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "643 60 Julita socken, Sweden",
+        "location": {
+          "lat": 59.14529270000001,
+          "lng": 16.0613966
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Vingåkers Tomt A.-B.",
+      "location": "V. Vingåker",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "V. Vingåker, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vingåker, Sweden",
+        "location": {
+          "lat": 59.04337529999999,
+          "lng": 15.8709394
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Vingåkers El. A.-B.",
+      "location": "Högsjö",
+      "power_station_name": "Ab. från Spånga kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 800,
+      "full_location": "Högsjö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "643 62 Högsjö, Sweden",
+        "location": {
+          "lat": 59.028904,
+          "lng": 15.6664749
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "Högsjö bruk, Schullström & Sjöströms Fabr. A.-B.",
+      "location": "Högsjö",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 420,
+      "full_location": "Högsjö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "643 62 Högsjö, Sweden",
+        "location": {
+          "lat": 59.028904,
+          "lng": 15.6664749
+        }
+      }
+    }
+  ],
+  "filename": "Södermanland_2.png"
+}

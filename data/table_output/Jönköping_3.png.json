@@ -1,0 +1,181 @@
+{
+    "data": [
+        {
+            "index": 36,
+            "company_name": "Månseryds gård, Bankeryd",
+            "location": "Bankeryd sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 27
+        },
+        {
+            "index": 37,
+            "company_name": "Lalleryds elektriska förening",
+            "location": "Järstorp sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 9
+        },
+        {
+            "index": 38,
+            "company_name": "Järstorp pr Jönköping",
+            "location": "Järstorp sn",
+            "power_station_name": "Ab. fr. Jönköpings el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 39,
+            "company_name": "Järstorps elektriska distr.-for., Järstorp pr Jönköping",
+            "location": "Järstorp sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 40,
+            "company_name": "Klimamestorp gård, Jönköping",
+            "location": "Jönköping sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 18
+        },
+        {
+            "index": 41,
+            "company_name": "A.-B. Sandserydselektr.-verk",
+            "location": "Sandseryd sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 37
+        },
+        {
+            "index": 42,
+            "company_name": "Huskvarnastads elektr.-verk",
+            "location": "Huskvarna stad",
+            "power_station_name": "Huskvarnastads elektr.ve-rk Husqvarna",
+            "power_source": "subscription",
+            "installed_capacity_kva": 41
+        },
+        {
+            "index": 43,
+            "company_name": "A.-B. Huskvarn a vapenfabr. A.-B.",
+            "location": "Huskvarna stad",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 58
+        },
+        {
+            "index": 44,
+            "company_name": "Angbrottets microfiberfabriks A.-B., Husqvarna",
+            "location": "Huskvarna stad",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 44
+        },
+        {
+            "index": 45,
+            "company_name": "Årås elektr.-verk",
+            "location": "Årås sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 46,
+            "company_name": "Åråsås kraftstation",
+            "location": "Hovslätt sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 47,
+            "company_name": "Jönköpings stad",
+            "location": "Jönköpings stad",
+            "power_station_name": "Jönköpings el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 45
+        },
+        {
+            "index": 48,
+            "company_name": "Jönköpings kraftstation",
+            "location": "Jönköpings stad",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 7500
+        },
+        {
+            "index": 49,
+            "company_name": "Munksjö A.-B., Jönköping",
+            "location": "Jönköping stad",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 4100
+        },
+        {
+            "index": 50,
+            "company_name": "Huskvarna",
+            "location": "Huskvarna stad",
+            "power_station_name": "Ab. fr. Huskvarna vapenfabr. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3740
+        },
+        {
+            "index": 51,
+            "company_name": "Husqvarna",
+            "location": "Huskvarna stad",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 2475
+        },
+        {
+            "index": 52,
+            "company_name": "Hakarp sn",
+            "location": "Hakarp sn",
+            "power_station_name": "Ab. fr. Smålands Kraft. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 53,
+            "company_name": "Klevarps elektr.-verk, Tenhult",
+            "location": "Rogberga sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 54,
+            "company_name": "A.-B. Norrhammaras elektr.-verk, Norrhamar",
+            "location": "Barnarp sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 55,
+            "company_name": "Ställfors elektr.-verk, Barnarp pr Jönköping",
+            "location": "Barnarp sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 4
+        },
+        {
+            "index": 56,
+            "company_name": "Norrhammars Bruk, Norrahammar. Kraftstn vid Hökensås",
+            "location": "Norrahammar",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 5300
+        },
+        {
+            "index": 57,
+            "company_name": "Norrhammar Bruk, Norrahammar. Kraftstation vid Slätten",
+            "location": "Norrahammar",
+            "power_station_name": null,
+            "power_source": "oil",
+            "installed_capacity_kva": 1
+        }
+    ],
+    "filename": "Jönköping_3.png"
+}

@@ -1,0 +1,277 @@
+{
+    "data": [
+        {
+            "index": 76,
+            "company_name": "Västerlösa El. Distr.-Fören.",
+            "location": "Västerlösa",
+            "power_station_name": "subscription from Linköpings El-Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 77,
+            "company_name": "Östra Tollstad El. Distr.-Fören.",
+            "location": "Östra Tollstad",
+            "power_station_name": "subscription from Linköpings El-Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 78,
+            "company_name": "Gammalkil El. Andelsist.-Fören.",
+            "location": "Gammalkil",
+            "power_station_name": "subscription from Linköpings El-Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 79,
+            "company_name": "Högby El. Distr.-Fören.",
+            "location": "Högby",
+            "power_station_name": "subscription from Linköpings El-Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 80,
+            "company_name": "Sjögestad El. Distr.-Fören.",
+            "location": "Sjögestad",
+            "power_station_name": "subscription from Linköpings El-Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 81,
+            "company_name": "Övriga distr inom Linköpingensådet",
+            "location": "Åkerbo, Bobergs, Valkebo, Hanekinds härader",
+            "power_station_name": "subscription from Linköpings El-Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 82,
+            "company_name": "Svenska Chokladfabriks A.-B.",
+            "location": "Ljungs Kösters härad",
+            "power_station_name": "Södra Malfors nedre",
+            "power_source": "water",
+            "installed_capacity_kva": 3200
+        },
+        {
+            "index": 83,
+            "company_name": "A.-B. Ljungs Tegelbruk",
+            "location": "Ljungs",
+            "power_station_name": "Ljung",
+            "power_source": "water",
+            "installed_capacity_kva": 73
+        },
+        {
+            "index": 84,
+            "company_name": "Svartådalens El-Kraft- och Distrib.-Fören.",
+            "location": "Vågforsen",
+            "power_station_name": "Knutsbro kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 85,
+            "company_name": "A.-B. Knutsbro Kraftstation.",
+            "location": "Grästorps härad Knutsbro kvarn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 85,
+            "company_name": "A.-B. Knutsbro Kraftstation.",
+            "location": "Grästorps härad Knutsbro kvarn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 86,
+            "company_name": "Torpa El. Distr.-Fören.",
+            "location": "Norrköpings",
+            "power_station_name": "Öjebro",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2600
+        },
+        {
+            "index": 87,
+            "company_name": "Härbergå El. Distr.-Fören.",
+            "location": "Norrköping",
+            "power_station_name": "subscription from Knutsbro Kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 88,
+            "company_name": "Dist. i Skänninge",
+            "location": "Härbergå",
+            "power_station_name": "subscription from Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 89,
+            "company_name": "Veta El. Distr.-Fören.",
+            "location": "Skänninge",
+            "power_station_name": "subscription from Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 90,
+            "company_name": "Sya El. Distr.-Fören.",
+            "location": "Sya",
+            "power_station_name": "subscription from Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 91,
+            "company_name": "Dist. i Mjölby",
+            "location": "Mjölby",
+            "power_station_name": "subscription from Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 92,
+            "company_name": "Väderstad Kvam A.-B. och Hulestad",
+            "location": "Väderstad och Hogstad",
+            "power_station_name": "Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 93,
+            "company_name": "Älvkulla Kraft A.-B.",
+            "location": "Mjölby",
+            "power_station_name": "Älvkulla",
+            "power_source": "oil",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 93,
+            "company_name": "Boxholms A.-B.",
+            "location": "Boxholm",
+            "power_station_name": "Boxholm",
+            "power_source": "steam",
+            "installed_capacity_kva": 836
+        },
+        {
+            "index": 93,
+            "company_name": "Boxholms A.-B.",
+            "location": "Ekeby och Åsbo",
+            "power_station_name": "Flemminge",
+            "power_source": "water",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 94,
+            "company_name": "Erikstads El. Distr.-Fören.",
+            "location": "Hogstad",
+            "power_station_name": "subscription from Motala Ströms Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 95,
+            "company_name": "Ekeby El. Distr.-Fören.",
+            "location": "Ekeby och Åsbo",
+            "power_station_name": "subscription from Motala Ströms Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 96,
+            "company_name": "Ödeshögs El. A.-B.",
+            "location": "Ödeshög",
+            "power_station_name": "subscription from Motala Ströms Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 97,
+            "company_name": "A.-B. Hallsta—Rimforsa El-verk",
+            "location": "Boxholm",
+            "power_station_name": "Boxholm",
+            "power_source": "oil",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 97,
+            "company_name": "A.-B. Hallsta—Rimforsa El-verk",
+            "location": "Tjällstad, Våtroås",
+            "power_station_name": "Sjöstätter",
+            "power_source": "water",
+            "installed_capacity_kva": 1400
+        },
+        {
+            "index": 98,
+            "company_name": "Hushållsnämnden",
+            "location": "Ulrika",
+            "power_station_name": "Hallsta",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 99,
+            "company_name": "Tyrisfors Kraft A.-B.",
+            "location": "Hällestad",
+            "power_station_name": "Eriksholm",
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 100,
+            "company_name": "Blomsfors",
+            "location": "Kisa",
+            "power_station_name": "Blomsfors",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 101,
+            "company_name": "Mjölsefalls A.-B.",
+            "location": "Nordingrå",
+            "power_station_name": "Komsjö",
+            "power_source": "steam",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 102,
+            "company_name": "Forsås A.-B. med abonnenter",
+            "location": "Klockhammar",
+            "power_station_name": "Örsjöström",
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 104,
+            "company_name": "Carl Stjǭrsw",
+            "location": "Fornäs",
+            "power_station_name": "Ånestad",
+            "power_source": "steam",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 104,
+            "company_name": "Carl Stjǭrsw",
+            "location": "Fornäs",
+            "power_station_name": "Fornäs",
+            "power_source": "steam",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 104,
+            "company_name": "Carl Stjǭrsw",
+            "location": "Fornäs",
+            "power_station_name": "Olstorp",
+            "power_source": "water",
+            "installed_capacity_kva": 1500
+        }
+    ],
+    "filename": "Östergötland_4.png"
+}

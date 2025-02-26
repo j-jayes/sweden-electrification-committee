@@ -1,0 +1,245 @@
+{
+    "data": [
+        {
+            "index": 82,
+            "company_name": "Mo och Domsjö A.-B.",
+            "location": "Själevad",
+            "power_station_name": "Domajö svulfabrik",
+            "power_source": "steam",
+            "installed_capacity_kva": 2900
+        },
+        {
+            "index": 83,
+            "company_name": "Mo och Domsjö A.-B.",
+            "location": "Själevad",
+            "power_station_name": "Domajöverkens såg",
+            "power_source": "steam",
+            "installed_capacity_kva": 4500
+        },
+        {
+            "index": 84,
+            "company_name": "Nafveqvärn-Hamabyås byamäns Kraftstation, Gussjö kraftstation",
+            "location": "Mo",
+            "power_station_name": "subscription from Gideåbacka kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 85,
+            "company_name": "Stenlands byamän Mo Elektriska Kraftförening",
+            "location": "Mo",
+            "power_station_name": "Hanabäck",
+            "power_source": "water",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 86,
+            "company_name": "Stenlands byamän Mo Elektriska Kraftförening",
+            "location": "Mo",
+            "power_station_name": "Stenland",
+            "power_source": "steam",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 87,
+            "company_name": "Stenlands byamän Mo Elektriska Kraftförening",
+            "location": "Mo",
+            "power_station_name": "Moforsen",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 88,
+            "company_name": "Järveds Mek. Verkstad",
+            "location": "Arnäs",
+            "power_station_name": "Gotene",
+            "power_source": "steam",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 89,
+            "company_name": "Järveds Mek. Verkstad",
+            "location": "Arnäs",
+            "power_station_name": "subscription from Örnsköldsviks stads Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 91,
+            "company_name": "Alne Sågverk",
+            "location": "Mo",
+            "power_station_name": "subscription from Gotene-Yttersels El-A.B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 92,
+            "company_name": "Bonässunds Slip",
+            "location": "Själevad",
+            "power_station_name": "Bläcka",
+            "power_source": "steam",
+            "installed_capacity_kva": 9230
+        },
+        {
+            "index": 93,
+            "company_name": "Örnsköldsviks stads Elektricitetsverk",
+            "location": "Örnsköldsvik",
+            "power_station_name": "subscription from Gotene-Yttersels El-A.B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 95,
+            "company_name": "Sågverksaktiebolaget Sandvikens Kraftstation",
+            "location": "Mo",
+            "power_station_name": "Båtska",
+            "power_source": "steam",
+            "installed_capacity_kva": 9600
+        },
+        {
+            "index": 97,
+            "company_name": "Eds-löts Bollnäs Belysningsförening",
+            "location": "Eds-löts",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 98,
+            "company_name": "Edas Sköns Belysningsförening",
+            "location": "Sköns",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 99,
+            "company_name": "Sköns Elektricitets-verk",
+            "location": "Sköns",
+            "power_station_name": "Sköns Kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 100,
+            "company_name": "Sköns Elektricitets-verk",
+            "location": "Sköns",
+            "power_station_name": "Norum",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 101,
+            "company_name": "Sundsvalls Elektricitets-verk",
+            "location": "Sköns",
+            "power_station_name": "Brynge",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 102,
+            "company_name": "Sundsvalls Elektricitets-verk",
+            "location": "Sköns",
+            "power_station_name": "Bruket",
+            "power_source": "steam",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 103,
+            "company_name": "Sköns Elektricitets-verk",
+            "location": "Sköns",
+            "power_station_name": "subscription from Sköns Elektricitets-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2200
+        },
+        {
+            "index": 105,
+            "company_name": "Sundsvalls Elektricitets-verk",
+            "location": "Sköns",
+            "power_station_name": "Norum",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 106,
+            "company_name": "Forss A.-B.",
+            "location": "Nätra",
+            "power_station_name": "Båtska",
+            "power_source": "steam",
+            "installed_capacity_kva": 9600
+        },
+        {
+            "index": 107,
+            "company_name": "Eds-löts Bollnäs Belysningsförening",
+            "location": "Eds-löts",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 108,
+            "company_name": "Edsåns Vattenkraftförening",
+            "location": "Eds-löts",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 2200
+        },
+        {
+            "index": 109,
+            "company_name": "Själevad Elektricitetsverk",
+            "location": "Själevad",
+            "power_station_name": "subscription from Sundsvalls Elektricitets-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2200
+        },
+        {
+            "index": 110,
+            "company_name": "Forss A.-B.",
+            "location": "Nätra",
+            "power_station_name": "Forss Kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 3200
+        },
+        {
+            "index": 111,
+            "company_name": "Sundsvalls Elektricitets-verk",
+            "location": "Sköns",
+            "power_station_name": "Bruket",
+            "power_source": "steam",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 112,
+            "company_name": "Sunds-lunds Elektricitets-verk",
+            "location": "Sunds",
+            "power_station_name": "Hanabäck",
+            "power_source": "steam",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 113,
+            "company_name": "Sunds-lunds Elektricitets-verk",
+            "location": "Sunds",
+            "power_station_name": "Norrfält",
+            "power_source": "water",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 114,
+            "company_name": "Mörtsjön Elektricitetsverk",
+            "location": "Multrå",
+            "power_station_name": "Forsse",
+            "power_source": "water",
+            "installed_capacity_kva": 9600
+        },
+        {
+            "index": 115,
+            "company_name": "Multrå Elektricitetsverk",
+            "location": "Multrå",
+            "power_station_name": "Forsse",
+            "power_source": "water",
+            "installed_capacity_kva": 9200
+        }
+    ],
+    "filename": "Västernorrland_3.png"
+}

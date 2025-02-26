@@ -1,0 +1,357 @@
+{
+  "data": [
+    {
+      "index": 93,
+      "company_name": "Nykarvns Pappersbruk A.-B.",
+      "location": "Turinge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Turinge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "155 91 Turinge, Sweden",
+        "location": {
+          "lat": 59.2,
+          "lng": 17.45
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Turinge el. distr.-fören. och Nykarvns Torv A.-B. F. Berglund",
+      "location": "Turinge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Turinge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "155 91 Turinge, Sweden",
+        "location": {
+          "lat": 59.2,
+          "lng": 17.45
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Salems el. distr.-fören.",
+      "location": "Salem",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Salem, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Salem, Sweden",
+        "location": {
+          "lat": 59.20768,
+          "lng": 17.7742216
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Salems östra el. distr.-fören. och Ekerö-Lovö el. distr.-fören. och Drottningholms slott forest västra el. distr.-fören.",
+      "location": "Ekerö, Lovö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ekerö, Lovö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lovön, 178 93 Drottningholm, Sweden",
+        "location": {
+          "lat": 59.3288295,
+          "lng": 17.8423353
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Nya murbruksfabriken Sånga och Så. el. distr. fören.",
+      "location": "Sånga, Skå",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Sånga, Skå, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "179 75 Ska, Sweden",
+        "location": {
+          "lat": 59.3325031,
+          "lng": 17.741815
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "Svartsjö tvångsarbetanst.",
+      "location": "Svartsjö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Svartsjö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "179 95 Svartsjö, Sweden",
+        "location": {
+          "lat": 59.366667,
+          "lng": 17.7333329
+        }
+      }
+    },
+    {
+      "index": 101,
+      "company_name": "Färentuna-Hilleshögs el. distr.-fören.",
+      "location": "Färentuna, Hilleshög",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Färentuna, Hilleshög, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "179 96 Hilleshög, Sweden",
+        "location": {
+          "lat": 59.38799899999999,
+          "lng": 17.70748
+        }
+      }
+    },
+    {
+      "index": 102,
+      "company_name": "Munsö-Adelsö el. distr.-fören.",
+      "location": "Munsö, Adelsö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Munsö, Adelsö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Adelsö - Munsö, Sweden",
+        "location": {
+          "lat": 59.3867221,
+          "lng": 17.5293752
+        }
+      }
+    },
+    {
+      "index": 103,
+      "company_name": "Sand & Grus A.-B. Jelander Stockholms stads vattenverk",
+      "location": "Botkyrka",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Botkyrka, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Botkyrka, Sweden",
+        "location": {
+          "lat": 59.2459411,
+          "lng": 17.8408583
+        }
+      }
+    },
+    {
+      "index": 104,
+      "company_name": "Fitjja el. distr.-fören. Långbro inst.-hem. m. m. eldistrib.förening.",
+      "location": "Enskede",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Enskede, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Enskede-Årsta-Vantör, Stockholm, Sweden",
+        "location": {
+          "lat": 59.2762834,
+          "lng": 18.0385285
+        }
+      }
+    },
+    {
+      "index": 105,
+      "company_name": "Uttrans el.a.b., Botkyrka salem, Bot.",
+      "location": "Årsta Vätteri",
+      "power_station_name": "Utröna Kraft",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Årsta Vätteri, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Årsta, Enskede-Årsta-Vantör, Stockholm, Sweden",
+        "location": {
+          "lat": 59.29858319999999,
+          "lng": 18.0459442
+        }
+      }
+    },
+    {
+      "index": 106,
+      "company_name": "Tullinge El. A.-B.",
+      "location": "Botkyrka",
+      "power_station_name": "A.-B. Separator",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Botkyrka, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Botkyrka, Sweden",
+        "location": {
+          "lat": 59.2459411,
+          "lng": 17.8408583
+        }
+      }
+    },
+    {
+      "index": 107,
+      "company_name": "A.-B. Separator",
+      "location": "Hammarby",
+      "power_station_name": "A.-B. Separator",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Hammarby, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "151 96 Hammarby, Sweden",
+        "location": {
+          "lat": 59.2830319,
+          "lng": 17.4557063
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Huddinge egendomars el. kraftfören.",
+      "location": "Huddinge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Huddinge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huddinge, Sweden",
+        "location": {
+          "lat": 59.23633,
+          "lng": 17.9821561
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Huddinge el. distr.-fören.",
+      "location": "Huddinge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Huddinge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huddinge, Sweden",
+        "location": {
+          "lat": 59.23633,
+          "lng": 17.9821561
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Drevvikens el. distr.-fören.",
+      "location": "Österhaninge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Österhaninge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "137 95 Österhaninge, Sweden",
+        "location": {
+          "lat": 59.128771,
+          "lng": 18.1687954
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "Luth & Rognäs El. A.-B.",
+      "location": "Tyresö",
+      "power_station_name": "Uddeby",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Tyresö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tyresö, Sweden",
+        "location": {
+          "lat": 59.2425954,
+          "lng": 18.2833919
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Dalarö el. distr.-fören.",
+      "location": "Dalarö",
+      "power_station_name": "subscription from Stockholms el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Dalarö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "137 70 Dalarö, Sweden",
+        "location": {
+          "lat": 59.1353294,
+          "lng": 18.4106143
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Södra Grödinge el. distr.-förening",
+      "location": "Björnlunda",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Björnlunda, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Lotsbro el.-verk",
+      "location": "Sorunda",
+      "power_station_name": "subscription from Stockholms el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 40,
+      "full_location": "Sorunda, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "148 70 Sorunda, Sweden",
+        "location": {
+          "lat": 59.0077774,
+          "lng": 17.8057277
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Västberga el. distr.-fören.",
+      "location": "Västberga",
+      "power_station_name": "subscription from Stockholms el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Västberga, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västberga, Hägersten-Liljeholmen, Stockholm, Sweden",
+        "location": {
+          "lat": 59.2947662,
+          "lng": 18.0037648
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Tungelsta el. distr.-fören.",
+      "location": "Västerhaninge",
+      "power_station_name": "subscription from Stockholms el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Västerhaninge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerhaninge, Sweden",
+        "location": {
+          "lat": 59.1215599,
+          "lng": 18.097336
+        }
+      }
+    }
+  ],
+  "filename": "Stockholm_5.png"
+}

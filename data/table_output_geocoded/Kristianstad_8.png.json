@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "index": 136,
+      "company_name": "Köpingesn",
+      "location": "Köpinge, Åsum, och Hovby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Köpinge, Åsum, och Hovby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åhus, Sweden",
+        "location": {
+          "lat": 55.9250391,
+          "lng": 14.2979949
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": "Östra Sönnarslövsn",
+      "location": "Malmöhus",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1000,
+      "full_location": "Malmöhus, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": "Everöds Sn",
+      "location": "Everöd och Arlövs andelselektricitetsförening",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1265,
+      "full_location": "Everöd och Arlövs andelselektricitetsförening, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arlöv, Sweden",
+        "location": {
+          "lat": 55.6402145,
+          "lng": 13.0886413
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": "Vittskövle sn",
+      "location": "Vittskövle",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 545,
+      "full_location": "Vittskövle, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "297 91 Vittskövle, Sweden",
+        "location": {
+          "lat": 55.8541962,
+          "lng": 14.1353171
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": "Brosarp sn",
+      "location": "Brosarp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Brosarp, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "273 50 Brösarp, Sweden",
+        "location": {
+          "lat": 55.72526999999999,
+          "lng": 14.10094
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": "Vitslöv sn",
+      "location": "Vitslöv",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Vitslöv, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 142,
+      "company_name": "Transåsn",
+      "location": "Transås",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Transås, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "273 92 Skåne-Tranås, Sweden",
+        "location": {
+          "lat": 55.6132875,
+          "lng": 13.9934407
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "Tryde sn",
+      "location": "Tryde",
+      "power_station_name": "subscription from Tomelilla Municipala Elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Tryde, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "273 97 Tryde, Sweden",
+        "location": {
+          "lat": 55.5635713,
+          "lng": 13.929291
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "Tomelilla m.o.",
+      "location": "Tomelilla",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Tomelilla, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tomelilla, Sweden",
+        "location": {
+          "lat": 55.54188869999999,
+          "lng": 13.9538845
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "Smedstorpsn m.m.",
+      "location": "Smedstorp",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 600,
+      "full_location": "Smedstorp, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "273 98 Smedstorp, Sweden",
+        "location": {
+          "lat": 55.549901,
+          "lng": 14.1160985
+        }
+      }
+    },
+    {
+      "index": 146,
+      "company_name": "Tomelilla m.o.",
+      "location": "Tomelilla",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 485,
+      "full_location": "Tomelilla, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tomelilla, Sweden",
+        "location": {
+          "lat": 55.54188869999999,
+          "lng": 13.9538845
+        }
+      }
+    },
+    {
+      "index": 150,
+      "company_name": "Hemmesjö sn",
+      "location": "Hemmesjö",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Hemmesjö, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    }
+  ],
+  "filename": "Kristianstad_8.png"
+}

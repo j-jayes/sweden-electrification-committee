@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Yngeredsfors Kraft A.-B.",
+            "location": "Fässberg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 2,
+            "company_name": "Papyrus A.-B.",
+            "location": "Mölndal",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 3,
+            "company_name": "Örstdsdistributionen i Askims härad",
+            "location": "Askims härad",
+            "power_station_name": "subscription from Yngeredsfors Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 4,
+            "company_name": "Trollhätte kraftverk",
+            "location": "Göteborg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 5,
+            "company_name": "Diverse industrier i Gårda",
+            "location": "Örgryte",
+            "power_station_name": "subscription from Yngeredsfors Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 6,
+            "company_name": "Trollhätte kraftverk",
+            "location": "Göteborg",
+            "power_station_name": "Transformatorcentralen i Göteborg",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 7,
+            "company_name": "Göteborgs stads el-verk",
+            "location": "Göteborg",
+            "power_station_name": "Göteborgs gascentral",
+            "power_source": "steam",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 8,
+            "company_name": "Belysnings A.-B. Städes el-",
+            "location": "V. Frölunda",
+            "power_station_name": "subscription from Göteborgs el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 9,
+            "company_name": "Diverse industrier i Härryda",
+            "location": "Göteborg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 10,
+            "company_name": "Backa-Tuve el. distr.-fören.",
+            "location": "Backa och Tuve",
+            "power_station_name": "subscription from Göteborgs el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 11,
+            "company_name": "Säveåns A.-B.",
+            "location": "Göteborg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 12,
+            "company_name": "Johannesbergs Fabr. A.-B.",
+            "location": "Mölndal",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 13,
+            "company_name": "Partilleds El. A.-B.",
+            "location": "Partille",
+            "power_station_name": "subscription from Göteborgs el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 14,
+            "company_name": "Råda el. distr.-fören.",
+            "location": "Råda",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1110
+        },
+        {
+            "index": 15,
+            "company_name": "Jonsreds Kabäcken",
+            "location": "Råda",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 51
+        },
+        {
+            "index": 16,
+            "company_name": "Språre el. distr.-fören.",
+            "location": "Mölnlycke",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 56
+        },
+        {
+            "index": 17,
+            "company_name": "M. Ljungström",
+            "location": "Landvetter",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 18,
+            "company_name": "N. Krohlsöm",
+            "location": "Härryda",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 19,
+            "company_name": "Härryda el. and.-fören.",
+            "location": "Härryda",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 5000
+        }
+    ],
+    "filename": "Goteborgs-och-Bohus_1.png"
+}

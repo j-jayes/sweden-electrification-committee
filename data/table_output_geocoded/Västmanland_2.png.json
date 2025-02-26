@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "index": 26,
+      "company_name": "Surahammars bruks A.-B.",
+      "location": "Svedvi",
+      "power_station_name": "Älsätra kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 540,
+      "full_location": "Svedvi, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 92 Svedvi, Sweden",
+        "location": {
+          "lat": 59.591736,
+          "lng": 16.270791
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "-",
+      "location": "Köping",
+      "power_station_name": "Samarbete med kraftstation nr 25",
+      "power_source": "subscription",
+      "installed_capacity_kva": 33000,
+      "full_location": "Köping, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Köping, Sweden",
+        "location": {
+          "lat": 59.5120962,
+          "lng": 15.9945102
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Hallstahammars A.-B.",
+      "location": "Kolbäck",
+      "power_station_name": "Västerås kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2900,
+      "full_location": "Kolbäck, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 50 Kolbäck, Sweden",
+        "location": {
+          "lat": 59.5635636,
+          "lng": 16.2303593
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "-",
+      "location": "---",
+      "power_station_name": "Samarbete med kraftstation nr 25 och 26",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1700,
+      "full_location": "---, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "A.-B. Storfors Pappersbruk",
+      "location": "Kolbäck",
+      "power_station_name": "Hallstahammars kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 13000,
+      "full_location": "Kolbäck, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 50 Kolbäck, Sweden",
+        "location": {
+          "lat": 59.5635636,
+          "lng": 16.2303593
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "A.-B. Svenska Metallverken",
+      "location": "Svedvi",
+      "power_station_name": "Trångfors kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 2400,
+      "full_location": "Svedvi, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 92 Svedvi, Sweden",
+        "location": {
+          "lat": 59.591736,
+          "lng": 16.270791
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "-",
+      "location": "Västerås",
+      "power_station_name": "Ängesövren kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 190,
+      "full_location": "Västerås, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerås, Sweden",
+        "location": {
+          "lat": 59.60990049999999,
+          "lng": 16.5448091
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Västerås kraftverk",
+      "location": "Västerås",
+      "power_station_name": "Västerås ångcentral",
+      "power_source": "steam",
+      "installed_capacity_kva": 42000,
+      "full_location": "Västerås, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerås, Sweden",
+        "location": {
+          "lat": 59.60990049999999,
+          "lng": 16.5448091
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Västerås stad",
+      "location": "Västerås",
+      "power_station_name": "Västerås elektricitetsverk",
+      "power_source": "diesel",
+      "installed_capacity_kva": 115,
+      "full_location": "Västerås, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerås, Sweden",
+        "location": {
+          "lat": 59.60990049999999,
+          "lng": 16.5448091
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Kolsva Järnverks A.-B.",
+      "location": "Bro o. Malma",
+      "power_station_name": "Samarbete med kraftstationerna nris 17-20",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Bro o. Malma, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Malma, 725 96 Västerås, Sweden",
+        "location": {
+          "lat": 59.6483831,
+          "lng": 16.6108861
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Lyftinge elektr. distributionsförening u. p.a.",
+      "location": "Malma köping",
+      "power_station_name": "Lyftinge kraftstation",
+      "power_source": "diesel",
+      "installed_capacity_kva": 108,
+      "full_location": "Malma köping, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "MALMA KYRKA 1, 731 94 Köping, Sweden",
+        "location": {
+          "lat": 59.54115639999999,
+          "lng": 15.9333055
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "-",
+      "location": "Köping",
+      "power_station_name": "Ekeby elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3900,
+      "full_location": "Köping, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Köping, Sweden",
+        "location": {
+          "lat": 59.5120962,
+          "lng": 15.9945102
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Fredr. Lorichs bruks",
+      "location": "V. Svedvi",
+      "power_station_name": "Prenästaden",
+      "power_source": "steam",
+      "installed_capacity_kva": 1100,
+      "full_location": "V. Svedvi, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 92 Svedvi, Sweden",
+        "location": {
+          "lat": 59.591736,
+          "lng": 16.270791
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "A.-B. Arboga Mek. Verkstad",
+      "location": "Arboga",
+      "power_station_name": "Jäders bruks",
+      "power_source": "steam",
+      "installed_capacity_kva": 1500,
+      "full_location": "Arboga, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arboga, Sweden",
+        "location": {
+          "lat": 59.39368829999999,
+          "lng": 15.8381747
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "Arboga stad",
+      "location": "Arboga",
+      "power_station_name": "Arboga elektricitetsverk",
+      "power_source": "steam",
+      "installed_capacity_kva": 1200,
+      "full_location": "Arboga, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arboga, Sweden",
+        "location": {
+          "lat": 59.39368829999999,
+          "lng": 15.8381747
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "-",
+      "location": "Grindbergen",
+      "power_station_name": "Abon. från Grindberga kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5000,
+      "full_location": "Grindbergen, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Hjelmare Kanal och Slussverks A.-B.",
+      "location": "Säterbo",
+      "power_station_name": "Hallby tresliperi kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 5000,
+      "full_location": "Säterbo, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "SÄTERBO KYRKA 517, 732 94 Arboga, Sweden",
+        "location": {
+          "lat": 59.37926840000001,
+          "lng": 15.9227599
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "B. I. Blix",
+      "location": "Björskog",
+      "power_station_name": "Ostuna kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5600,
+      "full_location": "Björskog, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Björskogs Kyrka, 731 97 Köping, Sweden",
+        "location": {
+          "lat": 59.4475303,
+          "lng": 15.9570749
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "A.-B. Sala el.-verk",
+      "location": "Sala stad",
+      "power_station_name": "Sala elektricitetsverk",
+      "power_source": "steam",
+      "installed_capacity_kva": 1600,
+      "full_location": "Sala stad, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sala, Sweden",
+        "location": {
+          "lat": 59.9208594,
+          "lng": 16.606328
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "-",
+      "location": "Sala",
+      "power_station_name": "Abon. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 29000,
+      "full_location": "Sala, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sala, Sweden",
+        "location": {
+          "lat": 59.9208594,
+          "lng": 16.606328
+        }
+      }
+    }
+  ],
+  "filename": "Västmanland_2.png"
+}

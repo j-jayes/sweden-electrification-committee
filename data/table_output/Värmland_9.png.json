@@ -1,0 +1,269 @@
+{
+    "data": [
+        {
+            "index": 353,
+            "company_name": "Sångbergetsföreningen",
+            "location": "Silbodal",
+            "power_station_name": "subscription from nr 253",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 354,
+            "company_name": "Sjögrändernas ljusförening",
+            "location": "Do",
+            "power_station_name": "subscription from nr 253",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 355,
+            "company_name": "Holerudsforenas A.-B. (Mörudds kvarn)",
+            "location": "Do",
+            "power_station_name": "Moleruds kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 356,
+            "company_name": "Åslanda elektriska förening",
+            "location": "Åslanda",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 356,
+            "company_name": "Lennartsfors A.-B.",
+            "location": "Trankil",
+            "power_station_name": "Lennartsfors bruk",
+            "power_source": "water",
+            "installed_capacity_kva": 207
+        },
+        {
+            "index": 357,
+            "company_name": "Blomma elektriska förening",
+            "location": "Blomskog",
+            "power_station_name": "Blomma kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 275
+        },
+        {
+            "index": 358,
+            "company_name": "Sandbygdens kraft A.-B.",
+            "location": "Sillerud",
+            "power_station_name": "Sandbygdens kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 350
+        },
+        {
+            "index": 359,
+            "company_name": "Åsebyfors elektriska verk",
+            "location": "Åsebyfors",
+            "power_station_name": "Åsebyfors",
+            "power_source": "water",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 360,
+            "company_name": "Sandna elektriska förening",
+            "location": "Sandna",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 361,
+            "company_name": "A.-B. Grinsafallets kraftstation",
+            "location": "Grinsafors",
+            "power_station_name": "Grinsafors såg",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 362,
+            "company_name": "D. Nordin",
+            "location": "Svanskog",
+            "power_station_name": "Donsbols såg",
+            "power_source": "water",
+            "installed_capacity_kva": 14
+        },
+        {
+            "index": 363,
+            "company_name": "Esbjörbyns elektriska förening",
+            "location": "Långserud",
+            "power_station_name": "Esbjörbyns",
+            "power_source": "water",
+            "installed_capacity_kva": 14
+        },
+        {
+            "index": 364,
+            "company_name": "Svaneholms A.-B.",
+            "location": "Svaneholm",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 365,
+            "company_name": "Viskfors A.-B.",
+            "location": "Viskfors",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 366,
+            "company_name": "Eldaren Pettersson",
+            "location": "Kyrefors",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 367,
+            "company_name": "Kolstares Kraft A.-B.",
+            "location": "Gillberga",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 368,
+            "company_name": "Stenbyka elektriska andelsförening",
+            "location": "Skillingfors",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 368,
+            "company_name": "Do",
+            "location": "Torsby",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 368,
+            "company_name": "Do",
+            "location": "Do",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 369,
+            "company_name": "Do",
+            "location": "Skillingfors",
+            "power_station_name": "Skillingfors",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 369,
+            "company_name": "Do",
+            "location": "Bispgården",
+            "power_station_name": "Bispgården",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 369,
+            "company_name": "Do",
+            "location": "Matfors",
+            "power_station_name": "Matfors",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 369,
+            "company_name": "Do",
+            "location": "Viksfors",
+            "power_station_name": "Byn",
+            "power_source": "water",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 369,
+            "company_name": "Do",
+            "location": "Molnbygden",
+            "power_station_name": "Nykroppa",
+            "power_source": "water",
+            "installed_capacity_kva": 28
+        },
+        {
+            "index": 370,
+            "company_name": "Viskfors A.-B.",
+            "location": "Viskfors",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 370,
+            "company_name": "Do",
+            "location": "Yttra",
+            "power_station_name": "ÅBs kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 371,
+            "company_name": "Do",
+            "location": "Do",
+            "power_station_name": "Kulta",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 371,
+            "company_name": "Do",
+            "location": "Gillberga",
+            "power_station_name": "Blixbo kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 371,
+            "company_name": "Do",
+            "location": "Gillberga",
+            "power_station_name": "Tollbullete kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 371,
+            "company_name": "Do",
+            "location": "Svalöv",
+            "power_station_name": "Hellik",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 371,
+            "company_name": "Do",
+            "location": "Do",
+            "power_station_name": "Granheda kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 450
+        },
+        {
+            "index": 371,
+            "company_name": "Do",
+            "location": "Do",
+            "power_station_name": "Hartjärn kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 371,
+            "company_name": "Do",
+            "location": "Do",
+            "power_station_name": "Do",
+            "power_source": "water",
+            "installed_capacity_kva": 750
+        }
+    ],
+    "filename": "Värmland_9.png"
+}

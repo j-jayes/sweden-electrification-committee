@@ -1,0 +1,80 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer i tabellen"
+        },
+        {
+            "id": 2,
+            "label": "Distr.—-",
+            "description": "Distribuerande företag"
+        },
+        {
+            "id": 3,
+            "label": "För ———”, resp. ägare",
+            "description": "Företagets namn eller ägare"
+        },
+        {
+            "id": 4,
+            "label": "Kommun",
+            "description": "Förvaltningskommun"
+        },
+        {
+            "id": 5,
+            "label": "Kraftstationens namn",
+            "description": "Namn på kraftstationen"
+        },
+        {
+            "id": 6,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft (t.e.x. vatten, ånga)"
+        },
+        {
+            "id": 7,
+            "label": "Utbyggnads-",
+            "description": "Byggnadsstatus för kraftstationen"
+        },
+        {
+            "id": 8,
+            "label": "förhållande",
+            "description": "Förhållande till tidigare byggen"
+        },
+        {
+            "id": 9,
+            "label": "Generatoreffekt",
+            "description": "Generatorns effekt i kVA"
+        },
+        {
+            "id": 10,
+            "label": "m",
+            "description": "Maximal effekt i mA"
+        },
+        {
+            "id": 11,
+            "label": "Spänning",
+            "description": "Spänning i volt/effekt"
+        },
+        {
+            "id": 12,
+            "label": "System",
+            "description": "Typ av elektriskt system"
+        },
+        {
+            "id": 13,
+            "label": "Antal st.",
+            "description": "Antal transformatorer"
+        },
+        {
+            "id": 14,
+            "label": "Anmärkningar",
+            "description": "Eventuella kommentarer eller anmärkningar"
+        },
+        {
+            "id": 15,
+            "label": "Nr a karta",
+            "description": "Nummer på karta"
+        }
+    ],
+    "filename": "Västernorrland_1.png"
+}

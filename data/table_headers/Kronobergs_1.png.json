@@ -1,0 +1,55 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr enligt kartan",
+            "description": "Numeriskt identifieringsnummer i relation till kartan"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn",
+            "description": "Namn på det företag som äger anläggningen"
+        },
+        {
+            "id": 3,
+            "label": "Kommun",
+            "description": "Kommun där anläggningen är belägen"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstations namn",
+            "description": "Namn på kraftstationen"
+        },
+        {
+            "id": 5,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft som används"
+        },
+        {
+            "id": 6,
+            "label": "Utbyggd fallhöjd m",
+            "description": "Byggd fallhöjd i meter"
+        },
+        {
+            "id": 7,
+            "label": "Instalerad generator effekt kVA",
+            "description": "Installerad generatoreffekt i kilovoltampere (kVA)"
+        },
+        {
+            "id": 8,
+            "label": "Period",
+            "description": "Typ av period för anläggningen"
+        },
+        {
+            "id": 9,
+            "label": "Strömsystem",
+            "description": "Typ av strömsystem (t.ex. 1-fas, 3-fas)"
+        },
+        {
+            "id": 10,
+            "label": "Spänningssystem volt",
+            "description": "Spänningssystem i volt"
+        }
+    ],
+    "filename": "Kronobergs_1.png"
+}

@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "A.-B. Röttle elektricitetsverk",
+            "location": "Gränna",
+            "power_station_name": "subscription from Södra Vätterns kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 8200
+        },
+        {
+            "index": 2,
+            "company_name": "Södra Vätterns kraft A.-B.",
+            "location": "Jönköping",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 8200
+        },
+        {
+            "index": 3,
+            "company_name": "Södra Vätterns kraft A.-B.",
+            "location": "Jönköping",
+            "power_station_name": "subscription from Södra Vätterns kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 8200
+        },
+        {
+            "index": 4,
+            "company_name": "Bunnströms elektriska förening",
+            "location": "Gränna",
+            "power_station_name": "subscription from Södra Vätterns kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 8200
+        },
+        {
+            "index": 5,
+            "company_name": "Aneås elektriska förening",
+            "location": "Gränna",
+            "power_station_name": "subscription from Södra Vätterns kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 6,
+            "company_name": "Ölmestads norra energiförening",
+            "location": "Brötjemark",
+            "power_station_name": "subscription from Södra Vätterns kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 7,
+            "company_name": "Ölmestads kraft A.-B.",
+            "location": "Brötjemark",
+            "power_station_name": "subscription from Södra Vätterns kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 8,
+            "company_name": "Jönköpings stads elektricitetsverk",
+            "location": "Jönköping",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 1800
+        },
+        {
+            "index": 9,
+            "company_name": "Jönköpings stads elektricitetsverk",
+            "location": "Jönköping",
+            "power_station_name": "subscription from Jönköpings el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2700
+        },
+        {
+            "index": 10,
+            "company_name": "Lyckås A.-B.",
+            "location": "Lyckås Gård",
+            "power_station_name": "subscription from Jönköpings el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2700
+        },
+        {
+            "index": 11,
+            "company_name": "Tranås stads elektricitetsverk",
+            "location": "Tranås",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3240
+        },
+        {
+            "index": 12,
+            "company_name": "A.-B. Asvallahults elektricitetsverk",
+            "location": "Tranås",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3600
+        },
+        {
+            "index": 13,
+            "company_name": "A.-B. Asvallahults elektricitetsverk",
+            "location": "Tranås",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 840
+        }
+    ],
+    "filename": "Jönköping_1.png"
+}

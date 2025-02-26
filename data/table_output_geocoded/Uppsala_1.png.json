@@ -1,0 +1,421 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Stockholms stads el-verk, Aktiebolaget kraftverken.",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "Untra",
+      "power_source": "water",
+      "installed_capacity_kva": 30000,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Stockholms stads el-verk, Aktiebolaget kraftverken.",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "Untra",
+      "power_source": "water",
+      "installed_capacity_kva": 50000,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Södra el. distr.-fören. i Norra de. distr.-fören. och, Älvkarleby d.el. St.fören.(Överordna el. distr.-fören. i, Årsunda el.-fören.",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Södra el. distr.-fören. i Norra de. distr.-fören. och, Älvkarleby d.el. St.fören.(Överordna el. distr.-fören. i, Årsunda el.-fören.",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Södra el. distr.-fören. i Norra de. distr.-fören. och, Älvkarleby d.el. St.fören.(Överordna el. distr.-fören. i, Årsunda el.-fören.",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Södra el. distr.-fören. i Norra de. distr.-fören. och, Älvkarleby d.el. St.fören.(Överordna el. distr.-fören. i, Årsunda el.-fören.",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Söderfors Bruks A.-B., Skutskärs",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Söderfors el.-förening Vesalund",
+      "location": "Vesalund",
+      "power_station_name": "Carlholms kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Vesalund, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Nesslund bruks el.-förening, Ytter-Lötsva EL. A.-B.",
+      "location": "Östra Lötsva",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Östra Lötsva, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Nesslund bruks el.-förening, Ytter-Lötsva EL. A.-B.",
+      "location": "Östra Lötsva",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Östra Lötsva, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Lancrosens kraftverks bygg.",
+      "location": "Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvkarleby, Sweden",
+        "location": {
+          "lat": 60.56860669999999,
+          "lng": 17.4489129
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "a.-B. Marma el.-verk",
+      "location": "Tierp",
+      "power_station_name": "Söderfors bruk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1080,
+      "full_location": "Tierp, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tierp, Sweden",
+        "location": {
+          "lat": 60.34758659999999,
+          "lng": 17.5205086
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "a.-B. Mehreb el.-verk",
+      "location": "Tierp",
+      "power_station_name": "Söderfors bruk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1080,
+      "full_location": "Tierp, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tierp, Sweden",
+        "location": {
+          "lat": 60.34758659999999,
+          "lng": 17.5205086
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Söderfors Bruks A.-B.",
+      "location": "Söderfors",
+      "power_station_name": "Söderfors bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 1080,
+      "full_location": "Söderfors, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Söderfors Bruks A.-B.",
+      "location": "Söderfors",
+      "power_station_name": "Söderfors bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 1080,
+      "full_location": "Söderfors, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Distributionen i Langviken",
+      "location": "Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvkarleby, Sweden",
+        "location": {
+          "lat": 60.56860669999999,
+          "lng": 17.4489129
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Distributionen i Langviken",
+      "location": "Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvkarleby, Sweden",
+        "location": {
+          "lat": 60.56860669999999,
+          "lng": 17.4489129
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Söderfors Bruks A.-B.",
+      "location": "Söderfors",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Söderfors, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Engsolegrenska el.-distr.-förening, Högbro K. a.-B.",
+      "location": "Söderfors, Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Söderfors, Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 75 Söderfors, Sweden",
+        "location": {
+          "lat": 60.3822707,
+          "lng": 17.2468246
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "A.B. Tierps el.-verk",
+      "location": "Tierp",
+      "power_station_name": "Tierps el.-verk",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Tierp, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tierp, Sweden",
+        "location": {
+          "lat": 60.34758659999999,
+          "lng": 17.5205086
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Tierps el. a.-B. verk, Tierps el. distr.-fören.",
+      "location": "Tierp",
+      "power_station_name": "Tierps el.-verk",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Tierp, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tierp, Sweden",
+        "location": {
+          "lat": 60.34758659999999,
+          "lng": 17.5205086
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Tierps el. a.-B. verk, Tierps el. distr.-fören.",
+      "location": "Tierp",
+      "power_station_name": "Tierps el.-verk",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Tierp, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tierp, Sweden",
+        "location": {
+          "lat": 60.34758659999999,
+          "lng": 17.5205086
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Strömsbergs a.-B.",
+      "location": "Husby",
+      "power_station_name": "subscription from Tierps el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Husby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "755 94 Husby, Sweden",
+        "location": {
+          "lat": 59.91467720000001,
+          "lng": 17.6429882
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Karbolund el a.-B. Högsta och, Älvkarleby kraftverk, korperat.",
+      "location": "Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 75,
+      "full_location": "Älvkarleby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvkarleby, Sweden",
+        "location": {
+          "lat": 60.56860669999999,
+          "lng": 17.4489129
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Flisbo el. distr.-fören.",
+      "location": "Flisbo, Dannemora",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Flisbo, Dannemora, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "748 30 Dannemora, Sweden",
+        "location": {
+          "lat": 60.1975419,
+          "lng": 17.8469454
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Danemora sockens el.-distr.fören.",
+      "location": "Dannemora",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Dannemora, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "748 30 Dannemora, Sweden",
+        "location": {
+          "lat": 60.1975419,
+          "lng": 17.8469454
+        }
+      }
+    }
+  ],
+  "filename": "Uppsala_1.png"
+}

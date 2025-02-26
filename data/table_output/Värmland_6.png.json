@@ -1,0 +1,245 @@
+{
+    "data": [
+        {
+            "index": 161,
+            "company_name": "Ned. Alsters elektriska a",
+            "location": "Alster",
+            "power_station_name": "subscription from Deje kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 162,
+            "company_name": "Östra Fågelviks elektricka",
+            "location": "Ö. Fågelvik",
+            "power_station_name": "subscription from Deje kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 163,
+            "company_name": "Skattkärrs elektriska andelsförening",
+            "location": "Skattkärr",
+            "power_station_name": "subscription from Deje kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 164,
+            "company_name": "Skattkärrs elektriska andelsförening",
+            "location": "Skattkärr",
+            "power_station_name": "subscription from Deje kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 165,
+            "company_name": "Skattkärrs egnael o. kakel",
+            "location": "Skattkärr",
+            "power_station_name": "subscription from Deje kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 166,
+            "company_name": "G. Lindstedt, Skattkärr",
+            "location": "Skattkärr",
+            "power_station_name": "Skattkärrs sågverk",
+            "power_source": "steam",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 167,
+            "company_name": "Väse elektriska andelsförening",
+            "location": "Väse",
+            "power_station_name": "subscription from Deje kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3300
+        },
+        {
+            "index": 168,
+            "company_name": "Olsson, N. Forsnäs",
+            "location": "Alster",
+            "power_station_name": "Forsnäs kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 173
+        },
+        {
+            "index": 169,
+            "company_name": "Säter, Ulvsby",
+            "location": "Alster",
+            "power_station_name": "Alsters kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 170,
+            "company_name": "E. Eriksson m. fl, Vyse",
+            "location": "Ölme",
+            "power_station_name": "Trefors kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 153
+        },
+        {
+            "index": 171,
+            "company_name": "Olme elektriska andelsförening",
+            "location": "Ölme",
+            "power_station_name": "subscription from Trefors",
+            "power_source": "subscription",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 172,
+            "company_name": "Karl Myren, Ölme",
+            "location": "Hultås",
+            "power_station_name": "Hultås",
+            "power_source": "water",
+            "installed_capacity_kva": 6
+        },
+        {
+            "index": 173,
+            "company_name": "Bengsson & Andersson",
+            "location": "Myröm",
+            "power_station_name": "Myröm",
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 174,
+            "company_name": "Löfsta",
+            "location": "Forsnäs",
+            "power_station_name": "Forsnäs",
+            "power_source": "water",
+            "installed_capacity_kva": 19
+        },
+        {
+            "index": 175,
+            "company_name": "Degerfors elektriska",
+            "location": "Ölme",
+            "power_station_name": "Ölme",
+            "power_source": "water",
+            "installed_capacity_kva": 19
+        },
+        {
+            "index": 176,
+            "company_name": "Stiftelsen Landsbergs Lungsund",
+            "location": "Kvarndes",
+            "power_station_name": "Stiftelsen Landsbergs",
+            "power_source": "water",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 177,
+            "company_name": "Lundsbergs Fastighets",
+            "location": "Lundsberg",
+            "power_station_name": "Lundsbergs kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 118
+        },
+        {
+            "index": 178,
+            "company_name": "A-B Virèn",
+            "location": "Kroppa",
+            "power_station_name": "Käskjärd",
+            "power_source": "water",
+            "installed_capacity_kva": 86
+        },
+        {
+            "index": 179,
+            "company_name": "Uddeholms A-B",
+            "location": "Kroppa",
+            "power_station_name": "Gammelkroppa kraftstation 1",
+            "power_source": "water",
+            "installed_capacity_kva": 325
+        },
+        {
+            "index": 180,
+            "company_name": "Do",
+            "location": "Kroppa",
+            "power_station_name": "Nykroppa kraftstation nr 1",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 181,
+            "company_name": "Do",
+            "location": "Storfors",
+            "power_station_name": "Storfors kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 182,
+            "company_name": "Do",
+            "location": "Storfors",
+            "power_station_name": "Lillfors",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 183,
+            "company_name": "Do",
+            "location": "Lillfors",
+            "power_station_name": "Skåpytans",
+            "power_source": "water",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 184,
+            "company_name": "Do",
+            "location": "Fernebo",
+            "power_station_name": "Aspkytte",
+            "power_source": "water",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 185,
+            "company_name": "Do",
+            "location": "Storfors",
+            "power_station_name": "Bjurö kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 17
+        },
+        {
+            "index": 187,
+            "company_name": "Bergsjö elektricks",
+            "location": "Färnebo",
+            "power_station_name": "subscription from Hammarby",
+            "power_source": "subscription",
+            "installed_capacity_kva": 223
+        },
+        {
+            "index": 188,
+            "company_name": "Filipstad stad",
+            "location": "Filipstad",
+            "power_station_name": "subscription from Hålvatnås",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 189,
+            "company_name": "G. Karlsson",
+            "location": "Skribo kraftstation",
+            "power_station_name": "Kåberget",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 190,
+            "company_name": "Do",
+            "location": "Halsjern",
+            "power_station_name": "Kautvattnet",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 191,
+            "company_name": "Do",
+            "location": "Färnebo",
+            "power_station_name": "subscription from Svartinvand Akmens",
+            "power_source": "water",
+            "installed_capacity_kva": 250
+        }
+    ],
+    "filename": "Värmland_6.png"
+}

@@ -1,0 +1,20 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr. enligt kartan",
+            "description": "Nummer enligt kartan"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn, ägare eller innehavare",
+            "description": "Företagets namn och dess ägare eller innehavare"
+        },
+        {
+            "id": 3,
+            "label": "Kraftstationens namn eller belägenhet",
+            "description": "Namn eller plats för kraftstationen"
+        }
+    ],
+    "filename": "Gotland_1.png"
+}

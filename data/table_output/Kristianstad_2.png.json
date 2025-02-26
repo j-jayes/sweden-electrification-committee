@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "index": 17,
+            "company_name": "Ausås Andelselektricitetsförening",
+            "location": "Spanarp",
+            "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 18,
+            "company_name": "A.-B. Äsperöds Elverk",
+            "location": "Äsperöd",
+            "power_station_name": "subscription from Ausås Andelselektricitetsförening",
+            "power_source": "subscription",
+            "installed_capacity_kva": 311
+        },
+        {
+            "index": 19,
+            "company_name": "Spannarp",
+            "location": "Spannarp",
+            "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 20,
+            "company_name": "Västra Broby sn",
+            "location": "Västra Broby",
+            "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 230
+        },
+        {
+            "index": 21,
+            "company_name": "Humlarps Elektricitetsförening",
+            "location": "Ästorp",
+            "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 22,
+            "company_name": "Västra Broby med medges elektriska distributionsförening",
+            "location": "Västra Broby",
+            "power_station_name": "Antgruhlin 100000",
+            "power_source": "subscription",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 23,
+            "company_name": "-----",
+            "location": "-----",
+            "power_station_name": "subscription from Antgruhlin 100000",
+            "power_source": "subscription",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 24,
+            "company_name": "-----",
+            "location": "----",
+            "power_station_name": "subscription from Höganäs-Billesholm",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 25,
+            "company_name": "Björnekulla sn",
+            "location": "Björnekulla",
+            "power_station_name": "subscription from Sydsvenska Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 26,
+            "company_name": "Kvidinge sn",
+            "location": "Kvidinge",
+            "power_station_name": "Kvidinge Andelselektricitetsförening",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 27,
+            "company_name": "-----",
+            "location": "-----",
+            "power_station_name": "subscription from Kvidinge Andelselektricitetsförening",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 28,
+            "company_name": "-----",
+            "location": "-----",
+            "power_station_name": "subscription from Sydsvenska Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 29,
+            "company_name": "-----",
+            "location": "-----",
+            "power_station_name": "subscription from A.-B. Klippans Finpapperbruks",
+            "power_source": "subscription",
+            "installed_capacity_kva": 375
+        },
+        {
+            "index": 30,
+            "company_name": "Tostarps sn",
+            "location": "Norra Åsbo",
+            "power_station_name": "subscription from Ängelholms stad elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 31,
+            "company_name": "-----",
+            "location": "-----",
+            "power_station_name": "subscription from Munka-Ljungby Andelselektricitetsförening",
+            "power_source": "subscription",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 32,
+            "company_name": "-----",
+            "location": "-----",
+            "power_station_name": "subscription from Sydsvenska Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": 660
+        },
+        {
+            "index": 33,
+            "company_name": "Munka-Ljungby Elektricitetsförening",
+            "location": "Munka-Ljungby",
+            "power_station_name": "subscription from Ängelholms stad elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 34,
+            "company_name": "-----",
+            "location": "-----",
+            "power_station_name": "subscription from Sydsvenska Kraft",
+            "power_source": "subscription",
+            "installed_capacity_kva": 870
+        },
+        {
+            "index": 35,
+            "company_name": "Munka-Ljungby Andelselektricitetsförening",
+            "location": "Munka-Ljungby",
+            "power_station_name": "subscription from Össjö Energiförening",
+            "power_source": "subscription",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 36,
+            "company_name": "Gångvads Gård",
+            "location": "Källna",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        }
+    ],
+    "filename": "Kristianstad_2.png"
+}

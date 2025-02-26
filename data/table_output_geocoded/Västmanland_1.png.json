@@ -1,0 +1,405 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Norbergs Elektriska A.-B.",
+      "location": "Norberg",
+      "power_station_name": "Kärrgruvans dieselcentral",
+      "power_source": "oil",
+      "installed_capacity_kva": 430,
+      "full_location": "Norberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norberg, Sweden",
+        "location": {
+          "lat": 60.06504200000001,
+          "lng": 15.923796
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Norbergs Elektriska A.-B.",
+      "location": "Norberg",
+      "power_station_name": "Norbergs ångcentral",
+      "power_source": "steam",
+      "installed_capacity_kva": 1750,
+      "full_location": "Norberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norberg, Sweden",
+        "location": {
+          "lat": 60.06504200000001,
+          "lng": 15.923796
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Surahammars bruks A.-B.",
+      "location": "Västanfors",
+      "power_station_name": "Samarbete med Avesta-Lillfors kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Västanfors, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "737 33 Västanfors, Sweden",
+        "location": {
+          "lat": 59.9929333,
+          "lng": 15.826962
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Fagersta bruks A.-B.",
+      "location": "Västanfors",
+      "power_station_name": "Nordansjö kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "Västanfors, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "737 33 Västanfors, Sweden",
+        "location": {
+          "lat": 59.9929333,
+          "lng": 15.826962
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Fagersta bruks A.-B.",
+      "location": "Västanfors",
+      "power_station_name": "Semla",
+      "power_source": "water",
+      "installed_capacity_kva": 3280,
+      "full_location": "Västanfors, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "737 33 Västanfors, Sweden",
+        "location": {
+          "lat": 59.9929333,
+          "lng": 15.826962
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Fagersta bruks A.-B.",
+      "location": "Västanfors",
+      "power_station_name": "Paggsta",
+      "power_source": "steam",
+      "installed_capacity_kva": 1100,
+      "full_location": "Västanfors, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "737 33 Västanfors, Sweden",
+        "location": {
+          "lat": 59.9929333,
+          "lng": 15.826962
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Fagersta bruks A.-B.",
+      "location": "Västanfors",
+      "power_station_name": "Uddnäs",
+      "power_source": "water",
+      "installed_capacity_kva": 9225,
+      "full_location": "Västanfors, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "737 33 Västanfors, Sweden",
+        "location": {
+          "lat": 59.9929333,
+          "lng": 15.826962
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Fagersta bruks A.-B.",
+      "location": "Västanfors",
+      "power_station_name": "Visentfors",
+      "power_source": "water",
+      "installed_capacity_kva": 1070,
+      "full_location": "Västanfors, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "737 33 Västanfors, Sweden",
+        "location": {
+          "lat": 59.9929333,
+          "lng": 15.826962
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Riddarhytte bruks A.-B.",
+      "location": "Skinnskatteberg",
+      "power_station_name": "Skinnskattebergs kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 870,
+      "full_location": "Skinnskatteberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skinnskatteberg, Sweden",
+        "location": {
+          "lat": 59.8260558,
+          "lng": 15.6915186
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Riddarhytte bruks A.-B.",
+      "location": "Skinnskatteberg",
+      "power_station_name": "Kopparverkets kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 1100,
+      "full_location": "Skinnskatteberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skinnskatteberg, Sweden",
+        "location": {
+          "lat": 59.8260558,
+          "lng": 15.6915186
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Riddarhytte bruks A.-B.",
+      "location": "Skinnskatteberg",
+      "power_station_name": "Gisslarbo kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 114,
+      "full_location": "Skinnskatteberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skinnskatteberg, Sweden",
+        "location": {
+          "lat": 59.8260558,
+          "lng": 15.6915186
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Riddarhytte bruks A.-B.",
+      "location": "Skinnskatteberg",
+      "power_station_name": "Ängen",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Skinnskatteberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skinnskatteberg, Sweden",
+        "location": {
+          "lat": 59.8260558,
+          "lng": 15.6915186
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Uttersbergs bruks A.-B.",
+      "location": "Skinnskatteberg",
+      "power_station_name": "Ostanfors",
+      "power_source": "water",
+      "installed_capacity_kva": 190,
+      "full_location": "Skinnskatteberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skinnskatteberg, Sweden",
+        "location": {
+          "lat": 59.8260558,
+          "lng": 15.6915186
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Karmansbo bruk",
+      "location": "Hed",
+      "power_station_name": "Karmansbo",
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Hed, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "731 15 Heds Socken, Sweden",
+        "location": {
+          "lat": 59.6807962,
+          "lng": 15.7622128
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Ferna bruks A.-B.",
+      "location": "Gunnilbo",
+      "power_station_name": "Bockhammars",
+      "power_source": "water",
+      "installed_capacity_kva": 190,
+      "full_location": "Gunnilbo, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "739 92 Gunnilbo, Sweden",
+        "location": {
+          "lat": 59.80713429999999,
+          "lng": 15.8675575
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Winsbo-Ramnis Kraft A.-B.",
+      "location": "Ramnäs",
+      "power_station_name": "Kedjehammars",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Winsbo-Ramnis Kraft A.-B.",
+      "location": "Ramnäs",
+      "power_station_name": "Virbo",
+      "power_source": "water",
+      "installed_capacity_kva": 4630,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Winsbo-Ramnis Kraft A.-B.",
+      "location": "Ramnäs",
+      "power_station_name": "Seglingsberg",
+      "power_source": "water",
+      "installed_capacity_kva": 3800,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Winsbo-Ramnis Kraft A.-B.",
+      "location": "Ramnäs",
+      "power_station_name": "Hinsebergs",
+      "power_source": "water",
+      "installed_capacity_kva": 3300,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Winsbo-Ramnis Kraft A.-B.",
+      "location": "Ramnäs",
+      "power_station_name": "Barkheden",
+      "power_source": "water",
+      "installed_capacity_kva": 1700,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Ramnäs bruk",
+      "location": "Ramnäs",
+      "power_station_name": "Samarbete med kraftstationerna nr 16",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "A.-B. Svenska Metallverken, Skultuna bruk",
+      "location": "Skultuna",
+      "power_station_name": "Skultuna kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 680,
+      "full_location": "Skultuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "726 31 Skultuna, Sweden",
+        "location": {
+          "lat": 59.71648150000001,
+          "lng": 16.4302921
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Svanå bruk",
+      "location": "Skultuna",
+      "power_station_name": "Samarbete med kraftstationerna nr 17-20",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Skultuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "726 31 Skultuna, Sweden",
+        "location": {
+          "lat": 59.71648150000001,
+          "lng": 16.4302921
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Kästa gård",
+      "location": "Haraker",
+      "power_station_name": "Skästa",
+      "power_source": "water",
+      "installed_capacity_kva": 423,
+      "full_location": "Haraker, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Haraker, 726 91 Skultuna, Sweden",
+        "location": {
+          "lat": 59.773174,
+          "lng": 16.4613215
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Forsby kvarn och Skerike el. distr.-fören.",
+      "location": "Haraker",
+      "power_station_name": "Forsby",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Haraker, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Haraker, 726 91 Skultuna, Sweden",
+        "location": {
+          "lat": 59.773174,
+          "lng": 16.4613215
+        }
+      }
+    }
+  ],
+  "filename": "Västmanland_1.png"
+}

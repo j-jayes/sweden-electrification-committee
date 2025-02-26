@@ -1,0 +1,189 @@
+{
+    "data": [
+        {
+            "index": 106,
+            "company_name": "Ingarps elektr.-verk",
+            "location": "Åsenhöga pr Gnosjö",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 108,
+            "company_name": "Åsenhöga elektr. foreningen",
+            "location": "Åsenhöga pr Gnosjö",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 109,
+            "company_name": "Götarps kraftsta, Åsenhöga pr Gnosjö",
+            "location": "Åsenhöga",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 110,
+            "company_name": "Skärvhults o. Skärvs elektr. foren., Åsenhöga pr Gnosjö",
+            "location": "Åsenhöga",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 46
+        },
+        {
+            "index": 111,
+            "company_name": "Nissafors krafttulppieri",
+            "location": "Nissafors",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 111
+        },
+        {
+            "index": 112,
+            "company_name": "Nissafors elektr.-verk, Nissafors",
+            "location": "Nissafors",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 96
+        },
+        {
+            "index": 113,
+            "company_name": "A.-B. Hestra elektr.-verk",
+            "location": "Hestra",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 9
+        },
+        {
+            "index": 114,
+            "company_name": "Forsviks kvarn",
+            "location": "Hestra",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 115,
+            "company_name": "Språttebo elektr.-verk",
+            "location": "Språttebo pr Hestra",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 38
+        },
+        {
+            "index": 116,
+            "company_name": "Öranholms kvarn, Bårarydsby pr Gislaved",
+            "location": "Bårarydsby",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 18
+        },
+        {
+            "index": 117,
+            "company_name": "Hedenstorps elektr. for.",
+            "location": "Bårarydsby pr Gislaved",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 118,
+            "company_name": "Båraryds elektr. foren.",
+            "location": "Båraryds by Gislaved",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 119,
+            "company_name": "Gnosjö elektr.-verk",
+            "location": "Gnosjö",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 62
+        },
+        {
+            "index": 120,
+            "company_name": "Gnosjö gjuteri",
+            "location": "Gnosjö",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 122,
+            "company_name": "Hylte mekan. verks.",
+            "location": "Gnosjö",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 123,
+            "company_name": "Finaryds elektr. anlelsofor.",
+            "location": "Gnosjö",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 51
+        },
+        {
+            "index": 124,
+            "company_name": "Håryd bruk",
+            "location": "Gnosjö",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 8
+        },
+        {
+            "index": 125,
+            "company_name": "Svenshult s:o, för Vafattubt pr Gislaved",
+            "location": "Vafattub pr Gislaved",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 9
+        },
+        {
+            "index": 126,
+            "company_name": "Våthultströms elektr.-verk",
+            "location": "Våthult",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 245
+        },
+        {
+            "index": 127,
+            "company_name": "Mag. fabriker P. Petterson",
+            "location": "Gislaved",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 36
+        },
+        {
+            "index": 128,
+            "company_name": "Svenshults elektr. belysningsfor",
+            "location": "Vafattub pr Gislaved",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 129,
+            "company_name": "Sv. Gummifabr. A.-B.",
+            "location": "Gislaved",
+            "power_station_name": "Vattenturbiner",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 130,
+            "company_name": "Henja elektr. belysningsforening",
+            "location": "Gislaved",
+            "power_station_name": "subscription from Våtahultsströms el-verkv",
+            "power_source": "subscription",
+            "installed_capacity_kva": 9
+        }
+    ],
+    "filename": "Jönköping_6.png"
+}

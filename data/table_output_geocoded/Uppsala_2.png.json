@@ -1,0 +1,485 @@
+{
+  "data": [
+    {
+      "index": 26,
+      "company_name": "Dannemora gruvintressenter",
+      "location": "Dannemora",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Dannemora, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "748 30 Dannemora, Sweden",
+        "location": {
+          "lat": 60.1975419,
+          "lng": 17.8469454
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Gimo—Österby Bruks A.-B.",
+      "location": "Film",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Film, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "748 92 Film, Sweden",
+        "location": {
+          "lat": 60.2287731,
+          "lng": 17.8937679
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Upplands och Bergs el. distr.-fören.",
+      "location": "Tegelsmora",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Tegelsmora, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "748 96 Tegelsmora, Sweden",
+        "location": {
+          "lat": 60.25656799999999,
+          "lng": 17.7161103
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Tegelsmora el. distr.-fören.",
+      "location": "Tegelsmora",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Tegelsmora, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "748 96 Tegelsmora, Sweden",
+        "location": {
+          "lat": 60.25656799999999,
+          "lng": 17.7161103
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Gimo—Österby Bruks A.-B.",
+      "location": "Gimo",
+      "power_station_name": "Tobo kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 800,
+      "full_location": "Gimo, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "747 42 Gimo, Sweden",
+        "location": {
+          "lat": 60.1717101,
+          "lng": 18.1859034
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "\"B. v. Rosen och andra,/Vendels el. distr.-fören.\"",
+      "location": "Vendel",
+      "power_station_name": "Ketelsäng",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Vendel, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "748 95 Vendel, Sweden",
+        "location": {
+          "lat": 60.1673283,
+          "lng": 17.5982635
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Gimo—Österby Bruks A.-B.",
+      "location": "Stefan namnar",
+      "power_station_name": "Ab. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Stefan namnar, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "\"\"",
+      "location": "Alunda",
+      "power_station_name": "Ab. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 120,
+      "full_location": "Alunda, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "747 30 Alunda, Sweden",
+        "location": {
+          "lat": 60.0638925,
+          "lng": 18.0802923
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "\"Eskelby el. distr.-fören./Vaksinge A.-B\".",
+      "location": "Ekeby",
+      "power_station_name": "subscription from Vaksinge",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ekeby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "752 64 Ekeby, Sweden",
+        "location": {
+          "lat": 59.85114559999999,
+          "lng": 17.6064272
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Alunda norra och Tuna distr.-fören.",
+      "location": "Alunda, Tuna",
+      "power_station_name": "Ab. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Alunda, Tuna, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "747 30 Alunda, Sweden",
+        "location": {
+          "lat": 60.0638925,
+          "lng": 18.0802923
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Ölands-Stabby el. distr.-fören.",
+      "location": "Stabby",
+      "power_station_name": "Ab. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Stabby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "755 91 Stabby, Sweden",
+        "location": {
+          "lat": 59.79341109999999,
+          "lng": 17.5777236
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "\"Skebegårds ånghv series bolag\"",
+      "location": "Skebegårds",
+      "power_station_name": "Skeberga",
+      "power_source": "steam",
+      "installed_capacity_kva": 35,
+      "full_location": "Skebegårds, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "\"Älvkarleby kraftverk\"",
+      "location": "unknown",
+      "power_station_name": "unknown",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "unknown, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "\"Uppsala stads el. verk.\"",
+      "location": "Uppsala",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Uppsala, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala, Sweden",
+        "location": {
+          "lat": 59.85856380000001,
+          "lng": 17.6389267
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "\"\"",
+      "location": "unknown",
+      "power_station_name": "stored in category D (Uppsala die s group per cent)",
+      "power_source": "diesel",
+      "installed_capacity_kva": 500,
+      "full_location": "unknown, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "\"\"",
+      "location": "unknown",
+      "power_station_name": "subscription from Alfrkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 370,
+      "full_location": "unknown, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Old Uppsala and Bjerke—Balinge El. Association",
+      "location": "Gamla Uppsala",
+      "power_station_name": "unknown",
+      "power_source": "water",
+      "installed_capacity_kva": 600,
+      "full_location": "Gamla Uppsala, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gamla Uppsala, Uppsala, Sweden",
+        "location": {
+          "lat": 59.89732879999999,
+          "lng": 17.636849
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "\"\"",
+      "location": "Balinge",
+      "power_station_name": "Ab. from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 120,
+      "full_location": "Balinge, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "743 81 Bälinge, Sweden",
+        "location": {
+          "lat": 59.94881869999999,
+          "lng": 17.533221
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Dispoanien and Co. (D.o. Karl K. Karlsson)",
+      "location": "Bjerklinge el. distr.-fören*.)",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Bjerklinge el. distr.-fören*.), Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "\"Skuttunge Sawmills and 9\"",
+      "location": "Skuttunge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 120,
+      "full_location": "Skuttunge, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "743 71 Skuttunge, Sweden",
+        "location": {
+          "lat": 59.99999999999999,
+          "lng": 17.51667
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "\"Firm Anders Ek Bjerkinge\"",
+      "location": "Bjurcarls",
+      "power_station_name": "subscription from Ubbolsta saw",
+      "power_source": "subscription",
+      "installed_capacity_kva": 250,
+      "full_location": "Bjurcarls, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 47,
+      "company_name": "Ubbolsta saw",
+      "location": "unknown",
+      "power_station_name": "Ubbolsta saw",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "unknown, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 48,
+      "company_name": "Al in so tom surgery school/b',Jumikll",
+      "location": "Jumikll",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Jumikll, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 49,
+      "company_name": "Paul M . utv. Dindquist (Doktor Pahl Utkrist)",
+      "location": "Lena,Tensta",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Lena,Tensta, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "743 93 Tensta, Sweden",
+        "location": {
+          "lat": 60.0384414,
+          "lng": 17.6649067
+        }
+      }
+    },
+    {
+      "index": 50,
+      "company_name": "\"Söderfors Bruks A.-B.\"",
+      "location": "Vattholma",
+      "power_station_name": "Batholma",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Vattholma, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "743 50 Vattholma, Sweden",
+        "location": {
+          "lat": 60.01484439999999,
+          "lng": 17.7331499
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "\"Väsby el. distr.-fören.\"",
+      "location": "Viksa",
+      "power_station_name": "Ab. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Viksa, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "\"\"",
+      "location": "Pungbo",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Pungbo, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "Parkas el distr.-fören.",
+      "location": "Rasbo",
+      "power_station_name": "Ab. from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Rasbo, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "741 78 Rasbo, Sweden",
+        "location": {
+          "lat": 59.9472688,
+          "lng": 17.8793542
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "Hemmingshög/Saga Sawmills/Kungsby. /Protected by registered trademark\"",
+      "location": "Lonnebo",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 170,
+      "full_location": "Lonnebo, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "The Vän—, Rasbickl Electricity Group.",
+      "location": "Rasbokil",
+      "power_station_name": "unknown",
+      "power_source": "steam",
+      "installed_capacity_kva": 200,
+      "full_location": "Rasbokil, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "743 95 Rasbokil, Sweden",
+        "location": {
+          "lat": 59.98333299999999,
+          "lng": 17.8499998
+        }
+      }
+    }
+  ],
+  "filename": "Uppsala_2.png"
+}

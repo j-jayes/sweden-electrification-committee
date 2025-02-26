@@ -1,0 +1,253 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Rumma och Röhmels el. kraftfören.",
+            "location": "Hannis",
+            "power_station_name": "Rumma",
+            "power_source": "oil",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 2,
+            "company_name": "Forsaströms Kraft A.-B.",
+            "location": "Gärdserum",
+            "power_station_name": "Forsaströms nedre",
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 3,
+            "company_name": "Forsaströms Kraft A.-B.",
+            "location": "Gärdserum",
+            "power_station_name": "Forsaströms övre",
+            "power_source": "water",
+            "installed_capacity_kva": 210
+        },
+        {
+            "index": 4,
+            "company_name": "Mindre kraftanläggn.",
+            "location": "Torstorp",
+            "power_station_name": "Torstorp",
+            "power_source": "steam",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 5,
+            "company_name": "Falerums Belysnings A.-B.",
+            "location": "Falerum",
+            "power_station_name": "Falerum",
+            "power_source": "oil",
+            "installed_capacity_kva": 45
+        },
+        {
+            "index": 6,
+            "company_name": "Fornsäbergs egendomar",
+            "location": "Tryserum",
+            "power_station_name": "Lövbo",
+            "power_source": "water",
+            "installed_capacity_kva": 83
+        },
+        {
+            "index": 7,
+            "company_name": "Forsaströms Kraft A.-B.",
+            "location": "Ukna",
+            "power_station_name": "Melby",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 8,
+            "company_name": "Mindre kraftanläggn.",
+            "location": "Vimmerby",
+            "power_station_name": "Rostads kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 9,
+            "company_name": "Vinds egendom",
+            "location": "Västra Ed",
+            "power_station_name": "Klofstorpsfallet",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 10,
+            "company_name": "Mindre kraftanläggn.",
+            "location": "Västra Ed",
+            "power_station_name": "Storkvarn",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 11,
+            "company_name": "Mindre kraftanläggn.",
+            "location": "Västra Ed",
+            "power_station_name": "Vindo",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 12,
+            "company_name": "Eds Bruk",
+            "location": "Västra Ed",
+            "power_station_name": "Skillereds kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 13,
+            "company_name": "Tylinge A.-B.",
+            "location": "Dalhem",
+            "power_station_name": "Bilstaden",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 14,
+            "company_name": "Muslets el.-foren.",
+            "location": "Ödsmålsväg",
+            "power_station_name": "Verklehann",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 15,
+            "company_name": "Muslets el.-foren.",
+            "location": "Ödsmålet",
+            "power_station_name": "Tylinge",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 16,
+            "company_name": "Trävura-A.-B.Norköpings Exportambuleri",
+            "location": "Sankt Vilhelm",
+            "power_station_name": "Brännebo",
+            "power_source": "water",
+            "installed_capacity_kva": 175
+        },
+        {
+            "index": 17,
+            "company_name": "Lärums gård",
+            "location": "Dalhem",
+            "power_station_name": "Lärum",
+            "power_source": "water",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 18,
+            "company_name": "A.-B. Överums bruk",
+            "location": "Västra Ed",
+            "power_station_name": "Överums mellersta",
+            "power_source": "water",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 19,
+            "company_name": "A.-B. Överums bruk",
+            "location": "Västra Ed",
+            "power_station_name": "Överums nedre",
+            "power_source": "water",
+            "installed_capacity_kva": 170
+        },
+        {
+            "index": 20,
+            "company_name": "Mindre kraftanläggn.",
+            "location": "Lofta",
+            "power_station_name": "Sagaretorps kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 21,
+            "company_name": "Mindre kraftanläggn.",
+            "location": "Lofta",
+            "power_station_name": "Häggs kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 22,
+            "company_name": "Hj. Andersson",
+            "location": "Gamleby",
+            "power_station_name": "Harg",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 23,
+            "company_name": "Nyärdes egendom",
+            "location": "Gamleby",
+            "power_station_name": "Gustens",
+            "power_source": "water",
+            "installed_capacity_kva": 37
+        },
+        {
+            "index": 24,
+            "company_name": "Nyärdes egendom",
+            "location": "Gamleby",
+            "power_station_name": "Rudda kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 25,
+            "company_name": "Skramstång järnvägsfastighet",
+            "location": "Gamleby",
+            "power_station_name": "Skramstad",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 26,
+            "company_name": "A.-B. Gamleby el.-verk",
+            "location": "Gamleby",
+            "power_station_name": "Gamleby el.-verk",
+            "power_source": "steam",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 27,
+            "company_name": "Trävura A.-B. H. Cornelins",
+            "location": "Odenstorp",
+            "power_station_name": "Häckensstad",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 28,
+            "company_name": "Ögestads gård",
+            "location": "Odenstorp",
+            "power_station_name": "Ögestad",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 29,
+            "company_name": "Runeborg gård",
+            "location": "Hälingeberg",
+            "power_station_name": "Runeborg",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 30,
+            "company_name": "Gunnebo Bruk",
+            "location": "Gäddhamrar",
+            "power_station_name": "Gunnebo övre",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 31,
+            "company_name": "Gunnebo Bruk",
+            "location": "Gäddhamrar",
+            "power_station_name": "Gunnebo nedre",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        }
+    ],
+    "filename": "Kalmar_1.png"
+}

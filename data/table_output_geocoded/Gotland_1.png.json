@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Visby stads elektricitetsverk",
+      "location": "Visby kraftstation",
+      "power_station_name": "Visby kraftstation",
+      "power_source": "diesel",
+      "installed_capacity_kva": 180,
+      "full_location": "Visby kraftstation, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Visby, Sweden",
+        "location": {
+          "lat": 57.6348,
+          "lng": 18.29484
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Visby cementfabrik",
+      "location": "Visby cementfabrik",
+      "power_station_name": "Visby cementfabrik",
+      "power_source": "steam",
+      "installed_capacity_kva": 1000,
+      "full_location": "Visby cementfabrik, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Visby, Sweden",
+        "location": {
+          "lat": 57.6348,
+          "lng": 18.29484
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "A.-B. Vallviks cementfabrik",
+      "location": "Vallvik",
+      "power_station_name": "Vallvik",
+      "power_source": "steam",
+      "installed_capacity_kva": 285,
+      "full_location": "Vallvik, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gotland County, Sweden",
+        "location": {
+          "lat": 57.531291,
+          "lng": 18.6901396
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Slite cement och kalk A.-B.",
+      "location": "Slite",
+      "power_station_name": "Slite",
+      "power_source": "steam",
+      "installed_capacity_kva": 1000,
+      "full_location": "Slite, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "624 49 Slite, Sweden",
+        "location": {
+          "lat": 57.7182365,
+          "lng": 18.7922808
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "E. C. Elvström",
+      "location": "Roma",
+      "power_station_name": "Roma",
+      "power_source": "diesel",
+      "installed_capacity_kva": 0,
+      "full_location": "Roma, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "622 54 Romakloster, Sweden",
+        "location": {
+          "lat": 57.5167172,
+          "lng": 18.4504773
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "H. Andersson",
+      "location": "Klintehamns kraftstation",
+      "power_station_name": "Klintehamns kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Klintehamns kraftstation, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 77 Klintehamn, Sweden",
+        "location": {
+          "lat": 57.3865687,
+          "lng": 18.2036996
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Klinte belysningsförening",
+      "location": "Klintehamn",
+      "power_station_name": "Klintehamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Klintehamn, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 77 Klintehamn, Sweden",
+        "location": {
+          "lat": 57.3865687,
+          "lng": 18.2036996
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Bröderna Edmark",
+      "location": "Ljugarns belysningsbolag",
+      "power_station_name": "Ljugarns belysningsbolag",
+      "power_source": "subscription",
+      "installed_capacity_kva": 65,
+      "full_location": "Ljugarns belysningsbolag, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ljugarn, Sweden",
+        "location": {
+          "lat": 57.3299188,
+          "lng": 18.7083941
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "V. Larsson",
+      "location": "Garde",
+      "power_station_name": "Garde",
+      "power_source": "oil",
+      "installed_capacity_kva": 3,
+      "full_location": "Garde, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 63 Garde, Sweden",
+        "location": {
+          "lat": 57.31534569999999,
+          "lng": 18.5858452
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "N. Bergvall och J. Broström",
+      "location": "Ethelhem",
+      "power_station_name": "subscription from Ethelhem",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Ethelhem, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 74 Etelhem, Sweden",
+        "location": {
+          "lat": 57.3375992,
+          "lng": 18.4951436
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "J. Johansson",
+      "location": "Lye",
+      "power_station_name": "subscription from Lye",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2,
+      "full_location": "Lye, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 61 Lye, Sweden",
+        "location": {
+          "lat": 57.2974603,
+          "lng": 18.5188448
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "A.-B. Hemse elektricitetsverk",
+      "location": "Hemse kraftstation",
+      "power_station_name": "Hemse kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 36,
+      "full_location": "Hemse kraftstation, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 50 Hemse, Sweden",
+        "location": {
+          "lat": 57.23730819999999,
+          "lng": 18.3767003
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Föreningen Havdhems elektricitetesverk",
+      "location": "Havdhem",
+      "power_station_name": "Havdhem",
+      "power_source": "water",
+      "installed_capacity_kva": 11,
+      "full_location": "Havdhem, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 41 Havdhem, Sweden",
+        "location": {
+          "lat": 57.1607281,
+          "lng": 18.3332693
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "K. G. Hoffman och K. Stenström",
+      "location": "Burgsvik",
+      "power_station_name": "subscription from Burgsvik",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Burgsvik, Gotland county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 35 Burgsvik, Sweden",
+        "location": {
+          "lat": 57.03181,
+          "lng": 18.28152
+        }
+      }
+    }
+  ],
+  "filename": "Gotland_1.png"
+}

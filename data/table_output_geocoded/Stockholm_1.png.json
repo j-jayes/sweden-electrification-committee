@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Forsmarks bruk",
+      "location": "Forsmark",
+      "power_station_name": "Forsmarks bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 800,
+      "full_location": "Forsmark, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Viggelsbo gruvintressenter",
+      "location": "Valö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Valö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Fogsäkers el. distr.-fören.",
+      "location": "Valö, Börstil",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Valö, Börstil, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Forsmarks bruk",
+      "location": "Forsmark, Börstil",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Forsmark, Börstil, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Fogsäkers el. distr.-fören.",
+      "location": "Valö, Hökhuvud, Hållnäs",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Valö, Hökhuvud, Hållnäs, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Sekundarstaten/Holm",
+      "location": "Valö, Hökhuvud",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Valö, Hökhuvud, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Holmens Bruks & Fabriks A.-B.",
+      "location": "Hörnsjö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Hörnsjö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Gimo-Osterby Bruks A.-B.",
+      "location": "Harg",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Harg, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "760 21 Harg, Sweden",
+        "location": {
+          "lat": 59.8067669,
+          "lng": 18.9553136
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Hargs hamn el. distr.-fören.",
+      "location": "Harg",
+      "power_station_name": "Hargs kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Harg, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "760 21 Harg, Sweden",
+        "location": {
+          "lat": 59.8067669,
+          "lng": 18.9553136
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Hargs bruk",
+      "location": "Harg",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Harg, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "760 21 Harg, Sweden",
+        "location": {
+          "lat": 59.8067669,
+          "lng": 18.9553136
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Östhammars stads el.-verk",
+      "location": "Östhammar",
+      "power_station_name": "Östhammars kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "Östhammar, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Havervö norra el. distr.-fören.",
+      "location": "Havervö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Havervö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Herrängs Gruv A.-B.",
+      "location": "Herräng",
+      "power_station_name": "Herräng",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Herräng, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "763 71 Herräng, Sweden",
+        "location": {
+          "lat": 60.1294246,
+          "lng": 18.6466281
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Havervö el. distr.-fören.",
+      "location": "Havervö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Havervö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Hallstaviks el. distr.-fören.",
+      "location": "Häverö och Edebo",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Häverö och Edebo, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "763 91 Edebo, Sweden",
+        "location": {
+          "lat": 60.00605899999999,
+          "lng": 18.5797717
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Häveröstrand el. distr.-fören.",
+      "location": "Häverö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Häverö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "763 94 Häverö, Sweden",
+        "location": {
+          "lat": 60.0398489,
+          "lng": 18.6793102
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Edebo el. distr.-fören.",
+      "location": "Edebo",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Edebo, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "763 91 Edebo, Sweden",
+        "location": {
+          "lat": 60.00605899999999,
+          "lng": 18.5797717
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Nya Edebo skog",
+      "location": "Edebo",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Edebo, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "763 91 Edebo, Sweden",
+        "location": {
+          "lat": 60.00605899999999,
+          "lng": 18.5797717
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "A. Karlsson och E. Dahlberg",
+      "location": "Gäsyik",
+      "power_station_name": "Gäsyik",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Gäsyik, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Bondebygdens kraftstation",
+      "location": "Väddö",
+      "power_station_name": "Väddö",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Väddö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Väddö, 764 91 Väddö, Sweden",
+        "location": {
+          "lat": 59.99999999999999,
+          "lng": 18.8333333
+        }
+      }
+    }
+  ],
+  "filename": "Stockholm_1.png"
+}

@@ -1,0 +1,533 @@
+{
+  "data": [
+    {
+      "index": 97,
+      "company_name": "Distrib. i Mönsterås",
+      "location": "Mönsterås",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Mönsterås, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mönsterås, Sweden",
+        "location": {
+          "lat": 57.0415797,
+          "lng": 16.44312
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "Herstorp",
+      "location": "Mönsterås",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Mönsterås, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mönsterås, Sweden",
+        "location": {
+          "lat": 57.0415797,
+          "lng": 16.44312
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Kaggertorp",
+      "location": "Mönsterås",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Mönsterås, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mönsterås, Sweden",
+        "location": {
+          "lat": 57.0415797,
+          "lng": 16.44312
+        }
+      }
+    },
+    {
+      "index": 100,
+      "company_name": "Ålem",
+      "location": "Ålem",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 101,
+      "company_name": "Tillingenabben",
+      "location": "Ålem",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 102,
+      "company_name": "Pataholm",
+      "location": "Ålem",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 103,
+      "company_name": "Strömsrum gård",
+      "location": "Ålem",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 104,
+      "company_name": "Kronbäcks gård",
+      "location": "Mönsterås",
+      "power_station_name": "Torsrum kvarn Ålem",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Mönsterås, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mönsterås, Sweden",
+        "location": {
+          "lat": 57.0415797,
+          "lng": 16.44312
+        }
+      }
+    },
+    {
+      "index": 105,
+      "company_name": "Johansson",
+      "location": "Ålem",
+      "power_station_name": "Gunneström Blomstermåla",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 106,
+      "company_name": "Gunneström",
+      "location": "Blomstermåla",
+      "power_station_name": "Gunneström Blomstermåla",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Blomstermåla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 30 Blomstermåla, Sweden",
+        "location": {
+          "lat": 56.9814885,
+          "lng": 16.3327375
+        }
+      }
+    },
+    {
+      "index": 107,
+      "company_name": "Johansson",
+      "location": "Ålem",
+      "power_station_name": "Gunneström Blomstermåla",
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Blomstermåla möbelfabrik",
+      "location": "Norrbacken",
+      "power_station_name": "subscription from Gunneström Blomstermåla",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Norrbacken, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrbacken, 384 91 Blomstermåla, Sweden",
+        "location": {
+          "lat": 57.005151,
+          "lng": 16.364804
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Maskinfabr. A.-B. Norr.",
+      "location": "Norrbacken",
+      "power_station_name": "subscription from Gunneström Blomstermåla",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Norrbacken, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrbacken, 384 91 Blomstermåla, Sweden",
+        "location": {
+          "lat": 57.005151,
+          "lng": 16.364804
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Ab.A.-B. Bohman & Johans.",
+      "location": "Blomstermåla",
+      "power_station_name": "subscription from Gunneström Blomstermåla",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Blomstermåla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 30 Blomstermåla, Sweden",
+        "location": {
+          "lat": 56.9814885,
+          "lng": 16.3327375
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "Åfors möbelfabrik",
+      "location": "Åfors",
+      "power_station_name": "Strömsrum gård",
+      "power_source": "steam",
+      "installed_capacity_kva": 87,
+      "full_location": "Åfors, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "361 94 Åfors, Sweden",
+        "location": {
+          "lat": 56.7466904,
+          "lng": 15.4955022
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Sundbäckshults tråindustrif",
+      "location": "Strömsholm",
+      "power_station_name": "Strömsrum gård",
+      "power_source": "steam",
+      "installed_capacity_kva": 25,
+      "full_location": "Strömsholm, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Karlfors pappersfabrik",
+      "location": "Karlfors",
+      "power_station_name": "Bole kvarn Kyrkojord",
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Karlfors, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Bole kvarn",
+      "location": "Ryssby",
+      "power_station_name": "Bole kvarn Kyrkojord",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Ryssby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "395 93 Ryssby, Sweden",
+        "location": {
+          "lat": 56.7978743,
+          "lng": 16.3527472
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Kråksmåla",
+      "location": "Minnesjö",
+      "power_station_name": "Kråksmåla Kyrkojord",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Minnesjö, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Alsterbro glasbruk",
+      "location": "Alsterbro såg o.qvarn",
+      "power_station_name": "subscription from Bole kvarn Kyrkojord",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Alsterbro såg o.qvarn, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 73 Alsterbro, Sweden",
+        "location": {
+          "lat": 56.9381594,
+          "lng": 15.9127217
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Nybros köpman",
+      "location": "Nybros köpman",
+      "power_station_name": "subscription from Bole kvarn Kyrkojord",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Nybros köpman, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 93 Nybro, Sweden",
+        "location": {
+          "lat": 56.83781,
+          "lng": 15.896
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Bole kvarn Kyrkojord",
+      "location": "Madesjö",
+      "power_station_name": "subscription from Bole kvarn Kyrkojord",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Madesjö, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 45 Madesjö, Sweden",
+        "location": {
+          "lat": 56.741977,
+          "lng": 15.8866186
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Häggum",
+      "location": "Kristvalla",
+      "power_station_name": "Brittås mølle Grunnao",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Kristvalla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 91 Kristvalla, Sweden",
+        "location": {
+          "lat": 56.8165329,
+          "lng": 16.0366807
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Grunnao",
+      "location": "Brittnåla",
+      "power_station_name": "Brittås mølle Grunnao",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Brittnåla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 121,
+      "company_name": "Grunnao",
+      "location": "Brittnåla",
+      "power_station_name": "Brittås mølle Grunnao",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Brittnåla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Grunnao",
+      "location": "Gunnabo",
+      "power_station_name": "Brittås mølle Grunnao",
+      "power_source": "water",
+      "installed_capacity_kva": 600,
+      "full_location": "Gunnabo, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 93 Gunnabo, Sweden",
+        "location": {
+          "lat": 56.8095929,
+          "lng": 16.0109937
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "Reservation",
+      "location": "Kristvalla",
+      "power_station_name": "Reservation",
+      "power_source": "diesel",
+      "installed_capacity_kva": 520,
+      "full_location": "Kristvalla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 91 Kristvalla, Sweden",
+        "location": {
+          "lat": 56.8165329,
+          "lng": 16.0366807
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Reservation",
+      "location": "Kristvalla",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Kristvalla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 91 Kristvalla, Sweden",
+        "location": {
+          "lat": 56.8165329,
+          "lng": 16.0366807
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "Kaffahr",
+      "location": "Kristvalla",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Kristvalla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 91 Kristvalla, Sweden",
+        "location": {
+          "lat": 56.8165329,
+          "lng": 16.0366807
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "Ortstatsdistr. i Berga",
+      "location": "Förlösa",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Förlösa, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "395 90 Förlösa, Sweden",
+        "location": {
+          "lat": 56.7471915,
+          "lng": 16.2512704
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "Ortstatsdistr. i Berga",
+      "location": "Kalmar",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Kalmar, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar, Sweden",
+        "location": {
+          "lat": 56.6634447,
+          "lng": 16.356779
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "Ortstatsdistr. i Berga",
+      "location": "Åby",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Åby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "395 97 Åby, Sweden",
+        "location": {
+          "lat": 56.7840131,
+          "lng": 16.2911141
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "Dörby and el-fören.",
+      "location": "Dörby",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Dörby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "386 96 Dörby, Sweden",
+        "location": {
+          "lat": 56.6405016,
+          "lng": 16.6358319
+        }
+      }
+    }
+  ],
+  "filename": "Kalmar_4.png"
+}

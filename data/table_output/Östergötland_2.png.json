@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "index": 25,
+            "company_name": "Rejmyre Bruks A.-B.",
+            "location": "Skedevi",
+            "power_station_name": "Ab. från Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 26,
+            "company_name": "Motala Kraftverk",
+            "location": "Risinge",
+            "power_station_name": "Ab. från Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 27,
+            "company_name": "Sekundastationen i Finspång",
+            "location": "Finspång",
+            "power_station_name": "Ab. från Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 28,
+            "company_name": "Finspångs Metallverks A.-B.",
+            "location": "Hällestad",
+            "power_station_name": "Rämminge",
+            "power_source": "water",
+            "installed_capacity_kva": 950
+        },
+        {
+            "index": 29,
+            "company_name": "E. Tapper",
+            "location": "Risinge",
+            "power_station_name": "Stjärnviks",
+            "power_source": "steam",
+            "installed_capacity_kva": 280
+        },
+        {
+            "index": 30,
+            "company_name": "Motala Kraftverk",
+            "location": "Borg",
+            "power_station_name": "Sekundstationen i Norrköping vid Ekudden",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 31,
+            "company_name": "Norrköpings stad Transformatorstationen vid Skär",
+            "location": "Norrköping",
+            "power_station_name": "subscription from Norrköpings stad",
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 31,
+            "company_name": "Norrköpings stad Transformatorstationen i staden",
+            "location": "Norrköping",
+            "power_station_name": "subscription from Norrköpings stad",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 32,
+            "company_name": "Norrköpings stad",
+            "location": "Norrköping",
+            "power_station_name": "Omformarstationen",
+            "power_source": "steam",
+            "installed_capacity_kva": 390
+        },
+        {
+            "index": 33,
+            "company_name": "Fiskeby Fabriks A.-B.",
+            "location": "Fiskeby",
+            "power_station_name": "Fiskeby",
+            "power_source": "water",
+            "installed_capacity_kva": 670
+        },
+        {
+            "index": 33,
+            "company_name": "Fiskeby Fabriks A.-B.",
+            "location": "Fiskeby",
+            "power_station_name": "Ab. från Skärblacka A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 15000
+        },
+        {
+            "index": 34,
+            "company_name": "Norrköpings Bomullsväfveri A.-B.",
+            "location": "Norrköping",
+            "power_station_name": "Gryt och Draggruppon",
+            "power_source": "steam",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 35,
+            "company_name": "Drags A.-B.",
+            "location": "Norrköping",
+            "power_station_name": "Bergs Bolagsfall",
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 36,
+            "company_name": "Holmens Bruks o. Fabriks A.-B.",
+            "location": "Norrköping",
+            "power_station_name": "Ströms övre verk",
+            "power_source": "steam",
+            "installed_capacity_kva": 670
+        },
+        {
+            "index": 37,
+            "company_name": "A.-B. Förenade Yllefabrikerna",
+            "location": "Norrköping",
+            "power_station_name": "Bergsbrogruppen",
+            "power_source": "water",
+            "installed_capacity_kva": 240
+        },
+        {
+            "index": 38,
+            "company_name": "Holmens Bruks o. Fabriks A.-B.",
+            "location": "Krokek",
+            "power_station_name": "Bergsborn—Havet",
+            "power_source": "steam",
+            "installed_capacity_kva": 360
+        },
+        {
+            "index": 39,
+            "company_name": "Fastighets A.-B. C. L. Svensson & Co.",
+            "location": "Risinge",
+            "power_station_name": "Kerstin Pommerinka",
+            "power_source": "steam",
+            "installed_capacity_kva": 310
+        },
+        {
+            "index": 40,
+            "company_name": "Holmens Bruks o. Fabriks A.-B.",
+            "location": "Hällestad",
+            "power_station_name": "Kräftkolmens verk",
+            "power_source": "water",
+            "installed_capacity_kva": 700
+        },
+        {
+            "index": 41,
+            "company_name": "Distr. i Dagsberg och Styrestad",
+            "location": "Dagsberg, Styrestad",
+            "power_station_name": "Ab. från Norrköpings stad",
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 42,
+            "company_name": "Distr. i O. Eneby, Kvillinge El.-Fören., m. fl.",
+            "location": "Östra Eneby, Kvillinge",
+            "power_station_name": "Ab. från Norrköpings stad",
+            "power_source": "subscription",
+            "installed_capacity_kva": 875
+        },
+        {
+            "index": 43,
+            "company_name": "Distr. i Kolmården P. Svärta",
+            "location": "Krokek",
+            "power_station_name": "Krokek",
+            "power_source": "water",
+            "installed_capacity_kva": 24
+        },
+        {
+            "index": 44,
+            "company_name": "Säfhska Bomullsspinneri o. Väveri A.-B.",
+            "location": "Eneby",
+            "power_station_name": "Torstorp",
+            "power_source": "steam",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 45,
+            "company_name": "Hults Bruk",
+            "location": "Kvillinge",
+            "power_station_name": "Hults Bruk",
+            "power_source": "water",
+            "installed_capacity_kva": 275
+        },
+        {
+            "index": 46,
+            "company_name": "Hults Bruk",
+            "location": "Hults Bruk",
+            "power_station_name": "Hults Bruk",
+            "power_source": "water",
+            "installed_capacity_kva": 295
+        },
+        {
+            "index": 46,
+            "company_name": "Hults Bruk",
+            "location": "Hults Bruk",
+            "power_station_name": "Dvardsala",
+            "power_source": "water",
+            "installed_capacity_kva": 56
+        },
+        {
+            "index": 47,
+            "company_name": "Skärblacka A.-B.",
+            "location": "Kullerstad",
+            "power_station_name": "Skärblacka",
+            "power_source": "steam",
+            "installed_capacity_kva": 565
+        },
+        {
+            "index": 48,
+            "company_name": "Ljusfors A.-B.",
+            "location": "Ljusfors",
+            "power_station_name": "Ljusfors",
+            "power_source": "water",
+            "installed_capacity_kva": 760
+        },
+        {
+            "index": 49,
+            "company_name": "Grensholms och Rosendals egendomar",
+            "location": "Vång",
+            "power_station_name": "Ab. från A.-B. Knutsbro kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3800
+        }
+    ],
+    "filename": "Östergötland_2.png"
+}

@@ -1,0 +1,213 @@
+{
+    "data": [
+        {
+            "index": 25,
+            "company_name": "A.-B. Sjuntorp",
+            "location": "Fors",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 26,
+            "company_name": "Alfr. Larsson i Herrljunga",
+            "location": "Åsbräcka",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 27,
+            "company_name": "Trollhätte kraftverk: Sekundärstationen i Lilla Edet",
+            "location": "Fuxerna",
+            "power_station_name": "Sjuntorp",
+            "power_source": "steam",
+            "installed_capacity_kva": 540
+        },
+        {
+            "index": 28,
+            "company_name": "Lilla Edets samhälle",
+            "location": "Lilla Edet",
+            "power_station_name": "Lilla Edet (under utförande)",
+            "power_source": "steam",
+            "installed_capacity_kva": 33000
+        },
+        {
+            "index": 29,
+            "company_name": "Götas sulfitfabrik",
+            "location": "Fors",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 30,
+            "company_name": "Haneströms tegelbruk, Södra Garns varv m.m. småindustrier i Garn",
+            "location": "Tunge",
+            "power_station_name": "Sanct Peter",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 31,
+            "company_name": "Lödöse varv",
+            "location": "Sanct Peter",
+            "power_station_name": "Sanct Peter",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 32,
+            "company_name": "Prospekterart",
+            "location": "Ale-Skövde",
+            "power_station_name": "Ale-Skövde",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 33,
+            "company_name": "Ale-Skövde el. distr.-fören.",
+            "location": "Ale-Skövde",
+            "power_station_name": "Ale-Skövde",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 34,
+            "company_name": "Källtorps egendom",
+            "location": "Rommele",
+            "power_station_name": "Rommele",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 35,
+            "company_name": "Uphärads el. distr.-fören.",
+            "location": "Uphärad",
+            "power_station_name": "Uphärad",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 36,
+            "company_name": "Kobergs egendom",
+            "location": "Laggaretorp",
+            "power_station_name": "Laggaretorp",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 37,
+            "company_name": "Trollhätte kraftverk. Sekundärstationen i Nol",
+            "location": "Starrkärr",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 38,
+            "company_name": "Diverse industrier Nols järnvägsstation",
+            "location": "Nol",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 41,
+            "company_name": "Nol—Risåed och Moijes el. distr.-fören.",
+            "location": "Nol",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 43,
+            "company_name": "Åsbräcka el. distr.-fören.",
+            "location": "Åsbräcka",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 44,
+            "company_name": "H. Cramérs repalager i Alefors samt el. distr.-fören. I ylöholmens egendom",
+            "location": "Alefors",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 46,
+            "company_name": "Kilanda kvarn och el.-verk",
+            "location": "Kilanda",
+            "power_station_name": "Kilanda kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 47,
+            "company_name": "Anders Lundqvist",
+            "location": "Nödinge",
+            "power_station_name": "Lindås",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 49,
+            "company_name": "Backa sätterf \"",
+            "location": "Starrkärr",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 50,
+            "company_name": "A.-B. DeNoFa",
+            "location": "Nödinge",
+            "power_station_name": "Nödinge",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 51,
+            "company_name": "Bolts verkstadsaktiebolag verkstäder i Bohus Surteg järnsbruk (A.-B. Sur)",
+            "location": "Surtet",
+            "power_station_name": "Surtet",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 54,
+            "company_name": "Angereds el. distr.-fören.",
+            "location": "Angered",
+            "power_station_name": "Angered",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 56,
+            "company_name": "Gunnilse el.-verk och kvarn",
+            "location": "Gunnilse",
+            "power_station_name": "Gunnilse kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 27
+        },
+        {
+            "index": 57,
+            "company_name": "Ytterstorpsfars",
+            "location": "Ytterstorpsfars",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 58,
+            "company_name": "Diverse egendomert mellem Jonsered och Lerum",
+            "location": "Jonsered",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        }
+    ],
+    "filename": "Älvsborg_2.png"
+}

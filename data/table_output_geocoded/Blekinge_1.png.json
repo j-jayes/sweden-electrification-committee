@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Sydsvenska kraft A.-B.",
+      "location": "Kyrkhult",
+      "power_station_name": "Hemsjö Övre kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 6190,
+      "full_location": "Kyrkhult, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "293 74 Kyrkhult, Sweden",
+        "location": {
+          "lat": 56.3549902,
+          "lng": 14.5875959
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Sydsvenska kraft A.-B.",
+      "location": "Kyrkhult",
+      "power_station_name": "Hemsjö lokaldistribuiton",
+      "power_source": "subscription",
+      "installed_capacity_kva": 111,
+      "full_location": "Kyrkhult, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "293 74 Kyrkhult, Sweden",
+        "location": {
+          "lat": 56.3549902,
+          "lng": 14.5875959
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Karlshamns Angcentral",
+      "location": "Karlshamns stad",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 5294,
+      "full_location": "Karlshamns stad, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Karlshamn, Sweden",
+        "location": {
+          "lat": 56.170303,
+          "lng": 14.863073
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Karlshamns stads och Ronneby HrF kraft A.-B.",
+      "location": "Karlshamns stad",
+      "power_station_name": "Karlshamns sekundärstationsområde",
+      "power_source": "subscription",
+      "installed_capacity_kva": 48,
+      "full_location": "Karlshamns stad, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Karlshamn, Sweden",
+        "location": {
+          "lat": 56.170303,
+          "lng": 14.863073
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Sölvesborgs sekundärstationsområde",
+      "location": "Sölvesborgs stad",
+      "power_station_name": "Mjöbäcks by",
+      "power_source": "water",
+      "installed_capacity_kva": 450,
+      "full_location": "Sölvesborgs stad, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sölvesborg, Sweden",
+        "location": {
+          "lat": 56.0537433,
+          "lng": 14.5796878
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Brantafors kraftstation",
+      "location": "Ronneby landsförs.",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Ronneby landsförs., Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ronneby, Sweden",
+        "location": {
+          "lat": 56.210434,
+          "lng": 15.2760229
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Stadens elektricitetsverk",
+      "location": "Karlshamns stad",
+      "power_station_name": "subscription from Karlshamns sekundärstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 170,
+      "full_location": "Karlshamns stad, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Karlshamn, Sweden",
+        "location": {
+          "lat": 56.170303,
+          "lng": 14.863073
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Stadens elektricitetsverk",
+      "location": "Ronneby stad",
+      "power_station_name": "subscription from Djupafors sekundärstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 140,
+      "full_location": "Ronneby stad, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ronneby, Sweden",
+        "location": {
+          "lat": 56.210434,
+          "lng": 15.2760229
+        }
+      }
+    }
+  ],
+  "filename": "Blekinge_1.png"
+}

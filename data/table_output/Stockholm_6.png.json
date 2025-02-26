@@ -1,0 +1,101 @@
+{
+    "data": [
+        {
+            "index": 117,
+            "company_name": "Sorunda norra el. distr.-fören.",
+            "location": "Sorunda",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 118,
+            "company_name": "Sorunda el. distr.-fören.",
+            "location": "Sorunda",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 119,
+            "company_name": "Ösmo el. distr.-fören.",
+            "location": "Ösmo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 120,
+            "company_name": "Djursnäs el. distr.-fören.",
+            "location": "Sorunda, Nynäshamn",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 121,
+            "company_name": "Ortssidst i Torö (Al. Berlin) och A.-B. Torö Taktelg.",
+            "location": "Torö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 122,
+            "company_name": "Nynäshamns El. A.-B. och Lungsj. Telegrafverket",
+            "location": "Nynäs",
+            "power_station_name": "Nynäshamns kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 130
+        },
+        {
+            "index": 123,
+            "company_name": "Järna el. distr.-fören.",
+            "location": "Överjärna, Ytterjärna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 124,
+            "company_name": "Märsta municipalsamhälle och el distr.-fören. Sigtuna i Södermanlands län",
+            "location": "Märsta",
+            "power_station_name": "Kraftverk från Älvkarleby",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 125,
+            "company_name": "Vårdinge el. distr.-fören. m.fl",
+            "location": "Vårdinge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 126,
+            "company_name": "G. Bång",
+            "location": "Sundby",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 127,
+            "company_name": "Segeltorps el. distr.-fören.",
+            "location": "Huddinge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 128,
+            "company_name": "Österhaninge el. distr. förening",
+            "location": "Österhaninge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        }
+    ],
+    "filename": "Stockholm_6.png"
+}

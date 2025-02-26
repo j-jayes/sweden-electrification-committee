@@ -1,0 +1,501 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Rumma och Röhmels el. kraftfören.",
+      "location": "Hannis",
+      "power_station_name": "Rumma",
+      "power_source": "oil",
+      "installed_capacity_kva": 75,
+      "full_location": "Hannis, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Forsaströms Kraft A.-B.",
+      "location": "Gärdserum",
+      "power_station_name": "Forsaströms nedre",
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Gärdserum, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Forsaströms Kraft A.-B.",
+      "location": "Gärdserum",
+      "power_station_name": "Forsaströms övre",
+      "power_source": "water",
+      "installed_capacity_kva": 210,
+      "full_location": "Gärdserum, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Mindre kraftanläggn.",
+      "location": "Torstorp",
+      "power_station_name": "Torstorp",
+      "power_source": "steam",
+      "installed_capacity_kva": 0,
+      "full_location": "Torstorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Falerums Belysnings A.-B.",
+      "location": "Falerum",
+      "power_station_name": "Falerum",
+      "power_source": "oil",
+      "installed_capacity_kva": 45,
+      "full_location": "Falerum, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Fornsäbergs egendomar",
+      "location": "Tryserum",
+      "power_station_name": "Lövbo",
+      "power_source": "water",
+      "installed_capacity_kva": 83,
+      "full_location": "Tryserum, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Forsaströms Kraft A.-B.",
+      "location": "Ukna",
+      "power_station_name": "Melby",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Ukna, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 75 Ukna, Sweden",
+        "location": {
+          "lat": 58.07906500000001,
+          "lng": 16.3523502
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Mindre kraftanläggn.",
+      "location": "Vimmerby",
+      "power_station_name": "Rostads kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 70,
+      "full_location": "Vimmerby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vimmerby, Sweden",
+        "location": {
+          "lat": 57.6690339,
+          "lng": 15.858857
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Vinds egendom",
+      "location": "Västra Ed",
+      "power_station_name": "Klofstorpsfallet",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Västra Ed, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 74 Västra Ed, Sweden",
+        "location": {
+          "lat": 58.01666699999999,
+          "lng": 16.466667
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Mindre kraftanläggn.",
+      "location": "Västra Ed",
+      "power_station_name": "Storkvarn",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Västra Ed, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 74 Västra Ed, Sweden",
+        "location": {
+          "lat": 58.01666699999999,
+          "lng": 16.466667
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Mindre kraftanläggn.",
+      "location": "Västra Ed",
+      "power_station_name": "Vindo",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Västra Ed, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 74 Västra Ed, Sweden",
+        "location": {
+          "lat": 58.01666699999999,
+          "lng": 16.466667
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Eds Bruk",
+      "location": "Västra Ed",
+      "power_station_name": "Skillereds kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Västra Ed, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 74 Västra Ed, Sweden",
+        "location": {
+          "lat": 58.01666699999999,
+          "lng": 16.466667
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Tylinge A.-B.",
+      "location": "Dalhem",
+      "power_station_name": "Bilstaden",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Dalhem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 92 Dalhem, Sweden",
+        "location": {
+          "lat": 57.9878525,
+          "lng": 16.1878056
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Muslets el.-foren.",
+      "location": "Ödsmålsväg",
+      "power_station_name": "Verklehann",
+      "power_source": "water",
+      "installed_capacity_kva": 120,
+      "full_location": "Ödsmålsväg, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Muslets el.-foren.",
+      "location": "Ödsmålet",
+      "power_station_name": "Tylinge",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Ödsmålet, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Trävura-A.-B.Norköpings Exportambuleri",
+      "location": "Sankt Vilhelm",
+      "power_station_name": "Brännebo",
+      "power_source": "water",
+      "installed_capacity_kva": 175,
+      "full_location": "Sankt Vilhelm, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Lärums gård",
+      "location": "Dalhem",
+      "power_station_name": "Lärum",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Dalhem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 92 Dalhem, Sweden",
+        "location": {
+          "lat": 57.9878525,
+          "lng": 16.1878056
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "A.-B. Överums bruk",
+      "location": "Västra Ed",
+      "power_station_name": "Överums mellersta",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Västra Ed, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 74 Västra Ed, Sweden",
+        "location": {
+          "lat": 58.01666699999999,
+          "lng": 16.466667
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "A.-B. Överums bruk",
+      "location": "Västra Ed",
+      "power_station_name": "Överums nedre",
+      "power_source": "water",
+      "installed_capacity_kva": 170,
+      "full_location": "Västra Ed, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 74 Västra Ed, Sweden",
+        "location": {
+          "lat": 58.01666699999999,
+          "lng": 16.466667
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Mindre kraftanläggn.",
+      "location": "Lofta",
+      "power_station_name": "Sagaretorps kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Lofta, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "387 91 Lofta, Sweden",
+        "location": {
+          "lat": 57.0322901,
+          "lng": 16.8348014
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Mindre kraftanläggn.",
+      "location": "Lofta",
+      "power_station_name": "Häggs kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Lofta, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "387 91 Lofta, Sweden",
+        "location": {
+          "lat": 57.0322901,
+          "lng": 16.8348014
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Hj. Andersson",
+      "location": "Gamleby",
+      "power_station_name": "Harg",
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Gamleby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 30 Gamleby, Sweden",
+        "location": {
+          "lat": 57.89316029999999,
+          "lng": 16.4060887
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Nyärdes egendom",
+      "location": "Gamleby",
+      "power_station_name": "Gustens",
+      "power_source": "water",
+      "installed_capacity_kva": 37,
+      "full_location": "Gamleby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 30 Gamleby, Sweden",
+        "location": {
+          "lat": 57.89316029999999,
+          "lng": 16.4060887
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Nyärdes egendom",
+      "location": "Gamleby",
+      "power_station_name": "Rudda kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Gamleby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 30 Gamleby, Sweden",
+        "location": {
+          "lat": 57.89316029999999,
+          "lng": 16.4060887
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Skramstång järnvägsfastighet",
+      "location": "Gamleby",
+      "power_station_name": "Skramstad",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Gamleby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 30 Gamleby, Sweden",
+        "location": {
+          "lat": 57.89316029999999,
+          "lng": 16.4060887
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "A.-B. Gamleby el.-verk",
+      "location": "Gamleby",
+      "power_station_name": "Gamleby el.-verk",
+      "power_source": "steam",
+      "installed_capacity_kva": 125,
+      "full_location": "Gamleby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "594 30 Gamleby, Sweden",
+        "location": {
+          "lat": 57.89316029999999,
+          "lng": 16.4060887
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Trävura A.-B. H. Cornelins",
+      "location": "Odenstorp",
+      "power_station_name": "Häckensstad",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Odenstorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Ögestads gård",
+      "location": "Odenstorp",
+      "power_station_name": "Ögestad",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Odenstorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Runeborg gård",
+      "location": "Hälingeberg",
+      "power_station_name": "Runeborg",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Hälingeberg, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Gunnebo Bruk",
+      "location": "Gäddhamrar",
+      "power_station_name": "Gunnebo övre",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Gäddhamrar, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Gunnebo Bruk",
+      "location": "Gäddhamrar",
+      "power_station_name": "Gunnebo nedre",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Gäddhamrar, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    }
+  ],
+  "filename": "Kalmar_1.png"
+}

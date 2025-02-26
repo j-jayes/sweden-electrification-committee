@@ -1,0 +1,261 @@
+{
+    "data": [
+        {
+            "index": 231,
+            "company_name": "Edsta Elektriska Förening",
+            "location": "Sorvik",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 210
+        },
+        {
+            "index": 232,
+            "company_name": "Fröbäckens Elektriska A.-B.",
+            "location": "Fröbäcken",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 233,
+            "company_name": "Sund-A.B.",
+            "location": "Lögdeå",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 234,
+            "company_name": "Stavre Bymän",
+            "location": "Stavre",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 235,
+            "company_name": "Husum n. B. byamän",
+            "location": "Husum",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 236,
+            "company_name": "Höglandabomas bymän",
+            "location": "Höglanda",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 237,
+            "company_name": "Hässjö Kraft A.-B.",
+            "location": "Hässjö",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 238,
+            "company_name": "Västanå Elektriska Andelsförening",
+            "location": "Västanå",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 239,
+            "company_name": "Sunds A.-B.",
+            "location": "Sundsvall",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 240,
+            "company_name": "Sorvikes Nya Ångsågs A.-B.",
+            "location": "Surtes",
+            "power_station_name": "Sörvik och Stranvik",
+            "power_source": "water",
+            "installed_capacity_kva": 440
+        },
+        {
+            "index": 241,
+            "company_name": "Söråkers Ångsågs A.-B.",
+            "location": "Söråker",
+            "power_station_name": "(Kraftverk fr. Sunds A.-B.)",
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 242,
+            "company_name": "Timrå Elektriska Andelsförening",
+            "location": "Timrå",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 243,
+            "company_name": "Indals Tifs Flottningsförening",
+            "location": "Härnösand",
+            "power_station_name": "Visvatræms Sulfitufabrik",
+            "power_source": "steam",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 244,
+            "company_name": "Visvatrarys A.-B.",
+            "location": "Visvalund",
+            "power_station_name": "Abonnenth. fran Kramfors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 245,
+            "company_name": "Näsböle Elektriska Kraft A.-B.",
+            "location": "Indal",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 246,
+            "company_name": "Michelsens Elektriska A.-B.",
+            "location": "Michelsa",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 247,
+            "company_name": "J. C. Borendan, Här",
+            "location": "Härnösand",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 248,
+            "company_name": "Lidenägda Elektriska Distributionsförening",
+            "location": "Lidensdalen",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 280
+        },
+        {
+            "index": 249,
+            "company_name": "Järvlikie Elektriska Andelsförening",
+            "location": "Järvlik",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 780
+        },
+        {
+            "index": 250,
+            "company_name": "Åsens Elektriska A.-B.",
+            "location": "Åkers",
+            "power_station_name": "Kraftr. Statsoforsen nr 6 i Jämtland",
+            "power_source": "water",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 251,
+            "company_name": "B. Vattenfallsstyrelsen",
+            "location": "Järnek",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 252,
+            "company_name": "Elektriska A.-B. Liden",
+            "location": "Dacke",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 253,
+            "company_name": "Skonviks A.-B.",
+            "location": "Järnverket",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 254,
+            "company_name": "Örtradistributionen mellan Sundsvall och Söråker",
+            "location": "Helgedal",
+            "power_station_name": "Holm",
+            "power_source": "steam",
+            "installed_capacity_kva": 1890
+        },
+        {
+            "index": 255,
+            "company_name": "A.-B. Skonsbergs Elektriska Belysn.",
+            "location": "Skön",
+            "power_station_name": "Östrandsverk",
+            "power_source": "steam",
+            "installed_capacity_kva": 1800
+        },
+        {
+            "index": 256,
+            "company_name": "Skönviks A.-B.",
+            "location": "Skön",
+            "power_station_name": "Abom. fr. Skönviks A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 550
+        },
+        {
+            "index": 257,
+            "company_name": "Sunds A.-B. Sunds såg, verkstad och slip",
+            "location": "Sund",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 610
+        },
+        {
+            "index": 258,
+            "company_name": "Sunds A.-B.",
+            "location": "Skönvik",
+            "power_station_name": "Tunadal",
+            "power_source": "water",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 259,
+            "company_name": "Johannebergs Trävarv A.-B.",
+            "location": "Johannes",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 1150
+        },
+        {
+            "index": 260,
+            "company_name": "J. A. Edholms Trävarv A. B.",
+            "location": "Heffners",
+            "power_station_name": "Krafværk fran Nedansjö kraftst.",
+            "power_source": "water",
+            "installed_capacity_kva": 1350
+        },
+        {
+            "index": 261,
+            "company_name": "Hugsta Elektr. förening",
+            "location": "Kubikenborg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 490
+        },
+        {
+            "index": 262,
+            "company_name": "Sundsvalls stad",
+            "location": "Sundsvall",
+            "power_station_name": "Abon. fr. Skönviks A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        }
+    ],
+    "filename": "Västernorrland_7.png"
+}

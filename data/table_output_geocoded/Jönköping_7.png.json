@@ -1,0 +1,437 @@
+{
+  "data": [
+    {
+      "index": 131,
+      "company_name": "Fabrikör C. A. Andersson",
+      "location": "Anderstorp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 380,
+      "full_location": "Anderstorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "334 33 Anderstorp, Sweden",
+        "location": {
+          "lat": 57.2812542,
+          "lng": 13.6271963
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Tändsticks- och verkstads AB Anderstorp",
+      "location": "Anderstorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 0,
+      "full_location": "Anderstorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "334 33 Anderstorp, Sweden",
+        "location": {
+          "lat": 57.2812542,
+          "lng": 13.6271963
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Tånghults elektr.-verk",
+      "location": "Anderstorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Anderstorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "334 33 Anderstorp, Sweden",
+        "location": {
+          "lat": 57.2812542,
+          "lng": 13.6271963
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "Ursvikens elektr.-verk",
+      "location": "Kulltorp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Kulltorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 96 Kulltorp, Sweden",
+        "location": {
+          "lat": 57.2639556,
+          "lng": 13.7937279
+        }
+      }
+    },
+    {
+      "index": 135,
+      "company_name": "Trollefors elektr.-verk",
+      "location": "Broaryd",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Broaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 92 Broaryd, Sweden",
+        "location": {
+          "lat": 57.1199526,
+          "lng": 13.2569015
+        }
+      }
+    },
+    {
+      "index": 136,
+      "company_name": "Tynsås elektr.-A.-B.",
+      "location": "Hillerstorp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 490,
+      "full_location": "Hillerstorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 73 Hillerstorp, Sweden",
+        "location": {
+          "lat": 57.3150182,
+          "lng": 13.8805966
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": "Totorps KF",
+      "location": "Kulltorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 220,
+      "full_location": "Kulltorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 96 Kulltorp, Sweden",
+        "location": {
+          "lat": 57.2639556,
+          "lng": 13.7937279
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": "Vekarås såg, brann o. kraft.",
+      "location": "Kulltorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Kulltorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 96 Kulltorp, Sweden",
+        "location": {
+          "lat": 57.2639556,
+          "lng": 13.7937279
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": "Lehna kvarn",
+      "location": "Kulltorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Kulltorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 96 Kulltorp, Sweden",
+        "location": {
+          "lat": 57.2639556,
+          "lng": 13.7937279
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": "Dalslunds elektr. förening",
+      "location": "Hällabäck",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 220,
+      "full_location": "Hällabäck, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 78 Hällabäck, Sweden",
+        "location": {
+          "lat": 57.25303359999999,
+          "lng": 13.3001424
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": "Arnålsholms elektr.-verk",
+      "location": "Hällabäck",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 380,
+      "full_location": "Hällabäck, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 78 Hällabäck, Sweden",
+        "location": {
+          "lat": 57.25303359999999,
+          "lng": 13.3001424
+        }
+      }
+    },
+    {
+      "index": 142,
+      "company_name": "Löbbö belysningsförening",
+      "location": "Hällabäck",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Hällabäck, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 78 Hällabäck, Sweden",
+        "location": {
+          "lat": 57.25303359999999,
+          "lng": 13.3001424
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "Åskebo och Sjuhärads tele-for.,",
+      "location": "Vahult",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Vahult, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "Kappelids spikfabrik",
+      "location": "Smålandsstenar",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Smålandsstenar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Smålandsstenar, Sweden",
+        "location": {
+          "lat": 57.1597167,
+          "lng": 13.403521
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "Landsbro el.-för.,",
+      "location": "Smålandsstenar",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Smålandsstenar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Smålandsstenar, Sweden",
+        "location": {
+          "lat": 57.1597167,
+          "lng": 13.403521
+        }
+      }
+    },
+    {
+      "index": 146,
+      "company_name": "Isberga gård",
+      "location": "Smålandsstenar",
+      "power_station_name": "subscription from Kappelids el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 6000,
+      "full_location": "Smålandsstenar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Smålandsstenar, Sweden",
+        "location": {
+          "lat": 57.1597167,
+          "lng": 13.403521
+        }
+      }
+    },
+    {
+      "index": 147,
+      "company_name": "Ågårdsfors kvarnbolag",
+      "location": "Smålandsstenar",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5000,
+      "full_location": "Smålandsstenar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Smålandsstenar, Sweden",
+        "location": {
+          "lat": 57.1597167,
+          "lng": 13.403521
+        }
+      }
+    },
+    {
+      "index": 148,
+      "company_name": "Jönköpings träddgård A-B",
+      "location": "Skepplanda",
+      "power_station_name": "subscription from Västbo kraft A-B",
+      "power_source": "subscription",
+      "installed_capacity_kva": 125,
+      "full_location": "Skepplanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 149,
+      "company_name": "Bränneg elektricitetsverk",
+      "location": "Skepplanda",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 220,
+      "full_location": "Skepplanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 150,
+      "company_name": "Smålands elektricitetsverk",
+      "location": "Skepplanda",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 220,
+      "full_location": "Skepplanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 151,
+      "company_name": "Lida byamäns elektr.-verk",
+      "location": "Smålandsstenar",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 220,
+      "full_location": "Smålandsstenar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Smålandsstenar, Sweden",
+        "location": {
+          "lat": 57.1597167,
+          "lng": 13.403521
+        }
+      }
+    },
+    {
+      "index": 152,
+      "company_name": "Burseryds kraft A.-B.",
+      "location": "Smålandsstener",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 220,
+      "full_location": "Smålandsstener, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Smålandsstenar, Sweden",
+        "location": {
+          "lat": 57.1597167,
+          "lng": 13.403521
+        }
+      }
+    },
+    {
+      "index": 153,
+      "company_name": "Boeryds elektricitetsverk",
+      "location": "Smålandsstener",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 0,
+      "full_location": "Smålandsstener, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Smålandsstenar, Sweden",
+        "location": {
+          "lat": 57.1597167,
+          "lng": 13.403521
+        }
+      }
+    },
+    {
+      "index": 154,
+      "company_name": "Kymaryds elektr.-verk",
+      "location": "Kulltorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Kulltorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 96 Kulltorp, Sweden",
+        "location": {
+          "lat": 57.2639556,
+          "lng": 13.7937279
+        }
+      }
+    },
+    {
+      "index": 155,
+      "company_name": "Visselto elektricitetsverk",
+      "location": "Kulltorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Kulltorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 96 Kulltorp, Sweden",
+        "location": {
+          "lat": 57.2639556,
+          "lng": 13.7937279
+        }
+      }
+    },
+    {
+      "index": 156,
+      "company_name": "Södra Hestra",
+      "location": "Broaryd",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 0,
+      "full_location": "Broaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 92 Broaryd, Sweden",
+        "location": {
+          "lat": 57.1199526,
+          "lng": 13.2569015
+        }
+      }
+    },
+    {
+      "index": 157,
+      "company_name": "Sameryds kvd",
+      "location": "Broaryd",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 920,
+      "full_location": "Broaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 92 Broaryd, Sweden",
+        "location": {
+          "lat": 57.1199526,
+          "lng": 13.2569015
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_7.png"
+}

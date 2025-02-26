@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "index": 102,
+      "company_name": "Holms belysnings- och kraftförening",
+      "location": "Holm, Halmstad",
+      "power_station_name": "Ab. från Halmstadsortens kraftförening, Halmstad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Holm, Halmstad, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "302 79 Holm, Sweden",
+        "location": {
+          "lat": 56.7309445,
+          "lng": 12.860405
+        }
+      }
+    },
+    {
+      "index": 103,
+      "company_name": "Sperlingsholms elektricitetsverk, Godsägare Carl Kuylenstierna",
+      "location": "Sperlingsholm, Holm",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1080,
+      "full_location": "Sperlingsholm, Holm, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "305 92 Sperlingsholm, Sweden",
+        "location": {
+          "lat": 56.7047975,
+          "lng": 12.9064855
+        }
+      }
+    },
+    {
+      "index": 104,
+      "company_name": "Halmstadsortens kraftförening",
+      "location": "Vapnö, Halmstad",
+      "power_station_name": "Ab. från Halmstads stads elekticitetsverk, Halmstad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 108,
+      "full_location": "Vapnö, Halmstad, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "302 30 Vapnö, Sweden",
+        "location": {
+          "lat": 56.7,
+          "lng": 12.866667
+        }
+      }
+    },
+    {
+      "index": 105,
+      "company_name": "Mickelstads kraftförening",
+      "location": "Halmstad",
+      "power_station_name": "Ab. från Halmstadsortens kraftförening, Halmstad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 106,
+      "full_location": "Halmstad, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halmstad, Sweden",
+        "location": {
+          "lat": 56.6743748,
+          "lng": 12.8577884
+        }
+      }
+    },
+    {
+      "index": 106,
+      "company_name": "Skandinaviska granit a.-b.",
+      "location": "Söndrum, Halmstad",
+      "power_station_name": "Ab. från Halmstadsortens kraftförening, Halmstad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 550,
+      "full_location": "Söndrum, Halmstad, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Söndrum, Halmstad, Sweden",
+        "location": {
+          "lat": 56.65574909999999,
+          "lng": 12.7963174
+        }
+      }
+    },
+    {
+      "index": 107,
+      "company_name": "Söndrums elektriska stationsförening",
+      "location": "Söndrum, Halmstad",
+      "power_station_name": "Ab. från Skandinaviska granit a.-b., Söndrum pr Halmstad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 380,
+      "full_location": "Söndrum, Halmstad, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Söndrum, Halmstad, Sweden",
+        "location": {
+          "lat": 56.65574909999999,
+          "lng": 12.7963174
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Enslövs elektricitetsverk, Skavböke pr Sennan",
+      "location": "Enslövs, Sennan",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Enslövs, Sennan, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "313 95 Enslöv, Sweden",
+        "location": {
+          "lat": 56.75,
+          "lng": 12.95
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Kazltorps kvarn och såg, Svarmejare J. Johansson",
+      "location": "Sennan, Skavböke",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 385,
+      "full_location": "Sennan, Skavböke, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "313 92 Skavböke, Sweden",
+        "location": {
+          "lat": 56.82169949999999,
+          "lng": 13.080234
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Svartorps e. p.-a. Johansson & Jervås",
+      "location": "Skavböke",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 380,
+      "full_location": "Skavböke, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "313 92 Skavböke, Sweden",
+        "location": {
+          "lat": 56.82169949999999,
+          "lng": 13.080234
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "Ivarfs elektriska distributionsförening",
+      "location": "Skavböke",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Skavböke, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "313 92 Skavböke, Sweden",
+        "location": {
+          "lat": 56.82169949999999,
+          "lng": 13.080234
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Öknalts elektriska distributionsförening, Aron Nilsson",
+      "location": "Skavböke pr Sennan",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Skavböke pr Sennan, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "313 92 Skavböke, Sweden",
+        "location": {
+          "lat": 56.82169949999999,
+          "lng": 13.080234
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Sennans kvarn och elektricitetsverk, Bruksinspektor E. Andersson",
+      "location": "Halland",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Halland, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 92 Halland, Sweden",
+        "location": {
+          "lat": 57.19448,
+          "lng": 12.34814
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "A.-B. Aldes tunnfabrik, Hyltebruk",
+      "location": "Halland",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 110,
+      "full_location": "Halland, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 92 Halland, Sweden",
+        "location": {
+          "lat": 57.19448,
+          "lng": 12.34814
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Bladstens kvarn och elektricitetsverk, Notarie K. J. Ewerl, Lilla Extra pr Hyltebruk",
+      "location": "Halland",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 380,
+      "full_location": "Halland, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 92 Halland, Sweden",
+        "location": {
+          "lat": 57.19448,
+          "lng": 12.34814
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Nortorp elektricitetsverk, lantbr. Algot Jonasson",
+      "location": "Markaryd, Halland",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 380,
+      "full_location": "Markaryd, Halland, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 92 Halland, Sweden",
+        "location": {
+          "lat": 57.19448,
+          "lng": 12.34814
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Afsåter elektricitetsverk",
+      "location": "Tedalund, Skebhult",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Tedalund, Skebhult, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Frekebö kvarn och elektricitetsverk",
+      "location": "Kramöh, Agld Jodansson, Frekäbo",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Kramöh, Agld Jodansson, Frekäbo, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Fröhöge kvarn och elektricitetsverk",
+      "location": "Halland",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Halland, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 92 Halland, Sweden",
+        "location": {
+          "lat": 57.19448,
+          "lng": 12.34814
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Afdalssons kvarn, Bygge A.-B. Dicwits, Marnold",
+      "location": "Halland",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Halland, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 92 Halland, Sweden",
+        "location": {
+          "lat": 57.19448,
+          "lng": 12.34814
+        }
+      }
+    }
+  ],
+  "filename": "Halland_7.png"
+}

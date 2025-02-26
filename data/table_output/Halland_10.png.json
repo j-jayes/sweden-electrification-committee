@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "index": 159,
+            "company_name": "Hults elektricitetesverk",
+            "location": "Knäred",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 160,
+            "company_name": "Västra Kabelput,“",
+            "location": "Östra Karup",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 161,
+            "company_name": "Kvannegarde Janne Nilsson",
+            "location": "Hässle",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 162,
+            "company_name": "Hässle elektriska distributionsförening",
+            "location": "Hisshult",
+            "power_station_name": "subscription from Sydsvenska kraft a-b, Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 163,
+            "company_name": "Örkeljunga municipals elektricitetsverk",
+            "location": "Örkeljunga",
+            "power_station_name": "subscription from Sydsvenska kraft a-b, Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 164,
+            "company_name": "K. Telegrafstyrelsen",
+            "location": "Grimeton",
+            "power_station_name": "subscription from Yngeredsfors kraft a-b",
+            "power_source": "subscription",
+            "installed_capacity_kva": 40
+        }
+    ],
+    "filename": "Halland_10.png"
+}

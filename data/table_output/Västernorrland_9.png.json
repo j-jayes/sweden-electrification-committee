@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "index": 311,
+            "company_name": "Tävran A.B.",
+            "location": "Svartvik",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 9200
+        },
+        {
+            "index": 312,
+            "company_name": "Ljungå Älv Flottningsförening",
+            "location": "Kläppenborg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 313,
+            "company_name": "Sundsvalls Cellulosa A.-B.",
+            "location": "Nyhamn",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 315,
+            "company_name": "Ortjö bysaman",
+            "location": "Ortjö",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 317,
+            "company_name": "Sundsvalls Cellulosa A.-B.",
+            "location": "Njurunda",
+            "power_station_name": "Nyhamn",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 318,
+            "company_name": "Ortjö bysaman",
+            "location": "Sörsjö",
+            "power_station_name": "Ortjö",
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 322,
+            "company_name": "T. O. Landgr",
+            "location": "Stångom",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 259
+        },
+        {
+            "index": 328,
+            "company_name": "Nolby Elektriska Förening",
+            "location": "Stöde",
+            "power_station_name": "Näsångom",
+            "power_source": "water",
+            "installed_capacity_kva": 6300
+        },
+        {
+            "index": 330,
+            "company_name": "Ede byamäns Elektriska Distributionsförening",
+            "location": "Abon. fr. Ljungaverk",
+            "power_station_name": "subscription from Ljungaverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 331,
+            "company_name": "Fanbyn Elektriska verk",
+            "location": "Fanbyn",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 335,
+            "company_name": "Janne Westins sterbhus",
+            "location": "Abon. fr. Westin, Nederede",
+            "power_station_name": "subscription from Westin, Nederede",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 338,
+            "company_name": "Torp",
+            "location": "Panbyn",
+            "power_station_name": "Panbyn",
+            "power_source": "water",
+            "installed_capacity_kva": 2820
+        },
+        {
+            "index": 341,
+            "company_name": "Hjältans byamäns Elektriska Kraftförening",
+            "location": "Torpshammar",
+            "power_station_name": "Abon. fr. Ljungaverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 346,
+            "company_name": "P. O. Sundell, Björmoden",
+            "location": "Hansipska",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 348,
+            "company_name": "J. Jonsson, Österåker",
+            "location": "Abon. fr. Ljunga verk",
+            "power_station_name": "subscription from Ljunga verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 6000
+        }
+    ],
+    "filename": "Västernorrland_9.png"
+}

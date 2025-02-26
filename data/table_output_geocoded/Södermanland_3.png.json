@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "index": 46,
+      "company_name": "Valla El. Kraft och Belysnings A.-B.",
+      "location": "Lerbo",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lerbo, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lerbo socken, 641 62 Valla, Sweden",
+        "location": {
+          "lat": 58.987891,
+          "lng": 16.430924
+        }
+      }
+    },
+    {
+      "index": 47,
+      "company_name": "Lerbo sockens el. distr. fören.",
+      "location": "Lerbo",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lerbo, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lerbo socken, 641 62 Valla, Sweden",
+        "location": {
+          "lat": 58.987891,
+          "lng": 16.430924
+        }
+      }
+    },
+    {
+      "index": 48,
+      "company_name": "A.-B. Katrineholms el.-verk",
+      "location": "Katrineholm",
+      "power_station_name": "Katrineholms kraftst. II",
+      "power_source": "steam",
+      "installed_capacity_kva": 370,
+      "full_location": "Katrineholm, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Katrineholm, Sweden",
+        "location": {
+          "lat": 58.99555109999999,
+          "lng": 16.2054756
+        }
+      }
+    },
+    {
+      "index": 49,
+      "company_name": "Värmbols Fabr. A.-B.",
+      "location": "Katrineholm",
+      "power_station_name": "Gene kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 37,
+      "full_location": "Katrineholm, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Katrineholm, Sweden",
+        "location": {
+          "lat": 58.99555109999999,
+          "lng": 16.2054756
+        }
+      }
+    },
+    {
+      "index": 50,
+      "company_name": "Baggebytorpsortens el. distr. fören.",
+      "location": "Vagnhärad",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vagnhärad, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "619 71 Vagnhärad, Sweden",
+        "location": {
+          "lat": 58.9448192,
+          "lng": 17.4889958
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "Ö. Vingåkers el. distr.-fören. C. Levinenguth",
+      "location": "Vingåker",
+      "power_station_name": "Boda kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Vingåker, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vingåker, Sweden",
+        "location": {
+          "lat": 59.04337529999999,
+          "lng": 15.8709394
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "Strångsjö el. kraft- och belysningsförening",
+      "location": "Strångsjö",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Strångsjö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "641 92 Strångsjö, Sweden",
+        "location": {
+          "lat": 58.9039119,
+          "lng": 16.1928028
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "R. Grönkvist Forssjö bruk",
+      "location": "St. Malm",
+      "power_station_name": "St. Djulö",
+      "power_source": "steam",
+      "installed_capacity_kva": 85,
+      "full_location": "St. Malm, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stora Malm kyrka, 641 93 Katrineholm, Sweden",
+        "location": {
+          "lat": 58.96764400000001,
+          "lng": 16.360573
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "Forssjö bruk",
+      "location": "St. Malm",
+      "power_station_name": "Forssjö damm",
+      "power_source": "water",
+      "installed_capacity_kva": 120,
+      "full_location": "St. Malm, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stora Malm kyrka, 641 93 Katrineholm, Sweden",
+        "location": {
+          "lat": 58.96764400000001,
+          "lng": 16.360573
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "Forssjö—Östra Djulö el. distr.-fören.",
+      "location": "St. Malm",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Malm, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stora Malm kyrka, 641 93 Katrineholm, Sweden",
+        "location": {
+          "lat": 58.96764400000001,
+          "lng": 16.360573
+        }
+      }
+    },
+    {
+      "index": 56,
+      "company_name": "Forssjö och Stensjö el. distr. fören.",
+      "location": "St. Malm",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Malm, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stora Malm kyrka, 641 93 Katrineholm, Sweden",
+        "location": {
+          "lat": 58.96764400000001,
+          "lng": 16.360573
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Kantorps malmfält",
+      "location": "Bettna",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Bettna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "642 62 Bettna, Sweden",
+        "location": {
+          "lat": 58.90764369999999,
+          "lng": 16.6355222
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Rassta Kraft och Trafik A.-B.",
+      "location": "Bettna",
+      "power_station_name": "Åkfors",
+      "power_source": "water",
+      "installed_capacity_kva": 370,
+      "full_location": "Bettna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "642 62 Bettna, Sweden",
+        "location": {
+          "lat": 58.90764369999999,
+          "lng": 16.6355222
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Björkviks el. distr.-fören.",
+      "location": "Björkvik",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Björkvik, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "641 63 Björkvik, Sweden",
+        "location": {
+          "lat": 58.83246219999999,
+          "lng": 16.516314
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "Danbyholmsägare Vadsbro el. distr.-fören.",
+      "location": "Bettna",
+      "power_station_name": "Vedeby kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Bettna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "642 62 Bettna, Sweden",
+        "location": {
+          "lat": 58.90764369999999,
+          "lng": 16.6355222
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Bettna—Halla—Vrena el. Skeda-Halla, Backa-Hosjö - \\,\nVrena, Sigtomta",
+      "location": "Vrena",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vrena, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "611 73 Vrena, Sweden",
+        "location": {
+          "lat": 58.8605867,
+          "lng": 16.6988805
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": "Tuna—Lunda el. distr.-fören.",
+      "location": "Tuna, Lunda",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Tuna, Lunda, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "643 91 Lunda, Sweden",
+        "location": {
+          "lat": 59.06666699999999,
+          "lng": 15.8
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Nyköpingsortens el. distr.-fören.",
+      "location": "St. Nikolai",
+      "power_station_name": "subscription from Forsafallet",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Nikolai, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Nyköpings stads el-verk",
+      "location": "Nyköping",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Nyköping, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nyköping, Sweden",
+        "location": {
+          "lat": 58.75284389999999,
+          "lng": 17.0091593
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "A.-B. Perioden",
+      "location": "Nyköping",
+      "power_station_name": "Stortorutsfallet",
+      "power_source": "water",
+      "installed_capacity_kva": 620,
+      "full_location": "Nyköping, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nyköping, Sweden",
+        "location": {
+          "lat": 58.75284389999999,
+          "lng": 17.0091593
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "A.-B. Fors ulspinneri",
+      "location": "Nyköping",
+      "power_station_name": "Forsafallet",
+      "power_source": "water",
+      "installed_capacity_kva": 159,
+      "full_location": "Nyköping, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nyköping, Sweden",
+        "location": {
+          "lat": 58.75284389999999,
+          "lng": 17.0091593
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Stjärnholmsortens el. distr.-fören.",
+      "location": "Stjärnholm",
+      "power_station_name": "subscription from Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Stjärnholm, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Oxelösund, 613 41 Oxelösund, Sweden",
+        "location": {
+          "lat": 58.6940267,
+          "lng": 17.0322043
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Gamla Oxelösunds el. distr. fören.\nTrafik A.-B. G. Grängesberg—Oxelösund och Oxelösunds Järnverks A.-B.",
+      "location": "Oxelösund",
+      "power_station_name": "Oxelösund",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Oxelösund, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Oxelösund, Sweden",
+        "location": {
+          "lat": 58.6754851,
+          "lng": 17.0749546
+        }
+      }
+    }
+  ],
+  "filename": "Södermanland_3.png"
+}

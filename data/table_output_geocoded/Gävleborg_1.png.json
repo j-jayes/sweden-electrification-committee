@@ -1,0 +1,485 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Hedesunda Elektr. A.B.",
+      "location": "Hedesunda",
+      "power_station_name": "subscription from Söderfors bruk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Hedesunda, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "818 45 Hedesunda, Sweden",
+        "location": {
+          "lat": 60.3939638,
+          "lng": 17.0067862
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Hedesunda Södra Kraft- och belys.fören.",
+      "location": "Hedesunda",
+      "power_station_name": "Ölbo kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Hedesunda, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "818 45 Hedesunda, Sweden",
+        "location": {
+          "lat": 60.3939638,
+          "lng": 17.0067862
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Östra Bodaams Kraft- och bell.-fören.",
+      "location": "Ölbo",
+      "power_station_name": "Bångsta",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Ölbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "818 96 Ölbo, Sweden",
+        "location": {
+          "lat": 60.40952769999999,
+          "lng": 17.0424482
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Östra Bodaams Kraft- och bell.-fören.",
+      "location": "Österbyggebo",
+      "power_station_name": "Storsjögbo",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Österbyggebo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "818 95 Österbyggebo, Sweden",
+        "location": {
+          "lat": 60.4,
+          "lng": 16.866667
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Mindre distributionsföretag",
+      "location": "Käbbo",
+      "power_station_name": "subscription from Hornålds järnverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Käbbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Mindre distributionsföretag",
+      "location": "Käbbo",
+      "power_station_name": "subscription from kverakerby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Käbbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Ärsunda kraft- och belysningsförening",
+      "location": "Ärsunda",
+      "power_station_name": "Hammarfallet",
+      "power_source": "water",
+      "installed_capacity_kva": 370,
+      "full_location": "Ärsunda, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "811 73 Årsunda, Sweden",
+        "location": {
+          "lat": 60.5110017,
+          "lng": 16.7336893
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Hemlingby och Järfsta Kraft. o. bel.-fören.",
+      "location": "Valbo",
+      "power_station_name": "subscription from Stärnforsen",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Valbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Valbo, Sweden",
+        "location": {
+          "lat": 60.6430312,
+          "lng": 17.0082511
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Mackmyra Bruk",
+      "location": "Valbo",
+      "power_station_name": "subscription from Forsbacka och Stärnforsen",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2010,
+      "full_location": "Valbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Valbo, Sweden",
+        "location": {
+          "lat": 60.6430312,
+          "lng": 17.0082511
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Mackmyra Bruk",
+      "location": "Sulfatbrik.",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Sulfatbrik., Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Gävle—Dala Järnvägs A.B.",
+      "location": "Hagaström",
+      "power_station_name": "Hagaströms kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 175,
+      "full_location": "Hagaström, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "806 28 Hagaström, Sweden",
+        "location": {
+          "lat": 60.67174199999999,
+          "lng": 17.0753256
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Abyfors A.B.",
+      "location": "Abyfors",
+      "power_station_name": "Abyfors",
+      "power_source": "water",
+      "installed_capacity_kva": 336,
+      "full_location": "Abyfors, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åbyforsvägen, 818 33 Valbo, Sweden",
+        "location": {
+          "lat": 60.65642260000001,
+          "lng": 17.0318765
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Forsbacka Järnverks A.B.",
+      "location": "Forsbacka",
+      "power_station_name": "Forsbacka",
+      "power_source": "water",
+      "installed_capacity_kva": 386,
+      "full_location": "Forsbacka, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "818 41 Forsbacka, Sweden",
+        "location": {
+          "lat": 60.6160998,
+          "lng": 16.8919154
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Stambaneks Elektricitetsverk",
+      "location": "Älvkarleby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Älvkarleby, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvkarleby, Sweden",
+        "location": {
+          "lat": 60.5362188,
+          "lng": 17.4436557
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Östbaneks Flåfabriks elektricitetsverk",
+      "location": "Östanbäck",
+      "power_station_name": "Östanbäck",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Östanbäck, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "818 32 Östanbäck, Sweden",
+        "location": {
+          "lat": 60.65000000000001,
+          "lng": 16.966667
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Öns Kraftbolag",
+      "location": "Öns",
+      "power_station_name": "Öns kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 325,
+      "full_location": "Öns, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Sandvikens Järnverks A.B.",
+      "location": "Högbo",
+      "power_station_name": "Sandvikens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 925,
+      "full_location": "Högbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "811 92 Högbo, Sweden",
+        "location": {
+          "lat": 60.6628609,
+          "lng": 16.8013681
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Gävle stads elektricitetsverk",
+      "location": "Gävle stad",
+      "power_station_name": "Holmens Kraf. Avsk och Nås kraftst.",
+      "power_source": "water",
+      "installed_capacity_kva": 480,
+      "full_location": "Gävle stad, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gävle, Sweden",
+        "location": {
+          "lat": 60.6748796,
+          "lng": 17.1412726
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Gävle stads elektricitetsverk",
+      "location": "Gävle stad",
+      "power_station_name": "Industrial kraftibruk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1000,
+      "full_location": "Gävle stad, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gävle, Sweden",
+        "location": {
+          "lat": 60.6748796,
+          "lng": 17.1412726
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Konsäs Sågverks A.B.",
+      "location": "Hille",
+      "power_station_name": "subscription from Forsby kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 75,
+      "full_location": "Hille, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "806 48 Hilleby, Sweden",
+        "location": {
+          "lat": 60.733333,
+          "lng": 17.166667
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Konsäs Sågverks A.B.",
+      "location": "Hille",
+      "power_station_name": "subscription from Forsby",
+      "power_source": "subscription",
+      "installed_capacity_kva": 75,
+      "full_location": "Hille, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "806 48 Hilleby, Sweden",
+        "location": {
+          "lat": 60.733333,
+          "lng": 17.166667
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "A.-B. Norrland,",
+      "location": "Forsbo",
+      "power_station_name": "Forsbo kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Forsbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Berg-Älvns Byarn. och belysnings. A.B.",
+      "location": "Hammarne",
+      "power_station_name": "subscription from Fägis",
+      "power_source": "subscription",
+      "installed_capacity_kva": 350,
+      "full_location": "Hammarne, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Älv Sveriges A.B.",
+      "location": "Bergs",
+      "power_station_name": "subscription from Vormsuden kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 330,
+      "full_location": "Bergs, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "818 45 Berg, Sweden",
+        "location": {
+          "lat": 60.4,
+          "lng": 17
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Mackmyra Tjärnvers A.B.",
+      "location": "Ockelbo",
+      "power_station_name": "Mackmyra kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 265,
+      "full_location": "Ockelbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ockelbo, Sweden",
+        "location": {
+          "lat": 60.89178399999999,
+          "lng": 16.7201873
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Svedians Bruk",
+      "location": "Ullungen",
+      "power_station_name": "Svedians bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 85,
+      "full_location": "Ullungen, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ullungen, 828 34 Edsbyn, Sweden",
+        "location": {
+          "lat": 61.4,
+          "lng": 15.8
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Svedians Bruk",
+      "location": "Amsbergs",
+      "power_station_name": "Amsbergs kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 120,
+      "full_location": "Amsbergs, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Ockelbo Elektriska A. B.",
+      "location": "Ockelbo",
+      "power_station_name": "Stromsberg",
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Ockelbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ockelbo, Sweden",
+        "location": {
+          "lat": 60.89178399999999,
+          "lng": 16.7201873
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Vij Bruk",
+      "location": "Vij",
+      "power_station_name": "Älvkarleby",
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "Vij, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Jädräss järnverk",
+      "location": "Jädraås",
+      "power_station_name": "Pallatanke kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Jädraås, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "816 91 Jädraås, Sweden",
+        "location": {
+          "lat": 60.8438554,
+          "lng": 16.4661037
+        }
+      }
+    }
+  ],
+  "filename": "Gävleborg_1.png"
+}

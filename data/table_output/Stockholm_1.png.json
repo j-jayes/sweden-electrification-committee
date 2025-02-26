@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Forsmarks bruk",
+            "location": "Forsmark",
+            "power_station_name": "Forsmarks bruk",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 2,
+            "company_name": "Viggelsbo gruvintressenter",
+            "location": "Valö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 3,
+            "company_name": "Fogsäkers el. distr.-fören.",
+            "location": "Valö, Börstil",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 4,
+            "company_name": "Forsmarks bruk",
+            "location": "Forsmark, Börstil",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 5,
+            "company_name": "Fogsäkers el. distr.-fören.",
+            "location": "Valö, Hökhuvud, Hållnäs",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 6,
+            "company_name": "Sekundarstaten/Holm",
+            "location": "Valö, Hökhuvud",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 7,
+            "company_name": "Holmens Bruks & Fabriks A.-B.",
+            "location": "Hörnsjö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 8,
+            "company_name": "Gimo-Osterby Bruks A.-B.",
+            "location": "Harg",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 9,
+            "company_name": "Hargs hamn el. distr.-fören.",
+            "location": "Harg",
+            "power_station_name": "Hargs kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 10,
+            "company_name": "Hargs bruk",
+            "location": "Harg",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 11,
+            "company_name": "Östhammars stads el.-verk",
+            "location": "Östhammar",
+            "power_station_name": "Östhammars kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 900
+        },
+        {
+            "index": 12,
+            "company_name": "Havervö norra el. distr.-fören.",
+            "location": "Havervö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 13,
+            "company_name": "Herrängs Gruv A.-B.",
+            "location": "Herräng",
+            "power_station_name": "Herräng",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 14,
+            "company_name": "Havervö el. distr.-fören.",
+            "location": "Havervö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 15,
+            "company_name": "Hallstaviks el. distr.-fören.",
+            "location": "Häverö och Edebo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 16,
+            "company_name": "Häveröstrand el. distr.-fören.",
+            "location": "Häverö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 17,
+            "company_name": "Edebo el. distr.-fören.",
+            "location": "Edebo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 18,
+            "company_name": "Nya Edebo skog",
+            "location": "Edebo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 19,
+            "company_name": "A. Karlsson och E. Dahlberg",
+            "location": "Gäsyik",
+            "power_station_name": "Gäsyik",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 20,
+            "company_name": "Bondebygdens kraftstation",
+            "location": "Väddö",
+            "power_station_name": "Väddö",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        }
+    ],
+    "filename": "Stockholm_1.png"
+}

@@ -1,0 +1,389 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "A.-B. Åseda El. Verk.",
+      "location": "Åseda",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Åseda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åseda, Sweden",
+        "location": {
+          "lat": 57.1676879,
+          "lng": 15.3468016
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Ortsdistributionen i Ekhorya",
+      "location": "Ekhorya",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ekhorya, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Ortsdistributionen i Lönhoyda",
+      "location": "Lönhoyda",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lönhoyda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 42 Lenhovda, Sweden",
+        "location": {
+          "lat": 56.9994108,
+          "lng": 15.286483
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Lenhovda El. And. Fören.",
+      "location": "Lenhovda",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lenhovda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 42 Lenhovda, Sweden",
+        "location": {
+          "lat": 56.9994108,
+          "lng": 15.286483
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Mindre kraftstation Nottebäck",
+      "location": "Nottebäck",
+      "power_station_name": "Boskvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 65,
+      "full_location": "Nottebäck, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 44 Nottebäck, Sweden",
+        "location": {
+          "lat": 57.0990569,
+          "lng": 15.1754523
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Klavreströms Bruk",
+      "location": "Klavreström",
+      "power_station_name": "Klavreström",
+      "power_source": "water",
+      "installed_capacity_kva": 180,
+      "full_location": "Klavreström, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 45 Klavreström, Sweden",
+        "location": {
+          "lat": 57.1378628,
+          "lng": 15.139184
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Aug. Vinberg",
+      "location": "Älvarn",
+      "power_station_name": "Älvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 85,
+      "full_location": "Älvarn, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Sandreda Belysn. Fören.",
+      "location": "Sandreda",
+      "power_station_name": "Sandreda",
+      "power_source": "water",
+      "installed_capacity_kva": 55,
+      "full_location": "Sandreda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 91 Sandreda, Sweden",
+        "location": {
+          "lat": 57.10795899999999,
+          "lng": 15.0804489
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Lidholms gård med Braås Bel. A.-B.",
+      "location": "Lidsholm",
+      "power_station_name": "Lidsholm",
+      "power_source": "water",
+      "installed_capacity_kva": 38,
+      "full_location": "Lidsholm, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "I. G. Hedberg, Ödetofta och Söraby El. And. Fören.",
+      "location": "Söraby, Tolg",
+      "power_station_name": "Barsbo",
+      "power_source": "water",
+      "installed_capacity_kva": 36,
+      "full_location": "Söraby, Tolg, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 35 Tolg, Sweden",
+        "location": {
+          "lat": 57.0814136,
+          "lng": 14.8268534
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Hj. Axelsson",
+      "location": "Söraby",
+      "power_station_name": "Ångskvarn",
+      "power_source": "steam",
+      "installed_capacity_kva": null,
+      "full_location": "Söraby, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 31 Söraby, Sweden",
+        "location": {
+          "lat": 57.0238661,
+          "lng": 14.8900865
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Lidekrans El. And. Fören.",
+      "location": "Tolgy",
+      "power_station_name": "Lidekvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 65,
+      "full_location": "Tolgy, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Hugo Stinnes, Asa gård",
+      "location": "Asa",
+      "power_station_name": "Asa",
+      "power_source": "water",
+      "installed_capacity_kva": 69,
+      "full_location": "Asa, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "285 93 Åsa, Sweden",
+        "location": {
+          "lat": 56.50922689999999,
+          "lng": 13.6636542
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "A.-B. Lamhults gård",
+      "location": "Aneboda, Asa",
+      "power_station_name": "Lamhult",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Aneboda, Asa, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 94 Aneboda, Sweden",
+        "location": {
+          "lat": 57.116667,
+          "lng": 14.55
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Aneboda Kraft A.-B.",
+      "location": "Aneboda",
+      "power_station_name": "Aneboda",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Aneboda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 94 Aneboda, Sweden",
+        "location": {
+          "lat": 57.116667,
+          "lng": 14.55
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Granefors El. And. Fören.",
+      "location": "Moeda",
+      "power_station_name": "Granefors",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Moeda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Östankäro och Moeda EL. And. Fören.",
+      "location": "Moeda",
+      "power_station_name": "Moeda",
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Moeda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Ryd och Boatops El And. Fören.",
+      "location": "Enaforsa",
+      "power_station_name": "Enaforsa kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 16,
+      "full_location": "Enaforsa, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "A. F. Pettersson m. fl.",
+      "location": "Slätthög",
+      "power_station_name": "Gamleboda",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Slätthög, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Slätthög, 342 63 Moheda, Sweden",
+        "location": {
+          "lat": 57.020503,
+          "lng": 14.518999
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Slätthögs EL. And. Fören.",
+      "location": "Banke",
+      "power_station_name": "Banke kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 28,
+      "full_location": "Banke, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Se nr 235 i Jönköpings län",
+      "location": "-",
+      "power_station_name": "-",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "-, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "C. G. Andersson",
+      "location": "Hjorstberga",
+      "power_station_name": "Brände kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Hjorstberga, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "342 93 Hjortsberga, Sweden",
+        "location": {
+          "lat": 56.9217875,
+          "lng": 14.4781749
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "A.-B. Kalmar Kol & Trävarufabr.",
+      "location": "Dadesjö",
+      "power_station_name": "Ramnåsa",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Dadesjö, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 91 Dädesjö, Sweden",
+        "location": {
+          "lat": 57.0099238,
+          "lng": 15.1019254
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Vägershults El. Kraft Bol.",
+      "location": "Lenhovda",
+      "power_station_name": "Vägershult",
+      "power_source": "water",
+      "installed_capacity_kva": 6,
+      "full_location": "Lenhovda, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 42 Lenhovda, Sweden",
+        "location": {
+          "lat": 56.9994108,
+          "lng": 15.286483
+        }
+      }
+    }
+  ],
+  "filename": "Kronobergs_1.png"
+}

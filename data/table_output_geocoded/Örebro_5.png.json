@@ -1,0 +1,549 @@
+{
+  "data": [
+    {
+      "index": 131,
+      "company_name": "Gällemdeshyttan Gr.",
+      "location": "Grythyttan",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 2800,
+      "full_location": "Grythyttan, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "712 60 Grythyttan, Sweden",
+        "location": {
+          "lat": 59.7054717,
+          "lng": 14.5355955
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Faxe, Pahne och Co.",
+      "location": "Järnväg",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 3500,
+      "full_location": "Järnväg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Skyllberg El.",
+      "location": "Skyllberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 700,
+      "full_location": "Skyllberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "694 99 Skyllberg, Sweden",
+        "location": {
+          "lat": 58.94797080000001,
+          "lng": 14.9907883
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "Hällefors Bruk AB",
+      "location": "Hällefors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 8000,
+      "full_location": "Hällefors, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hällefors, Sweden",
+        "location": {
+          "lat": 59.783688,
+          "lng": 14.5225692
+        }
+      }
+    },
+    {
+      "index": 135,
+      "company_name": "Hällefors och",
+      "location": "Hällefors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10000,
+      "full_location": "Hällefors, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hällefors, Sweden",
+        "location": {
+          "lat": 59.783688,
+          "lng": 14.5225692
+        }
+      }
+    },
+    {
+      "index": 136,
+      "company_name": ">>",
+      "location": "Stjärnsund",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 2000,
+      "full_location": "Stjärnsund, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stjärnsund, 696 92 Askersund, Sweden",
+        "location": {
+          "lat": 58.84865199999999,
+          "lng": 14.915287
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": ">>",
+      "location": "Skators",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Skators, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": ">>",
+      "location": "Hällefors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Hällefors, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hällefors, Sweden",
+        "location": {
+          "lat": 59.783688,
+          "lng": 14.5225692
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": ">>",
+      "location": "Stjerns",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 800,
+      "full_location": "Stjerns, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": ">>",
+      "location": "Gällemdeshyttan",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 7000,
+      "full_location": "Gällemdeshyttan, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": ">>",
+      "location": "Jönnaberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 16700,
+      "full_location": "Jönnaberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 142,
+      "company_name": ">>",
+      "location": "Gåsbornshyttan",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Gåsbornshyttan, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "Stjärns Gruveengruva",
+      "location": "Stjärns",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10000,
+      "full_location": "Stjärns, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "A.-B. Skott Managem.",
+      "location": "Lindesberg",
+      "power_station_name": "Stort Hytta",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Lindesberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindesberg, Sweden",
+        "location": {
+          "lat": 59.5976983,
+          "lng": 15.2229108
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "Dalkarlsberget A.B.",
+      "location": "Lindesberg",
+      "power_station_name": "Dalkarlsberget",
+      "power_source": "water",
+      "installed_capacity_kva": 7000,
+      "full_location": "Lindesberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindesberg, Sweden",
+        "location": {
+          "lat": 59.5976983,
+          "lng": 15.2229108
+        }
+      }
+    },
+    {
+      "index": 146,
+      "company_name": "Linde",
+      "location": "Lindesberg",
+      "power_station_name": "Öskevik",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Lindesberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindesberg, Sweden",
+        "location": {
+          "lat": 59.5976983,
+          "lng": 15.2229108
+        }
+      }
+    },
+    {
+      "index": 147,
+      "company_name": "Föréns",
+      "location": "Lindesberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 750,
+      "full_location": "Lindesberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindesberg, Sweden",
+        "location": {
+          "lat": 59.5976983,
+          "lng": 15.2229108
+        }
+      }
+    },
+    {
+      "index": 148,
+      "company_name": "Vedevåg - Kopparb.",
+      "location": "Vedevåg",
+      "power_station_name": "Vedvåg",
+      "power_source": "water",
+      "installed_capacity_kva": 440,
+      "full_location": "Vedevåg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "711 72 Vedevåg, Sweden",
+        "location": {
+          "lat": 59.5269979,
+          "lng": 15.2897422
+        }
+      }
+    },
+    {
+      "index": 149,
+      "company_name": "Bruksäg. Ola. Olofsson",
+      "location": "Linde",
+      "power_station_name": "Värnberg",
+      "power_source": "diesel",
+      "installed_capacity_kva": 330,
+      "full_location": "Linde, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 150,
+      "company_name": "Struk laddition",
+      "location": "Koppenberga",
+      "power_station_name": "Östra Bolar",
+      "power_source": "diesel",
+      "installed_capacity_kva": 400,
+      "full_location": "Koppenberga, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 151,
+      "company_name": "Linde",
+      "location": "Lindesberg",
+      "power_station_name": "Lieke/Skogsb.",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Lindesberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindesberg, Sweden",
+        "location": {
+          "lat": 59.5976983,
+          "lng": 15.2229108
+        }
+      }
+    },
+    {
+      "index": 152,
+      "company_name": "Grunnt - Flors",
+      "location": "Nya A. Dalkarlb.",
+      "power_station_name": "Nya A. Dalkarlb.",
+      "power_source": "water",
+      "installed_capacity_kva": 810,
+      "full_location": "Nya A. Dalkarlb., Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 153,
+      "company_name": "Agore-El Distr Bibliotek",
+      "location": "Linde",
+      "power_station_name": "Nyberga Dalkarlbs.",
+      "power_source": "water",
+      "installed_capacity_kva": 2500,
+      "full_location": "Linde, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 154,
+      "company_name": "A. B. Hammarsberg Linde",
+      "location": "Hammarsberg",
+      "power_station_name": "A. Dalkarlb.",
+      "power_source": "water",
+      "installed_capacity_kva": 780,
+      "full_location": "Hammarsberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 155,
+      "company_name": "För.-K. T. Turelberg Lövningbo",
+      "location": "Kopparvalla",
+      "power_station_name": "Mio Soyens",
+      "power_source": "water",
+      "installed_capacity_kva": 370,
+      "full_location": "Kopparvalla, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 156,
+      "company_name": "Lindekors",
+      "location": "Linde",
+      "power_station_name": "Älvtorp i Ringb.",
+      "power_source": "water",
+      "installed_capacity_kva": 720,
+      "full_location": "Linde, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 157,
+      "company_name": "K. N. And Oppman",
+      "location": "Kopparberg",
+      "power_station_name": "Skoghammar",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Kopparberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kopparberg, Sweden",
+        "location": {
+          "lat": 59.87548999999999,
+          "lng": 15.00051
+        }
+      }
+    },
+    {
+      "index": 158,
+      "company_name": "A.-B. Hägkarna",
+      "location": "Ulvshyttan",
+      "power_station_name": "Stjerns",
+      "power_source": "diesel",
+      "installed_capacity_kva": 800,
+      "full_location": "Ulvshyttan, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 159,
+      "company_name": "Atreurström AB, Sundf.",
+      "location": "Gränsby",
+      "power_station_name": "Älgå",
+      "power_source": "water",
+      "installed_capacity_kva": 880,
+      "full_location": "Gränsby, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 160,
+      "company_name": "P.C Karlund",
+      "location": "Säfskogen",
+      "power_station_name": "Hällby",
+      "power_source": "water",
+      "installed_capacity_kva": 530,
+      "full_location": "Säfskogen, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 161,
+      "company_name": "Stenberg och Fr.",
+      "location": "Nedrebyän",
+      "power_station_name": "Runhult",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Nedrebyän, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 162,
+      "company_name": "Bruksäg Svärforsk",
+      "location": "Örebro",
+      "power_station_name": "Lenhult",
+      "power_source": "water",
+      "installed_capacity_kva": 980,
+      "full_location": "Örebro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro, Sweden",
+        "location": {
+          "lat": 59.2752626,
+          "lng": 15.2134105
+        }
+      }
+    },
+    {
+      "index": 163,
+      "company_name": "Ruter KB, Lideland",
+      "location": "Säfsjön",
+      "power_station_name": "Ödenbäck",
+      "power_source": "water",
+      "installed_capacity_kva": 520,
+      "full_location": "Säfsjön, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Säfsjön, 712 93 Sävsjön, Sweden",
+        "location": {
+          "lat": 59.916667,
+          "lng": 14.55
+        }
+      }
+    },
+    {
+      "index": 164,
+      "company_name": "A.-B. Stratrön",
+      "location": "Grasberg",
+      "power_station_name": "Stratvik",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Grasberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    }
+  ],
+  "filename": "Örebro_5.png"
+}

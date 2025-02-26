@@ -1,0 +1,285 @@
+{
+    "data": [
+        {
+            "index": 111,
+            "company_name": "Hernebo industri A.-B.",
+            "location": "Söderala",
+            "power_station_name": "Hernebo",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 112,
+            "company_name": "Ljusne-Voxna A.-B.",
+            "location": "Skog",
+            "power_station_name": "Guldgruvan",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 113,
+            "company_name": "Norra Skogs elektr. distributionsförening",
+            "location": "Skog",
+            "power_station_name": "Abon. från nr 112, Guldgruve kraftst.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 114,
+            "company_name": "Hinds snickerifabrik",
+            "location": "Skog och Ockelbo",
+            "power_station_name": "Abon. från 112, Guldgruve kraftst.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 115,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Skog",
+            "power_station_name": "25, Bosågens",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 116,
+            "company_name": "Holmsvedens sulfatfabrik",
+            "location": "Söderala",
+            "power_station_name": "Hunsbo",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 117,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Holmsveden",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 118,
+            "company_name": "...",
+            "location": "Hentaböle",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 119,
+            "company_name": "...",
+            "location": "Lingbo",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 120,
+            "company_name": "A.-B. Lingbo verkstäder",
+            "location": "Lingbo kapell",
+            "power_station_name": "Vistering",
+            "power_source": "steam",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 121,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Skog och Söderala",
+            "power_station_name": "Ljusne",
+            "power_source": "steam",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 122,
+            "company_name": "Ljusne-Voxna A.-B.",
+            "location": "Krafteleverans fr. nr 123 Ljusneverken",
+            "power_station_name": "Ab. från nr 123 Ljusne",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 123,
+            "company_name": "...",
+            "location": "Krafteleverans fr. nr 123 Ljusneverken",
+            "power_station_name": "Ab. från nr 123 Ljusne",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 124,
+            "company_name": "Sultt A.-B. Ljusnan",
+            "location": "Vallvik gas",
+            "power_station_name": "Ab. från nr 123 Ljusne",
+            "power_source": "subscription",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 125,
+            "company_name": "Bergvik och Ala Nya A.-B.",
+            "location": "Söderala",
+            "power_station_name": "Bergviks södra",
+            "power_source": "subscription",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 126,
+            "company_name": "Vasaiters elektr. distributionsförening",
+            "location": "Haga",
+            "power_station_name": "Abon. från nr 125 Bergvik och Ala Nya A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 127,
+            "company_name": "...",
+            "location": "Sunnanå",
+            "power_station_name": "Ab. från nr 125 Bergvik och Ala Nya A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 128,
+            "company_name": "...",
+            "location": "Myrkyje by",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 38000
+        },
+        {
+            "index": 129,
+            "company_name": "Alsätra distributionsförening",
+            "location": "Skog",
+            "power_station_name": "Krafteleverans fr. nr 125 Bergviks kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 33000
+        },
+        {
+            "index": 130,
+            "company_name": "Askesta sågverk",
+            "location": "Sandarne",
+            "power_station_name": "Söderhamn kraftst.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 83000
+        },
+        {
+            "index": 131,
+            "company_name": "Ala sågverk",
+            "location": "Söderala",
+            "power_station_name": "Sandarne",
+            "power_source": "steam",
+            "installed_capacity_kva": 900
+        },
+        {
+            "index": 132,
+            "company_name": "Sandarnes sulfatfabrik",
+            "location": "Sandarne",
+            "power_station_name": "Sandarne",
+            "power_source": "steam",
+            "installed_capacity_kva": 900
+        },
+        {
+            "index": 133,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Söderala",
+            "power_station_name": "Ljusne",
+            "power_source": "steam",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 134,
+            "company_name": "Florins kraft A.-B.",
+            "location": "Mo",
+            "power_station_name": "Florvam",
+            "power_source": "water",
+            "installed_capacity_kva": 69
+        },
+        {
+            "index": 135,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Myrkyje",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 136,
+            "company_name": "...",
+            "location": "Myssjöke",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 137,
+            "company_name": "Häsjö kraft A.-B.",
+            "location": "Norrala kraftstation",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 53360
+        },
+        {
+            "index": 138,
+            "company_name": "Norrlands kraft A.-B.",
+            "location": "Håsjö och Måssjö kraftstationer",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 139,
+            "company_name": "Skars elektriska A.-B.",
+            "location": "Trönö",
+            "power_station_name": "Norrala",
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 140,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Skärså",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 83000
+        },
+        {
+            "index": 141,
+            "company_name": "Trönö elektriska A.-B.",
+            "location": "Trönö",
+            "power_station_name": "Trönö",
+            "power_source": "water",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 142,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Grönstens",
+            "power_station_name": "Ab. from Trönö elektriska A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 143,
+            "company_name": "...",
+            "location": "Grubbe",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 32
+        },
+        {
+            "index": 144,
+            "company_name": "...",
+            "location": "Stugte",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 22
+        },
+        {
+            "index": 145,
+            "company_name": "...",
+            "location": "Tygtsta",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 16
+        }
+    ],
+    "filename": "Gävleborg_4.png"
+}

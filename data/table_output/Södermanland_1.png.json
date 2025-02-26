@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Älvkarleby kraftverk, sekundärstationerna i Strängnäs",
+            "location": "Strängnäs",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 2,
+            "company_name": "Strängnäs stads el. verk",
+            "location": "Strängnäs",
+            "power_station_name": "Strängnäs kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 3,
+            "company_name": "Ulvhälls och Gorsingeholms egendomar m. fl.",
+            "location": "Strängnäs",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 4,
+            "company_name": "Vagnsö el. distr.-fören. och A.-B. Smålands tegelbruk",
+            "location": "Vagnsö",
+            "power_station_name": "Vagnsö",
+            "power_source": "oil",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 5,
+            "company_name": "Aspö el. distr.-fören. och H. Wrange",
+            "location": "Aspö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 6,
+            "company_name": "Toresunds norra el. distr.-fören.",
+            "location": "Toresund",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 7,
+            "company_name": "Toresunds södra el. distr.-fören.",
+            "location": "Toresund",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 8,
+            "company_name": "Stallarholmens el. distr.-fören.",
+            "location": "Ytterselö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 9,
+            "company_name": "Husby tegelbruk",
+            "location": "Ytterselö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 10,
+            "company_name": "A.-B. Berna, Sundby Tegelbruks A.-B. m. fl.",
+            "location": "Överenslö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 11,
+            "company_name": "Ytterselö el. distr.-fören.",
+            "location": "Överenslö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 12,
+            "company_name": "Näsby tegelbruk",
+            "location": "Överenslö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 13,
+            "company_name": "Malmby Ähus el. distr.-fören.",
+            "location": "Strängnäs",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 14,
+            "company_name": "Åkers krutbruk",
+            "location": "Åker",
+            "power_station_name": "Åker",
+            "power_source": "steam",
+            "installed_capacity_kva": 180
+        },
+        {
+            "index": 15,
+            "company_name": "Åkers styckebruk",
+            "location": "Åker",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 16,
+            "company_name": "Mariefreds stads el.-verk",
+            "location": "Mariefred",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 17,
+            "company_name": "Kärnbo stora el. distr.-fören. m. fl.",
+            "location": "Kärnbo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 175
+        },
+        {
+            "index": 18,
+            "company_name": "Taxinge-Näsby egendom och Mariefreds stad",
+            "location": "Taxinge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 19,
+            "company_name": "Enhörna el. distr.-fören.",
+            "location": "Över Enhörna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 20,
+            "company_name": "K. Karlsson",
+            "location": "Eksåg",
+            "power_station_name": "Eksåg",
+            "power_source": "water",
+            "installed_capacity_kva": 1
+        }
+    ],
+    "filename": "Södermanland_1.png"
+}

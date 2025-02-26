@@ -1,0 +1,613 @@
+{
+  "data": [
+    {
+      "index": 123,
+      "company_name": "Levin Johansson",
+      "location": "Marbäck",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 580,
+      "full_location": "Marbäck, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "523 93 Marbäck, Sweden",
+        "location": {
+          "lat": 57.7401023,
+          "lng": 13.4196967
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Carl E. Rylander",
+      "location": "Mästocka",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Mästocka, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "312 92 Mästocka, Sweden",
+        "location": {
+          "lat": 56.60767730000001,
+          "lng": 13.2511668
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "A. S. Friberg",
+      "location": "Gillstad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Gillstad, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "531 97 Gillstad, Sweden",
+        "location": {
+          "lat": 58.44128039999999,
+          "lng": 12.9599144
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "S. A. Rundqvist",
+      "location": "Berga",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Berga, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "542 92 Berga, Sweden",
+        "location": {
+          "lat": 58.73825149999999,
+          "lng": 13.9113436
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "E. N. Nilsson",
+      "location": "Örsån",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Örsån, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "E. H. Ericsson",
+      "location": "Bönaväg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Bönaväg, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "J. A. Dyrheim",
+      "location": "Jömarp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Jömarp, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 130,
+      "company_name": "N. Dyberg m.",
+      "location": "Ods kvarn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Ods kvarn, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kvarnvägen 10, 514 60 Dalstorp, Sweden",
+        "location": {
+          "lat": 57.6028112,
+          "lng": 13.515718
+        }
+      }
+    },
+    {
+      "index": 131,
+      "company_name": "J. A. Johansson",
+      "location": "Ljungskarp",
+      "power_station_name": "Åsarps kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Ljungskarp, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Bron Svensson",
+      "location": "Björsdammen",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Björsdammen, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "A.-B. Fred. Brusewitz",
+      "location": "S. Åserp",
+      "power_station_name": "Traneberg",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "S. Åserp, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "A.-B. El. Kvarn & Bels",
+      "location": "Mossebo",
+      "power_station_name": "Mossebo",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Mossebo, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "543 91 Mossebo, Sweden",
+        "location": {
+          "lat": 58.4486351,
+          "lng": 14.1518386
+        }
+      }
+    },
+    {
+      "index": 135,
+      "company_name": "Mossebo el. and.-fören.",
+      "location": "Mossebo",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 45,
+      "full_location": "Mossebo, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "543 91 Mossebo, Sweden",
+        "location": {
+          "lat": 58.4486351,
+          "lng": 14.1518386
+        }
+      }
+    },
+    {
+      "index": 136,
+      "company_name": "Mindre anläggning",
+      "location": "Mossebo kvarn",
+      "power_station_name": "Abmygård",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Mossebo kvarn, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "543 91 Mossebo, Sweden",
+        "location": {
+          "lat": 58.4486351,
+          "lng": 14.1518386
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": "S. R. Lagerström",
+      "location": "Ambjörnarps",
+      "power_station_name": "Ambjörna",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Ambjörnarps, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "514 93 Ambjörnarp, Sweden",
+        "location": {
+          "lat": 57.42086159999999,
+          "lng": 13.2943023
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": "Sjött röd trädgårdar A.-B.",
+      "location": "Hunnabo",
+      "power_station_name": "Sjötåfta",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Hunnabo, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "514 93 Hunnabo, Sweden",
+        "location": {
+          "lat": 57.3909131,
+          "lng": 13.269291
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": "Skee elds bolag",
+      "location": "Skee",
+      "power_station_name": "Eke",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Skee, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "452 60 Skee, Sweden",
+        "location": {
+          "lat": 58.9240866,
+          "lng": 11.2728434
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": "Kileva och Vallens kvarnbolag",
+      "location": "Eke",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Eke, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "623 40 Eke, Sweden",
+        "location": {
+          "lat": 57.1674172,
+          "lng": 18.3785503
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": "S. J. Larsson",
+      "location": "Sjunderup",
+      "power_station_name": "Hyndarp",
+      "power_source": "water",
+      "installed_capacity_kva": 2250,
+      "full_location": "Sjunderup, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 142,
+      "company_name": "Hinde el. distr.-fören.",
+      "location": "Fröndha",
+      "power_station_name": "Ö. Fröndha",
+      "power_source": "water",
+      "installed_capacity_kva": 3,
+      "full_location": "Fröndha, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "A.-B. Åsmelbo el.-verk",
+      "location": "Delary av",
+      "power_station_name": "Monaby",
+      "power_source": "water",
+      "installed_capacity_kva": 720,
+      "full_location": "Delary av, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "343 95 Delary, Sweden",
+        "location": {
+          "lat": 56.5490629,
+          "lng": 13.9533081
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "A.-B. Uddabo trikåfabriker",
+      "location": "Uddabo",
+      "power_station_name": "Ås",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Uddabo, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 92 Uddabo, Sweden",
+        "location": {
+          "lat": 56.7247089,
+          "lng": 16.0536516
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "Orås",
+      "location": "Skål",
+      "power_station_name": "Fredriksberg",
+      "power_source": "water",
+      "installed_capacity_kva": 420,
+      "full_location": "Skål, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "453 92 Skal, Sweden",
+        "location": {
+          "lat": 58.316667,
+          "lng": 11.466667
+        }
+      }
+    },
+    {
+      "index": 146,
+      "company_name": "Strömsfons bruk",
+      "location": "Nästorna",
+      "power_station_name": "Trollsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Nästorna, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 147,
+      "company_name": "Axelsons Fabr. A.-B.",
+      "location": "Strömfons",
+      "power_station_name": "Traneen",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Strömfons, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 148,
+      "company_name": "Charlotte Sparre, Torps gård",
+      "location": "Revsjö",
+      "power_station_name": "Torsås",
+      "power_source": "water",
+      "installed_capacity_kva": 65,
+      "full_location": "Revsjö, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 149,
+      "company_name": "J. P. Johansson m. fl.",
+      "location": "Längehamn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Längehamn, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 150,
+      "company_name": "Stortorps",
+      "location": "Torestorps",
+      "power_station_name": "Örbörnafors",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Torestorps, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "511 93 Torestorp, Sweden",
+        "location": {
+          "lat": 57.3879421,
+          "lng": 12.679999
+        }
+      }
+    },
+    {
+      "index": 151,
+      "company_name": "Göteborgs kraftförening",
+      "location": "Berga",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Berga, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "542 92 Berga, Sweden",
+        "location": {
+          "lat": 58.73825149999999,
+          "lng": 13.9113436
+        }
+      }
+    },
+    {
+      "index": 152,
+      "company_name": "Borås stads el.-verk",
+      "location": "Annefors",
+      "power_station_name": "Annefors",
+      "power_source": "water",
+      "installed_capacity_kva": 37,
+      "full_location": "Annefors, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 153,
+      "company_name": "Distr. i Borås omnejd",
+      "location": "Borås",
+      "power_station_name": "Ab. från Borås el. verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Borås, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Borås, Sweden",
+        "location": {
+          "lat": 57.72103500000001,
+          "lng": 12.939819
+        }
+      }
+    },
+    {
+      "index": 154,
+      "company_name": "Borås stads el.-verk",
+      "location": "Älvkarleby",
+      "power_station_name": "Bofors",
+      "power_source": "water",
+      "installed_capacity_kva": 43,
+      "full_location": "Älvkarleby, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvkarleby, Sweden",
+        "location": {
+          "lat": 60.56860669999999,
+          "lng": 17.4489129
+        }
+      }
+    },
+    {
+      "index": 155,
+      "company_name": "Rydboholms A.-B.",
+      "location": "Viskafors",
+      "power_station_name": "Rydboholms bruksfabrik",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Viskafors, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "515 32 Viskafors, Sweden",
+        "location": {
+          "lat": 57.63374469999999,
+          "lng": 12.8568382
+        }
+      }
+    },
+    {
+      "index": 156,
+      "company_name": "Viskafors Kraft A.-B.",
+      "location": "Ryd",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Ryd, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "507 71 Ryd, Sweden",
+        "location": {
+          "lat": 57.7061264,
+          "lng": 13.0395237
+        }
+      }
+    },
+    {
+      "index": 157,
+      "company_name": "Svenska vattenfallsstyrelsen",
+      "location": "Seglora",
+      "power_station_name": "Viselback",
+      "power_source": "water",
+      "installed_capacity_kva": 4400,
+      "full_location": "Seglora, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "515 93 Seglora, Sweden",
+        "location": {
+          "lat": 57.5808323,
+          "lng": 12.7332414
+        }
+      }
+    },
+    {
+      "index": 158,
+      "company_name": "Viskafors A.-B.",
+      "location": "Viselback",
+      "power_station_name": "Viskafors sågfall",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Viselback, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 159,
+      "company_name": "Tesla",
+      "location": "Svenhom",
+      "power_station_name": "Svenholms Kvarn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Svenhom, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 160,
+      "company_name": "Viskans Kraft A.-B.",
+      "location": "Kinna",
+      "power_station_name": "Kinnaström",
+      "power_source": "water",
+      "installed_capacity_kva": 190,
+      "full_location": "Kinna, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kinna, Sweden",
+        "location": {
+          "lat": 57.506158,
+          "lng": 12.6971981
+        }
+      }
+    }
+  ],
+  "filename": "Älvsborg_5.png"
+}

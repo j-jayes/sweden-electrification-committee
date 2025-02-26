@@ -1,0 +1,101 @@
+{
+    "data": [
+        {
+            "index": 191,
+            "company_name": "Broared sn",
+            "location": "Högås, Kram och elektricitetsverk, Laholm",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 192,
+            "company_name": "Snöstorp sn",
+            "location": "Skyarp, elektricitetsverk, Byaregård, Grosshandl. J. Jönsson, Halmstad",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 193,
+            "company_name": "Halmstads stad",
+            "location": "Halmstad",
+            "power_station_name": "subscription from Sydsvenska kraft-a-b, Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 850
+        },
+        {
+            "index": 194,
+            "company_name": "Vallbergs fabriksa-b",
+            "location": "Halmstad",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 195,
+            "company_name": "Snöstorp sn",
+            "location": "Marbäcks fabriks a-b, Marbäck",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 196,
+            "company_name": "Snöstorp sn",
+            "location": "Mareda belysningförening, K. Andersson, Skedala",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 197,
+            "company_name": "Ljungs sn",
+            "location": "A, Ljung, Halmstad",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 198,
+            "company_name": "Snöstorp sn",
+            "location": "Tönnersjö sn",
+            "power_station_name": "subscription from Landala elektricitetsverk, Röinge, Halmstad",
+            "power_source": "subscription",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 199,
+            "company_name": "Veinge sn",
+            "location": "Veinge elektriska andelsförening, Veinge elektriska andelsförening, Veinge",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 940
+        },
+        {
+            "index": 200,
+            "company_name": "Tjärby sn",
+            "location": "Tjärby tegelbruks-a-b, Genevad",
+            "power_station_name": "subscription from Sydsvenska kraft-a-b, Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1600
+        },
+        {
+            "index": 201,
+            "company_name": "Tjärby sn",
+            "location": "Svenska sockerfabriks-a-b",
+            "power_station_name": "subscription from Sydsvenska kraft-a-b, Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 202,
+            "company_name": "Genevads belysningsförening, Herr S.A. Sandberg",
+            "location": "Genevad",
+            "power_station_name": "subscription from Sydsvenska kraft-a-b, Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 380
+        }
+    ],
+    "filename": "Halland_8.png"
+}

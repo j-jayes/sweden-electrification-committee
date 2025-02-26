@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "index": 66,
+            "company_name": "Ab. från Älvkarleby kraftverk",
+            "location": "Lidingö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 67,
+            "company_name": "Lidingö kraftstation",
+            "location": "Nacka",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 390
+        },
+        {
+            "index": 68,
+            "company_name": "Saltsjöbaden kraftstation",
+            "location": "Boo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 185
+        },
+        {
+            "index": 69,
+            "company_name": "Gustavsbergs fabriksintressenter",
+            "location": "Gustavsberg",
+            "power_station_name": "Gustavsbergs kraftstation",
+            "power_source": "diesel",
+            "installed_capacity_kva": 550
+        },
+        {
+            "index": 70,
+            "company_name": "Ab. från Älvkarleby kraftverk",
+            "location": "Värmdö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 71,
+            "company_name": "Värmdö och Djurö",
+            "location": "Ingarö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 72,
+            "company_name": "Täby El. Ab.",
+            "location": "Täby",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 73,
+            "company_name": "Vallentuna El. distr.-fören.",
+            "location": "Vallentuna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 74,
+            "company_name": "Ritneka Trävaru A.-B.",
+            "location": "Markim",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 75,
+            "company_name": "Össeby-Garn el. distr.-fören.",
+            "location": "Össeby",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 76,
+            "company_name": "Rydbo el. distr.-fören.",
+            "location": "Östra Ryd",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 77,
+            "company_name": "Vaxholms stads el.-verk",
+            "location": "Vaxholm",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 78,
+            "company_name": "K. Marinförvaltningen",
+            "location": "Vaxholm",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 79,
+            "company_name": "Norra Värmdö El. Distry. A.-B.",
+            "location": "Stockholm",
+            "power_station_name": "Kraftverk från Untra",
+            "power_source": "subscription",
+            "installed_capacity_kva": 37000
+        },
+        {
+            "index": 80,
+            "company_name": "Stenhamra El. Ab.",
+            "location": "Stockholm",
+            "power_station_name": "Ab. från Stockholms el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 81,
+            "company_name": "Brännkyrka El. Distr. A.-B.",
+            "location": "Södertälje",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 82,
+            "company_name": "Södertälje kraftstation",
+            "location": "Södertälje",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 83,
+            "company_name": "Österlänng el. distr.-fören.",
+            "location": "Österlänge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 84,
+            "company_name": "Tveta",
+            "location": "Bränninge",
+            "power_station_name": "Bränninge",
+            "power_source": "diesel",
+            "installed_capacity_kva": 86
+        },
+        {
+            "index": 91,
+            "company_name": "K. W. Hagelin",
+            "location": "Riksäng",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        }
+    ],
+    "filename": "Stockholm_4.png"
+}

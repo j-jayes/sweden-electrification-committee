@@ -1,0 +1,110 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer"
+        },
+        {
+            "id": 2,
+            "label": "Län",
+            "description": "Län (region) i Sverige"
+        },
+        {
+            "id": 3,
+            "label": "Total landsareal A",
+            "description": "Total landsareal i hektar"
+        },
+        {
+            "id": 4,
+            "label": "Åkerareal A",
+            "description": "Åkerareal i hektar"
+        },
+        {
+            "id": 5,
+            "label": "Odlingareal A",
+            "description": "Odlingareal i hektar"
+        },
+        {
+            "id": 6,
+            "label": "Totalareal As/Ao",
+            "description": "Totalareal i hektar"
+        },
+        {
+            "id": 7,
+            "label": "Pärefär F",
+            "description": "Pärefär i hektar"
+        },
+        {
+            "id": 8,
+            "label": "Pralidar F",
+            "description": "Pralidar i hektar"
+        },
+        {
+            "id": 9,
+            "label": "Samladgårdardar",
+            "description": "Samlad gårdare i hektar"
+        },
+        {
+            "id": 10,
+            "label": "Medelårning",
+            "description": "Medelårning i milljoner kilowatt timmar"
+        },
+        {
+            "id": 11,
+            "label": "El för landsbygd, storindustri, stiger och ej gårdsbruk",
+            "description": "El för landsbygd och industrin i milljoner kilowatt timmar"
+        },
+        {
+            "id": 12,
+            "label": "Kraftbehov för landsbygd, storindustri, stiger och ej gårdsbruk",
+            "description": "Kraftbehov i milljoner kilowatt timmar"
+        },
+        {
+            "id": 13,
+            "label": "Kraftförbrukning",
+            "description": "Kraftförbrukning i milljoner kilowatt timmar"
+        },
+        {
+            "id": 14,
+            "label": "Kraftbehov",
+            "description": "Kraftbehov uttryckt i procent"
+        },
+        {
+            "id": 15,
+            "label": "Kraftbehov el, landel, särskilt, anteckningar",
+            "description": "Kraftbehov el, anteckningar i kilowatt timmar"
+        },
+        {
+            "id": 16,
+            "label": "Elförbrukning för landsbygd",
+            "description": "Elförbrukning för landsbygd i miljoner kilowatt timmar"
+        },
+        {
+            "id": 17,
+            "label": "Verkliga kostnader",
+            "description": "Verkliga kostnader för elektrifieringen i kronor"
+        },
+        {
+            "id": 18,
+            "label": "Kostnad för landbygden elektrifiering",
+            "description": "Kostnad för landbygden och elektrifiering i kronor"
+        },
+        {
+            "id": 19,
+            "label": "Hittills utföda elektr. anläggningar",
+            "description": "Hittills utförda elektriska anläggningar"
+        },
+        {
+            "id": 20,
+            "label": "The form of the costs for land",
+            "description": "The form of the costs for land in kronor"
+        },
+        {
+            "id": 21,
+            "label": "Kostnad vid full elektrifiering",
+            "description": "Kostnad vid full elektrifiering i kronor"
+        }
+    ],
+    "filename": "urn-nbn-se-kb-digark-1892077_1.png"
+}

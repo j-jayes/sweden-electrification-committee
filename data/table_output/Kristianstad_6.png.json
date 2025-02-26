@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "index": 101,
+            "company_name": "Östra Broby sm.",
+            "location": "Njura-Kaestors Andels elektricitetsförening, Glimåkra",
+            "power_station_name": "subscription from Njura-Kaestors",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 102,
+            "company_name": "Broby Kyrkobol",
+            "location": "Intressenterna för anskaffande av elektrisk kraft till Broby, Broby",
+            "power_station_name": "subscription from Intressenterna",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 103,
+            "company_name": "Östra Broby socken",
+            "location": "Lunnoms Andels elektricitetsförening, Glimåkra, Sibbhult",
+            "power_station_name": "subscription from Lunnoms",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 104,
+            "company_name": "Hjärsås sn",
+            "location": "Färe Glasbruk A.-B., Sibbhult",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 390
+        },
+        {
+            "index": 105,
+            "company_name": "Immelstorps Andels elektricitetsförening, Immel",
+            "location": "Mo, B.-A.",
+            "power_station_name": "subscription from Mo, B.-A.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 106,
+            "company_name": "Knisslinge sm.",
+            "location": "A.-B. Knisslingeverket, Vamås",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 107,
+            "company_name": "Kyrkinge sm.",
+            "location": "Hannaskogs Gård",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 108,
+            "company_name": "Färlöv sn",
+            "location": "Intressenterna för anskaffande av elektrisk kraft till Bjärlöv, Bjärlöv",
+            "power_station_name": "subscription from Intressenterna",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 109,
+            "company_name": "Villands härad",
+            "location": "Fjäklestad sm.",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 110,
+            "company_name": "Sydsvenska Kraft A.-B.,",
+            "location": "Karlshamn, Toresbo Kraftstation",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 111,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Karlshamn, Gottsbo station och turbinhus",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 112,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Karlshamn, Landskronan–Jönsberga",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 113,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Karlshamn, Landskronan–Jönsberga, Helsingkione",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 114,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Karlshamn, Getinge",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5100
+        },
+        {
+            "index": 115,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Karlshamn, Broby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 116,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Karlshamn, Ortaljen",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        }
+    ],
+    "filename": "Kristianstad_6.png"
+}

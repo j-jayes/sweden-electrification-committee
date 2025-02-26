@@ -1,0 +1,205 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Norbergs Elektriska A.-B.",
+            "location": "Norberg",
+            "power_station_name": "Kärrgruvans dieselcentral",
+            "power_source": "oil",
+            "installed_capacity_kva": 430
+        },
+        {
+            "index": 2,
+            "company_name": "Norbergs Elektriska A.-B.",
+            "location": "Norberg",
+            "power_station_name": "Norbergs ångcentral",
+            "power_source": "steam",
+            "installed_capacity_kva": 1750
+        },
+        {
+            "index": 3,
+            "company_name": "Surahammars bruks A.-B.",
+            "location": "Västanfors",
+            "power_station_name": "Samarbete med Avesta-Lillfors kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 4,
+            "company_name": "Fagersta bruks A.-B.",
+            "location": "Västanfors",
+            "power_station_name": "Nordansjö kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 900
+        },
+        {
+            "index": 5,
+            "company_name": "Fagersta bruks A.-B.",
+            "location": "Västanfors",
+            "power_station_name": "Semla",
+            "power_source": "water",
+            "installed_capacity_kva": 3280
+        },
+        {
+            "index": 6,
+            "company_name": "Fagersta bruks A.-B.",
+            "location": "Västanfors",
+            "power_station_name": "Paggsta",
+            "power_source": "steam",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 7,
+            "company_name": "Fagersta bruks A.-B.",
+            "location": "Västanfors",
+            "power_station_name": "Uddnäs",
+            "power_source": "water",
+            "installed_capacity_kva": 9225
+        },
+        {
+            "index": 8,
+            "company_name": "Fagersta bruks A.-B.",
+            "location": "Västanfors",
+            "power_station_name": "Visentfors",
+            "power_source": "water",
+            "installed_capacity_kva": 1070
+        },
+        {
+            "index": 9,
+            "company_name": "Riddarhytte bruks A.-B.",
+            "location": "Skinnskatteberg",
+            "power_station_name": "Skinnskattebergs kraftstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 870
+        },
+        {
+            "index": 10,
+            "company_name": "Riddarhytte bruks A.-B.",
+            "location": "Skinnskatteberg",
+            "power_station_name": "Kopparverkets kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 11,
+            "company_name": "Riddarhytte bruks A.-B.",
+            "location": "Skinnskatteberg",
+            "power_station_name": "Gisslarbo kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 114
+        },
+        {
+            "index": 12,
+            "company_name": "Riddarhytte bruks A.-B.",
+            "location": "Skinnskatteberg",
+            "power_station_name": "Ängen",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 13,
+            "company_name": "Uttersbergs bruks A.-B.",
+            "location": "Skinnskatteberg",
+            "power_station_name": "Ostanfors",
+            "power_source": "water",
+            "installed_capacity_kva": 190
+        },
+        {
+            "index": 14,
+            "company_name": "Karmansbo bruk",
+            "location": "Hed",
+            "power_station_name": "Karmansbo",
+            "power_source": "water",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 15,
+            "company_name": "Ferna bruks A.-B.",
+            "location": "Gunnilbo",
+            "power_station_name": "Bockhammars",
+            "power_source": "water",
+            "installed_capacity_kva": 190
+        },
+        {
+            "index": 16,
+            "company_name": "Winsbo-Ramnis Kraft A.-B.",
+            "location": "Ramnäs",
+            "power_station_name": "Kedjehammars",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 17,
+            "company_name": "Winsbo-Ramnis Kraft A.-B.",
+            "location": "Ramnäs",
+            "power_station_name": "Virbo",
+            "power_source": "water",
+            "installed_capacity_kva": 4630
+        },
+        {
+            "index": 18,
+            "company_name": "Winsbo-Ramnis Kraft A.-B.",
+            "location": "Ramnäs",
+            "power_station_name": "Seglingsberg",
+            "power_source": "water",
+            "installed_capacity_kva": 3800
+        },
+        {
+            "index": 19,
+            "company_name": "Winsbo-Ramnis Kraft A.-B.",
+            "location": "Ramnäs",
+            "power_station_name": "Hinsebergs",
+            "power_source": "water",
+            "installed_capacity_kva": 3300
+        },
+        {
+            "index": 20,
+            "company_name": "Winsbo-Ramnis Kraft A.-B.",
+            "location": "Ramnäs",
+            "power_station_name": "Barkheden",
+            "power_source": "water",
+            "installed_capacity_kva": 1700
+        },
+        {
+            "index": 21,
+            "company_name": "Ramnäs bruk",
+            "location": "Ramnäs",
+            "power_station_name": "Samarbete med kraftstationerna nr 16",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 22,
+            "company_name": "A.-B. Svenska Metallverken, Skultuna bruk",
+            "location": "Skultuna",
+            "power_station_name": "Skultuna kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 680
+        },
+        {
+            "index": 23,
+            "company_name": "Svanå bruk",
+            "location": "Skultuna",
+            "power_station_name": "Samarbete med kraftstationerna nr 17-20",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 24,
+            "company_name": "Kästa gård",
+            "location": "Haraker",
+            "power_station_name": "Skästa",
+            "power_source": "water",
+            "installed_capacity_kva": 423
+        },
+        {
+            "index": 25,
+            "company_name": "Forsby kvarn och Skerike el. distr.-fören.",
+            "location": "Haraker",
+            "power_station_name": "Forsby",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        }
+    ],
+    "filename": "Västmanland_1.png"
+}

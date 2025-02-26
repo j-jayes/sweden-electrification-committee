@@ -1,0 +1,645 @@
+{
+  "data": [
+    {
+      "index": 215,
+      "company_name": "Finnbacka Bel.-För.",
+      "location": "Rättvik",
+      "power_station_name": "Dalälvens Regl.-for.",
+      "power_source": "water",
+      "installed_capacity_kva": 95,
+      "full_location": "Rättvik, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Rättvik, Sweden",
+        "location": {
+          "lat": 60.88762479999999,
+          "lng": 15.123341
+        }
+      }
+    },
+    {
+      "index": 216,
+      "company_name": "Styggforssens Bel.-För.",
+      "location": "Boda",
+      "power_station_name": "Styggforsen",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Boda, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "795 96 Boda, Sweden",
+        "location": {
+          "lat": 61.00663999999999,
+          "lng": 15.21584
+        }
+      }
+    },
+    {
+      "index": 217,
+      "company_name": "Andersens El. Bel.-A.-B.",
+      "location": "Andersön",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Andersön, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 218,
+      "company_name": "Gilleråsens El.-Bel.-För.",
+      "location": "Ore",
+      "power_station_name": "Gilleråsen",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Ore, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 219,
+      "company_name": "Gillerås El. A.-B.",
+      "location": "Furudals Bruk",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 480,
+      "full_location": "Furudals Bruk, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "795 97 Furudals bruk, Sweden",
+        "location": {
+          "lat": 61.195937,
+          "lng": 15.1732454
+        }
+      }
+    },
+    {
+      "index": 220,
+      "company_name": "Korsnäs Sågeräls A.-B.",
+      "location": "Rättvik",
+      "power_station_name": "Egen kraftst",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Rättvik, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Rättvik, Sweden",
+        "location": {
+          "lat": 60.88762479999999,
+          "lng": 15.123341
+        }
+      }
+    },
+    {
+      "index": 221,
+      "company_name": "Dalbyö El. Kraft-o. B.-F.",
+      "location": "Mora",
+      "power_station_name": "Egen kraftst",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Mora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mora, Sweden",
+        "location": {
+          "lat": 61.004878,
+          "lng": 14.537003
+        }
+      }
+    },
+    {
+      "index": 222,
+      "company_name": "Mora El.- Förretag.",
+      "location": "Mora",
+      "power_station_name": "Ryssa",
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Mora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mora, Sweden",
+        "location": {
+          "lat": 61.004878,
+          "lng": 14.537003
+        }
+      }
+    },
+    {
+      "index": 223,
+      "company_name": "Näsets El. Kraft.-o. B.-F.",
+      "location": "Orsa",
+      "power_station_name": "Ort",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Orsa, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Orsa, Sweden",
+        "location": {
+          "lat": 61.11581570000001,
+          "lng": 14.6303809
+        }
+      }
+    },
+    {
+      "index": 224,
+      "company_name": "Ovanånns El.-Bel.-För.",
+      "location": "Sollerön",
+      "power_station_name": "Dalafors",
+      "power_source": "water",
+      "installed_capacity_kva": 87,
+      "full_location": "Sollerön, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "792 90 Sollerön parish, Sweden",
+        "location": {
+          "lat": 60.9160607,
+          "lng": 14.6161898
+        }
+      }
+    },
+    {
+      "index": 225,
+      "company_name": "Orsa distriktsförretag",
+      "location": "Orsa",
+      "power_station_name": "Ryssa",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Orsa, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Orsa, Sweden",
+        "location": {
+          "lat": 61.11581570000001,
+          "lng": 14.6303809
+        }
+      }
+    },
+    {
+      "index": 226,
+      "company_name": "A.-B. Ryssa Elekt.-verk",
+      "location": "Mora o. Orsa",
+      "power_station_name": "Sollerön",
+      "power_source": "water",
+      "installed_capacity_kva": 2000,
+      "full_location": "Mora o. Orsa, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mora, Sweden",
+        "location": {
+          "lat": 61.004878,
+          "lng": 14.537003
+        }
+      }
+    },
+    {
+      "index": 227,
+      "company_name": "Mora-Orsa Elekt.-verk",
+      "location": "Mora o. Orsa",
+      "power_station_name": "Hansjö",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Mora o. Orsa, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mora, Sweden",
+        "location": {
+          "lat": 61.004878,
+          "lng": 14.537003
+        }
+      }
+    },
+    {
+      "index": 228,
+      "company_name": "Bonäs El. And.-För.",
+      "location": "Bonäs",
+      "power_station_name": "Kvarn",
+      "power_source": "steam",
+      "installed_capacity_kva": 300,
+      "full_location": "Bonäs, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "792 95 Bonäs, Sweden",
+        "location": {
+          "lat": 61.0849499,
+          "lng": 14.4878472
+        }
+      }
+    },
+    {
+      "index": 229,
+      "company_name": "Vamhus El. Bel.-För.",
+      "location": "Vamhus",
+      "power_station_name": "Stupafallet",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Vamhus, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "792 96 Vamhus, Sweden",
+        "location": {
+          "lat": 61.1189109,
+          "lng": 14.4841758
+        }
+      }
+    },
+    {
+      "index": 230,
+      "company_name": "A.-B. Venjans El.-Verk.",
+      "location": "Venjan",
+      "power_station_name": "Venjan",
+      "power_source": "water",
+      "installed_capacity_kva": 750,
+      "full_location": "Venjan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "792 93 Venjan, Sweden",
+        "location": {
+          "lat": 60.9527909,
+          "lng": 13.9103899
+        }
+      }
+    },
+    {
+      "index": 231,
+      "company_name": "Kättbo Kraftfören.",
+      "location": "Mora",
+      "power_station_name": "Kättbo",
+      "power_source": "water",
+      "installed_capacity_kva": 105,
+      "full_location": "Mora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mora, Sweden",
+        "location": {
+          "lat": 61.004878,
+          "lng": 14.537003
+        }
+      }
+    },
+    {
+      "index": 232,
+      "company_name": "Skattungbyns Elk. Fören.",
+      "location": "Orsa",
+      "power_station_name": "Skattungbyn",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Orsa, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Orsa, Sweden",
+        "location": {
+          "lat": 61.11581570000001,
+          "lng": 14.6303809
+        }
+      }
+    },
+    {
+      "index": 233,
+      "company_name": "Mässbackens Elekt. A.-B.",
+      "location": "Älvdalen",
+      "power_station_name": "Red",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Älvdalen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvdalen, Sweden",
+        "location": {
+          "lat": 61.22730600000001,
+          "lng": 14.0419871
+        }
+      }
+    },
+    {
+      "index": 234,
+      "company_name": "Nordre distr.-Fören.",
+      "location": "Älvdalen",
+      "power_station_name": "Red",
+      "power_source": "water",
+      "installed_capacity_kva": 120,
+      "full_location": "Älvdalen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvdalen, Sweden",
+        "location": {
+          "lat": 61.22730600000001,
+          "lng": 14.0419871
+        }
+      }
+    },
+    {
+      "index": 235,
+      "company_name": "Byås Kraftf. A.-B.",
+      "location": "Älvdalen",
+      "power_station_name": "Dyss",
+      "power_source": "water",
+      "installed_capacity_kva": 1025,
+      "full_location": "Älvdalen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvdalen, Sweden",
+        "location": {
+          "lat": 61.22730600000001,
+          "lng": 14.0419871
+        }
+      }
+    },
+    {
+      "index": 236,
+      "company_name": "Rots Kvarn o. Såg",
+      "location": "Älvdalen",
+      "power_station_name": "Rots Kvarn",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Älvdalen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvdalen, Sweden",
+        "location": {
+          "lat": 61.22730600000001,
+          "lng": 14.0419871
+        }
+      }
+    },
+    {
+      "index": 237,
+      "company_name": "Yxiäns Kraft A.-B.",
+      "location": "Yxiän",
+      "power_station_name": "Yxiän",
+      "power_source": "water",
+      "installed_capacity_kva": 120,
+      "full_location": "Yxiän, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 238,
+      "company_name": "Ångbåtens Rämmen Kraftf",
+      "location": "Nora",
+      "power_station_name": "Rämmen",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Nora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 239,
+      "company_name": "A.-B. Särna Elektricitetsf.",
+      "location": "Särna",
+      "power_station_name": "Egen kraftst",
+      "power_source": "diesel",
+      "installed_capacity_kva": 100,
+      "full_location": "Särna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "797 31 Särna, Sweden",
+        "location": {
+          "lat": 61.6948409,
+          "lng": 13.1258039
+        }
+      }
+    },
+    {
+      "index": 240,
+      "company_name": "Nedre El. Kraft  o. Bel. A.-B.",
+      "location": "Nås",
+      "power_station_name": "Egen kraftst",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Nås, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "786 93 Nås, Sweden",
+        "location": {
+          "lat": 60.45358109999999,
+          "lng": 14.4967712
+        }
+      }
+    },
+    {
+      "index": 241,
+      "company_name": "Hedems Kraftf. Bolag",
+      "location": "Hedemora",
+      "power_station_name": "Lindesnäs",
+      "power_source": "water",
+      "installed_capacity_kva": 190,
+      "full_location": "Hedemora, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hedemora, Sweden",
+        "location": {
+          "lat": 60.2775453,
+          "lng": 15.985892
+        }
+      }
+    },
+    {
+      "index": 242,
+      "company_name": "Midt. Kopparb. Bergsl. A.-B.",
+      "location": "Lindesnäs",
+      "power_station_name": "Lindesnäs",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Lindesnäs, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "786 93 Lindesnäs, Sweden",
+        "location": {
+          "lat": 60.3283158,
+          "lng": 14.5327478
+        }
+      }
+    },
+    {
+      "index": 243,
+      "company_name": "Dala-Tärna Elket.-A.-B.",
+      "location": "Järma",
+      "power_station_name": "Plåtan (Storfjön)",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Järma, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "786 71 Järna, Sweden",
+        "location": {
+          "lat": 60.54959609999999,
+          "lng": 14.3650969
+        }
+      }
+    },
+    {
+      "index": 244,
+      "company_name": "A.-B. Tärköj",
+      "location": "Särna",
+      "power_station_name": "Plåtan (Storfjön)",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Särna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "797 31 Särna, Sweden",
+        "location": {
+          "lat": 61.6948409,
+          "lng": 13.1258039
+        }
+      }
+    },
+    {
+      "index": 245,
+      "company_name": "Trävaru A.-B. Dalarn",
+      "location": "Eldforsen",
+      "power_station_name": "Eldforsen",
+      "power_source": "water",
+      "installed_capacity_kva": 1500,
+      "full_location": "Eldforsen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "786 91 Eldforsen, Sweden",
+        "location": {
+          "lat": 60.43427999999999,
+          "lng": 14.23842
+        }
+      }
+    },
+    {
+      "index": 246,
+      "company_name": "Hellefors Bruks A.-B.",
+      "location": "Såsvansjö",
+      "power_station_name": "Fenriksberg",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Såsvansjö, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 247,
+      "company_name": "Hellefors Bruks A.-B.",
+      "location": "Fredriksberg",
+      "power_station_name": "Fredriksberg",
+      "power_source": "water",
+      "installed_capacity_kva": 165,
+      "full_location": "Fredriksberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 10 Fredriksberg, Sweden",
+        "location": {
+          "lat": 60.1409773,
+          "lng": 14.3732764
+        }
+      }
+    },
+    {
+      "index": 248,
+      "company_name": "Hellefors Bruks A.-B.",
+      "location": "Fredriksberg",
+      "power_station_name": "Tyrfors",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Fredriksberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 10 Fredriksberg, Sweden",
+        "location": {
+          "lat": 60.1409773,
+          "lng": 14.3732764
+        }
+      }
+    },
+    {
+      "index": 249,
+      "company_name": "Mindre distr.-företag",
+      "location": "Säfsnäs",
+      "power_station_name": "Mindre distr.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Säfsnäs, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 10 Säfsnäs, Sweden",
+        "location": {
+          "lat": 60.13897970000001,
+          "lng": 14.4165513
+        }
+      }
+    },
+    {
+      "index": 250,
+      "company_name": "Mindre distr.-företag",
+      "location": "Gravendal",
+      "power_station_name": "Tyrfors",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Gravendal, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 10 Gravendal, Sweden",
+        "location": {
+          "lat": 60.0442401,
+          "lng": 14.5045043
+        }
+      }
+    },
+    {
+      "index": 251,
+      "company_name": "Mindre distr.-företag",
+      "location": "Fredriksberg",
+      "power_station_name": "Fredriksberg",
+      "power_source": "subscription",
+      "installed_capacity_kva": 8,
+      "full_location": "Fredriksberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 10 Fredriksberg, Sweden",
+        "location": {
+          "lat": 60.1409773,
+          "lng": 14.3732764
+        }
+      }
+    },
+    {
+      "index": 252,
+      "company_name": "Morberg",
+      "location": "Anefors",
+      "power_station_name": "Morberg",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Anefors, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 10 Annefors, Sweden",
+        "location": {
+          "lat": 60.1382862,
+          "lng": 14.3676894
+        }
+      }
+    },
+    {
+      "index": 253,
+      "company_name": "Lissfors Sågverks A.-B.",
+      "location": "Floda",
+      "power_station_name": "Strömsdal",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Floda, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "786 95 Dala-Floda, Sweden",
+        "location": {
+          "lat": 60.5079552,
+          "lng": 14.7926914
+        }
+      }
+    },
+    {
+      "index": 254,
+      "company_name": "Lissfors Sågverks A.-B.",
+      "location": "Lissfors",
+      "power_station_name": "Lissfors",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Lissfors, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "780 44 Dala-Floda, Sweden",
+        "location": {
+          "lat": 60.50715759999999,
+          "lng": 14.823491
+        }
+      }
+    }
+  ],
+  "filename": "Kopparberg_7.png"
+}

@@ -1,0 +1,60 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn, ägare eller innehavare",
+            "description": "Företagets namn, ägare eller innehavare"
+        },
+        {
+            "id": 3,
+            "label": "Kommun, stad",
+            "description": "Kommunen eller staden där anläggningen ligger"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn eller läge",
+            "description": "Namn eller läge för kraftstationen"
+        },
+        {
+            "id": 5,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft som används"
+        },
+        {
+            "id": 6,
+            "label": "Utbyggnad (fällhåll)",
+            "description": "Information om utbyggnaden"
+        },
+        {
+            "id": 7,
+            "label": "Installerad generatoreffekt",
+            "description": "Installerad generatoreffekt i m"
+        },
+        {
+            "id": 8,
+            "label": "Strömart",
+            "description": "Typ av ström (växel-/likström) och system"
+        },
+        {
+            "id": 9,
+            "label": "Periodtal",
+            "description": "Periodtal för systemet"
+        },
+        {
+            "id": 10,
+            "label": "Spänningssystem",
+            "description": "Spänningssystemets specifikationer"
+        },
+        {
+            "id": 11,
+            "label": "Anmärkningar",
+            "description": "Eventuella kommentarer eller anmärkningar"
+        }
+    ],
+    "filename": "Östergötland_1.png"
+}

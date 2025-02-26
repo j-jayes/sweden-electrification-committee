@@ -1,0 +1,237 @@
+{
+    "data": [
+        {
+            "index": 36,
+            "company_name": "Joh. Vallin m. fl.",
+            "location": "Björna",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 37,
+            "company_name": "Erik Johansson",
+            "location": "Björna",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 38,
+            "company_name": "Björnjösa Elektriska Förening",
+            "location": "Björna",
+            "power_station_name": "Björna kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 56
+        },
+        {
+            "index": 39,
+            "company_name": "Löcksta Elektriska Förening",
+            "location": "Löcksta",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 40,
+            "company_name": "Studsvikens och Nordmalings",
+            "location": "Studsviken",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 41,
+            "company_name": "Remmarsen och Östanlids Elektriska Förening samt Aspsele byamän",
+            "location": "Remmarsen",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 42,
+            "company_name": "Gansmulebys Kraft A.-B.",
+            "location": "Björna",
+            "power_station_name": "Hemling",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 43,
+            "company_name": "Gideåbäckbans Elektriska Förening",
+            "location": "Björna",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 44,
+            "company_name": "Bovikens Elektriska Förening",
+            "location": "Björna",
+            "power_station_name": "Boviken",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 45,
+            "company_name": "Gideå och Husums A.-B.",
+            "location": "Gideå",
+            "power_station_name": "Gideå bruks kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 46,
+            "company_name": "Källfors Kraftstationsförening",
+            "location": "Grundsundahamn",
+            "power_station_name": "Källfors",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 47,
+            "company_name": "Nyehamns Kraftstation",
+            "location": "Skamhed",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 51,
+            "company_name": "Joh. Gidlöf, Getingsta",
+            "location": "Getingsta",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 52,
+            "company_name": "S. Kram och Kraft A.-B.",
+            "location": "Sidsjö",
+            "power_station_name": "Sidsjöberget",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 53,
+            "company_name": "Edsmons byamän",
+            "location": "Sidsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 54,
+            "company_name": "Edsvens byamän",
+            "location": "Sidsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 55,
+            "company_name": "A.-B. Bjärta Elektricitetsverk",
+            "location": "Nätra",
+            "power_station_name": "Nätra",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 56,
+            "company_name": "Träbriindustrins Elektriska Förening",
+            "location": "Nätra",
+            "power_station_name": "Frystfjärnsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 57,
+            "company_name": "El. Distr.-Föreningen",
+            "location": "Nätra",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 58,
+            "company_name": "Bode Elektriska Förening",
+            "location": "Nätra",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 59,
+            "company_name": "Alders Elektriska Förening",
+            "location": "Alde",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 62,
+            "company_name": "Lemeljö Kraftstationsförening",
+            "location": "Lemeljö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 63,
+            "company_name": "Nordvigs Elektriska Förening",
+            "location": "Nordvig",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 64,
+            "company_name": "Nr 17 Landaminne",
+            "location": "Treholmsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 65,
+            "company_name": "Gideå och Husums A.-B.",
+            "location": "Gideå",
+            "power_station_name": "Gideå anläggning",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 71,
+            "company_name": "Mo och Domsjö A.-B.",
+            "location": "Grundsunda",
+            "power_station_name": "Gideåbäcken",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 72,
+            "company_name": "Göthene Yttertelses Elektriska A.-B.",
+            "location": "Själevad",
+            "power_station_name": "Uddbo Göthene Yttertelse",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 73,
+            "company_name": "Brunnsviksandöns Kraftstationsförening",
+            "location": "Armsjö",
+            "power_station_name": "Armsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 74,
+            "company_name": "A. Elving & A Stramborg",
+            "location": "Armsjö",
+            "power_station_name": "Lemelångsjö kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        }
+    ],
+    "filename": "Västernorrland_2.png"
+}

@@ -1,0 +1,549 @@
+{
+  "data": [
+    {
+      "index": 62,
+      "company_name": "Vedeby-Kopparns A.-B.",
+      "location": "Jänskogs",
+      "power_station_name": "Kopparns bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Jänskogs, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "Vedeby-Kopparns A.-B.",
+      "location": "Överåker",
+      "power_station_name": "Bottens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Överåker, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Vedeby-Kopparns A.-B.",
+      "location": "Kopparns skog",
+      "power_station_name": "Hagets",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Kopparns skog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 94 Skog, Sweden",
+        "location": {
+          "lat": 59.678551,
+          "lng": 13.0269825
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "Vedeby-Kopparns A.-B.",
+      "location": "Kopparns skog",
+      "power_station_name": "N. Ivarsbyns",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Kopparns skog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 94 Skog, Sweden",
+        "location": {
+          "lat": 59.678551,
+          "lng": 13.0269825
+        }
+      }
+    },
+    {
+      "index": 66,
+      "company_name": "Do (Östervallskogs elektriska kraftförening)",
+      "location": "Östervallskog",
+      "power_station_name": "Bön",
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Östervallskog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "672 96 Östervallskog, Sweden",
+        "location": {
+          "lat": 59.6355251,
+          "lng": 11.8584338
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Do (Billeruds A.-B.)",
+      "location": "Köla",
+      "power_station_name": "Skillarbyens kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Köla, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Köla s.k. andelsfören.,",
+      "location": "Köla",
+      "power_station_name": "Växviks kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 450,
+      "full_location": "Köla, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Eda elektriska Kraftförening",
+      "location": "Eda",
+      "power_station_name": "Norbergs",
+      "power_source": "water",
+      "installed_capacity_kva": 410,
+      "full_location": "Eda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 92 Eda, Sweden",
+        "location": {
+          "lat": 59.83754039999999,
+          "lng": 12.3140314
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Amotsfors A.-B.",
+      "location": "Trefas",
+      "power_station_name": "Amotsfors",
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Trefas, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Amotsfors A.-B.",
+      "location": "Stegsjön",
+      "power_station_name": "Amotsfors stations",
+      "power_source": "water",
+      "installed_capacity_kva": 800,
+      "full_location": "Stegsjön, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Amotsfors A.-B.",
+      "location": "Amotsfors",
+      "power_station_name": "Amotsfors",
+      "power_source": "water",
+      "installed_capacity_kva": 390,
+      "full_location": "Amotsfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 34 Åmotfors, Sweden",
+        "location": {
+          "lat": 59.75765879999999,
+          "lng": 12.3572534
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Amotsfors A.-B.",
+      "location": "Arvika I.f.",
+      "power_station_name": "Amotsfors",
+      "power_source": "water",
+      "installed_capacity_kva": 280,
+      "full_location": "Arvika I.f., Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Billeruds A.-B.",
+      "location": "Gunnarskog",
+      "power_station_name": "Skillarbyens kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 560,
+      "full_location": "Gunnarskog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 98 Gunnarskog, Sweden",
+        "location": {
+          "lat": 59.8173955,
+          "lng": 12.5654229
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Elektriska föreningen Rex",
+      "location": "Huggenäs",
+      "power_station_name": "Abonnemang från Räxeds kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 45,
+      "full_location": "Huggenäs, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huggenas Kyrka, 661 92 Säffle, Sweden",
+        "location": {
+          "lat": 59.1394926,
+          "lng": 13.0071416
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Gårdsås distributionsföre-",
+      "location": "Gårdsås",
+      "power_station_name": "Gårdsås kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Gårdsås, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "V:a Fjälls kraftstation Fjälls",
+      "location": "Mangskog",
+      "power_station_name": "V:a Fjälls",
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Mangskog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 96 Mangskog, Sweden",
+        "location": {
+          "lat": 59.7551058,
+          "lng": 12.7455203
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Do (V:a Fjälls kraftstation Fjälls)",
+      "location": "Mangskog",
+      "power_station_name": "Mangskog",
+      "power_source": "water",
+      "installed_capacity_kva": 700,
+      "full_location": "Mangskog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 96 Mangskog, Sweden",
+        "location": {
+          "lat": 59.7551058,
+          "lng": 12.7455203
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "G. Andersson",
+      "location": "Nedre Fjälls",
+      "power_station_name": "Nedre Fjälls",
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Nedre Fjälls, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 96 Nedre Fjäll, Sweden",
+        "location": {
+          "lat": 59.766667,
+          "lng": 12.766667
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Rotneros bruk",
+      "location": "Sunne",
+      "power_station_name": "Skarpeds",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Do (Rotneros bruk)",
+      "location": "Rotneros",
+      "power_station_name": "subscription from Rotneros kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 125,
+      "full_location": "Rotneros, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 94 Rottneros, Sweden",
+        "location": {
+          "lat": 59.7958694,
+          "lng": 13.1094255
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Do (Rotneros bruk)",
+      "location": "Sunne",
+      "power_station_name": "Do (subscription from Rotneros kraftstation)",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1250,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Sydöstra Sunne-Marbacka elektriska förening",
+      "location": "Ö. Emtervik",
+      "power_station_name": "Gårdsedres kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "Ö. Emtervik, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 95 Amtervik, Sweden",
+        "location": {
+          "lat": 59.7458,
+          "lng": 13.14523
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Do (Sydöstra Sunne-Marbacka elektriska förening)",
+      "location": "Alkärids",
+      "power_station_name": "subscription from Alkärids kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 110,
+      "full_location": "Alkärids, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Do (Sydöstra Sunne-Marbacka elektriska förening)",
+      "location": "Gårdsås",
+      "power_station_name": "subscription from Gårdsås kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 75,
+      "full_location": "Gårdsås, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "Södra Emterviks elektriska förening",
+      "location": "Höje",
+      "power_station_name": "subscription from Höje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 35,
+      "full_location": "Höje, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "684 95 Höje, Sweden",
+        "location": {
+          "lat": 59.9016796,
+          "lng": 13.558687
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": "A.-B. Mönback—Trysil",
+      "location": "Ramsäter",
+      "power_station_name": "Ramsäters bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 250,
+      "full_location": "Ramsäter, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "684 93 Ransäter, Sweden",
+        "location": {
+          "lat": 59.76996389999999,
+          "lng": 13.462544
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Do (Rana bruk)",
+      "location": "Arvika",
+      "power_station_name": "Rana bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 240,
+      "full_location": "Arvika, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Lundby snickerifabrik A.-B.",
+      "location": "Arvika",
+      "power_station_name": "Jonsboälckens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Arvika, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "Do (Uddeholms A.-B.)",
+      "location": "Gustaf Adolf",
+      "power_station_name": "Jonsboälckens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 3730,
+      "full_location": "Gustaf Adolf, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 91 Gustav Adolf, Sweden",
+        "location": {
+          "lat": 60.06755150000001,
+          "lng": 13.8650565
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "Do (Uddeholms A.-B.)",
+      "location": "N. Rada",
+      "power_station_name": "Moss",
+      "power_source": "water",
+      "installed_capacity_kva": 750,
+      "full_location": "N. Rada, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 93 Råda, Sweden",
+        "location": {
+          "lat": 60.0044883,
+          "lng": 13.5978744
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Do (Uddeholms A.-B.)",
+      "location": "Mjöträfors",
+      "power_station_name": "Rantens bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Mjöträfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Do (Uddeholms A.-B.)",
+      "location": "Krakeruds",
+      "power_station_name": "Mjöträfors",
+      "power_source": "water",
+      "installed_capacity_kva": 430,
+      "full_location": "Krakeruds, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "655 61 Krakerud, Sweden",
+        "location": {
+          "lat": 59.5904932,
+          "lng": 13.6893534
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Do (Uddeholms A.-B.)",
+      "location": "Ramsäter",
+      "power_station_name": "Munfkors",
+      "power_source": "water",
+      "installed_capacity_kva": 430,
+      "full_location": "Ramsäter, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "684 93 Ransäter, Sweden",
+        "location": {
+          "lat": 59.76996389999999,
+          "lng": 13.462544
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Do (Uddeholms A.-B.)",
+      "location": "N. Rada",
+      "power_station_name": "Rantens bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 430,
+      "full_location": "N. Rada, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 93 Råda, Sweden",
+        "location": {
+          "lat": 60.0044883,
+          "lng": 13.5978744
+        }
+      }
+    }
+  ],
+  "filename": "Värmland_3.png"
+}

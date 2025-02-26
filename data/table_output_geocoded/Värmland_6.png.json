@@ -1,0 +1,485 @@
+{
+  "data": [
+    {
+      "index": 161,
+      "company_name": "Ned. Alsters elektriska a",
+      "location": "Alster",
+      "power_station_name": "subscription from Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Alster, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 39 Alster, Sweden",
+        "location": {
+          "lat": 59.4012898,
+          "lng": 13.6138993
+        }
+      }
+    },
+    {
+      "index": 162,
+      "company_name": "Östra Fågelviks elektricka",
+      "location": "Ö. Fågelvik",
+      "power_station_name": "subscription from Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ö. Fågelvik, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "655 94 Östra Fågelvik, Sweden",
+        "location": {
+          "lat": 59.4182348,
+          "lng": 13.7332154
+        }
+      }
+    },
+    {
+      "index": 163,
+      "company_name": "Skattkärrs elektriska andelsförening",
+      "location": "Skattkärr",
+      "power_station_name": "subscription from Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Skattkärr, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 72 Skattkärr, Sweden",
+        "location": {
+          "lat": 59.41224800000001,
+          "lng": 13.6709545
+        }
+      }
+    },
+    {
+      "index": 164,
+      "company_name": "Skattkärrs elektriska andelsförening",
+      "location": "Skattkärr",
+      "power_station_name": "subscription from Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Skattkärr, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 72 Skattkärr, Sweden",
+        "location": {
+          "lat": 59.41224800000001,
+          "lng": 13.6709545
+        }
+      }
+    },
+    {
+      "index": 165,
+      "company_name": "Skattkärrs egnael o. kakel",
+      "location": "Skattkärr",
+      "power_station_name": "subscription from Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Skattkärr, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 72 Skattkärr, Sweden",
+        "location": {
+          "lat": 59.41224800000001,
+          "lng": 13.6709545
+        }
+      }
+    },
+    {
+      "index": 166,
+      "company_name": "G. Lindstedt, Skattkärr",
+      "location": "Skattkärr",
+      "power_station_name": "Skattkärrs sågverk",
+      "power_source": "steam",
+      "installed_capacity_kva": 110,
+      "full_location": "Skattkärr, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 72 Skattkärr, Sweden",
+        "location": {
+          "lat": 59.41224800000001,
+          "lng": 13.6709545
+        }
+      }
+    },
+    {
+      "index": 167,
+      "company_name": "Väse elektriska andelsförening",
+      "location": "Väse",
+      "power_station_name": "subscription from Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3300,
+      "full_location": "Väse, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "655 95 Väse, Sweden",
+        "location": {
+          "lat": 59.38053900000001,
+          "lng": 13.8507171
+        }
+      }
+    },
+    {
+      "index": 168,
+      "company_name": "Olsson, N. Forsnäs",
+      "location": "Alster",
+      "power_station_name": "Forsnäs kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 173,
+      "full_location": "Alster, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 39 Alster, Sweden",
+        "location": {
+          "lat": 59.4012898,
+          "lng": 13.6138993
+        }
+      }
+    },
+    {
+      "index": 169,
+      "company_name": "Säter, Ulvsby",
+      "location": "Alster",
+      "power_station_name": "Alsters kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Alster, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 39 Alster, Sweden",
+        "location": {
+          "lat": 59.4012898,
+          "lng": 13.6138993
+        }
+      }
+    },
+    {
+      "index": 170,
+      "company_name": "E. Eriksson m. fl, Vyse",
+      "location": "Ölme",
+      "power_station_name": "Trefors kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 153,
+      "full_location": "Ölme, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "681 95 Ölme, Sweden",
+        "location": {
+          "lat": 59.362303,
+          "lng": 14.0069605
+        }
+      }
+    },
+    {
+      "index": 171,
+      "company_name": "Olme elektriska andelsförening",
+      "location": "Ölme",
+      "power_station_name": "subscription from Trefors",
+      "power_source": "subscription",
+      "installed_capacity_kva": 400,
+      "full_location": "Ölme, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "681 95 Ölme, Sweden",
+        "location": {
+          "lat": 59.362303,
+          "lng": 14.0069605
+        }
+      }
+    },
+    {
+      "index": 172,
+      "company_name": "Karl Myren, Ölme",
+      "location": "Hultås",
+      "power_station_name": "Hultås",
+      "power_source": "water",
+      "installed_capacity_kva": 6,
+      "full_location": "Hultås, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "661 94 Hulta, Sweden",
+        "location": {
+          "lat": 59.082065,
+          "lng": 12.8338306
+        }
+      }
+    },
+    {
+      "index": 173,
+      "company_name": "Bengsson & Andersson",
+      "location": "Myröm",
+      "power_station_name": "Myröm",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Myröm, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Myrom, 671 92 Arvika, Sweden",
+        "location": {
+          "lat": 59.64709,
+          "lng": 12.696223
+        }
+      }
+    },
+    {
+      "index": 174,
+      "company_name": "Löfsta",
+      "location": "Forsnäs",
+      "power_station_name": "Forsnäs",
+      "power_source": "water",
+      "installed_capacity_kva": 19,
+      "full_location": "Forsnäs, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "665 91 Forsnäs, Sweden",
+        "location": {
+          "lat": 59.6199093,
+          "lng": 13.1916717
+        }
+      }
+    },
+    {
+      "index": 175,
+      "company_name": "Degerfors elektriska",
+      "location": "Ölme",
+      "power_station_name": "Ölme",
+      "power_source": "water",
+      "installed_capacity_kva": 19,
+      "full_location": "Ölme, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "681 95 Ölme, Sweden",
+        "location": {
+          "lat": 59.362303,
+          "lng": 14.0069605
+        }
+      }
+    },
+    {
+      "index": 176,
+      "company_name": "Stiftelsen Landsbergs Lungsund",
+      "location": "Kvarndes",
+      "power_station_name": "Stiftelsen Landsbergs",
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Kvarndes, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 177,
+      "company_name": "Lundsbergs Fastighets",
+      "location": "Lundsberg",
+      "power_station_name": "Lundsbergs kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 118,
+      "full_location": "Lundsberg, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "688 91 Lundsberg, Sweden",
+        "location": {
+          "lat": 59.4954943,
+          "lng": 14.1740244
+        }
+      }
+    },
+    {
+      "index": 178,
+      "company_name": "A-B Virèn",
+      "location": "Kroppa",
+      "power_station_name": "Käskjärd",
+      "power_source": "water",
+      "installed_capacity_kva": 86,
+      "full_location": "Kroppa, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 179,
+      "company_name": "Uddeholms A-B",
+      "location": "Kroppa",
+      "power_station_name": "Gammelkroppa kraftstation 1",
+      "power_source": "water",
+      "installed_capacity_kva": 325,
+      "full_location": "Kroppa, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 180,
+      "company_name": "Do",
+      "location": "Kroppa",
+      "power_station_name": "Nykroppa kraftstation nr 1",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Kroppa, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 181,
+      "company_name": "Do",
+      "location": "Storfors",
+      "power_station_name": "Storfors kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 800,
+      "full_location": "Storfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Storfors, Sweden",
+        "location": {
+          "lat": 59.5332079,
+          "lng": 14.2722085
+        }
+      }
+    },
+    {
+      "index": 182,
+      "company_name": "Do",
+      "location": "Storfors",
+      "power_station_name": "Lillfors",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Storfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Storfors, Sweden",
+        "location": {
+          "lat": 59.5332079,
+          "lng": 14.2722085
+        }
+      }
+    },
+    {
+      "index": 183,
+      "company_name": "Do",
+      "location": "Lillfors",
+      "power_station_name": "Skåpytans",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Lillfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 184,
+      "company_name": "Do",
+      "location": "Fernebo",
+      "power_station_name": "Aspkytte",
+      "power_source": "water",
+      "installed_capacity_kva": 70,
+      "full_location": "Fernebo, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 185,
+      "company_name": "Do",
+      "location": "Storfors",
+      "power_station_name": "Bjurö kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 17,
+      "full_location": "Storfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Storfors, Sweden",
+        "location": {
+          "lat": 59.5332079,
+          "lng": 14.2722085
+        }
+      }
+    },
+    {
+      "index": 187,
+      "company_name": "Bergsjö elektricks",
+      "location": "Färnebo",
+      "power_station_name": "subscription from Hammarby",
+      "power_source": "subscription",
+      "installed_capacity_kva": 223,
+      "full_location": "Färnebo, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 188,
+      "company_name": "Filipstad stad",
+      "location": "Filipstad",
+      "power_station_name": "subscription from Hålvatnås",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Filipstad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Filipstad, Sweden",
+        "location": {
+          "lat": 59.7139973,
+          "lng": 14.1698445
+        }
+      }
+    },
+    {
+      "index": 189,
+      "company_name": "G. Karlsson",
+      "location": "Skribo kraftstation",
+      "power_station_name": "Kåberget",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Skribo kraftstation, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bruksvägen 10E, 669 32 Deje, Sweden",
+        "location": {
+          "lat": 59.6081282,
+          "lng": 13.4747154
+        }
+      }
+    },
+    {
+      "index": 190,
+      "company_name": "Do",
+      "location": "Halsjern",
+      "power_station_name": "Kautvattnet",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Halsjern, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 191,
+      "company_name": "Do",
+      "location": "Färnebo",
+      "power_station_name": "subscription from Svartinvand Akmens",
+      "power_source": "water",
+      "installed_capacity_kva": 250,
+      "full_location": "Färnebo, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    }
+  ],
+  "filename": "Värmland_6.png"
+}

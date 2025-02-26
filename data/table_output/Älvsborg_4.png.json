@@ -1,0 +1,285 @@
+{
+    "data": [
+        {
+            "index": 88,
+            "company_name": "A.-B. Vimle kraftstation",
+            "location": "Skölvene",
+            "power_station_name": "Vimla",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 89,
+            "company_name": "Grölanda m. fl. socknars el. distr.-fören.",
+            "location": "Broddarp",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 90,
+            "company_name": "A.H. Andersson",
+            "location": "Hov",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 66
+        },
+        {
+            "index": 91,
+            "company_name": "Ljur e. al distr.-fören.",
+            "location": "Annerstad",
+            "power_station_name": "Annelund",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 92,
+            "company_name": "Närlöse kraftstation",
+            "location": "Narunga",
+            "power_station_name": "Ljusne kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 93,
+            "company_name": "Edhed a. el. distr.-fören.",
+            "location": "Ornunga",
+            "power_station_name": "Skattegården",
+            "power_source": "water",
+            "installed_capacity_kva": 390
+        },
+        {
+            "index": 94,
+            "company_name": "Hödereds el. distr.-fören.",
+            "location": "Töllsjö",
+            "power_station_name": "Sandhult",
+            "power_source": "water",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 95,
+            "company_name": "Abm. Andersson",
+            "location": "Sandhult",
+            "power_station_name": "Hölereds kraftstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 96,
+            "company_name": "Edvin Eliasson",
+            "location": "Hämo",
+            "power_station_name": "Gantarås",
+            "power_source": "steam",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 97,
+            "company_name": "Mannas kraftverk",
+            "location": "Sandhult",
+            "power_station_name": "Täb",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 98,
+            "company_name": "Sekura sten e. Sjöman",
+            "location": "Hällered",
+            "power_station_name": "Fenå",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 99,
+            "company_name": "Sandhulta el. distr.-fören.",
+            "location": "Sandhult",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 100,
+            "company_name": "Ljungs församl.-kassa",
+            "location": "Hillared",
+            "power_station_name": "Ljunga fors",
+            "power_source": "water",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 101,
+            "company_name": "Ljungsfors A.-B.",
+            "location": "Svenljunga",
+            "power_station_name": "Ljungafors",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 102,
+            "company_name": "Svenljunga el. distr.-fören.",
+            "location": "Svenljunga",
+            "power_station_name": "Herrekvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 103,
+            "company_name": "S.A. Larsson",
+            "location": "Toarp",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 104,
+            "company_name": "Månsarps el. with div. middle industries",
+            "location": "Toarp",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 105,
+            "company_name": "Dalsjöfors Y väeri A.B.",
+            "location": "Hillared",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 66
+        },
+        {
+            "index": 106,
+            "company_name": "Toarp el. A.B.",
+            "location": "Tingstatorp",
+            "power_station_name": "Toarp",
+            "power_source": "subscription",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 107,
+            "company_name": "Hällareds el. A.-B.",
+            "location": "Hillared",
+            "power_station_name": "Ejrsvens Damse",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 108,
+            "company_name": "A. Gustavsson",
+            "location": "Toarp",
+            "power_station_name": "Hällareds kvarn",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 109,
+            "company_name": "Johan O. Johansson m. fl.",
+            "location": "Rångedala",
+            "power_station_name": "Spoenig",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 110,
+            "company_name": "Rångedala el. fören.",
+            "location": "Bossebo",
+            "power_station_name": "Jökalbrunna",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 111,
+            "company_name": "Borås spåtefabrik",
+            "location": "Fristad",
+            "power_station_name": "Borås spåtefabrik",
+            "power_source": "steam",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 112,
+            "company_name": "L.-A. Lantbruks",
+            "location": "Borås",
+            "power_station_name": "Lantnorske",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 113,
+            "company_name": "Hörderums A.-B.",
+            "location": "Abera",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 114,
+            "company_name": "Urikehamns stads el.-verk",
+            "location": "Ulricehamn",
+            "power_station_name": "Ulrik",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 115,
+            "company_name": "Ekelöf Klasen",
+            "location": "Varskog",
+            "power_station_name": "Visafors",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 116,
+            "company_name": "Adolf Molander",
+            "location": "Timmele",
+            "power_station_name": "Timmele",
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 117,
+            "company_name": "Emdot Anderson",
+            "location": "Timmele",
+            "power_station_name": "Fältet",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 118,
+            "company_name": "Jönköpings Kraft A.-B.",
+            "location": "Dalsjöfors",
+            "power_station_name": "Dalsjöbäcken",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 119,
+            "company_name": "B.A. Josefsson",
+            "location": "Ulricehamn",
+            "power_station_name": "Brota kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 120,
+            "company_name": "S. Olofsson",
+            "location": "Knapparp",
+            "power_station_name": "Brota kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 121,
+            "company_name": "David Ousan",
+            "location": "Solberga",
+            "power_station_name": "Bäckgneraren",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 122,
+            "company_name": "Norra Åsarp el. distr.-fören.",
+            "location": "N. Åsarp",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        }
+    ],
+    "filename": "Älvsborg_4.png"
+}

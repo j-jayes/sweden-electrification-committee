@@ -1,0 +1,221 @@
+{
+    "data": [
+        {
+            "index": 25,
+            "company_name": "Såvsjöströms Bruk",
+            "location": "Lenhovda",
+            "power_station_name": "Såvsjöström",
+            "power_source": "water",
+            "installed_capacity_kva": 430
+        },
+        {
+            "index": 26,
+            "company_name": "Hovgårds Glasbruk",
+            "location": "Älghult",
+            "power_station_name": "Hovgård",
+            "power_source": "steam",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 27,
+            "company_name": "Älghults El. And. Fören.",
+            "location": "Älghult",
+            "power_station_name": "Älghults prästkvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 8
+        },
+        {
+            "index": 28,
+            "company_name": "Alstermo Bruk",
+            "location": "Alstermo",
+            "power_station_name": "Alstermo",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 29,
+            "company_name": "Gullaskruvs El.And.Fören.",
+            "location": "Hälleberga",
+            "power_station_name": "Barkström",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 30,
+            "company_name": "A.-B. Kosta Glasbruk",
+            "location": "Ekeberga",
+            "power_station_name": "Kosta",
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 30,
+            "company_name": "A.-B. Kosta Glasbruk",
+            "location": "Ekeberga",
+            "power_station_name": "Högaström",
+            "power_source": "steam",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 31,
+            "company_name": "Ekeberga El. Distr. Fören.",
+            "location": "Hovmantorp",
+            "power_station_name": "Hovmantorp",
+            "power_source": "water",
+            "installed_capacity_kva": 14
+        },
+        {
+            "index": 33,
+            "company_name": "Hovmantorps Kraft A.-B.",
+            "location": "Hovmantorp",
+            "power_station_name": "Ugnanäs",
+            "power_source": "water",
+            "installed_capacity_kva": 52
+        },
+        {
+            "index": 34,
+            "company_name": "A.-B. Karlskrona Träexport",
+            "location": "Öjen",
+            "power_station_name": "Öjen",
+            "power_source": "water",
+            "installed_capacity_kva": 78
+        },
+        {
+            "index": 35,
+            "company_name": "Lessebo A.-B.",
+            "location": "Lessebo",
+            "power_station_name": "Lessebo",
+            "power_source": "steam",
+            "installed_capacity_kva": 885
+        },
+        {
+            "index": 35,
+            "company_name": "Lessebo A.-B.",
+            "location": "Linneryd",
+            "power_station_name": "Oljeholm",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 36,
+            "company_name": "Emmaboda El. A.-B.",
+            "location": "Algutsboda",
+            "power_station_name": "Äbykvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 590
+        },
+        {
+            "index": 36,
+            "company_name": "Emmaboda El. A.-B.",
+            "location": "Emmaboda",
+            "power_station_name": "Getasjöqvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 37,
+            "company_name": "Linneryd El. And. Fören.",
+            "location": "Linneryd",
+            "power_station_name": "Bro kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 38,
+            "company_name": "Dångs A.-B.",
+            "location": "Almeboda",
+            "power_station_name": "Dång",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 39,
+            "company_name": "G. Holmberg",
+            "location": "Sandsjö, Tingsås",
+            "power_station_name": "Böket",
+            "power_source": "steam",
+            "installed_capacity_kva": 3
+        },
+        {
+            "index": 40,
+            "company_name": "Fagerfors Gjuterij & Mek. Verkstad",
+            "location": "Sandsjö, Tingsås",
+            "power_station_name": "Fagerfors",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 41,
+            "company_name": "Hanefors Kraft A.-B.",
+            "location": "Ö. Torsås m. fl. socknar av Konga härad",
+            "power_station_name": "Hanefors",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 41,
+            "company_name": "Hanefors Kraft A.-B.",
+            "location": "Ingelstad",
+            "power_station_name": "Ingelstad",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 41,
+            "company_name": "Hanefors Kraft A.-B.",
+            "location": "Kinnevalds",
+            "power_station_name": "Sunnansjö",
+            "power_source": "water",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 42,
+            "company_name": "Furuby El. And. Fören.",
+            "location": "Furuby",
+            "power_station_name": "Skive kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 16
+        },
+        {
+            "index": 43,
+            "company_name": "Sigrid Posse",
+            "location": "Bergunda",
+            "power_station_name": "Bergkvara",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 44,
+            "company_name": "Växjö El. Verk, Östra Förstadens El. Fören., Teletesta och Skirs El. Fören. och Hovs El. A.-B.",
+            "location": "Växjö och Hemmesjö",
+            "power_station_name": "Växjö El Verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 45,
+            "company_name": "Helgeåvram-Öjaby And. El. Fören.",
+            "location": "Öjaby",
+            "power_station_name": "subscription from Ab. fr. Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 46,
+            "company_name": "Gemla m. fl. byars And. El. Fören.",
+            "location": "Öja",
+            "power_station_name": "subscription from Ab. fr. Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 47,
+            "company_name": "Ängaholms El. Verk",
+            "location": "Öja, Aringsås, Lekaryd och Blädinge",
+            "power_station_name": "subscription from Ab. fr. Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 190
+        }
+    ],
+    "filename": "Kronobergs_2.png"
+}

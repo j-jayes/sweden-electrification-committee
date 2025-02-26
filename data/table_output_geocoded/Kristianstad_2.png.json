@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "index": 17,
+      "company_name": "Ausås Andelselektricitetsförening",
+      "location": "Spanarp",
+      "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Spanarp, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "A.-B. Äsperöds Elverk",
+      "location": "Äsperöd",
+      "power_station_name": "subscription from Ausås Andelselektricitetsförening",
+      "power_source": "subscription",
+      "installed_capacity_kva": 311,
+      "full_location": "Äsperöd, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "275 76 Äsperöd, Sweden",
+        "location": {
+          "lat": 55.6092235,
+          "lng": 13.9176409
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Spannarp",
+      "location": "Spannarp",
+      "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Spannarp, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "262 95 Spannarp, Sweden",
+        "location": {
+          "lat": 56.1869886,
+          "lng": 12.9158586
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Västra Broby sn",
+      "location": "Västra Broby",
+      "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 230,
+      "full_location": "Västra Broby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "265 90 Västra Broby, Sweden",
+        "location": {
+          "lat": 56.116667,
+          "lng": 12.883333
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Humlarps Elektricitetsförening",
+      "location": "Ästorp",
+      "power_station_name": "subscription from Ästorps municipala elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 250,
+      "full_location": "Ästorp, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åstorp, Sweden",
+        "location": {
+          "lat": 56.134262,
+          "lng": 12.945908
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Västra Broby med medges elektriska distributionsförening",
+      "location": "Västra Broby",
+      "power_station_name": "Antgruhlin 100000",
+      "power_source": "subscription",
+      "installed_capacity_kva": 9000,
+      "full_location": "Västra Broby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "265 90 Västra Broby, Sweden",
+        "location": {
+          "lat": 56.116667,
+          "lng": 12.883333
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "-----",
+      "location": "-----",
+      "power_station_name": "subscription from Antgruhlin 100000",
+      "power_source": "subscription",
+      "installed_capacity_kva": 9000,
+      "full_location": "-----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "-----",
+      "location": "----",
+      "power_station_name": "subscription from Höganäs-Billesholm",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Björnekulla sn",
+      "location": "Björnekulla",
+      "power_station_name": "subscription from Sydsvenska Kraft",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Björnekulla, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "265 90 Björnekulla, Sweden",
+        "location": {
+          "lat": 56.15,
+          "lng": 12.95
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Kvidinge sn",
+      "location": "Kvidinge",
+      "power_station_name": "Kvidinge Andelselektricitetsförening",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Kvidinge, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "265 71 Kvidinge, Sweden",
+        "location": {
+          "lat": 56.1343857,
+          "lng": 13.0466505
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "-----",
+      "location": "-----",
+      "power_station_name": "subscription from Kvidinge Andelselektricitetsförening",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "-----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "-----",
+      "location": "-----",
+      "power_station_name": "subscription from Sydsvenska Kraft",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1200,
+      "full_location": "-----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "-----",
+      "location": "-----",
+      "power_station_name": "subscription from A.-B. Klippans Finpapperbruks",
+      "power_source": "subscription",
+      "installed_capacity_kva": 375,
+      "full_location": "-----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Tostarps sn",
+      "location": "Norra Åsbo",
+      "power_station_name": "subscription from Ängelholms stad elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 380,
+      "full_location": "Norra Åsbo, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hyllstofta 6178, 264 93 Klippan, Sweden",
+        "location": {
+          "lat": 56.13576029999999,
+          "lng": 13.2596036
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "-----",
+      "location": "-----",
+      "power_station_name": "subscription from Munka-Ljungby Andelselektricitetsförening",
+      "power_source": "subscription",
+      "installed_capacity_kva": 380,
+      "full_location": "-----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "-----",
+      "location": "-----",
+      "power_station_name": "subscription from Sydsvenska Kraft",
+      "power_source": "subscription",
+      "installed_capacity_kva": 660,
+      "full_location": "-----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Munka-Ljungby Elektricitetsförening",
+      "location": "Munka-Ljungby",
+      "power_station_name": "subscription from Ängelholms stad elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 380,
+      "full_location": "Munka-Ljungby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "266 32 Munka-Ljungby, Sweden",
+        "location": {
+          "lat": 56.2573385,
+          "lng": 12.9704446
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "-----",
+      "location": "-----",
+      "power_station_name": "subscription from Sydsvenska Kraft",
+      "power_source": "subscription",
+      "installed_capacity_kva": 870,
+      "full_location": "-----, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Munka-Ljungby Andelselektricitetsförening",
+      "location": "Munka-Ljungby",
+      "power_station_name": "subscription from Össjö Energiförening",
+      "power_source": "subscription",
+      "installed_capacity_kva": 370,
+      "full_location": "Munka-Ljungby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "266 32 Munka-Ljungby, Sweden",
+        "location": {
+          "lat": 56.2573385,
+          "lng": 12.9704446
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Gångvads Gård",
+      "location": "Källna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Källna, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "264 94 Källna, Sweden",
+        "location": {
+          "lat": 56.2076316,
+          "lng": 13.0408447
+        }
+      }
+    }
+  ],
+  "filename": "Kristianstad_2.png"
+}

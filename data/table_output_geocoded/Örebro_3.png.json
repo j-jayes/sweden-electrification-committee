@@ -1,0 +1,389 @@
+{
+  "data": [
+    {
+      "index": 59,
+      "company_name": "Röksäg och Nyströms Elec. Distr.",
+      "location": "Nysund",
+      "power_station_name": "Ab. fr Kraft-A.B. Gullspång",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Nysund, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nysunds, 693 70 Åtorp, Sweden",
+        "location": {
+          "lat": 59.11740810000001,
+          "lng": 14.3684528
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "Diverse dist.",
+      "location": "Akersund m. fl. ladom.",
+      "power_station_name": "Ab. fr Kraft-A.B. Gullspång",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Akersund m. fl. ladom., Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "696 94 Askersund, Sweden",
+        "location": {
+          "lat": 58.831,
+          "lng": 14.971
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Motala Ström Kraft.",
+      "location": "Akersund med Narffertorp",
+      "power_station_name": "Akersund",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Akersund med Narffertorp, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Askersund, Sweden",
+        "location": {
+          "lat": 58.88942679999999,
+          "lng": 14.9109867
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "Linde El. För. A.-B.",
+      "location": "Akersund m. fl. ladom.",
+      "power_station_name": "Ab. fr Motala Ström Kraft.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Akersund m. fl. ladom., Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "696 94 Askersund, Sweden",
+        "location": {
+          "lat": 58.831,
+          "lng": 14.971
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Diverse dist.",
+      "location": "Strömstad m. fl.",
+      "power_station_name": "Ström Kraft. B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Strömstad m. fl., Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "Diverse dist.",
+      "location": "Bollnäs",
+      "power_station_name": "Ab. fr Motala Ström-Akersund",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Bollnäs, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Bol. Vuolle Momsägen",
+      "location": "Strömtorp",
+      "power_station_name": "Akersund",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Strömtorp, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "693 92 Strömtorp, Sweden",
+        "location": {
+          "lat": 59.2504059,
+          "lng": 14.395977
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Joh. Olsson og Misterjö Forss Kraft.",
+      "location": "Ervalla",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Ervalla, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "718 95 Ervalla, Sweden",
+        "location": {
+          "lat": 59.4389792,
+          "lng": 15.24136
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Trycke El. Distr. För. a.-b.",
+      "location": "Savurlanda",
+      "power_station_name": "Savurlanda",
+      "power_source": "water",
+      "installed_capacity_kva": 720,
+      "full_location": "Savurlanda, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Nora Stads Elverk och Vattenverk",
+      "location": "Nora stad med omnejd",
+      "power_station_name": "Nora,",
+      "power_source": "water",
+      "installed_capacity_kva": 9000,
+      "full_location": "Nora stad med omnejd, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nora, Sweden",
+        "location": {
+          "lat": 59.51920639999999,
+          "lng": 15.0378667
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Nora Bergslags B.-F.",
+      "location": "Nora landscomm.",
+      "power_station_name": "Jönkolkas Vattenhydronstr.",
+      "power_source": "water",
+      "installed_capacity_kva": 9000,
+      "full_location": "Nora landscomm., Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nora, Sweden",
+        "location": {
+          "lat": 59.51920639999999,
+          "lng": 15.0378667
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Nora Bergslags A.-B.",
+      "location": "Noraboda",
+      "power_station_name": "Norboda",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Noraboda, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Fjugstaby Lagre",
+      "location": "Viker",
+      "power_station_name": "Viker",
+      "power_source": "water",
+      "installed_capacity_kva": 9000,
+      "full_location": "Viker, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vikers kyrka, 713 92 Gyttorp, Sweden",
+        "location": {
+          "lat": 59.45514499999999,
+          "lng": 14.891323
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Guldsmedshöjden",
+      "location": "Guldsmedshytta",
+      "power_station_name": "Guldsmedshytta",
+      "power_source": "water",
+      "installed_capacity_kva": 1800,
+      "full_location": "Guldsmedshytta, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Norsn Kraft A.-B.",
+      "location": "Borlänge",
+      "power_station_name": "Borleringen",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Borlänge, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Myrtorp Kraft och Merförråd",
+      "location": "Lund",
+      "power_station_name": "Lessfiverk",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Lund, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Grytbom Kraft.",
+      "location": "Biskopskulla",
+      "power_station_name": "Biskopskulle",
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Biskopskulla, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Hambreby A.-B.",
+      "location": "Hambreby",
+      "power_station_name": "Hambreby",
+      "power_source": "water",
+      "installed_capacity_kva": 1300,
+      "full_location": "Hambreby, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Nora Bergslags A.-B.",
+      "location": "Viker",
+      "power_station_name": "Skathammar",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Viker, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vikers kyrka, 713 92 Gyttorp, Sweden",
+        "location": {
+          "lat": 59.45514499999999,
+          "lng": 14.891323
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "F.R. Palmgren",
+      "location": "Skaftvalta",
+      "power_station_name": "Jusalover",
+      "power_source": "water",
+      "installed_capacity_kva": 5000,
+      "full_location": "Skaftvalta, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Nora Bergslags A.-B.",
+      "location": "Koppartjära",
+      "power_station_name": "Koppartjära",
+      "power_source": "water",
+      "installed_capacity_kva": 9000,
+      "full_location": "Koppartjära, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Tolvolding El. För.",
+      "location": "Borlänge",
+      "power_station_name": "Borlänge",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Borlänge, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Ab. fr Västkustens T.-B.",
+      "location": "Vik",
+      "power_station_name": "Vik",
+      "power_source": "water",
+      "installed_capacity_kva": 600,
+      "full_location": "Vik, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "A.-B. Sjöströmsverken",
+      "location": "Hultatorp",
+      "power_station_name": "Sjöströmsverken",
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Hultatorp, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "713 94 Hultatorp, Sweden",
+        "location": {
+          "lat": 59.7,
+          "lng": 14.783333
+        }
+      }
+    }
+  ],
+  "filename": "Örebro_3.png"
+}

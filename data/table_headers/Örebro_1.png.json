@@ -1,0 +1,100 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer"
+        },
+        {
+            "id": 2,
+            "label": "Förträffligaste namn, t.ex. större eller mindre leverantör",
+            "description": "Företagets namn, kända eller mindre leverantörer"
+        },
+        {
+            "id": 3,
+            "label": "Kommun",
+            "description": "Den kommun där anläggningen ligger"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn eller typ",
+            "description": "Namn på kraftstationen eller typ av anläggning"
+        },
+        {
+            "id": 5,
+            "label": "Install.",
+            "description": "Inställning eller anläggningens säkerhet"
+        },
+        {
+            "id": 6,
+            "label": "Spänningstekniskt system",
+            "description": "Det elektriska spänningstekniska systemet"
+        },
+        {
+            "id": 7,
+            "label": "Energikäll",
+            "description": "Typ av energikälla"
+        },
+        {
+            "id": 8,
+            "label": "Konstställnings höjd",
+            "description": "Höjd över havet"
+        },
+        {
+            "id": 9,
+            "label": "Elektrisk effekt, medelvärde i kW",
+            "description": "Det genomsnittliga elektriska effekt i kilowatt"
+        },
+        {
+            "id": 10,
+            "label": "Elektrisk effekt, max. i kW",
+            "description": "Det maximala elektriska effekt i kilowatt"
+        },
+        {
+            "id": 11,
+            "label": "Huvudlinjer",
+            "description": "Huvudlinjernas kapacitet i kW"
+        },
+        {
+            "id": 12,
+            "label": "Jordbrukskonsumenter",
+            "description": "Antal jordbrukskonsumenter"
+        },
+        {
+            "id": 13,
+            "label": "Övriga abonnenter",
+            "description": "Övriga abonnents antal"
+        },
+        {
+            "id": 14,
+            "label": "Motorer Apparater",
+            "description": "Antal motorer"
+        },
+        {
+            "id": 15,
+            "label": "Övriga apparater",
+            "description": "Annan typ av apparater"
+        },
+        {
+            "id": 16,
+            "label": "Teoretisk års produktion",
+            "description": "Beräknad årlig produktion"
+        },
+        {
+            "id": 17,
+            "label": "Verklig års produktion",
+            "description": "Faktisk årlig produktion"
+        },
+        {
+            "id": 18,
+            "label": "Produktion kWh",
+            "description": "Totalt producerad energi i kWh"
+        },
+        {
+            "id": 19,
+            "label": "Anmärkningar",
+            "description": "Eventuella anmärkningar eller tillägg"
+        }
+    ],
+    "filename": "Örebro_1.png"
+}

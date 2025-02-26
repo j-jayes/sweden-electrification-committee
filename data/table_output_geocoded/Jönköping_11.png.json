@@ -1,0 +1,389 @@
+{
+  "data": [
+    {
+      "index": 228,
+      "company_name": "Wamnamo stad",
+      "location": "Värnamo",
+      "power_station_name": "Varamo kraft A.-B.",
+      "power_source": "water",
+      "installed_capacity_kva": 840,
+      "full_location": "Värnamo, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Värnamo, Sweden",
+        "location": {
+          "lat": 57.1831605,
+          "lng": 14.0478214
+        }
+      }
+    },
+    {
+      "index": 229,
+      "company_name": "Do., Hörle bruk och Do., Hörle bruks elektricitetsverk",
+      "location": "Värnamo",
+      "power_station_name": "Kronobergs län",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Värnamo, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Värnamo, Sweden",
+        "location": {
+          "lat": 57.1831605,
+          "lng": 14.0478214
+        }
+      }
+    },
+    {
+      "index": 230,
+      "company_name": "Vaxtorp sn",
+      "location": "Växjö",
+      "power_station_name": "Eds elektriska kraft A.-B., Bor",
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Växjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 231,
+      "company_name": "Gällaryd sn, Ohs bruk, Bor. Kraftstationen vid Långö",
+      "location": "Gällaryd",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 600,
+      "full_location": "Gällaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "331 74 Gällaryd, Sweden",
+        "location": {
+          "lat": 57.127162,
+          "lng": 14.287306
+        }
+      }
+    },
+    {
+      "index": 232,
+      "company_name": "Gällaryd sn, Ohs bruk, Bor. Kraftstationen vid Ohs",
+      "location": "Gällaryd",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Gällaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "331 74 Gällaryd, Sweden",
+        "location": {
+          "lat": 57.127162,
+          "lng": 14.287306
+        }
+      }
+    },
+    {
+      "index": 233,
+      "company_name": "Gripenbergs säg, Gällaryd pr Horda",
+      "location": "Gällaryd",
+      "power_station_name": "Gällaryds elektricitetsverk",
+      "power_source": "steam",
+      "installed_capacity_kva": 22,
+      "full_location": "Gällaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "331 74 Gällaryd, Sweden",
+        "location": {
+          "lat": 57.127162,
+          "lng": 14.287306
+        }
+      }
+    },
+    {
+      "index": 234,
+      "company_name": "Gällaryd sn, Gällaryds elektricitetsverk, Gällaryd pr Horda",
+      "location": "Gällaryd",
+      "power_station_name": "Rydaholms kraft och industri A.-B., Horda",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Gällaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "331 74 Gällaryd, Sweden",
+        "location": {
+          "lat": 57.127162,
+          "lng": 14.287306
+        }
+      }
+    },
+    {
+      "index": 235,
+      "company_name": "Rydaholm sm",
+      "location": "Rydaholm",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 208,
+      "full_location": "Rydaholm, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "331 76 Rydaholm, Sweden",
+        "location": {
+          "lat": 56.9861429,
+          "lng": 14.3061766
+        }
+      }
+    },
+    {
+      "index": 236,
+      "company_name": "Ödestuga sn",
+      "location": "Ödestuga",
+      "power_station_name": "Elglaabygdens elektricitetsverk, Ödestuga pr Tenhult",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Ödestuga, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "561 63 Ödestugu, Sweden",
+        "location": {
+          "lat": 57.61567529999999,
+          "lng": 14.2913348
+        }
+      }
+    },
+    {
+      "index": 237,
+      "company_name": "Ödestuga sn",
+      "location": "Ödestuga",
+      "power_station_name": "Barkåkra elektriska förening",
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Ödestuga, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "561 63 Ödestugu, Sweden",
+        "location": {
+          "lat": 57.61567529999999,
+          "lng": 14.2913348
+        }
+      }
+    },
+    {
+      "index": 238,
+      "company_name": "Almesåkra sn",
+      "location": "Almesåkra",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Almesåkra, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 66 Almesåkra, Sweden",
+        "location": {
+          "lat": 57.556985,
+          "lng": 14.6013622
+        }
+      }
+    },
+    {
+      "index": 239,
+      "company_name": "Malmbeck sn",
+      "location": "Malmbeck",
+      "power_station_name": "Sävringe elektricitetsverk, Malmbeck",
+      "power_source": "water",
+      "installed_capacity_kva": 42,
+      "full_location": "Malmbeck, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 68 Malmbäck, Sweden",
+        "location": {
+          "lat": 57.5781694,
+          "lng": 14.4641901
+        }
+      }
+    },
+    {
+      "index": 240,
+      "company_name": "Svennarum sn",
+      "location": "Svennarum",
+      "power_station_name": "Hoks egendom, Hok",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Svennarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 241,
+      "company_name": "Svennarum sn",
+      "location": "Svennarum",
+      "power_station_name": "Lindefores kartongfabrik, Hok, Långenäsens elektriska för. Hok",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Svennarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 242,
+      "company_name": "Svennarum sn",
+      "location": "Svennarum",
+      "power_station_name": "A.-B. Hagafors stolabfabrik, Hok",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Svennarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 243,
+      "company_name": "Svennarum sn",
+      "location": "Svennarum",
+      "power_station_name": "Hatteks elektricitetsverk, Hok",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Svennarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 244,
+      "company_name": "Svennarum sn",
+      "location": "Svennarum",
+      "power_station_name": "Trollhättans belysningsförening, Hok",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Svennarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 245,
+      "company_name": "Svennarum sn",
+      "location": "Svennarum",
+      "power_station_name": "Svenstorps elektricitetsverk, Hok",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5,
+      "full_location": "Svennarum, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 246,
+      "company_name": "Bringetofta sn",
+      "location": "Bringetofta",
+      "power_station_name": "Storekvarns elektricitetsverk, Bringetofta pr Sävsjö",
+      "power_source": "oil",
+      "installed_capacity_kva": 210,
+      "full_location": "Bringetofta, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Bringetofta, Sweden",
+        "location": {
+          "lat": 57.4457701,
+          "lng": 14.6174904
+        }
+      }
+    },
+    {
+      "index": 247,
+      "company_name": "Bringetofta sn",
+      "location": "Bringetofta",
+      "power_station_name": "Svenstorpa elektricitetsverk, Bringetofta pr Sävsjö",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "Bringetofta, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Bringetofta, Sweden",
+        "location": {
+          "lat": 57.4457701,
+          "lng": 14.6174904
+        }
+      }
+    },
+    {
+      "index": 248,
+      "company_name": "Bringetofta sn",
+      "location": "Bringetofta",
+      "power_station_name": "Nyeds elektricitetsverk, Hok",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "Bringetofta, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Bringetofta, Sweden",
+        "location": {
+          "lat": 57.4457701,
+          "lng": 14.6174904
+        }
+      }
+    },
+    {
+      "index": 249,
+      "company_name": "Bringetofta sn",
+      "location": "Bringetofta",
+      "power_station_name": "Hylletofta sn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5,
+      "full_location": "Bringetofta, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Bringetofta, Sweden",
+        "location": {
+          "lat": 57.4457701,
+          "lng": 14.6174904
+        }
+      }
+    },
+    {
+      "index": 250,
+      "company_name": "Bringetofta sn",
+      "location": "Bringetofta",
+      "power_station_name": "Ardnropks elektricitetsverk, Bohus-Ålesunds elektriska förening, Bringetofta pr Sävsjö",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5,
+      "full_location": "Bringetofta, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Bringetofta, Sweden",
+        "location": {
+          "lat": 57.4457701,
+          "lng": 14.6174904
+        }
+      }
+    },
+    {
+      "index": 251,
+      "company_name": "Åsbyholms kraftstation, Bringetofta pr Sävsjö",
+      "location": "Bringetofta",
+      "power_station_name": "Barkåkra elektriska förening",
+      "power_source": "diesel",
+      "installed_capacity_kva": 220,
+      "full_location": "Bringetofta, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Bringetofta, Sweden",
+        "location": {
+          "lat": 57.4457701,
+          "lng": 14.6174904
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_11.png"
+}

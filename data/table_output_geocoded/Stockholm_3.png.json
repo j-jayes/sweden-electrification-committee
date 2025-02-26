@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "index": 49,
+      "company_name": "Sollentuna församling",
+      "location": "Sollentuna",
+      "power_station_name": "Sollentuna kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 350,
+      "full_location": "Sollentuna, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sollentuna, Sweden",
+        "location": {
+          "lat": 59.43049730000001,
+          "lng": 17.950916
+        }
+      }
+    },
+    {
+      "index": 50,
+      "company_name": "A.-B. Optimus och A.-B. Väsby verkstäder",
+      "location": "Fresta",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Fresta, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "194 54 Fresta, Sweden",
+        "location": {
+          "lat": 59.5182064,
+          "lng": 17.9566062
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "Väsby samhälle och Eds el. distr.-fören.",
+      "location": "Eds socken",
+      "power_station_name": "Hammarby",
+      "power_source": "steam",
+      "installed_capacity_kva": 200,
+      "full_location": "Eds socken, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "Torslunda gård",
+      "location": "Eds socken",
+      "power_station_name": "Ekhammar",
+      "power_source": "steam",
+      "installed_capacity_kva": 30,
+      "full_location": "Eds socken, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "A.-B. Uddeholms fabr.",
+      "location": "Ed",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 110,
+      "full_location": "Ed, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "s.v. Skånska cement",
+      "location": "Bergvik",
+      "power_station_name": "Torudd",
+      "power_source": "oil",
+      "installed_capacity_kva": 530,
+      "full_location": "Bergvik, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "178 90 Bergvik, Sweden",
+        "location": {
+          "lat": 59.30046309999999,
+          "lng": 17.6732583
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "Södertelge - N. Skee",
+      "location": "N. Skeie",
+      "power_station_name": "N. Skeie",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "N. Skeie, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 56,
+      "company_name": "Fören. Edsbergs egna hem",
+      "location": "Sollentuna",
+      "power_station_name": "Ed",
+      "power_source": "steam",
+      "installed_capacity_kva": 90,
+      "full_location": "Sollentuna, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sollentuna, Sweden",
+        "location": {
+          "lat": 59.43049730000001,
+          "lng": 17.950916
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Sollentuna-Elfsala",
+      "location": "Solna",
+      "power_station_name": "Karby",
+      "power_source": "steam",
+      "installed_capacity_kva": 200,
+      "full_location": "Solna, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Solna, Sweden",
+        "location": {
+          "lat": 59.36887909999999,
+          "lng": 18.0084334
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Norrbros verksamhet",
+      "location": "Stockholm",
+      "power_station_name": "Råsunda kraftstation",
+      "power_source": "diesel",
+      "installed_capacity_kva": 380,
+      "full_location": "Stockholm, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm, Sweden",
+        "location": {
+          "lat": 59.3327036,
+          "lng": 18.0656255
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Stockholms Nya Spårvägs",
+      "location": "Sundbyberg",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2000,
+      "full_location": "Sundbyberg, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sundbyberg, Sweden",
+        "location": {
+          "lat": 59.369325,
+          "lng": 17.9609133
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "A.-B. Sundbybergs el.-verk",
+      "location": "Sundbyberg",
+      "power_station_name": "Sundbybergs kraftstation",
+      "power_source": "diesel",
+      "installed_capacity_kva": 550,
+      "full_location": "Sundbyberg, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sundbyberg, Sweden",
+        "location": {
+          "lat": 59.369325,
+          "lng": 17.9609133
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Edsbergs och Bergendals egendom",
+      "location": "Solna",
+      "power_station_name": "Sundbyberg",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Solna, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Solna, Sweden",
+        "location": {
+          "lat": 59.36887909999999,
+          "lng": 18.0084334
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": "Stockholms pumplift",
+      "location": "Uppsala",
+      "power_station_name": "Kungsängen",
+      "power_source": "oil",
+      "installed_capacity_kva": 380,
+      "full_location": "Uppsala, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "Danderyds elektr. distr.-fören.",
+      "location": "Danderyd",
+      "power_station_name": "Mörby",
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Danderyd, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "182 54 Danderyd, Sweden",
+        "location": {
+          "lat": 59.40131,
+          "lng": 18.04851
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Steninge - Edsbacka el. distr.-fören.",
+      "location": "Djursholm",
+      "power_station_name": "Djursholms kraftstation",
+      "power_source": "diesel",
+      "installed_capacity_kva": 135,
+      "full_location": "Djursholm, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Djursholm, Sweden",
+        "location": {
+          "lat": 59.39707249999999,
+          "lng": 18.0903005
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "Djursjöholm",
+      "location": "Sollentuna",
+      "power_station_name": "Djursjöholm",
+      "power_source": "steam",
+      "installed_capacity_kva": 300,
+      "full_location": "Sollentuna, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sollentuna, Sweden",
+        "location": {
+          "lat": 59.43049730000001,
+          "lng": 17.950916
+        }
+      }
+    }
+  ],
+  "filename": "Stockholm_3.png"
+}

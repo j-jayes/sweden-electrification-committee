@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "index": 146,
+            "company_name": "Mindre kraftanläggningar",
+            "location": "Trönö",
+            "power_station_name": "Lundbergs kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 147,
+            "company_name": "Mindre kraftanläggningar",
+            "location": "Trönö",
+            "power_station_name": "Berge",
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 148,
+            "company_name": "Mindre kraftanläggningar",
+            "location": "Trönö",
+            "power_station_name": "Rappsta",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 149,
+            "company_name": "Mindre sågverks A-B",
+            "location": "Söderhamn",
+            "power_station_name": "Marma hyleri",
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 151,
+            "company_name": "Söderhamns elektricitetsverk",
+            "location": "Söderhamn",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 66
+        },
+        {
+            "index": 152,
+            "company_name": "Enångers elektriska förening",
+            "location": "Enånger",
+            "power_station_name": "Abon. fr. Bergrykes o. Ala Nya A-B, V. Bäckmorån",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 153,
+            "company_name": "Enångers elektriska förening",
+            "location": "Enånger",
+            "power_station_name": "Grängojsjö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 156,
+            "company_name": "Boda bruk",
+            "location": "Boda",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 930
+        },
+        {
+            "index": 161,
+            "company_name": "Långvinds bruk",
+            "location": "Långvind",
+            "power_station_name": "Långvind kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 12000
+        },
+        {
+            "index": 164,
+            "company_name": "A-B. Iggesunds bruk",
+            "location": "Njutånger",
+            "power_station_name": "Järnverksfallets kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 165,
+            "company_name": "Klubbs kvarn och kraftstationsfören.",
+            "location": "Njutånger",
+            "power_station_name": "Långvinds angstation",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 169,
+            "company_name": "Lunds kvarn A-B",
+            "location": "Forsa",
+            "power_station_name": "Lunds kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 129
+        },
+        {
+            "index": 171,
+            "company_name": "Forssa bruks nya A-B.",
+            "location": "Nianfors",
+            "power_station_name": "Hame kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 172,
+            "company_name": "Mindre kraftanläggningar",
+            "location": "Nianfors",
+            "power_station_name": "Nianfors kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 174,
+            "company_name": "A-B. Arb.VK. Kraftverk.",
+            "location": "Idenor",
+            "power_station_name": "Abon. fr. ArbVK. Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 176,
+            "company_name": "A-B. Iggesunds bruk",
+            "location": "Hudiksvall",
+            "power_station_name": "Hudiksvalls ångsåg",
+            "power_source": "oil",
+            "installed_capacity_kva": 85
+        },
+        {
+            "index": 179,
+            "company_name": "Ströms bruk A-B.",
+            "location": "Harmånger",
+            "power_station_name": "Ströms bruks ångstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 180,
+            "company_name": "Harmångers kvarn- och kraft A-B.",
+            "location": "Harmånger",
+            "power_station_name": "Forsa kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 5000
+        }
+    ],
+    "filename": "Gävleborg_5.png"
+}

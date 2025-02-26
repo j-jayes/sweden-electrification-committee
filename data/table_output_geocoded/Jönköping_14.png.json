@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "index": 297,
+      "company_name": "Björkö elektricitetsverk",
+      "location": "Björköby",
+      "power_station_name": "subscription from Rödjenäs gårds el-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Björköby, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 95 Björköby, Sweden",
+        "location": {
+          "lat": 57.5188928,
+          "lng": 14.9045962
+        }
+      }
+    },
+    {
+      "index": 298,
+      "company_name": "Älghults sockens elektricitetsverk",
+      "location": "Lammåsekede",
+      "power_station_name": "subscription from Smålands kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Lammåsekede, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 299,
+      "company_name": "Lammåsekede Orts elektriska förening",
+      "location": "Landsbro",
+      "power_station_name": "subscription from Smålands kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Landsbro, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 73 Landsbro, Sweden",
+        "location": {
+          "lat": 57.3693191,
+          "lng": 14.9031816
+        }
+      }
+    },
+    {
+      "index": 301,
+      "company_name": "Smålands kraft A.-B., Nässjö kraftstation vid Blå Station",
+      "location": "Skede sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 9225,
+      "full_location": "Skede sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 93 Skede, Sweden",
+        "location": {
+          "lat": 57.4743964,
+          "lng": 15.1752328
+        }
+      }
+    },
+    {
+      "index": 302,
+      "company_name": "Smålands kraft A.-B., Nässjö kraftstation vid Klinte och Brunshult",
+      "location": "Skede sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "Skede sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 93 Skede, Sweden",
+        "location": {
+          "lat": 57.4743964,
+          "lng": 15.1752328
+        }
+      }
+    },
+    {
+      "index": 304,
+      "company_name": "Hallaröds mek. verkstad, Holysbrunn",
+      "location": "Vismarlöv",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Vismarlöv, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 305,
+      "company_name": "Hallaröds mek. verkstad, Holysbrunn",
+      "location": "Vismarlöv",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Vismarlöv, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 306,
+      "company_name": "Vetlanda utsipanneri, Vetlanda",
+      "location": "Vetlanda",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 12,
+      "full_location": "Vetlanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vetlanda, Sweden",
+        "location": {
+          "lat": 57.42746,
+          "lng": 15.08533
+        }
+      }
+    },
+    {
+      "index": 307,
+      "company_name": "Möjlby Utsipanneri A.-B., Vetlanda",
+      "location": "Vetlanda",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 13,
+      "full_location": "Vetlanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vetlanda, Sweden",
+        "location": {
+          "lat": 57.42746,
+          "lng": 15.08533
+        }
+      }
+    },
+    {
+      "index": 308,
+      "company_name": "Vemunderyds elektricitetsverk, Vetlanda",
+      "location": "Vetlanda",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 0,
+      "full_location": "Vetlanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vetlanda, Sweden",
+        "location": {
+          "lat": 57.42746,
+          "lng": 15.08533
+        }
+      }
+    },
+    {
+      "index": 309,
+      "company_name": "Flygely tarförsäljnings A.-B., Vetlanda",
+      "location": "Vetlanda",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 0,
+      "full_location": "Vetlanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vetlanda, Sweden",
+        "location": {
+          "lat": 57.42746,
+          "lng": 15.08533
+        }
+      }
+    },
+    {
+      "index": 310,
+      "company_name": "Vetlanda stads elektricitetsverk",
+      "location": "Vetlanda",
+      "power_station_name": "subscription from Smålands kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Vetlanda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vetlanda, Sweden",
+        "location": {
+          "lat": 57.42746,
+          "lng": 15.08533
+        }
+      }
+    },
+    {
+      "index": 311,
+      "company_name": "Hallaröds mek. verkstad, Holsbybrunn",
+      "location": "Alseda sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Alseda sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 54 Alseda, Sweden",
+        "location": {
+          "lat": 57.41842709999999,
+          "lng": 15.2518598
+        }
+      }
+    },
+    {
+      "index": 312,
+      "company_name": "Hallaröds mek. verkstad, Holsbybrunn",
+      "location": "Alseda sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Alseda sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 54 Alseda, Sweden",
+        "location": {
+          "lat": 57.41842709999999,
+          "lng": 15.2518598
+        }
+      }
+    },
+    {
+      "index": 313,
+      "company_name": "Stenumsåns kvarn, Smål. Hallinge",
+      "location": "Näshult",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Näshult, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 33 Näshult, Sweden",
+        "location": {
+          "lat": 57.27036469999999,
+          "lng": 15.3912324
+        }
+      }
+    },
+    {
+      "index": 314,
+      "company_name": "Hällinge gårds elektricitets-verk, Srål. Hallinge",
+      "location": "Näshult",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 32,
+      "full_location": "Näshult, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 33 Näshult, Sweden",
+        "location": {
+          "lat": 57.27036469999999,
+          "lng": 15.3912324
+        }
+      }
+    },
+    {
+      "index": 315,
+      "company_name": "Stenskoga gårds elektricitetsverk, Vetlanda",
+      "location": "Blöckeda sn",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 27,
+      "full_location": "Blöckeda sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 316,
+      "company_name": "Simonstorps elektricitets-verk, Snärje",
+      "location": "Stigsjö sn",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 17,
+      "full_location": "Stigsjö sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 317,
+      "company_name": "Kvillsfors elektricitetsverk, Kråkshult",
+      "location": "Kråkshult",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Kråkshult, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "598 98 Kråkshult, Sweden",
+        "location": {
+          "lat": 57.54729099999999,
+          "lng": 15.4284178
+        }
+      }
+    },
+    {
+      "index": 318,
+      "company_name": "Högagärds kraftstation, Karlstorp",
+      "location": "Karlstorp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Karlstorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "598 97 Karlstorp, Sweden",
+        "location": {
+          "lat": 57.5133595,
+          "lng": 15.5151755
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_14.png"
+}

@@ -1,0 +1,85 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr enligt kartan",
+            "description": "Nummer enligt kartan"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn",
+            "description": "Namnet på företaget"
+        },
+        {
+            "id": 3,
+            "label": "Kommun",
+            "description": "Den kommun där kraftstationen ligger"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn",
+            "description": "Namnet på kraftstationen"
+        },
+        {
+            "id": 5,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft"
+        },
+        {
+            "id": 6,
+            "label": "Utbyggd fallhöjd",
+            "description": "Den utbyggda fallhöjden i meter"
+        },
+        {
+            "id": 7,
+            "label": "Instalerad stor effekt",
+            "description": "Den installerade stora effekten i kVA"
+        },
+        {
+            "id": 8,
+            "label": "Störemetrikt",
+            "description": "Typ av störemetrik"
+        },
+        {
+            "id": 9,
+            "label": "Periodtal",
+            "description": "Periodtal av kraftstationen"
+        },
+        {
+            "id": 10,
+            "label": "Spänningssystem",
+            "description": "Spänning i voltsystem"
+        },
+        {
+            "id": 11,
+            "label": "Antal ortsanter",
+            "description": "Antalet ortsanter"
+        },
+        {
+            "id": 12,
+            "label": "Belysning",
+            "description": "Typ av belysning"
+        },
+        {
+            "id": 13,
+            "label": "Motorer",
+            "description": "Antal motorer"
+        },
+        {
+            "id": 14,
+            "label": "Summa",
+            "description": "Total summa i kW"
+        },
+        {
+            "id": 15,
+            "label": "Anmärkningar",
+            "description": "Eventuella anmärkningar"
+        },
+        {
+            "id": 16,
+            "label": "Nr enligt kartan",
+            "description": "Nummer enligt kartan"
+        }
+    ],
+    "filename": "Kalmar_1.png"
+}

@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "index": 70,
+            "company_name": "Distrib. fr. St. Sinnerstads trans.-central",
+            "location": "Närlunda, Målilla, Yvetå och Gårdveta",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 71,
+            "company_name": "A.-B. Rosensfors bruk",
+            "location": "Målilla",
+            "power_station_name": "Rosenfors",
+            "power_source": "water",
+            "installed_capacity_kva": 126
+        },
+        {
+            "index": 71,
+            "company_name": "Målilla Möbelfabrik",
+            "location": "Målilla",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 72,
+            "company_name": "Årnanders bruk",
+            "location": "Väster, Vimmerby",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 73,
+            "company_name": "Eiseboom",
+            "location": "Åmåns",
+            "power_station_name": "Bensjö",
+            "power_source": "water",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 74,
+            "company_name": "Distrib. i Virserum",
+            "location": "Virserum",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 75,
+            "company_name": "K. Bomans kraftanläggning",
+            "location": "Mörtfors",
+            "power_station_name": "Mörtfors",
+            "power_source": "water",
+            "installed_capacity_kva": 13
+        },
+        {
+            "index": 76,
+            "company_name": "Ryngångsångsgård",
+            "location": "Mörlunda",
+            "power_station_name": "Ryngångsångsgård",
+            "power_source": "water",
+            "installed_capacity_kva": 3
+        },
+        {
+            "index": 77,
+            "company_name": "Finsjö Kraft A.-B.",
+            "location": "Högsby",
+            "power_station_name": "Blankaström",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 78,
+            "company_name": "Palm o. Pettersson",
+            "location": "Fagerhult",
+            "power_station_name": "Stora Kisjö",
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 79,
+            "company_name": "Björköhults Glashruck A.-B. Förenade tändsticksfabr.",
+            "location": "Kråksemåla",
+            "power_station_name": "Björköhult",
+            "power_source": "water",
+            "installed_capacity_kva": 92
+        },
+        {
+            "index": 80,
+            "company_name": "Finsjö Kraft A.-B.",
+            "location": "Högsby Filseryd",
+            "power_station_name": "Grödeskär",
+            "power_source": "water",
+            "installed_capacity_kva": 230
+        },
+        {
+            "index": 81,
+            "company_name": "Finsjö Kraft A.-B.",
+            "location": "Fågelfors",
+            "power_station_name": "Frövi",
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 82,
+            "company_name": "Ortadsiltr. fr. Blankanäs",
+            "location": "Högsby",
+            "power_station_name": "Frövi övre",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 83,
+            "company_name": "Ortadsiltr. fr. Frövi",
+            "location": "Högsby",
+            "power_station_name": "Finsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 750
+        },
+        {
+            "index": 84,
+            "company_name": "Ortadsiltr. fr. Finsjö",
+            "location": "Ab. fr. Finsjö Kraft, Långelamåla",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 85,
+            "company_name": "Ortadsiltr. fr. Finsjö",
+            "location": "Filseryd",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1600
+        },
+        {
+            "index": 86,
+            "company_name": "Ortadsiltr. fr. Finsjö",
+            "location": "Filseryd",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1600
+        },
+        {
+            "index": 87,
+            "company_name": "Finsjö Kraft A.-B.",
+            "location": "Oskarshamn",
+            "power_station_name": "Oskarshamns central",
+            "power_source": "diesel",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 88,
+            "company_name": "Oskarshamns stad",
+            "location": "Oskarshamn",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 89,
+            "company_name": "Oskarshamns kopparverk",
+            "location": "Oskarshamn",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 90,
+            "company_name": "Ortadsiltr. fr. Oskarshamns transf.-central",
+            "location": "Döderhult",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 830
+        },
+        {
+            "index": 91,
+            "company_name": "Emfors Bruk",
+            "location": "Filseryd",
+            "power_station_name": "Carlshammar",
+            "power_source": "water",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 92,
+            "company_name": "Finsjö Kraft A.-B.",
+            "location": "Emfors",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 4000
+        },
+        {
+            "index": 93,
+            "company_name": "Finsjö Kraft A.-B.",
+            "location": "Hornsö",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 94,
+            "company_name": "Distrib. i Blomstermåla",
+            "location": "Ålem",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 95,
+            "company_name": "Talebo",
+            "location": "Ålem",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 96,
+            "company_name": "Talebo",
+            "location": "Ab. fr. Finsjö Kraft, Ålem",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        }
+    ],
+    "filename": "Kalmar_3.png"
+}

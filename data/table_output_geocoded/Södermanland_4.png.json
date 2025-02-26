@@ -1,0 +1,437 @@
+{
+  "data": [
+    {
+      "index": 73,
+      "company_name": "Nävforsens Bruks A.-B.",
+      "location": "Nävrekvarn, Tuna",
+      "power_station_name": "Nävrekvarn, 2 stationer",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Nävrekvarn, Tuna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "611 95 Tuna, Sweden",
+        "location": {
+          "lat": 58.73705859999999,
+          "lng": 16.8383028
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Alberga gård och Alberga el. distr.-fören.",
+      "location": "Kila",
+      "power_station_name": "Fada",
+      "power_source": "steam",
+      "installed_capacity_kva": 36,
+      "full_location": "Kila, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Stavsjö A.-B.",
+      "location": "Stavsjö",
+      "power_station_name": "Stavsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 14,
+      "full_location": "Stavsjö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stavsjöbruk, 618 95 Stavsjö, Sweden",
+        "location": {
+          "lat": 58.7268056,
+          "lng": 16.4286528
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Harps fabriker",
+      "location": "Hållona",
+      "power_station_name": "Harg",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Hållona, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Froklia A.-B.",
+      "location": "Svïrta",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Svïrta, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Postoristens el. distr.-fören.",
+      "location": "Bogsta",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Bogsta, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "611 99 Bogsta socken, Sweden",
+        "location": {
+          "lat": 58.8827766,
+          "lng": 17.1907699
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "S. Palme",
+      "location": "Svärta",
+      "power_station_name": "Änga",
+      "power_source": "water",
+      "installed_capacity_kva": 8,
+      "full_location": "Svärta, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "611 93 Svärta, Sweden",
+        "location": {
+          "lat": 58.8193349,
+          "lng": 17.0806594
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Husby-Öppunda el. distr.-fören.",
+      "location": "Husby-Öppunda",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Husby-Öppunda, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Husby-Oppunda, 642 98 Bettna, Sweden",
+        "location": {
+          "lat": 58.907908,
+          "lng": 16.805189
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Runntuna-Lids el. distr.-fören.",
+      "location": "Runntuna, Lid",
+      "power_station_name": "V",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Runntuna, Lid, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "611 91 Lid, Sweden",
+        "location": {
+          "lat": 58.9125195,
+          "lng": 16.9919081
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Ludgo och Spelvis el. distr.-fören.",
+      "location": "Ludgo, Spelvis",
+      "power_station_name": "X",
+      "power_source": "steam",
+      "installed_capacity_kva": 75,
+      "full_location": "Ludgo, Spelvis, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ludgo Parish, 611 91 Nyköping, Sweden",
+        "location": {
+          "lat": 58.91645399999999,
+          "lng": 17.131498
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "L. Mellosa el. distr.-fören.",
+      "location": "L. Mellosa",
+      "power_station_name": "Y",
+      "power_source": "steam",
+      "installed_capacity_kva": 46,
+      "full_location": "L. Mellosa, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "642 63 Mellösa, Sweden",
+        "location": {
+          "lat": 59.10059589999999,
+          "lng": 16.5624079
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Hällefors bruk",
+      "location": "Hällefors",
+      "power_station_name": "Hällefors",
+      "power_source": "diesel",
+      "installed_capacity_kva": 40,
+      "full_location": "Hällefors, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "648 31 Hällefors, Sweden",
+        "location": {
+          "lat": 59.15,
+          "lng": 16.4833329
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Granheds Kvarn & Kraft A.-B.",
+      "location": "Floda",
+      "power_station_name": "Granhed",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Floda, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "641 97 Katrineholm, Sweden",
+        "location": {
+          "lat": 59.0671967,
+          "lng": 16.3620865
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Flen el.-verk och",
+      "location": "Flen",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Flen, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Flen, Sweden",
+        "location": {
+          "lat": 59.0579376,
+          "lng": 16.5879122
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "Elsens el. verk och Malcomska el. verk o. godset",
+      "location": "Dunker L. Malcom",
+      "power_station_name": "Helgseta",
+      "power_source": "steam",
+      "installed_capacity_kva": 40,
+      "full_location": "Dunker L. Malcom, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "642 96 Dunker, Sweden",
+        "location": {
+          "lat": 59.1654965,
+          "lng": 16.811711
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": "Stationskonsan och distr.-fören.",
+      "location": "Helgseata",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Helgseata, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Skolhärns el. distr.-fören.",
+      "location": "Malmköping",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Malmköping, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "642 60 Malmköping, Sweden",
+        "location": {
+          "lat": 59.132406,
+          "lng": 16.729194
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": "H.B.Bose kvarn och",
+      "location": "Trosa",
+      "power_station_name": "Ab. från Motala kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Trosa, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Trosa, Sweden",
+        "location": {
+          "lat": 58.902655,
+          "lng": 17.5494638
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Sparrelholms municipales lampsalsarfabrik",
+      "location": "Hyltinge",
+      "power_station_name": "Sparreholm",
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Hyltinge, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "N, 649 91 Flen, Sweden",
+        "location": {
+          "lat": 59.0890907,
+          "lng": 16.8127543
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "E. Dickson",
+      "location": "Frustuna",
+      "power_station_name": "Ab. från Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Frustuna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Frustuna, 646 91 Gnesta, Sweden",
+        "location": {
+          "lat": 59.0582814,
+          "lng": 17.305997
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "Frustuna el. distr.-fören.",
+      "location": "Frustuna",
+      "power_station_name": "X",
+      "power_source": "diesel",
+      "installed_capacity_kva": 200,
+      "full_location": "Frustuna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Frustuna, 646 91 Gnesta, Sweden",
+        "location": {
+          "lat": 59.0582814,
+          "lng": 17.305997
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Gåsinge-Dillnäs el. distr.-fören.",
+      "location": "Gåsinge, Dillnäs",
+      "power_station_name": "Y",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Gåsinge, Dillnäs, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gåsinge, 646 93 Gnesta, Sweden",
+        "location": {
+          "lat": 59.09889499999999,
+          "lng": 17.213424
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Björnö gärds el. distr.-fören.",
+      "location": "Björnö, Gryt",
+      "power_station_name": "Z",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Björnö, Gryt, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "646 96 Gryt, Sweden",
+        "location": {
+          "lat": 59.0996476,
+          "lng": 16.9894821
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Holt el. distr.-fören.",
+      "location": "Holt",
+      "power_station_name": "Holt",
+      "power_source": "steam",
+      "installed_capacity_kva": 100,
+      "full_location": "Holt, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Mörk el. distr.-fören.",
+      "location": "Mörkö",
+      "power_station_name": "X",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Mörkö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "A.-B. Kata & Acons kalk",
+      "location": "Hölö",
+      "power_station_name": "Y",
+      "power_source": "diesel",
+      "installed_capacity_kva": 50,
+      "full_location": "Hölö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hölö, Sweden",
+        "location": {
+          "lat": 59.0118171,
+          "lng": 17.5209973
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Vagnhärads el. distr.-fören.",
+      "location": "Vagnhärad",
+      "power_station_name": "Vagnhärad",
+      "power_source": "oil",
+      "installed_capacity_kva": 100,
+      "full_location": "Vagnhärad, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "619 71 Vagnhärad, Sweden",
+        "location": {
+          "lat": 58.9448192,
+          "lng": 17.4889958
+        }
+      }
+    }
+  ],
+  "filename": "Södermanland_4.png"
+}

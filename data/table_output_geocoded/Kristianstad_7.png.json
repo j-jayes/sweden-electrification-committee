@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "index": 117,
+      "company_name": "Sydsvenska Kraft A.-B.",
+      "location": "Fjälkestad, Kristianstad",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Fjälkestad, Kristianstad, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "291 96 Fjälkestad, Sweden",
+        "location": {
+          "lat": 56.10871110000001,
+          "lng": 14.1697893
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Råbelövs Gods, Kristianstad",
+      "location": "Österslöv, Kristianstad",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Österslöv, Kristianstad, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "291 94 Österslöv, Sweden",
+        "location": {
+          "lat": 56.0959577,
+          "lng": 14.2469599
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Näsum Elektriska Krafta.-B.",
+      "location": "Näsum, O. Näsum",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 75,
+      "full_location": "Näsum, O. Näsum, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "295 74 Näsum, Sweden",
+        "location": {
+          "lat": 56.176038,
+          "lng": 14.5012825
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Högarns-Billesholms A.-B.",
+      "location": "Ivetofta samt Arups Gård, Bromölla",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ivetofta samt Arups Gård, Bromölla, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "295 91 Ivetofta, Sweden",
+        "location": {
+          "lat": 56.09999999999999,
+          "lng": 14.466667
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Ivetofta Andelselektricitetsförening",
+      "location": "Ivetofta, Bromölla",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ivetofta, Bromölla, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "295 91 Ivetofta, Sweden",
+        "location": {
+          "lat": 56.09999999999999,
+          "lng": 14.466667
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "Ivetofta Andelselektricitetsförening",
+      "location": "Arups Gård, Bromölla",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Arups Gård, Bromölla, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bromölla Municipality, Sweden",
+        "location": {
+          "lat": 56.0878524,
+          "lng": 14.5198746
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "Åhus Andelselektricitetsförening",
+      "location": "Åhus",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 660,
+      "full_location": "Åhus, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åhus, Sweden",
+        "location": {
+          "lat": 55.9250391,
+          "lng": 14.2979949
+        }
+      }
+    },
+    {
+      "index": 130,
+      "company_name": "Sydsvenska Kraft A.-B., Karlshamn",
+      "location": "Kristianstad stad",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 300,
+      "full_location": "Kristianstad stad, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kristianstad, Sweden",
+        "location": {
+          "lat": 56.0293936,
+          "lng": 14.1566778
+        }
+      }
+    }
+  ],
+  "filename": "Kristianstad_7.png"
+}

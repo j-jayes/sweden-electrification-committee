@@ -1,0 +1,205 @@
+{
+    "data": [
+        {
+            "index": 59,
+            "company_name": "Lerums El. A.-B.",
+            "location": "Lerum, Skallsjö, St. Lundby, Bergum, Skållerud, Hemsjö",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 60,
+            "company_name": "Nääs Fabr. A.-B.",
+            "location": "Nässjö eller Tollered",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 61,
+            "company_name": "Adelstens- Adelsköldska fideikommissför. Alingsås Snickerifabr. A.-B.",
+            "location": "Solvieden, Skallsjö, Remjäng, Alingsås",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 160
+        },
+        {
+            "index": 62,
+            "company_name": "Trollhätte kraftverk sek.",
+            "location": "Alingsås stad",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 63,
+            "company_name": "Distribut. vid Alingsås",
+            "location": "Alingsås",
+            "power_station_name": "subscription from Alingsås stads el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 8000
+        },
+        {
+            "index": 64,
+            "company_name": "Bolltorps sanatorium",
+            "location": "Trollhätte",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 66,
+            "company_name": "Björkeåsens el. distr.-fören.",
+            "location": "Björke, Fässberg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 67,
+            "company_name": "Vikaryds egendom",
+            "location": "Vikaryd",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 68,
+            "company_name": "Anterås el. distr.-fören. och",
+            "location": "Gothenburg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 69,
+            "company_name": "Långareds el. distr.-fören. och",
+            "location": "Trollhättan, Kungälv",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 70,
+            "company_name": "Östads el. distr.-fören.",
+            "location": "Östad, Långared",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 71,
+            "company_name": "Bälinge el. distr.-fören. och",
+            "location": "Bälinge, Södra Sandby",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 72,
+            "company_name": "Böeon el. distr.-fören. Färgest. el. distr.-fö.",
+            "location": "Bohuslänstorket, Västerlanda",
+            "power_station_name": "Hol",
+            "power_source": "diesel",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 73,
+            "company_name": "Olstorp",
+            "location": "Östfold",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 74,
+            "company_name": "Lena el. distr. fören.",
+            "location": "Lena, Berg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 75,
+            "company_name": "Magna el. distr.-fören. och",
+            "location": "Magnus, Flen",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 76,
+            "company_name": "Mellby El. distr.-fören.",
+            "location": "St. Mellby",
+            "power_station_name": "subscription from Lundby station",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 77,
+            "company_name": "Eskils. el. distr. -fören.",
+            "location": "Eskils, Styrstad",
+            "power_station_name": "subscription from Ström station",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 78,
+            "company_name": "Sätra sockens el. distr.-fören.",
+            "location": "Skövde",
+            "power_station_name": "subscription from Ström station",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 79,
+            "company_name": "Vårgårda Tegelbruk",
+            "location": "Vårgårda",
+            "power_station_name": "subscription from Alingsås stads el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 8000
+        },
+        {
+            "index": 81,
+            "company_name": "Vårgårda Samhälle samt",
+            "location": "Vårgårda",
+            "power_station_name": "subscription from Västra station",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 82,
+            "company_name": "Vårgårda Cementfabrik",
+            "location": "Vårgårda",
+            "power_station_name": "subscription from Västra station",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 83,
+            "company_name": "Vårgårda stations el. distr.",
+            "location": "Vårgårda",
+            "power_station_name": "subscription from Västra station",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 86,
+            "company_name": "Jenny Anjon",
+            "location": "Hudene",
+            "power_station_name": "Trolleybo",
+            "power_source": "diesel",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 87,
+            "company_name": "A.-B. Kvisle kraftstation",
+            "location": "Kvisle",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10000
+        }
+    ],
+    "filename": "Älvsborg_3.png"
+}

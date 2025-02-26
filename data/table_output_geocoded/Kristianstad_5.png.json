@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "index": 82,
+      "company_name": "Statena Elektriska Energiförening",
+      "location": "Hässleholm",
+      "power_station_name": "subscription from Hässleholms stads elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Hässleholm, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hässleholm, Sweden",
+        "location": {
+          "lat": 56.15891449999999,
+          "lng": 13.7667655
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Södra Kraftbolag",
+      "location": "Sösdala",
+      "power_station_name": "subscription from Hässleholms stads elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Sösdala, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 72 Sösdala, Sweden",
+        "location": {
+          "lat": 56.0405672,
+          "lng": 13.678025
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Tjänarps Kraftförening",
+      "location": "Tjänarp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Tjänarp, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "A.-B. Ignaberga Kalksten",
+      "location": "Ignaberga",
+      "power_station_name": "Ab Frh Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ignaberga, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "281 92 Ignaberga, Sweden",
+        "location": {
+          "lat": 56.1215093,
+          "lng": 13.8352938
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Hässleholm stad",
+      "location": "Vankiva",
+      "power_station_name": "Ab Frh Hässleholms stads elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vankiva, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "281 95 Vankiva, Sweden",
+        "location": {
+          "lat": 56.1993062,
+          "lng": 13.7427572
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "Vinslövs Municipala Elektricitetsverk",
+      "location": "Vinslöv",
+      "power_station_name": "Ab Frh Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vinslöv, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "288 31 Vinslöv, Sweden",
+        "location": {
+          "lat": 56.1033485,
+          "lng": 13.9129906
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": "Önnestad Andelselektricitetsförening",
+      "location": "Önnestad",
+      "power_station_name": "Do do",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Önnestad, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "291 73 Önnestad, Sweden",
+        "location": {
+          "lat": 56.0575869,
+          "lng": 14.023067
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Sydsvenska Kraft A.-B.",
+      "location": "Loshult",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 325,
+      "full_location": "Loshult, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "283 96 Loshult, Sweden",
+        "location": {
+          "lat": 56.5019974,
+          "lng": 14.1139177
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": "Killebergs Andelselektricitetsförening",
+      "location": "Killeberg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Killeberg, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "283 76 Killeberg, Sweden",
+        "location": {
+          "lat": 56.475818,
+          "lng": 14.0976176
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Hököns Andelselektricitetsförening",
+      "location": "Hökön",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Hökön, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "283 96 Hökön, Sweden",
+        "location": {
+          "lat": 56.4728053,
+          "lng": 14.2230131
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "Osby sn",
+      "location": "Osby",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": null,
+      "full_location": "Osby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Osby, Sweden",
+        "location": {
+          "lat": 56.3815355,
+          "lng": 13.9929413
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "Osby Municipala Elektricitetsverk",
+      "location": "Osby",
+      "power_station_name": "Ab Frh Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 275,
+      "full_location": "Osby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Osby, Sweden",
+        "location": {
+          "lat": 56.3815355,
+          "lng": 13.9929413
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Glimåkra sn",
+      "location": "Glimåkra",
+      "power_station_name": "Vatten",
+      "power_source": "water",
+      "installed_capacity_kva": 688,
+      "full_location": "Glimåkra, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "289 46 Glimåkra, Sweden",
+        "location": {
+          "lat": 56.3028124,
+          "lng": 14.1337053
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Glimåkra Andelselektricitätsförening",
+      "location": "Glimåkra",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Glimåkra, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "289 46 Glimåkra, Sweden",
+        "location": {
+          "lat": 56.3028124,
+          "lng": 14.1337053
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Lönsboda Andelselektricitätsförening",
+      "location": "Örken",
+      "power_station_name": "Vatten o. olja (water and oil)",
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Örken, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Lönsboda Andelselektricitätsförening",
+      "location": "Hästveda",
+      "power_station_name": "Vatten",
+      "power_source": "water",
+      "installed_capacity_kva": 54,
+      "full_location": "Hästveda, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 75 Hästveda, Sweden",
+        "location": {
+          "lat": 56.28427989999999,
+          "lng": 13.9352738
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "Lönsboda Andelselektricitätsförening",
+      "location": "Hästveda",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Hästveda, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 75 Hästveda, Sweden",
+        "location": {
+          "lat": 56.28427989999999,
+          "lng": 13.9352738
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Östra Broby sn",
+      "location": "Glimminge",
+      "power_station_name": "Ångmaskin",
+      "power_source": "steam",
+      "installed_capacity_kva": 80,
+      "full_location": "Glimminge, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "276 56 Glimminge, Sweden",
+        "location": {
+          "lat": 55.49792799999999,
+          "lng": 14.2317
+        }
+      }
+    }
+  ],
+  "filename": "Kristianstad_5.png"
+}

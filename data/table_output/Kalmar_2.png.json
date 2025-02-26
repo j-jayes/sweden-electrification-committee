@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "index": 32,
+            "company_name": "Ankarsrums Bruk",
+            "location": "Hallingeberg",
+            "power_station_name": "Ankarsrum",
+            "power_source": "water",
+            "installed_capacity_kva": 1705
+        },
+        {
+            "index": 33,
+            "company_name": "Ankarsrums Bruk",
+            "location": "Svarterström",
+            "power_station_name": "Svarterström",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 34,
+            "company_name": "Blanckholms Sågverks A.-B.",
+            "location": "Västervik",
+            "power_station_name": "Skaftekärr",
+            "power_source": "steam",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 35,
+            "company_name": "A.-B. Yttersviks el-verk",
+            "location": "Vestrum",
+            "power_station_name": "Tovehult",
+            "power_source": "oil",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 36,
+            "company_name": "Carl Stern",
+            "location": "Västervik",
+            "power_station_name": "Västerviks Ängcentral",
+            "power_source": "water",
+            "installed_capacity_kva": 183
+        },
+        {
+            "index": 37,
+            "company_name": "",
+            "location": "Hjorted",
+            "power_station_name": "Hisskulls kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 51
+        },
+        {
+            "index": 38,
+            "company_name": "",
+            "location": "Locknevi",
+            "power_station_name": "Forevallen",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 39,
+            "company_name": "",
+            "location": "Fagesla kvarn",
+            "power_station_name": "Fagesla kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 40,
+            "company_name": "Vimmerby landsf.",
+            "location": "Hjorted",
+            "power_station_name": "Falebro",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 41,
+            "company_name": "Byggm. L. Lindström",
+            "location": "Djurstala",
+            "power_station_name": "Kvärnbo",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 42,
+            "company_name": "Hugaron—Sinduhult Karskna konsunt.-fören.",
+            "location": "Vimmerby landsf.",
+            "power_station_name": "Skeinge kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 43,
+            "company_name": "J. F. Larsson",
+            "location": "Mindre kraftanläggn.",
+            "power_station_name": "Asata kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 44,
+            "company_name": "Vimmerby stads el.-verk",
+            "location": "Vimmerby stad",
+            "power_station_name": "Ab. fr. Smålands Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 45,
+            "company_name": "",
+            "location": "",
+            "power_station_name": "Ab. fr. Smålands Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 46,
+            "company_name": "A.-B. Brusoars—Hallefors Pappersbruk",
+            "location": "Lönneberga",
+            "power_station_name": "Brusoars",
+            "power_source": "steam",
+            "installed_capacity_kva": 450
+        },
+        {
+            "index": 47,
+            "company_name": "",
+            "location": "",
+            "power_station_name": "Hallefors ångcentr.",
+            "power_source": "steam",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 48,
+            "company_name": "Ortsdistrikt i Hallefors hår",
+            "location": "Hallefors",
+            "power_station_name": "Ab. fr. Smålands",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 49,
+            "company_name": "Storebro bruk",
+            "location": "Vimmerby",
+            "power_station_name": "Storebro",
+            "power_source": "steam",
+            "installed_capacity_kva": 580
+        },
+        {
+            "index": 50,
+            "company_name": "Elof Johansson",
+            "location": "Vimmerby",
+            "power_station_name": "Haddarp",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 51,
+            "company_name": "F. Bodsäter i Hulstfred",
+            "location": "Vena",
+            "power_station_name": "Ab. fr. Smålands",
+            "power_source": "subscription",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 52,
+            "company_name": "Vena",
+            "location": "Tuna",
+            "power_station_name": "Tuna Kraft A.-B.",
+            "power_source": "oil",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 53,
+            "company_name": "",
+            "location": "Mjösjö",
+            "power_station_name": "Mjösjö kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 29
+        },
+        {
+            "index": 54,
+            "company_name": "",
+            "location": "Kvilleberg",
+            "power_station_name": "Kvilleberg kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 55,
+            "company_name": "",
+            "location": "Syserum",
+            "power_station_name": "Sysserum kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 56,
+            "company_name": "Blankaholms Såg. A.-B",
+            "location": "Hjorted",
+            "power_station_name": "Blankaholm",
+            "power_source": "water",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 57,
+            "company_name": "Nestjö–Misturetta A.-B. J. F. Svensson, Mortens—",
+            "location": "Misterhult",
+            "power_station_name": "Blankaholm",
+            "power_source": "water",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 58,
+            "company_name": "Nestjö–Misturetta A.-B. J. F. Svensson, Mortens—",
+            "location": "Pacbo",
+            "power_station_name": "Fabershfället",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 59,
+            "company_name": "Ferbond del. el.-byggfore.",
+            "location": "Övedal",
+            "power_station_name": "Fabershfället",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 60,
+            "company_name": "Folksholms trå.,",
+            "location": "Vena",
+            "power_station_name": "Fabershfället",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 61,
+            "company_name": "Färbo Bruks ab.",
+            "location": "Färbo",
+            "power_station_name": "Färbobruk",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 62,
+            "company_name": "Färbo Bruks ab.",
+            "location": "Witebo",
+            "power_station_name": "Fabro bruk",
+            "power_source": "steam",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 63,
+            "company_name": "Wirkwarm",
+            "location": "Wirkwarm",
+            "power_station_name": "Fenbiolom",
+            "power_source": "steam",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 64,
+            "company_name": "Fjägleholm",
+            "location": "Fjägleholm",
+            "power_station_name": "Wrydikom",
+            "power_source": "steam",
+            "installed_capacity_kva": 770
+        },
+        {
+            "index": 65,
+            "company_name": "Wirkwarm",
+            "location": "Wirkwarm",
+            "power_station_name": "Jagrom",
+            "power_source": "steam",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 66,
+            "company_name": "Wirkwarm",
+            "location": "Wirkwarm",
+            "power_station_name": "Jagrom",
+            "power_source": "steam",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 67,
+            "company_name": "Jänntorps snickerifabrik",
+            "location": "Järreda",
+            "power_station_name": "Järreda Kraft A.-B.",
+            "power_source": "steam",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 68,
+            "company_name": "Jänntorps snickerifabrik",
+            "location": "Järreda",
+            "power_station_name": "Järreda Kraft A.-B.",
+            "power_source": "steam",
+            "installed_capacity_kva": 450
+        },
+        {
+            "index": 69,
+            "company_name": "Nyboholms bruk",
+            "location": "Gårvedö",
+            "power_station_name": "Nyboholms bruk",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        }
+    ],
+    "filename": "Kalmar_2.png"
+}

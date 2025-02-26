@@ -1,0 +1,341 @@
+{
+  "data": [
+    {
+      "index": 96,
+      "company_name": "Runhällens elektr. distributionsförening",
+      "location": "Enåker",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Enåker, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Möklinta",
+      "location": "Möklinta",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Möklinta, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 75 Möklinta, Sweden",
+        "location": {
+          "lat": 60.0828979,
+          "lng": 16.5461366
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "Brovallens",
+      "location": "Västerfärnebo",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Västerfärnebo, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 60 Västerfärnebo, Sweden",
+        "location": {
+          "lat": 59.9469457,
+          "lng": 16.2786056
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Nora",
+      "location": "Nora",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Nora, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 100,
+      "company_name": "Tärnsjö",
+      "location": "Nora",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Nora, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 101,
+      "company_name": "Nora",
+      "location": "Östervåla",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Östervåla, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 102,
+      "company_name": "Östervåla",
+      "location": "Östervåla",
+      "power_station_name": "Forsbo kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Östervåla, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 103,
+      "company_name": "A. P. Eriksson",
+      "location": "Möklinta Västerfärnebo",
+      "power_station_name": "Hornsjöfors Bruk",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Möklinta Västerfärnebo, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 75 Möklinta, Sweden",
+        "location": {
+          "lat": 60.0828979,
+          "lng": 16.5461366
+        }
+      }
+    },
+    {
+      "index": 104,
+      "company_name": "A.-B. Svensen Metallverken",
+      "location": "Forsbo",
+      "power_station_name": "Karbennings",
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Forsbo, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 99 Forsbo, Sweden",
+        "location": {
+          "lat": 60.166667,
+          "lng": 16.566667
+        }
+      }
+    },
+    {
+      "index": 105,
+      "company_name": "Västerfärnebo",
+      "location": "Karbennings",
+      "power_station_name": "subscription from Virsbo-Ramnäs Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Karbennings, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "738 92 Karbenning, Sweden",
+        "location": {
+          "lat": 60.0354694,
+          "lng": 16.065468
+        }
+      }
+    },
+    {
+      "index": 106,
+      "company_name": "Hedemora",
+      "location": "Svedvi",
+      "power_station_name": "subscription from Virsbo-Ramnäs Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Svedvi, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 92 Svedvi, Sweden",
+        "location": {
+          "lat": 59.591736,
+          "lng": 16.270791
+        }
+      }
+    },
+    {
+      "index": 107,
+      "company_name": "Skultuna elektr. distributionsförening",
+      "location": "Skultuna",
+      "power_station_name": "Skultuna Bruk",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Skultuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "726 31 Skultuna, Sweden",
+        "location": {
+          "lat": 59.71648150000001,
+          "lng": 16.4302921
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Medåker",
+      "location": "Medåker",
+      "power_station_name": "subscription from Gindbergs kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Medåker, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "732 96 Medåker, Sweden",
+        "location": {
+          "lat": 59.4529809,
+          "lng": 15.7537822
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Horndals Järnverks A-B, Långgruvan",
+      "location": "Norberg",
+      "power_station_name": "subscription from Näs kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Norberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norberg, Sweden",
+        "location": {
+          "lat": 60.06504200000001,
+          "lng": 15.923796
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Statens Skogsskola",
+      "location": "Grav",
+      "power_station_name": "subscription from Norbergs El. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Grav, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "Gruv A.-B. Stak.",
+      "location": "Västanfors",
+      "power_station_name": "subscription from Virsbo-Ramnäs Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5000,
+      "full_location": "Västanfors, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "737 33 Västanfors, Sweden",
+        "location": {
+          "lat": 59.9929333,
+          "lng": 15.826962
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Ljusne-Voxna A-B.",
+      "location": "Skinnskatteberg",
+      "power_station_name": "Kraft från Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Skinnskatteberg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skinnskatteberg, Sweden",
+        "location": {
+          "lat": 59.8260558,
+          "lng": 15.6915186
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Statens Vattenfallsverk, Tråmlesbärg",
+      "location": "Ramnäs",
+      "power_station_name": "subscription from Riddarhyttte A-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 30000,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Statens Vattenfallsverk, Stormossen",
+      "location": "Malma",
+      "power_station_name": "subscription from Riddarhyttte A-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Malma, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Malma, 725 96 Västerås, Sweden",
+        "location": {
+          "lat": 59.6483831,
+          "lng": 16.6108861
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Gisslarbo samhälle m.m.",
+      "location": "Hed",
+      "power_station_name": "Älvkarleby Kraftverk",
+      "power_source": "water",
+      "installed_capacity_kva": 5000,
+      "full_location": "Hed, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "731 15 Heds Socken, Sweden",
+        "location": {
+          "lat": 59.6807962,
+          "lng": 15.7622128
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Sala gruva",
+      "location": "Sala stad",
+      "power_station_name": "Älvkarleby Kraftverk",
+      "power_source": "water",
+      "installed_capacity_kva": 90000,
+      "full_location": "Sala stad, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sala, Sweden",
+        "location": {
+          "lat": 59.9208594,
+          "lng": 16.606328
+        }
+      }
+    }
+  ],
+  "filename": "Västmanland_4.png"
+}

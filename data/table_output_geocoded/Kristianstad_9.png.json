@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "index": 152,
+      "company_name": "Käsema Elektricitetsverk, Glimminge sn (Malmöhus län)",
+      "location": "Glimminge",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Glimminge, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "276 56 Glimminge, Sweden",
+        "location": {
+          "lat": 55.49792799999999,
+          "lng": 14.2317
+        }
+      }
+    },
+    {
+      "index": 153,
+      "company_name": "Borrby sn ....",
+      "location": "Borrby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Borrby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "276 30 Borrby, Sweden",
+        "location": {
+          "lat": 55.4578377,
+          "lng": 14.1788258
+        }
+      }
+    },
+    {
+      "index": 154,
+      "company_name": "Östra Hoby sn ....",
+      "location": "Östra Hoby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Östra Hoby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "276 36 Östra Hoby, Sweden",
+        "location": {
+          "lat": 55.4724887,
+          "lng": 14.2324409
+        }
+      }
+    },
+    {
+      "index": 155,
+      "company_name": "Löderup sn ....",
+      "location": "Löderup",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Löderup, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "271 76 Löderup, Sweden",
+        "location": {
+          "lat": 55.4385651,
+          "lng": 14.112779
+        }
+      }
+    },
+    {
+      "index": 156,
+      "company_name": "Simrishamns stad ....",
+      "location": "Simrishamn",
+      "power_station_name": "subscription from Svenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 400,
+      "full_location": "Simrishamn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Simrishamn, Sweden",
+        "location": {
+          "lat": 55.5573959,
+          "lng": 14.3489651
+        }
+      }
+    },
+    {
+      "index": 157,
+      "company_name": "Gärsnäs Andelselektricitetsförening, Gärsnäs",
+      "location": "Gärsnäs",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Gärsnäs, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "272 61 Gärsnäs, Sweden",
+        "location": {
+          "lat": 55.55091470000001,
+          "lng": 14.1756804
+        }
+      }
+    },
+    {
+      "index": 158,
+      "company_name": "Tommarps Andelselektricitetsförening, Tommarp",
+      "location": "Tommarp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Tommarp, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "272 93 Tommarp, Sweden",
+        "location": {
+          "lat": 55.5209804,
+          "lng": 14.2247928
+        }
+      }
+    },
+    {
+      "index": 159,
+      "company_name": "Svenska Skolstiftelsen, Järrestad",
+      "location": "Järrestad",
+      "power_station_name": "subscription from Svenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Järrestad, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "272 92 Järrestad, Sweden",
+        "location": {
+          "lat": 55.5375197,
+          "lng": 14.2866355
+        }
+      }
+    },
+    {
+      "index": 160,
+      "company_name": "Vallby Andelselektricitetsförening, Hammerödje",
+      "location": "Vallby",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 110,
+      "full_location": "Vallby, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "276 56 Vallby, Sweden",
+        "location": {
+          "lat": 55.4996564,
+          "lng": 14.2047399
+        }
+      }
+    },
+    {
+      "index": 161,
+      "company_name": "Bjärsjö Bryggeri A.-B., Simrishamn",
+      "location": "Simrishamn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Simrishamn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Simrishamn, Sweden",
+        "location": {
+          "lat": 55.5573959,
+          "lng": 14.3489651
+        }
+      }
+    },
+    {
+      "index": 162,
+      "company_name": "Simrishamns Andelselektricitetsförening, Simrishamn",
+      "location": "Simrishamn",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 12,
+      "full_location": "Simrishamn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Simrishamn, Sweden",
+        "location": {
+          "lat": 55.5573959,
+          "lng": 14.3489651
+        }
+      }
+    },
+    {
+      "index": 163,
+      "company_name": "Branteviks Andelselektricitetsförening, Brantevik",
+      "location": "Brantevik",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Brantevik, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Brantevik, Sweden",
+        "location": {
+          "lat": 55.51494049999999,
+          "lng": 14.3464149
+        }
+      }
+    }
+  ],
+  "filename": "Kristianstad_9.png"
+}

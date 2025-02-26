@@ -1,0 +1,60 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Företagets namn",
+            "description": "Företagets namn som driver anläggningen."
+        },
+        {
+            "id": 2,
+            "label": "Kommun",
+            "description": "Den kommun där anläggningen är belägen."
+        },
+        {
+            "id": 3,
+            "label": "Kraftstationens namn",
+            "description": "Namnet på kraftstationen."
+        },
+        {
+            "id": 4,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft som används."
+        },
+        {
+            "id": 5,
+            "label": "Utbyggnadsförhållande",
+            "description": "Information om utbyggnadsförhållanden."
+        },
+        {
+            "id": 6,
+            "label": "m",
+            "description": "Metrisk enhet, oftast längd."
+        },
+        {
+            "id": 7,
+            "label": "kVA",
+            "description": "Den maximala möjliga effekt kapacitet i kVA."
+        },
+        {
+            "id": 8,
+            "label": "Strömtyp",
+            "description": "Typ av ström, t.ex. 1-fas eller 3-fas."
+        },
+        {
+            "id": 9,
+            "label": "Periodtal",
+            "description": "Frekvens för ström."
+        },
+        {
+            "id": 10,
+            "label": "Spänningssystem",
+            "description": "Detaljer kring spänningssystemet för anläggningen."
+        },
+        {
+            "id": 11,
+            "label": "Anmärkningar",
+            "description": "Eventuella ytterligare anmärkningar."
+        }
+    ],
+    "filename": "Västmanland_1.png"
+}

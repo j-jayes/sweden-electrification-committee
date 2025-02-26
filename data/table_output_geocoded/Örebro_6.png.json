@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "index": 165,
+      "company_name": "Högfors A.B.",
+      "location": "Ljusnarsberg",
+      "power_station_name": "Högfors",
+      "power_source": "water",
+      "installed_capacity_kva": 1500,
+      "full_location": "Ljusnarsberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "714 35 Ljusnarsberg, Sweden",
+        "location": {
+          "lat": 59.8774473,
+          "lng": 14.9988486
+        }
+      }
+    },
+    {
+      "index": 166,
+      "company_name": "Högfors A.B.",
+      "location": "Högfors",
+      "power_station_name": "Björkborn",
+      "power_source": "steam",
+      "installed_capacity_kva": 2000,
+      "full_location": "Högfors, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "714 91 Högfors, Sweden",
+        "location": {
+          "lat": 59.98853380000001,
+          "lng": 15.019391
+        }
+      }
+    },
+    {
+      "index": 167,
+      "company_name": "Säfsbeng Grufv A.B.",
+      "location": "Hällefors",
+      "power_station_name": "Blyberg",
+      "power_source": "diesel",
+      "installed_capacity_kva": 340,
+      "full_location": "Hällefors, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hällefors, Sweden",
+        "location": {
+          "lat": 59.783688,
+          "lng": 14.5225692
+        }
+      }
+    },
+    {
+      "index": 168,
+      "company_name": "Säfsbeng Grufv A.B.",
+      "location": "Blyberg",
+      "power_station_name": "Subscription from Säfsbena Grufv A.B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Blyberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 169,
+      "company_name": "Divers dotter aalt.",
+      "location": "Shibby",
+      "power_station_name": "Shibby",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Shibby, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 170,
+      "company_name": "Divers dotter aalt.",
+      "location": "Albäck",
+      "power_station_name": "Damicolis",
+      "power_source": "water",
+      "installed_capacity_kva": 980,
+      "full_location": "Albäck, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 171,
+      "company_name": "A.B. Ekås. Mangan.",
+      "location": "Ramsberg",
+      "power_station_name": "Ljusnarsberg",
+      "power_source": "water",
+      "installed_capacity_kva": 347,
+      "full_location": "Ramsberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "711 98 Ramsberg, Sweden",
+        "location": {
+          "lat": 59.7685414,
+          "lng": 15.2965208
+        }
+      }
+    },
+    {
+      "index": 172,
+      "company_name": "A.B. Ekås. Mangan.",
+      "location": "Ramsberg",
+      "power_station_name": "Ladjan",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Ramsberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "711 98 Ramsberg, Sweden",
+        "location": {
+          "lat": 59.7685414,
+          "lng": 15.2965208
+        }
+      }
+    },
+    {
+      "index": 173,
+      "company_name": "A.B. Sv. Metall.",
+      "location": "Stockholm",
+      "power_station_name": "Hoffors",
+      "power_source": "water",
+      "installed_capacity_kva": 240,
+      "full_location": "Stockholm, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 174,
+      "company_name": "Hofors (AB)",
+      "location": "Engelsberg",
+      "power_station_name": "Bönkefors",
+      "power_source": "water",
+      "installed_capacity_kva": 2400,
+      "full_location": "Engelsberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 175,
+      "company_name": "Stustompe Kraftaktieb.",
+      "location": "Lindesberg",
+      "power_station_name": "Carlmar",
+      "power_source": "water",
+      "installed_capacity_kva": 810,
+      "full_location": "Lindesberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindesberg, Sweden",
+        "location": {
+          "lat": 59.5976983,
+          "lng": 15.2229108
+        }
+      }
+    },
+    {
+      "index": 176,
+      "company_name": "Moncels Aktieb.",
+      "location": "Gustavsfors",
+      "power_station_name": "Strömsholm",
+      "power_source": "water",
+      "installed_capacity_kva": 3300,
+      "full_location": "Gustavsfors, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 177,
+      "company_name": "Ruths Bruk",
+      "location": "Nytäpyyhlin",
+      "power_station_name": "Främby",
+      "power_source": "diesel",
+      "installed_capacity_kva": 80,
+      "full_location": "Nytäpyyhlin, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 178,
+      "company_name": "Pilundets Bruk",
+      "location": "Föllinge Bruk",
+      "power_station_name": "Subscription from Ruths Bruk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Föllinge Bruk, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 179,
+      "company_name": "W. Hyltins",
+      "location": "Olsbacka",
+      "power_station_name": "Ångbrygkverket",
+      "power_source": "steam",
+      "installed_capacity_kva": 30,
+      "full_location": "Olsbacka, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 180,
+      "company_name": "Stockholms Superfosfatfabr. A.B.",
+      "location": "Ervalla",
+      "power_station_name": "Asperstäs",
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Ervalla, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "718 95 Ervalla, Sweden",
+        "location": {
+          "lat": 59.4389792,
+          "lng": 15.24136
+        }
+      }
+    }
+  ],
+  "filename": "Örebro_6.png"
+}

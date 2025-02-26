@@ -1,0 +1,40 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Företagets namn",
+            "description": "Företagets ägare"
+        },
+        {
+            "id": 2,
+            "label": "Företagets ägare",
+            "description": "Kommun"
+        },
+        {
+            "id": 3,
+            "label": "Kraftstationens namn",
+            "description": "Kraftstationens benämning"
+        },
+        {
+            "id": 4,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft (vatten)"
+        },
+        {
+            "id": 5,
+            "label": "U-bygd fallhöjd",
+            "description": "Utbyggd fallhöjd i meter"
+        },
+        {
+            "id": 6,
+            "label": "Generator-effekt",
+            "description": "Generator effekt i kVA"
+        },
+        {
+            "id": 7,
+            "label": "Ström- system",
+            "description": "Strömkring system fördelning"
+        }
+    ],
+    "filename": "Värmland_1.png"
+}

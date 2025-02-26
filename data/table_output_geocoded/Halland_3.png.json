@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "index": 30,
+      "company_name": "Holmens kvarn och elektricitet",
+      "location": "Kvarnagård, Falkenberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Kvarnagård, Falkenberg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Morup Kvarnagård, 311 90 Morup, Sweden",
+        "location": {
+          "lat": 56.984505,
+          "lng": 12.38296
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Barthels kvarn och elektricitet",
+      "location": "Fredenberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Fredenberg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Fagnareds elektricitetsförening",
+      "location": "Fagnared",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Fagnared, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Fagereds elvi",
+      "location": "Fagered",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Fagered, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 62 Fagered, Sweden",
+        "location": {
+          "lat": 57.2,
+          "lng": 12.75
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Fagereds Länssanatorium",
+      "location": "Förstorp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 95,
+      "full_location": "Förstorp, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Ullareds elektricitetsförening",
+      "location": "Ullared",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 37,
+      "full_location": "Ullared, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ullared, Sweden",
+        "location": {
+          "lat": 57.1362284,
+          "lng": 12.718278
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Svartå kraftförening",
+      "location": "Svartå",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Svartå, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "Yngeredssfors kraft a.-b. Mölndal, Älvsborg, Göteborg,",
+      "location": "Yngered",
+      "power_station_name": "Från bolagets vattenkraftstationer",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Yngered, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 65 Yngered, Sweden",
+        "location": {
+          "lat": 57.016667,
+          "lng": 12.733333
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Gunnarp sn",
+      "location": "Gunnarp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "Gunnarp, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 51 Gunnarp, Sweden",
+        "location": {
+          "lat": 57.1490609,
+          "lng": 12.937156
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "Ätrans såg",
+      "location": "Ätran",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Ätran, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 51 Ätran, Sweden",
+        "location": {
+          "lat": 57.120792,
+          "lng": 12.9480862
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "Esereds elektriska distribution",
+      "location": "Eskede",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Eskede, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "Resered",
+      "location": "Resered",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 3,
+      "full_location": "Resered, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Dagsås sn",
+      "location": "Dagsås",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 160,
+      "full_location": "Dagsås, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 77 Dagsås, Sweden",
+        "location": {
+          "lat": 57.0644894,
+          "lng": 12.485029
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "Skrea kraut",
+      "location": "Skrea",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 240,
+      "full_location": "Skrea, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 70 Skrea, Sweden",
+        "location": {
+          "lat": 56.8873614,
+          "lng": 12.5644371
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Öxbro kvarn och såg",
+      "location": "Bjärnared",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Bjärnared, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "Stågereds såg och ehlictetvärk",
+      "location": "Stågered",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Stågered, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "Åstrals elektricitetsverk",
+      "location": "Åstral",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Åstral, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 47,
+      "company_name": "Risens kvarn",
+      "location": "Kvarnagård, Långås",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Kvarnagård, Långås, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Morup Kvarnagård, 311 90 Morup, Sweden",
+        "location": {
+          "lat": 56.984505,
+          "lng": 12.38296
+        }
+      }
+    }
+  ],
+  "filename": "Halland_3.png"
+}

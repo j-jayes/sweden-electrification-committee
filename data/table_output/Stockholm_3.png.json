@@ -1,0 +1,141 @@
+{
+    "data": [
+        {
+            "index": 49,
+            "company_name": "Sollentuna församling",
+            "location": "Sollentuna",
+            "power_station_name": "Sollentuna kraftstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 350
+        },
+        {
+            "index": 50,
+            "company_name": "A.-B. Optimus och A.-B. Väsby verkstäder",
+            "location": "Fresta",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 51,
+            "company_name": "Väsby samhälle och Eds el. distr.-fören.",
+            "location": "Eds socken",
+            "power_station_name": "Hammarby",
+            "power_source": "steam",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 52,
+            "company_name": "Torslunda gård",
+            "location": "Eds socken",
+            "power_station_name": "Ekhammar",
+            "power_source": "steam",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 53,
+            "company_name": "A.-B. Uddeholms fabr.",
+            "location": "Ed",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 54,
+            "company_name": "s.v. Skånska cement",
+            "location": "Bergvik",
+            "power_station_name": "Torudd",
+            "power_source": "oil",
+            "installed_capacity_kva": 530
+        },
+        {
+            "index": 55,
+            "company_name": "Södertelge - N. Skee",
+            "location": "N. Skeie",
+            "power_station_name": "N. Skeie",
+            "power_source": "steam",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 56,
+            "company_name": "Fören. Edsbergs egna hem",
+            "location": "Sollentuna",
+            "power_station_name": "Ed",
+            "power_source": "steam",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 57,
+            "company_name": "Sollentuna-Elfsala",
+            "location": "Solna",
+            "power_station_name": "Karby",
+            "power_source": "steam",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 58,
+            "company_name": "Norrbros verksamhet",
+            "location": "Stockholm",
+            "power_station_name": "Råsunda kraftstation",
+            "power_source": "diesel",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 59,
+            "company_name": "Stockholms Nya Spårvägs",
+            "location": "Sundbyberg",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 60,
+            "company_name": "A.-B. Sundbybergs el.-verk",
+            "location": "Sundbyberg",
+            "power_station_name": "Sundbybergs kraftstation",
+            "power_source": "diesel",
+            "installed_capacity_kva": 550
+        },
+        {
+            "index": 61,
+            "company_name": "Edsbergs och Bergendals egendom",
+            "location": "Solna",
+            "power_station_name": "Sundbyberg",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 62,
+            "company_name": "Stockholms pumplift",
+            "location": "Uppsala",
+            "power_station_name": "Kungsängen",
+            "power_source": "oil",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 63,
+            "company_name": "Danderyds elektr. distr.-fören.",
+            "location": "Danderyd",
+            "power_station_name": "Mörby",
+            "power_source": "water",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 64,
+            "company_name": "Steninge - Edsbacka el. distr.-fören.",
+            "location": "Djursholm",
+            "power_station_name": "Djursholms kraftstation",
+            "power_source": "diesel",
+            "installed_capacity_kva": 135
+        },
+        {
+            "index": 65,
+            "company_name": "Djursjöholm",
+            "location": "Sollentuna",
+            "power_station_name": "Djursjöholm",
+            "power_source": "steam",
+            "installed_capacity_kva": 300
+        }
+    ],
+    "filename": "Stockholm_3.png"
+}

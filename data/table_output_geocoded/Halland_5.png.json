@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "index": 64,
+      "company_name": "Bjärnum elektricitetsverk, Eriksson.",
+      "location": "Bjärnum",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Bjärnum, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "Osby Industrier a.-b.",
+      "location": "Osby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Osby, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 66,
+      "company_name": "Sjönevads elektriska bolag, Fjoerst, Säll.",
+      "location": "Vessigebro",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Vessigebro, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 64 Vessigebro, Sweden",
+        "location": {
+          "lat": 56.97773059999999,
+          "lng": 12.6513809
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Njelmeds gård, Glafsgård.",
+      "location": "Falkenberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 16,
+      "full_location": "Falkenberg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Falkenberg, Sweden",
+        "location": {
+          "lat": 56.90273329999999,
+          "lng": 12.4888013
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Hertings kvarn och elek.",
+      "location": "Mjölnare",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 11,
+      "full_location": "Mjölnare, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Boberg kraftförening, Helgeberg.",
+      "location": "Hylte",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 140,
+      "full_location": "Hylte, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hyltebruk, Sweden",
+        "location": {
+          "lat": 57.0017639,
+          "lng": 13.2420994
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Sanmarps Gård, Fru M. Threeskow.",
+      "location": "Heberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Heberg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 96 Heberg, Sweden",
+        "location": {
+          "lat": 56.8828299,
+          "lng": 12.6280713
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Knoseholm sg och kvarn",
+      "location": "Sloinge",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 70,
+      "full_location": "Sloinge, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 68 Slöinge, Sweden",
+        "location": {
+          "lat": 56.8538934,
+          "lng": 12.6957071
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Berte kvarn a.-b, Sloinge",
+      "location": "Sloinge",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Sloinge, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 68 Slöinge, Sweden",
+        "location": {
+          "lat": 56.8538934,
+          "lng": 12.6957071
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Äbylle tråddragen, injen. Fabriker v. J. Johansson.",
+      "location": "Åbylle",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Åbylle, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Kinnareds sg och elektr.",
+      "location": "Kinnared",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Kinnared, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "314 95 Kinnared, Sweden",
+        "location": {
+          "lat": 57.02612620000001,
+          "lng": 13.1063587
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Förenade kvarn, Elv avd.",
+      "location": "Kinnared",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Kinnared, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "314 95 Kinnared, Sweden",
+        "location": {
+          "lat": 57.02612620000001,
+          "lng": 13.1063587
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Franses Möllen, Kinnared.",
+      "location": "Kinnared",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Kinnared, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "314 95 Kinnared, Sweden",
+        "location": {
+          "lat": 57.02612620000001,
+          "lng": 13.1063587
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Torup kvarn och fabr.",
+      "location": "Torup",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Torup, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "314 41 Torup, Sweden",
+        "location": {
+          "lat": 56.9574499,
+          "lng": 13.0807404
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Bosgårdens elektricitetsk",
+      "location": "Torup",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 30,
+      "full_location": "Torup, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "314 41 Torup, Sweden",
+        "location": {
+          "lat": 56.9574499,
+          "lng": 13.0807404
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Gustafsfabr",
+      "location": "Byxlorg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Byxlorg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Rynbo kvarn och fabr.",
+      "location": "Byxlorg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Byxlorg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Nysbo snickeri- och bygg.",
+      "location": "Torup",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Torup, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "314 41 Torup, Sweden",
+        "location": {
+          "lat": 56.9574499,
+          "lng": 13.0807404
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Torup kvarn och fabr.",
+      "location": "Torup",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Torup, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "314 41 Torup, Sweden",
+        "location": {
+          "lat": 56.9574499,
+          "lng": 13.0807404
+        }
+      }
+    }
+  ],
+  "filename": "Halland_5.png"
+}

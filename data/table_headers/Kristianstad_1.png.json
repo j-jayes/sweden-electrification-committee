@@ -1,0 +1,120 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Anläggningens namn och adress",
+            "description": "Namnet på anläggningen och dess adress."
+        },
+        {
+            "id": 2,
+            "label": "Drivmotor",
+            "description": "Typ av drivmotor."
+        },
+        {
+            "id": 3,
+            "label": "Uppbygd total- effekt",
+            "description": "Den totala installerade effekten."
+        },
+        {
+            "id": 4,
+            "label": "Sammanlagd turbindrift",
+            "description": "Den sammanlagda drifttiden för turbiner."
+        },
+        {
+            "id": 5,
+            "label": "Slag",
+            "description": "Typ av energi eller system."
+        },
+        {
+            "id": 6,
+            "label": "Ström",
+            "description": "Typ av ström (växel/gjort/likström)."
+        },
+        {
+            "id": 7,
+            "label": "Spänning",
+            "description": "Nominell spänning i volt."
+        },
+        {
+            "id": 8,
+            "label": "kVA",
+            "description": "Kapacitet i kilovoltampere."
+        },
+        {
+            "id": 9,
+            "label": "kW",
+            "description": "Effekt i kilowatt."
+        },
+        {
+            "id": 10,
+            "label": "Hektar",
+            "description": "Markarea i hektar."
+        },
+        {
+            "id": 11,
+            "label": "Mega W",
+            "description": "Effekt i megawatt."
+        },
+        {
+            "id": 12,
+            "label": "Krafthästar",
+            "description": "Effekt i krafthästar."
+        },
+        {
+            "id": 13,
+            "label": "Byggnads år",
+            "description": "År för byggnation av anläggningen."
+        },
+        {
+            "id": 14,
+            "label": "Sammanlagd lågt drift, långd.",
+            "description": "Den sammanlagda låga driften."
+        },
+        {
+            "id": 15,
+            "label": "Övrigt",
+            "description": "Övriga upplysningar."
+        },
+        {
+            "id": 16,
+            "label": "Anmärkningar",
+            "description": "Noteringar och kommentarer."
+        },
+        {
+            "id": 17,
+            "label": "Upplysning, siffra som hänvisar till anmärkning i sid. 25",
+            "description": "Referensnummer för anmärkningar."
+        },
+        {
+            "id": 18,
+            "label": "Övriga upplysningar ang. anläggningen",
+            "description": "Ytterligare information angående anläggningen."
+        },
+        {
+            "id": 19,
+            "label": "Kraftflöpp",
+            "description": "Upplysning om kraftflöden."
+        },
+        {
+            "id": 20,
+            "label": "Maximileffekt",
+            "description": "Maximal effekt."
+        },
+        {
+            "id": 21,
+            "label": "Talet",
+            "description": "Nummer eller identifiering."
+        },
+        {
+            "id": 22,
+            "label": "Sumt. kr",
+            "description": "Kostnad i kronor."
+        },
+        {
+            "id": 23,
+            "label": "Obs.",
+            "description": "Obs eller extra noteringar."
+        }
+    ],
+    "filename": "Kristianstad_1.png"
+}

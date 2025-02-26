@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "index": 37,
+            "company_name": "Stora Mölla Kvarn",
+            "location": "Källna",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 38,
+            "company_name": "Södra Ljungholms Elektriska Andelsförening",
+            "location": "Södra Ljungby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 180
+        },
+        {
+            "index": 39,
+            "company_name": "Rya sm",
+            "location": "Perstorp",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 40,
+            "company_name": "Örkeljunga Municipala Elektricitetsverk",
+            "location": "Örkeljunga",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 41,
+            "company_name": "Sm",
+            "location": "Ejlinge",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 42,
+            "company_name": "Kyckinge Energiförening",
+            "location": "Örkeljunga",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 43,
+            "company_name": "Harbäcks Enelektriska Förening",
+            "location": "Örkeljunga",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 44,
+            "company_name": "Asljunga Elektricitet",
+            "location": "Örkeljunga",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 45,
+            "company_name": "Ringars Energiförening",
+            "location": "Örkeljunga",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 46,
+            "company_name": "Örkelljunga Energiförening",
+            "location": "Örkelljunga",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 47,
+            "company_name": "Pageerhult sm",
+            "location": "Örkelljunga",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 48,
+            "company_name": "Gråmanstorps sm",
+            "location": "Örkeljunga",
+            "power_station_name": "subscription from Örkeljunga Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 49,
+            "company_name": "Abu sm",
+            "location": "Klippan",
+            "power_station_name": "subscription from Klippans Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 50,
+            "company_name": "Vedby sm",
+            "location": "Klippan",
+            "power_station_name": "subscription from Klippans Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 51,
+            "company_name": "Öderljunga sm",
+            "location": "Klippan",
+            "power_station_name": "subscription from Klippans Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 52,
+            "company_name": "Riseberga sm",
+            "location": "Klippan",
+            "power_station_name": "subscription from Klippans Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 53,
+            "company_name": "Perstorp sm",
+            "location": "Perstorp",
+            "power_station_name": "subscription from Klippans Municipala Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 54,
+            "company_name": "Skanska Ättikfabriker",
+            "location": "Perstorp",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 120
+        }
+    ],
+    "filename": "Kristianstad_3.png"
+}

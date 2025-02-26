@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "index": 165,
+            "company_name": "Högfors A.B.",
+            "location": "Ljusnarsberg",
+            "power_station_name": "Högfors",
+            "power_source": "water",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 166,
+            "company_name": "Högfors A.B.",
+            "location": "Högfors",
+            "power_station_name": "Björkborn",
+            "power_source": "steam",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 167,
+            "company_name": "Säfsbeng Grufv A.B.",
+            "location": "Hällefors",
+            "power_station_name": "Blyberg",
+            "power_source": "diesel",
+            "installed_capacity_kva": 340
+        },
+        {
+            "index": 168,
+            "company_name": "Säfsbeng Grufv A.B.",
+            "location": "Blyberg",
+            "power_station_name": "Subscription from Säfsbena Grufv A.B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 169,
+            "company_name": "Divers dotter aalt.",
+            "location": "Shibby",
+            "power_station_name": "Shibby",
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 170,
+            "company_name": "Divers dotter aalt.",
+            "location": "Albäck",
+            "power_station_name": "Damicolis",
+            "power_source": "water",
+            "installed_capacity_kva": 980
+        },
+        {
+            "index": 171,
+            "company_name": "A.B. Ekås. Mangan.",
+            "location": "Ramsberg",
+            "power_station_name": "Ljusnarsberg",
+            "power_source": "water",
+            "installed_capacity_kva": 347
+        },
+        {
+            "index": 172,
+            "company_name": "A.B. Ekås. Mangan.",
+            "location": "Ramsberg",
+            "power_station_name": "Ladjan",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 173,
+            "company_name": "A.B. Sv. Metall.",
+            "location": "Stockholm",
+            "power_station_name": "Hoffors",
+            "power_source": "water",
+            "installed_capacity_kva": 240
+        },
+        {
+            "index": 174,
+            "company_name": "Hofors (AB)",
+            "location": "Engelsberg",
+            "power_station_name": "Bönkefors",
+            "power_source": "water",
+            "installed_capacity_kva": 2400
+        },
+        {
+            "index": 175,
+            "company_name": "Stustompe Kraftaktieb.",
+            "location": "Lindesberg",
+            "power_station_name": "Carlmar",
+            "power_source": "water",
+            "installed_capacity_kva": 810
+        },
+        {
+            "index": 176,
+            "company_name": "Moncels Aktieb.",
+            "location": "Gustavsfors",
+            "power_station_name": "Strömsholm",
+            "power_source": "water",
+            "installed_capacity_kva": 3300
+        },
+        {
+            "index": 177,
+            "company_name": "Ruths Bruk",
+            "location": "Nytäpyyhlin",
+            "power_station_name": "Främby",
+            "power_source": "diesel",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 178,
+            "company_name": "Pilundets Bruk",
+            "location": "Föllinge Bruk",
+            "power_station_name": "Subscription from Ruths Bruk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 179,
+            "company_name": "W. Hyltins",
+            "location": "Olsbacka",
+            "power_station_name": "Ångbrygkverket",
+            "power_source": "steam",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 180,
+            "company_name": "Stockholms Superfosfatfabr. A.B.",
+            "location": "Ervalla",
+            "power_station_name": "Asperstäs",
+            "power_source": "water",
+            "installed_capacity_kva": 1000
+        }
+    ],
+    "filename": "Örebro_6.png"
+}

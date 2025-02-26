@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "index": 60,
+            "company_name": "Boalts såg",
+            "location": "Vittsjö sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 1
+        },
+        {
+            "index": 61,
+            "company_name": "Andelsföreningen Vittsjö Elektricitetsverk",
+            "location": "Vittsjö sn",
+            "power_station_name": "subscription from Bjärnums Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 62,
+            "company_name": "Visseltofta kvarn och såg",
+            "location": "Visseltofta sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 63,
+            "company_name": "Möllerödssn, Visseltofta sn",
+            "location": "Visseltofta sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 64,
+            "company_name": "Brödern Jönssons Möbelaffär",
+            "location": "Verum sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 18
+        },
+        {
+            "index": 65,
+            "company_name": "Andelsföreningen Verum Elektricitetsverk",
+            "location": "Verum sn",
+            "power_station_name": "subscription from Skånska Kraft A.-B., Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 66,
+            "company_name": "Hjärnarps Elektricitetsförening",
+            "location": "Bjärnum",
+            "power_station_name": "subscription from Bjärnums Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 67,
+            "company_name": "Hennes Elektricitetsförening",
+            "location": "Bjärnum",
+            "power_station_name": "subscription from Bjärnums Elektricitetsverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 68,
+            "company_name": "A.-B. Hörby,Värme och elektricitetsverk, Hörby",
+            "location": "Hörby sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 69,
+            "company_name": "Andelsföreningen Tyringe Elektricitetsverk",
+            "location": "Finja sn",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 70,
+            "company_name": "Malta Andelselektricitetsförening",
+            "location": "Vanviks sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 71,
+            "company_name": "Ballingslövs Elektricitetsverk A.-B., Ballingslöv",
+            "location": "Stoby sn",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 72,
+            "company_name": "Tyringe",
+            "location": "Stoby sn",
+            "power_station_name": "subscription from Ballingslövs Elektricitets A.-B., Ballingslöv",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 73,
+            "company_name": "Norra Sandby",
+            "location": "Norra Sandby sn",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 75,
+            "company_name": "Kristianstads Elektricitetsverk",
+            "location": "Hässleholm sn",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 76,
+            "company_name": "Ab. från Hasselholms stads elektricitetsverk",
+            "location": "Hässleholm",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        }
+    ],
+    "filename": "Kristianstad_4.png"
+}

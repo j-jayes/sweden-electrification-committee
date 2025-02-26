@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "index": 48,
+      "company_name": "Gödeby kvarn och elektricitetsverk, Aline Nils Cansdotter",
+      "location": "Gödeby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Gödeby, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 61 Gödeby, Sweden",
+        "location": {
+          "lat": 57.033333,
+          "lng": 12.583333
+        }
+      }
+    },
+    {
+      "index": 49,
+      "company_name": "Damtjärns kraftförening, F. P. Johansson",
+      "location": "Köinge",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Köinge, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 61 Köinge, Sweden",
+        "location": {
+          "lat": 57.0637295,
+          "lng": 12.6441026
+        }
+      }
+    },
+    {
+      "index": 50,
+      "company_name": "Åvalla kvarn och elekt.",
+      "location": "Okome",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Okome, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 61 Okome, Sweden",
+        "location": {
+          "lat": 57.0576784,
+          "lng": 12.6931982
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "Okome kvarn och elektricitetsverk, Patron Per Eriksson",
+      "location": "Okome",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Okome, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 61 Okome, Sweden",
+        "location": {
+          "lat": 57.0576784,
+          "lng": 12.6931982
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "Okome kvarn och elektricitetsverk, Patron Per Eriksson",
+      "location": "Okome",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Okome, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 61 Okome, Sweden",
+        "location": {
+          "lat": 57.0576784,
+          "lng": 12.6931982
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "Yngeredfors kraft a.-b.",
+      "location": "Ätrafors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Ätrafors, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 65 Ätrafors, Sweden",
+        "location": {
+          "lat": 57.0301584,
+          "lng": 12.6525292
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "Yngeredfors kraft a.-b.",
+      "location": "Ätrafors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 9000,
+      "full_location": "Ätrafors, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 65 Ätrafors, Sweden",
+        "location": {
+          "lat": 57.0301584,
+          "lng": 12.6525292
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "Yngeredfors kraft a.-b.",
+      "location": "Möndal",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5000,
+      "full_location": "Möndal, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mölndal, Sweden",
+        "location": {
+          "lat": 57.65,
+          "lng": 12.016667
+        }
+      }
+    },
+    {
+      "index": 56,
+      "company_name": "Yngeredfors kraft a.-b.",
+      "location": "Möndal",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5000,
+      "full_location": "Möndal, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mölndal, Sweden",
+        "location": {
+          "lat": 57.65,
+          "lng": 12.016667
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Attarps kvarn, Kyrkarnäf",
+      "location": "Ljungby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Ljungby, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 95 Ljungby, Sweden",
+        "location": {
+          "lat": 56.9904344,
+          "lng": 12.5841101
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Turtserfors kvarn och elektricitetsverk, Kvarnagare Karl Andersson",
+      "location": "Ljungby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Ljungby, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 95 Ljungby, Sweden",
+        "location": {
+          "lat": 56.9904344,
+          "lng": 12.5841101
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Tellsgårds kvarn och elektricitetsverk, Kvarnägareskaret",
+      "location": "Ljungby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Ljungby, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 95 Ljungby, Sweden",
+        "location": {
+          "lat": 56.9904344,
+          "lng": 12.5841101
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "Föhrs kvarn och såg",
+      "location": "Alvsång",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 320,
+      "full_location": "Alvsång, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Bola och Dale kraftbolag",
+      "location": "Vinberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 880,
+      "full_location": "Vinberg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 99 Vinberg, Sweden",
+        "location": {
+          "lat": 56.9477078,
+          "lng": 12.5423006
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": "Vinberg elektriska förening",
+      "location": "Vinberg",
+      "power_station_name": "subscription from Falkenberg stads elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5000,
+      "full_location": "Vinberg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 99 Vinberg, Sweden",
+        "location": {
+          "lat": 56.9477078,
+          "lng": 12.5423006
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "Falkenberg stads elektricitetsverk",
+      "location": "Falkenberg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 656,
+      "full_location": "Falkenberg, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Falkenberg, Sweden",
+        "location": {
+          "lat": 56.90273329999999,
+          "lng": 12.4888013
+        }
+      }
+    }
+  ],
+  "filename": "Halland_4.png"
+}

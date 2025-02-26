@@ -1,0 +1,269 @@
+{
+    "data": [
+        {
+            "index": 127,
+            "company_name": "Brödernas Hellmans Kraftanläggning",
+            "location": "Nordmaling, Norrfors",
+            "power_station_name": "Sjönäs…",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 128,
+            "company_name": "Brödernas Hellmans Kraftanläggning",
+            "location": "Nordmaling, Sjönäs…",
+            "power_station_name": "Råbäck",
+            "power_source": "water",
+            "installed_capacity_kva": 38
+        },
+        {
+            "index": 129,
+            "company_name": "Fredrika Såg, Kvarn- och El. Fören.",
+            "location": "Fredrika",
+            "power_station_name": "Bjärken",
+            "power_source": "water",
+            "installed_capacity_kva": 28
+        },
+        {
+            "index": 130,
+            "company_name": "Nordmaling El. Fören.",
+            "location": "Nordmaling, Petnäset",
+            "power_station_name": "Petnäset",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 131,
+            "company_name": "Hällaströms Kraft A.-B.",
+            "location": "Åsele",
+            "power_station_name": "Ålsbäcken",
+            "power_source": "water",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 132,
+            "company_name": "A.-B. Åsele Kraft",
+            "location": "Hällaström, Hallas Sågfors",
+            "power_station_name": "Häggås",
+            "power_source": "water",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 133,
+            "company_name": "Tornviks El. Fören.",
+            "location": "Vilhelmina",
+            "power_station_name": "Horntaeån",
+            "power_source": "water",
+            "installed_capacity_kva": -1
+        },
+        {
+            "index": 134,
+            "company_name": "Dorotea El. A.-B.",
+            "location": "Dorotea, Alaskabäcken",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 135,
+            "company_name": "Vilhelmina El. Kraft A.-B.",
+            "location": "Vilhelmina",
+            "power_station_name": "Bergvattenforsen",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 136,
+            "company_name": "Wilhelmina El. Byggf. Fören.",
+            "location": "Wilhelmina, Bergvattenforsen",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 137,
+            "company_name": "Östra Idby El. Fören.",
+            "location": "Lövånger",
+            "power_station_name": "Ekorrträsk",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 138,
+            "company_name": "Finnträsk El. Fören.",
+            "location": "Finnträsk",
+            "power_station_name": "Ab.f. Skellefteå stads El.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 139,
+            "company_name": "Ostträsk El. Fören.",
+            "location": "Lövånger, Ekorrträsk",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 140,
+            "company_name": "Finnträsk El. Fören.",
+            "location": "Bissjö",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 141,
+            "company_name": "Umeå kommun",
+            "location": "Umeå",
+            "power_station_name": "Gideåbäcken",
+            "power_source": "water",
+            "installed_capacity_kva": 360
+        },
+        {
+            "index": 142,
+            "company_name": "Tavelsjö El. Fören.",
+            "location": "Tavelsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 143,
+            "company_name": "Nordmaling El. Fören.",
+            "location": "Nordmaling, Bredviken",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 144,
+            "company_name": "Norsjöbygd El. Fören.",
+            "location": "Norsjö",
+            "power_station_name": "Norsjö kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 145,
+            "company_name": "Bureå El. Fören.",
+            "location": "Bureå",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 146,
+            "company_name": "Sorsele El. A.-B.",
+            "location": "Sorsele",
+            "power_station_name": "Ab.r. Skellefteå stads El. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 147,
+            "company_name": "Bottniskt El. Fören.",
+            "location": "Bottniskt",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 148,
+            "company_name": "E.R. Romson",
+            "location": "Vilhelmina",
+            "power_station_name": "Lövånger",
+            "power_source": "steam",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 149,
+            "company_name": "Vilhelmina Östra Kraftverks Fören.",
+            "location": "Vilhelmina",
+            "power_station_name": "Holmsjön",
+            "power_source": "water",
+            "installed_capacity_kva": 180
+        },
+        {
+            "index": 150,
+            "company_name": "Norsjö Elverk",
+            "location": "Norsjö",
+            "power_station_name": "Norsjö kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 151,
+            "company_name": "Nordmaling El. Fören.",
+            "location": "Nordmaling, Norsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 152,
+            "company_name": "Åby El. Fören.",
+            "location": "Nordmaling, Åby",
+            "power_station_name": "Holmträsk",
+            "power_source": "water",
+            "installed_capacity_kva": 22
+        },
+        {
+            "index": 153,
+            "company_name": "Peterson m.fl., Drängsmark",
+            "location": "Nordmaling",
+            "power_station_name": "Röbbäck",
+            "power_source": "water",
+            "installed_capacity_kva": 1
+        },
+        {
+            "index": 154,
+            "company_name": "Edvardsstadens El. Fören.",
+            "location": "Robertsfors",
+            "power_station_name": "Uhrfors",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 155,
+            "company_name": "Sandsfors El. Fören.",
+            "location": "Norsjö",
+            "power_station_name": "Sandviks såg",
+            "power_source": "steam",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 156,
+            "company_name": "Bynäs El. Fören.",
+            "location": "Bynäset, Gumboda",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 157,
+            "company_name": "Stöcksjöns El. Fören.",
+            "location": "Kålaboda",
+            "power_station_name": "Skogsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 158,
+            "company_name": "Umeå N. Fören.",
+            "location": "Umeå",
+            "power_station_name": "Bygedal",
+            "power_source": "water",
+            "installed_capacity_kva": -1
+        },
+        {
+            "index": 159,
+            "company_name": "Bygdeälvens Kraft A.-B.",
+            "location": "Bygdeå",
+            "power_station_name": "Åskogen",
+            "power_source": "water",
+            "installed_capacity_kva": 700
+        }
+    ],
+    "filename": "Västerbotten_4.png"
+}

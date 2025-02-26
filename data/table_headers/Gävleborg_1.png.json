@@ -1,0 +1,60 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Företagets namn",
+            "description": "Företagets namn som driver kraftstationen."
+        },
+        {
+            "id": 2,
+            "label": "Kommun",
+            "description": "Den kommun där kraftstationen är belägen."
+        },
+        {
+            "id": 3,
+            "label": "Kraftstationens namn",
+            "description": "Namnet på den specifika kraftstationen."
+        },
+        {
+            "id": 4,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft som används i kraftstationen (t.ex. vatten, ånga)."
+        },
+        {
+            "id": 5,
+            "label": "Uttbyggd fallhöjd",
+            "description": "Den totala höjden i meter som vattnet faller."
+        },
+        {
+            "id": 6,
+            "label": "Generator-effekt",
+            "description": "Effekten hos generatorn i kVA."
+        },
+        {
+            "id": 7,
+            "label": "Strömart",
+            "description": "Typ av elektrisk ström (t.ex. trefas, enfas)."
+        },
+        {
+            "id": 8,
+            "label": "Periodtal",
+            "description": "Kraftcykelns periodtal i sekunder."
+        },
+        {
+            "id": 9,
+            "label": "Spänningssystem",
+            "description": "Spänningssystemet som används, t.ex. volt."
+        },
+        {
+            "id": 10,
+            "label": "Anmärkningar",
+            "description": "Eventuella anmärkningar eller kommentarer."
+        },
+        {
+            "id": 11,
+            "label": "Företagets nr a kartan",
+            "description": "Nummer som refererar till företaget på en karta."
+        }
+    ],
+    "filename": "Gävleborg_1.png"
+}

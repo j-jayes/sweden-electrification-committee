@@ -1,0 +1,205 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Munktells Pappersfabr. A.-B.",
+            "location": "Kopparberg",
+            "power_station_name": "Bergsgården",
+            "power_source": "steam",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 2,
+            "company_name": "Bergsgårdens Bel.-För.",
+            "location": "Grycksbo",
+            "power_station_name": "subscription from Munktells A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 3,
+            "company_name": "Mindre distr.-företag",
+            "location": "Grycksbo",
+            "power_station_name": "subscription from Munktells A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 4,
+            "company_name": "Grycksbo El. Bel.-För.",
+            "location": "Grycksbo",
+            "power_station_name": "subscription from Munktells A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 5,
+            "company_name": "K. J. Hellbergs sterbhus",
+            "location": "Österå",
+            "power_station_name": "Ab. Fr. St. Kop. A.-B.",
+            "power_source": "water",
+            "installed_capacity_kva": 275
+        },
+        {
+            "index": 6,
+            "company_name": "Morbynsdals El. Diste.-För.",
+            "location": "Grangärde",
+            "power_station_name": "Ab. Fr. St. Kop. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 7,
+            "company_name": "Grönbo",
+            "location": "Grönbo",
+            "power_station_name": "Ab. Fr. St. Kop. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 8,
+            "company_name": "Distr.-företag i Källvik en",
+            "location": "Källviken",
+            "power_station_name": "o. Åspegbo Diste.et.-Fören.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 9,
+            "company_name": "Säfussare El. Distr.-Fören.",
+            "location": "o. Åspegbo Kopparberge",
+            "power_station_name": "Ab. Fr. Falun El. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 10,
+            "company_name": "Helingsbergs Bel.-För.",
+            "location": "Stora Kopparberg",
+            "power_station_name": " subscription from Ab. Fr. Falun El. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 11,
+            "company_name": "Höglo-Holmens",
+            "location": "Höglo-Holmen",
+            "power_station_name": "Ab. Fr. Falun El. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 12,
+            "company_name": "Där distr.-företag",
+            "location": "Där",
+            "power_station_name": "Ab. Fr. Falun El. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 13,
+            "company_name": "Korsnäs Sågverks A.-B.",
+            "location": "Korsnäs",
+            "power_station_name": "Korsnäs",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 14,
+            "company_name": "Falu El. Bel. A.-B.",
+            "location": "Falun",
+            "power_station_name": "Falu El-verkk",
+            "power_source": "steam",
+            "installed_capacity_kva": 775
+        },
+        {
+            "index": 15,
+            "company_name": "Falu distr.-företag",
+            "location": "Falun",
+            "power_station_name": "Fr. Falu El. Bel. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 17,
+            "company_name": "Koppar. Bergsl. A.-B.",
+            "location": "Hyttan (Falu)",
+            "power_station_name": "Hyttan (Falu)",
+            "power_source": "steam",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 18,
+            "company_name": "Tracst.-fallet i Falun",
+            "location": "Falun",
+            "power_station_name": "St. Kop. Bergsi. A.-B.",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 19,
+            "company_name": "Tracst.-fallet i Falun",
+            "location": "Falun",
+            "power_station_name": "Ab. Fr. St. Kop. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 20,
+            "company_name": "Mindre distr.-företag",
+            "location": "Åspegoda",
+            "power_station_name": "Ab. Fr. St. Kop. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 22,
+            "company_name": "Aspöboda El. Distr.-Förening",
+            "location": "Aspöboda",
+            "power_station_name": "Aspöboda",
+            "power_source": "water",
+            "installed_capacity_kva": 147
+        },
+        {
+            "index": 23,
+            "company_name": "Spånga El. Distr.-Förening",
+            "location": "Spånga",
+            "power_station_name": "Aspöboda",
+            "power_source": "water",
+            "installed_capacity_kva": 115
+        },
+        {
+            "index": 25,
+            "company_name": "Mindre distr.-företag",
+            "location": "o. Tensta",
+            "power_station_name": "subscription from Åspegbo distrikts",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 26,
+            "company_name": "Olsbacka El. Dist.-För.",
+            "location": "o. Tuna",
+            "power_station_name": "subscription from Åspegbo distrikts",
+            "power_source": "subscription",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 28,
+            "company_name": "Olsbacka El . Distr.-Fören.",
+            "location": "Olsbacka",
+            "power_station_name": "subscription from Åspegbo distrikts",
+            "power_source": "subscription",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 30,
+            "company_name": "Munktells Pappersfabr. A.-B.",
+            "location": "Svärdsjö",
+            "power_station_name": "Borgärde",
+            "power_source": "steam",
+            "installed_capacity_kva": 1078
+        }
+    ],
+    "filename": "Kopparberg_1.png"
+}

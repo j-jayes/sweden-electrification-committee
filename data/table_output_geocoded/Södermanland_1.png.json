@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Älvkarleby kraftverk, sekundärstationerna i Strängnäs",
+      "location": "Strängnäs",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Strängnäs, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Strängnäs, Sweden",
+        "location": {
+          "lat": 59.37745229999999,
+          "lng": 17.0321193
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Strängnäs stads el. verk",
+      "location": "Strängnäs",
+      "power_station_name": "Strängnäs kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Strängnäs, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Strängnäs, Sweden",
+        "location": {
+          "lat": 59.37745229999999,
+          "lng": 17.0321193
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Ulvhälls och Gorsingeholms egendomar m. fl.",
+      "location": "Strängnäs",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Strängnäs, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Strängnäs, Sweden",
+        "location": {
+          "lat": 59.37745229999999,
+          "lng": 17.0321193
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Vagnsö el. distr.-fören. och A.-B. Smålands tegelbruk",
+      "location": "Vagnsö",
+      "power_station_name": "Vagnsö",
+      "power_source": "oil",
+      "installed_capacity_kva": 150,
+      "full_location": "Vagnsö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Aspö el. distr.-fören. och H. Wrange",
+      "location": "Aspö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Aspö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "645 93 Aspö, Sweden",
+        "location": {
+          "lat": 59.4842634,
+          "lng": 17.0423215
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Toresunds norra el. distr.-fören.",
+      "location": "Toresund",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Toresund, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Toresunds södra el. distr.-fören.",
+      "location": "Toresund",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Toresund, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Stallarholmens el. distr.-fören.",
+      "location": "Ytterselö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ytterselö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ytterselö, 645 97 Stallarholmen, Sweden",
+        "location": {
+          "lat": 59.37616000000001,
+          "lng": 17.264264
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Husby tegelbruk",
+      "location": "Ytterselö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 300,
+      "full_location": "Ytterselö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ytterselö, 645 97 Stallarholmen, Sweden",
+        "location": {
+          "lat": 59.37616000000001,
+          "lng": 17.264264
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "A.-B. Berna, Sundby Tegelbruks A.-B. m. fl.",
+      "location": "Överenslö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Överenslö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Ytterselö el. distr.-fören.",
+      "location": "Överenslö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 120,
+      "full_location": "Överenslö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Näsby tegelbruk",
+      "location": "Överenslö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 90,
+      "full_location": "Överenslö, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Malmby Ähus el. distr.-fören.",
+      "location": "Strängnäs",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 90,
+      "full_location": "Strängnäs, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Strängnäs, Sweden",
+        "location": {
+          "lat": 59.37745229999999,
+          "lng": 17.0321193
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Åkers krutbruk",
+      "location": "Åker",
+      "power_station_name": "Åker",
+      "power_source": "steam",
+      "installed_capacity_kva": 180,
+      "full_location": "Åker, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "647 51 Åker, Sweden",
+        "location": {
+          "lat": 59.2513595,
+          "lng": 17.0909828
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Åkers styckebruk",
+      "location": "Åker",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Åker, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "647 51 Åker, Sweden",
+        "location": {
+          "lat": 59.2513595,
+          "lng": 17.0909828
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Mariefreds stads el.-verk",
+      "location": "Mariefred",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 400,
+      "full_location": "Mariefred, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "647 30 Mariefred, Sweden",
+        "location": {
+          "lat": 59.26203809999999,
+          "lng": 17.22311
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Kärnbo stora el. distr.-fören. m. fl.",
+      "location": "Kärnbo",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 175,
+      "full_location": "Kärnbo, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Falkebovägen 12, 647 31 Mariefred, Sweden",
+        "location": {
+          "lat": 59.2612842,
+          "lng": 17.2126737
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Taxinge-Näsby egendom och Mariefreds stad",
+      "location": "Taxinge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Taxinge, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Taxinge - Mariefred, Sweden",
+        "location": {
+          "lat": 59.2573408,
+          "lng": 17.265021
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Enhörna el. distr.-fören.",
+      "location": "Över Enhörna",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Över Enhörna, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "150 23 Enhörna, Sweden",
+        "location": {
+          "lat": 59.27993309999999,
+          "lng": 17.4693134
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "K. Karlsson",
+      "location": "Eksåg",
+      "power_station_name": "Eksåg",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Eksåg, Södermanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södermanland County, Sweden",
+        "location": {
+          "lat": 59.03363489999999,
+          "lng": 16.7518899
+        }
+      }
+    }
+  ],
+  "filename": "Södermanland_1.png"
+}

@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "index": 58,
+      "company_name": "Norrahammars Bruk",
+      "location": "Norrahammar",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Norrahammars Bruk",
+      "location": "Norrahammar",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 190,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "Norrahammars Bruk",
+      "location": "Norrahammar",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 130,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Norrahammars Bruk",
+      "location": "Norrahammar",
+      "power_station_name": "Liasling elekt-ver",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": "Norrahammars A.-B.",
+      "location": "Norrahammar",
+      "power_station_name": "kraft f motorisk drift",
+      "power_source": "subscription",
+      "installed_capacity_kva": 40,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "Norrahammars A.-B.",
+      "location": "Norrahammar",
+      "power_station_name": "kraft f belysning",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Dubargs elekt-ver",
+      "location": "Barnarp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Barnarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "556 31 Barnarp, Sweden",
+        "location": {
+          "lat": 57.7125721,
+          "lng": 14.1754797
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "G.H. Rogberg—Barnarps kraft A.-B.",
+      "location": "Barnarp pr Jönköping",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "Barnarp pr Jönköping, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "556 31 Barnarp, Sweden",
+        "location": {
+          "lat": 57.7125721,
+          "lng": 14.1754797
+        }
+      }
+    },
+    {
+      "index": 66,
+      "company_name": "Månsarp sn",
+      "location": "Månsarp",
+      "power_station_name": "AB Tabergs elekt-ver",
+      "power_source": "subscription",
+      "installed_capacity_kva": 40,
+      "full_location": "Månsarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "562 50 Månsarp, Sweden",
+        "location": {
+          "lat": 57.6496219,
+          "lng": 14.067951
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Smålands Taberg A.-B.",
+      "location": "Månsarp",
+      "power_station_name": "Smålands Tabergs",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5,
+      "full_location": "Månsarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "562 50 Månsarp, Sweden",
+        "location": {
+          "lat": 57.6496219,
+          "lng": 14.067951
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Tabergs Ytfabrikations A.-B.",
+      "location": "Månsarp",
+      "power_station_name": "Nedre Kraftstationen",
+      "power_source": "subscription",
+      "installed_capacity_kva": 35,
+      "full_location": "Månsarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "562 50 Månsarp, Sweden",
+        "location": {
+          "lat": 57.6496219,
+          "lng": 14.067951
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Tabergs Ytfabrikations A.-B.",
+      "location": "Månsarp",
+      "power_station_name": "Övre Kraftstationen",
+      "power_source": "subscription",
+      "installed_capacity_kva": 14,
+      "full_location": "Månsarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "562 50 Månsarp, Sweden",
+        "location": {
+          "lat": 57.6496219,
+          "lng": 14.067951
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Kåperyds elektrotransform.",
+      "location": "Månsarp",
+      "power_station_name": "Ångmaskin",
+      "power_source": "subscription",
+      "installed_capacity_kva": 14,
+      "full_location": "Månsarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "562 50 Månsarp, Sweden",
+        "location": {
+          "lat": 57.6496219,
+          "lng": 14.067951
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Månsarps sn",
+      "location": "Månsarp",
+      "power_station_name": "Mäsa trävarufabrik",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Månsarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "562 50 Månsarp, Sweden",
+        "location": {
+          "lat": 57.6496219,
+          "lng": 14.067951
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Månsarps elektricitetsverk",
+      "location": "Månsarp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Månsarp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "562 50 Månsarp, Sweden",
+        "location": {
+          "lat": 57.6496219,
+          "lng": 14.067951
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Svantorp sn",
+      "location": "Svantorp",
+      "power_station_name": "Nässjö stads elekt-ver",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20,
+      "full_location": "Svantorp, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Järsnäs sn",
+      "location": "Järsnäs",
+      "power_station_name": "AB, fr Filsby distributionsanl",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Järsnäs, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "561 95 Järsnäs parish, Sweden",
+        "location": {
+          "lat": 57.77682590000001,
+          "lng": 14.5590511
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Barkeryd sn",
+      "location": "Barkeryd",
+      "power_station_name": "Stömsfors elekt-ver",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Barkeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 94 Barkeryd, Sweden",
+        "location": {
+          "lat": 57.72055529999999,
+          "lng": 14.5850903
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Strömsfors elekt-ver",
+      "location": "Barkeryd",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "Barkeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 94 Barkeryd, Sweden",
+        "location": {
+          "lat": 57.72055529999999,
+          "lng": 14.5850903
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Boråns elekt-ver",
+      "location": "Barkeryd",
+      "power_station_name": "Forsarum",
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Barkeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 94 Barkeryd, Sweden",
+        "location": {
+          "lat": 57.72055529999999,
+          "lng": 14.5850903
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Lyrefors-Bordagärds elkraftfore",
+      "location": "Barkeryd",
+      "power_station_name": "Reserv",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3,
+      "full_location": "Barkeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 94 Barkeryd, Sweden",
+        "location": {
+          "lat": 57.72055529999999,
+          "lng": 14.5850903
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Eksryds elektr. förening",
+      "location": "Barkeryd",
+      "power_station_name": "Äng",
+      "power_source": "water",
+      "installed_capacity_kva": 3,
+      "full_location": "Barkeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 94 Barkeryd, Sweden",
+        "location": {
+          "lat": 57.72055529999999,
+          "lng": 14.5850903
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Granängs elekt. förening",
+      "location": "Barkeryd",
+      "power_station_name": "Äng",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Barkeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 94 Barkeryd, Sweden",
+        "location": {
+          "lat": 57.72055529999999,
+          "lng": 14.5850903
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_4.png"
+}

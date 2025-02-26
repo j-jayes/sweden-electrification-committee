@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "index": 351,
+            "company_name": "Tvärsnyra A.-B. Svartvik",
+            "location": "Njurunda",
+            "power_station_name": "Torp 0.",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 352,
+            "company_name": "Borgsjötele Belysningsförening",
+            "location": "Borgsjö",
+            "power_station_name": "Borgsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 353,
+            "company_name": "Borgsjö Elektriska Förening",
+            "location": "Borgsjö",
+            "power_station_name": "Teije",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 354,
+            "company_name": "Alby Vattenfalls A.-B.",
+            "location": "Alby",
+            "power_station_name": "Alby",
+            "power_source": "water",
+            "installed_capacity_kva": 29
+        },
+        {
+            "index": 355,
+            "company_name": "Alby Vattenfalls A.-B.",
+            "location": "Alby",
+            "power_station_name": "Ringdalen",
+            "power_source": "water",
+            "installed_capacity_kva": 17
+        },
+        {
+            "index": 356,
+            "company_name": "Alby Kloratfabrik",
+            "location": "Alby",
+            "power_station_name": "subscription from Alby Vattenfalls A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 357,
+            "company_name": "Alby Carbikfabrik",
+            "location": "Alby",
+            "power_station_name": "subscription from Alby Vattenfalls A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 358,
+            "company_name": "Ånge Elektriska A.-B.",
+            "location": "Haverö",
+            "power_station_name": "subscription from Kölsillre Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 359,
+            "company_name": "Föreningen Enighet ger ljus",
+            "location": "Haverö",
+            "power_station_name": "Kölsillre",
+            "power_source": "water",
+            "installed_capacity_kva": 8
+        },
+        {
+            "index": 360,
+            "company_name": "Kölsillre Kraft A.-B.",
+            "location": "Kölsillre",
+            "power_station_name": "Kölsillre",
+            "power_source": "water",
+            "installed_capacity_kva": 8
+        },
+        {
+            "index": 361,
+            "company_name": "Kraft A.-B. Turbingen",
+            "location": "Hummelsön",
+            "power_station_name": "Hummelsön",
+            "power_source": "water",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 362,
+            "company_name": "Östavalls Elektriska A.-B.",
+            "location": "Östavall",
+            "power_station_name": "Östavall",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 363,
+            "company_name": "By Lyse A.-B.",
+            "location": "Haverö",
+            "power_station_name": "subscription from Kölsillre Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 364,
+            "company_name": "David Lervander",
+            "location": "Anundsjö",
+            "power_station_name": "Tjäl",
+            "power_source": "water",
+            "installed_capacity_kva": 4
+        }
+    ],
+    "filename": "Västernorrland_10.png"
+}

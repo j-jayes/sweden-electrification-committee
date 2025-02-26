@@ -1,0 +1,189 @@
+{
+    "data": [
+        {
+            "index": 81,
+            "company_name": "Förserum sn",
+            "location": "Förserum, Jönköping",
+            "power_station_name": "subscription from Smålands kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 82,
+            "company_name": "Smålands kraft A.-B., Förserums anläggn",
+            "location": "Förserum, Jönköping",
+            "power_station_name": "Angerturbine",
+            "power_source": "water",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 83,
+            "company_name": "Nässjö stad",
+            "location": "Nässjö, Jönköping",
+            "power_station_name": "Nässjö stads elektr.-verk, Nässjö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 84,
+            "company_name": "Kraftverks frän Ramsjöholm Ab fr",
+            "location": "Smålands kraft A.-B.",
+            "power_station_name": "Dieselmotor",
+            "power_source": "diesel",
+            "installed_capacity_kva": 410
+        },
+        {
+            "index": 85,
+            "company_name": "Bottnaryd sn",
+            "location": "Bottnaryd, Jönköping",
+            "power_station_name": "Tolabo gårds elektr. verk, Bottnaryd pr Jönköping",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 86,
+            "company_name": "Bottnaryds elektr. förening, Bottnaryd pr Jönköping",
+            "location": "Bottnaryd, Jönköping",
+            "power_station_name": "subscription from Bottnaryds elektr. förening",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 87,
+            "company_name": "Ringenäs gårds elektr. verk, Ränneslöv, Kvibille sn",
+            "location": "Bottnaryd, Jönköping",
+            "power_station_name": "Klevbo kvarn, Bottnaryd pr Jönköping",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 88,
+            "company_name": "Egärds gårds ele.-verk., Bottnaryd pr Jönköping",
+            "location": "Bottnaryd, Jönköping",
+            "power_station_name": "subscription from Egärds gårds ele.-verk.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 89,
+            "company_name": "Angerdshestra sn",
+            "location": "Angerdshestra, Jönköping",
+            "power_station_name": "Röhogårds gårds elektr.-verk",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 90,
+            "company_name": "Yas elektr.-verk, Angerdshestra",
+            "location": "Angerdshestra, Jönköping",
+            "power_station_name": "subscription from Yas elektr.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 91,
+            "company_name": "Angerdshestra",
+            "location": "Angerdshestra, Jönköping",
+            "power_station_name": "Arvidsto, Elmä A. Harp- krans",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 92,
+            "company_name": "Munka bo o. Angerdshestra elektr. for., Angerdshestra elektr.-verk, Funbo",
+            "location": "Norra Unnaryd, Jönköping",
+            "power_station_name": "subscription from Angerdshestra sn",
+            "power_source": "subscription",
+            "installed_capacity_kva": 73
+        },
+        {
+            "index": 93,
+            "company_name": "Xarbö elektr. fören., Norra Unnaryds kyrkovakt",
+            "location": "Norra Unnaryd, Jönköping",
+            "power_station_name": "Xarbö elektr. fören.",
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 94,
+            "company_name": "Norra Unnaryds säg. elektr.- verk, Mulls- påryd",
+            "location": "Norra Unnaryd, Jönköping",
+            "power_station_name": "subscription from Norra Unnaryds säg. elektr.- verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 14
+        },
+        {
+            "index": 95,
+            "company_name": "Brynås elektr. för., Molihard",
+            "location": "Bonstorp sn, Jönköping",
+            "power_station_name": "subscription from Brynås elektr. för.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 96,
+            "company_name": "Bonstorp pr Mässarp, Bonstorp elektr. fören.",
+            "location": "Bonstorp sn, Jönköping",
+            "power_station_name": "Bonstorp pr Mässarp, Bonstorp elektr. fören.",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 97,
+            "company_name": "Stengärdshult sn",
+            "location": "Stengärdshult, Jönköping",
+            "power_station_name": "subscription from Stengärdshults elektr. för.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 98,
+            "company_name": "Stengärdshults elektrik. förening, A. Sandelius o. Fisher",
+            "location": "Stengärdshult, Jönköping",
+            "power_station_name": "Rydöbruk elektr. fören.",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 99,
+            "company_name": "Öreryd sn",
+            "location": "Öreryd, Jönköping",
+            "power_station_name": "Skogsmarks kvarn, J. Andersson, Öreryd pr Tranås",
+            "power_source": "water",
+            "installed_capacity_kva": 14
+        },
+        {
+            "index": 100,
+            "company_name": "Valdshult sn",
+            "location": "Valdshult, Jönköping",
+            "power_station_name": "Lilla o Öghults elektr.-verk",
+            "power_source": "water",
+            "installed_capacity_kva": 16
+        },
+        {
+            "index": 101,
+            "company_name": "Valdshults mekan. verkstad, Överby",
+            "location": "Valdshult, Jönköping",
+            "power_station_name": "Överby",
+            "power_source": "water",
+            "installed_capacity_kva": 14
+        },
+        {
+            "index": 102,
+            "company_name": "Åsenhöga sn",
+            "location": "Åsenhöga, Jönköping",
+            "power_station_name": "Ovansås gård, J. Nils- son",
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 103,
+            "company_name": "Granstorps elektr.-verk, Åsenhöga pr Gnosjö",
+            "location": "Åsenhöga, Jönköping",
+            "power_station_name": "subscription from Granstorps elektr.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 60
+        }
+    ],
+    "filename": "Jönköping_5.png"
+}

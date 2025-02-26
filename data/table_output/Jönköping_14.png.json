@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "index": 297,
+            "company_name": "Björkö elektricitetsverk",
+            "location": "Björköby",
+            "power_station_name": "subscription from Rödjenäs gårds el-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 298,
+            "company_name": "Älghults sockens elektricitetsverk",
+            "location": "Lammåsekede",
+            "power_station_name": "subscription from Smålands kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 299,
+            "company_name": "Lammåsekede Orts elektriska förening",
+            "location": "Landsbro",
+            "power_station_name": "subscription from Smålands kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 301,
+            "company_name": "Smålands kraft A.-B., Nässjö kraftstation vid Blå Station",
+            "location": "Skede sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 9225
+        },
+        {
+            "index": 302,
+            "company_name": "Smålands kraft A.-B., Nässjö kraftstation vid Klinte och Brunshult",
+            "location": "Skede sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 900
+        },
+        {
+            "index": 304,
+            "company_name": "Hallaröds mek. verkstad, Holysbrunn",
+            "location": "Vismarlöv",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 305,
+            "company_name": "Hallaröds mek. verkstad, Holysbrunn",
+            "location": "Vismarlöv",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 306,
+            "company_name": "Vetlanda utsipanneri, Vetlanda",
+            "location": "Vetlanda",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 307,
+            "company_name": "Möjlby Utsipanneri A.-B., Vetlanda",
+            "location": "Vetlanda",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 13
+        },
+        {
+            "index": 308,
+            "company_name": "Vemunderyds elektricitetsverk, Vetlanda",
+            "location": "Vetlanda",
+            "power_station_name": null,
+            "power_source": "oil",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 309,
+            "company_name": "Flygely tarförsäljnings A.-B., Vetlanda",
+            "location": "Vetlanda",
+            "power_station_name": null,
+            "power_source": "oil",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 310,
+            "company_name": "Vetlanda stads elektricitetsverk",
+            "location": "Vetlanda",
+            "power_station_name": "subscription from Smålands kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 311,
+            "company_name": "Hallaröds mek. verkstad, Holsbybrunn",
+            "location": "Alseda sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 312,
+            "company_name": "Hallaröds mek. verkstad, Holsbybrunn",
+            "location": "Alseda sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 313,
+            "company_name": "Stenumsåns kvarn, Smål. Hallinge",
+            "location": "Näshult",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 314,
+            "company_name": "Hällinge gårds elektricitets-verk, Srål. Hallinge",
+            "location": "Näshult",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 32
+        },
+        {
+            "index": 315,
+            "company_name": "Stenskoga gårds elektricitetsverk, Vetlanda",
+            "location": "Blöckeda sn",
+            "power_station_name": null,
+            "power_source": "oil",
+            "installed_capacity_kva": 27
+        },
+        {
+            "index": 316,
+            "company_name": "Simonstorps elektricitets-verk, Snärje",
+            "location": "Stigsjö sn",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 17
+        },
+        {
+            "index": 317,
+            "company_name": "Kvillsfors elektricitetsverk, Kråkshult",
+            "location": "Kråkshult",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 318,
+            "company_name": "Högagärds kraftstation, Karlstorp",
+            "location": "Karlstorp",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        }
+    ],
+    "filename": "Jönköping_14.png"
+}

@@ -1,0 +1,85 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer av anläggning"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn, ägare eller innehavare",
+            "description": "Namnet på företaget och dess ägare eller innehavare"
+        },
+        {
+            "id": 3,
+            "label": "Kommun",
+            "description": "Kommun där anläggningen är belägen"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn eller läge",
+            "description": "Namnet eller läget för kraftstationen"
+        },
+        {
+            "id": 5,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft som används"
+        },
+        {
+            "id": 6,
+            "label": "Utf. byggd",
+            "description": "årtal när anläggningen byggdes"
+        },
+        {
+            "id": 7,
+            "label": "Installerad generatorteffekt i kVA",
+            "description": "Installerad effekt av generatorer i kilovoltampere"
+        },
+        {
+            "id": 8,
+            "label": "Strömart",
+            "description": "Typ av ström (AC/DC) som används"
+        },
+        {
+            "id": 9,
+            "label": "Periodtal",
+            "description": "Antal faser och periodtal för systemet"
+        },
+        {
+            "id": 10,
+            "label": "Spänningssystem volt",
+            "description": "Spänningssystemets voltantal"
+        },
+        {
+            "id": 11,
+            "label": "Huvudtransformatorernas effekt kVA",
+            "description": "Effekten av huvudtransformatorer i kilovoltampere"
+        },
+        {
+            "id": 12,
+            "label": "Övertramsformer antal st. \n samtal kW",
+            "description": "Antalet övertransformatorer och deras sammanlagda effekt kW"
+        },
+        {
+            "id": 13,
+            "label": "Anslutning år 1922",
+            "description": "Typ av anslutning som gjordes år 1922"
+        },
+        {
+            "id": 14,
+            "label": "Elkonsumtion förbrukning areal hektar",
+            "description": "Elförbrukningen i kilowattimmar per hektar"
+        },
+        {
+            "id": 15,
+            "label": "Energiförbrukning år 1929 kWh",
+            "description": "Elförbrukning i kilowattimmar för år 1929"
+        },
+        {
+            "id": 16,
+            "label": "Anmärkningar",
+            "description": "Eventuella ytterligare anmärkningar"
+        }
+    ],
+    "filename": "Stockholm_1.png"
+}

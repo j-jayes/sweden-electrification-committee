@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "index": 21,
+            "company_name": "Söderby-Karls el. distr.-fören.",
+            "location": "Söderby-Karl",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 22,
+            "company_name": "Roslagsbro el. distr.-fören.",
+            "location": "Roslagsbro",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 23,
+            "company_name": "Vätö el. distr.-fören.",
+            "location": "Vätö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 24,
+            "company_name": "Estuna el. distr.-fören.",
+            "location": "Estuna och Söderby-Karl",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 25,
+            "company_name": "Norrtälje stads el.-verk",
+            "location": "Norrtälje",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 26,
+            "company_name": "Frötuna el. distr.-fören.",
+            "location": "Frötuna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 27,
+            "company_name": "Lohärads el. distr.-fören.",
+            "location": "Lohärad",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 28,
+            "company_name": "Ununge el. distr.-fören.",
+            "location": "Ununge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 29,
+            "company_name": "Rimbo el. distr.-fören.",
+            "location": "Rimbo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 30,
+            "company_name": "Rimbo municipalsamhälle och Rimbo kommuns el.-verk",
+            "location": "Rimbo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 31,
+            "company_name": "Gimo-Österby Bruks A.-B.",
+            "location": "Fasterna",
+            "power_station_name": "Rånäs",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 32,
+            "company_name": "Lenna Bruks A.-B.",
+            "location": "Almunge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 33,
+            "company_name": "Almunge el. distr.-fören.",
+            "location": "Almunge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 34,
+            "company_name": "Husby-Långhundra el. distr.-fören.",
+            "location": "Husby-Långhundra",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 35,
+            "company_name": "Gottröra el. distr.-fören.",
+            "location": "Gottröra",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 36,
+            "company_name": "Knivsta el. distr.-fören.",
+            "location": "Knivsta",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 37,
+            "company_name": "Alsike el. distr.-fören.",
+            "location": "Alsike",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 38,
+            "company_name": "Vallox-Seby el. distr.-fören.",
+            "location": "Odensala",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 39,
+            "company_name": "Noor-Ledsinge el. distr.-fören.",
+            "location": "Knivsta",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 40,
+            "company_name": "Odensala el. distr.-fören.",
+            "location": "Odensala",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 41,
+            "company_name": "Märstaorten el. distr.-fören.",
+            "location": "Husby-Ärlinghundra",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 42,
+            "company_name": "Sigtuna el. distr.-fören.",
+            "location": "Sigtuna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 44
+        },
+        {
+            "index": 43,
+            "company_name": "Sigtuna-Husby-Lunda el. distr.-fören.",
+            "location": "Sigtuna och St Olof",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 44,
+            "company_name": "Vengarn uppfostringsanstalt",
+            "location": "St Olof",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 45,
+            "company_name": "Skånela el. distr.-fören.",
+            "location": "Norrsunda",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 46,
+            "company_name": "Röserbergs el. distr.-fören.",
+            "location": "Sollentuna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 47,
+            "company_name": "Älvkarleby kraftverk Sekundärstationen i Norrviken",
+            "location": "Sollentuna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 48,
+            "company_name": "A.-B. Svenska färgämnesutveckling",
+            "location": "Sollentuna",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        }
+    ],
+    "filename": "Stockholm_2.png"
+}

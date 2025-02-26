@@ -1,0 +1,533 @@
+{
+  "data": [
+    {
+      "index": 116,
+      "company_name": "Långsele Belysn. A.-B.",
+      "location": "Långsele",
+      "power_station_name": "Abon. fr. Helgums Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Långsele, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "882 40 Långsele parish, Sweden",
+        "location": {
+          "lat": 63.1764937,
+          "lng": 17.0587209
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Berge-Bäckedalsny Belysn.-fören.",
+      "location": "Österforse",
+      "power_station_name": "Berge",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Österforse, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "882 91 Österforse, Sweden",
+        "location": {
+          "lat": 63.15470449999999,
+          "lng": 17.0239336
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Östergraninge Belysningsförening",
+      "location": "Östergraninge",
+      "power_station_name": "Östergraninge",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Östergraninge, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "882 95 Östergraninge, Sweden",
+        "location": {
+          "lat": 62.9955746,
+          "lng": 17.1550568
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Vm. Graninge Ek. Distr.-förening",
+      "location": "Graninge",
+      "power_station_name": "Abon. fr. Helgums Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Graninge, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "882 95 Graninge, Sweden",
+        "location": {
+          "lat": 63.0712679,
+          "lng": 16.9396816
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Leding Ek. Distr.-förening",
+      "location": "Graninge",
+      "power_station_name": "Abon. fr. Helgums Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Graninge, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "882 95 Graninge, Sweden",
+        "location": {
+          "lat": 63.0712679,
+          "lng": 16.9396816
+        }
+      }
+    },
+    {
+      "index": 121,
+      "company_name": "Graningeverkens A.-B.",
+      "location": "Helgum",
+      "power_station_name": "Graninge bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 1200,
+      "full_location": "Helgum, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "882 93 Helgum, Sweden",
+        "location": {
+          "lat": 63.15145390000001,
+          "lng": 16.9495312
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Helgums Kraft A.-B.",
+      "location": "Helgum",
+      "power_station_name": "Grönsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Helgum, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "882 93 Helgum, Sweden",
+        "location": {
+          "lat": 63.15145390000001,
+          "lng": 16.9495312
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "A.-B. Leding-Helgums Kraftstation",
+      "location": "Överlännäs",
+      "power_station_name": "Lidom",
+      "power_source": "water",
+      "installed_capacity_kva": 70,
+      "full_location": "Överlännäs, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "881 95 Överlännäs, Sweden",
+        "location": {
+          "lat": 63.16036750000001,
+          "lng": 17.6554516
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Björkå A.-B.",
+      "location": "Boteå",
+      "power_station_name": "Högfors",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Boteå, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "881 95 Boteå, Sweden",
+        "location": {
+          "lat": 63.1343019,
+          "lng": 17.7126567
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "-",
+      "location": "-",
+      "power_station_name": "Other gamla station",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "-",
+      "location": "-",
+      "power_station_name": "nya",
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "-",
+      "location": "-",
+      "power_station_name": "Lo kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 100,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "Styrnäs Elektriska A.-B.",
+      "location": "Styrnäs",
+      "power_station_name": "Nedre",
+      "power_source": "water",
+      "installed_capacity_kva": 131,
+      "full_location": "Styrnäs, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "873 94 Styrnäs, Sweden",
+        "location": {
+          "lat": 63.08754579999999,
+          "lng": 17.7745561
+        }
+      }
+    },
+    {
+      "index": 130,
+      "company_name": "Götrik Nolander i Ed",
+      "location": "Ytterlännäs",
+      "power_station_name": "Ed",
+      "power_source": "diesel",
+      "installed_capacity_kva": 48,
+      "full_location": "Ytterlännäs, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "873 30 Ytterlännäs, Sweden",
+        "location": {
+          "lat": 63.0061507,
+          "lng": 17.6852257
+        }
+      }
+    },
+    {
+      "index": 131,
+      "company_name": "Stenstatns Kvarn och Elektr. A.-B.",
+      "location": "-",
+      "power_station_name": "Stenstatnet, 2 stationer",
+      "power_source": "diesel",
+      "installed_capacity_kva": 48,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Svantjask Elektr. Distr.-förening",
+      "location": "-",
+      "power_station_name": "Abon. från Fonesda Andelsförrening",
+      "power_source": "subscription",
+      "installed_capacity_kva": -1,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 135,
+      "company_name": "Nordens Elektr. Andelsförrenig",
+      "location": "Frosed",
+      "power_station_name": "Nedre",
+      "power_source": "steam",
+      "installed_capacity_kva": -1,
+      "full_location": "Frosed, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 136,
+      "company_name": "Ångermanälvens Flottn.-förening",
+      "location": "Västertorps",
+      "power_station_name": "Lo",
+      "power_source": "water",
+      "installed_capacity_kva": 134,
+      "full_location": "Västertorps, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "873 91 Västertorp, Sweden",
+        "location": {
+          "lat": 62.9990554,
+          "lng": 17.399592
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": "Eds",
+      "location": "Box",
+      "power_station_name": "Box",
+      "power_source": "water",
+      "installed_capacity_kva": 1750,
+      "full_location": "Box, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": "A.-B. Nylands Ångsåg",
+      "location": "Nyland",
+      "power_station_name": "Nedre",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Nyland, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "873 71 Nyland, Sweden",
+        "location": {
+          "lat": 63.00667439999999,
+          "lng": 17.7564249
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": "Bosjö Sågverk A.-B.",
+      "location": "Bosjö",
+      "power_station_name": "Vibo",
+      "power_source": "water",
+      "installed_capacity_kva": -1,
+      "full_location": "Bosjö, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": "Dynäs Sågverk",
+      "location": "-",
+      "power_station_name": "Abon. från Graningevekins A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": -1,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": "Hammars Mek. Verkstad",
+      "location": "Säbrå",
+      "power_station_name": "Vifsta sulfátfabrik",
+      "power_source": "water",
+      "installed_capacity_kva": -1,
+      "full_location": "Säbrå, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "Härnösands stads Elektricitetsverk.",
+      "location": "Härnösand",
+      "power_station_name": "Gladi",
+      "power_source": "water",
+      "installed_capacity_kva": -1,
+      "full_location": "Härnösand, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Härnösand, Sweden",
+        "location": {
+          "lat": 62.6322698,
+          "lng": 17.9408714
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "Ulvvikk och Svedje-El., Bel.-förening",
+      "location": "Säbrå",
+      "power_station_name": "Ulvik",
+      "power_source": "water",
+      "installed_capacity_kva": -1,
+      "full_location": "Säbrå, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "Lögudölsgjens Belysningsförening",
+      "location": "-",
+      "power_station_name": "Brath",
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 146,
+      "company_name": "Säbrå-Hämo Elektr. And.-förening",
+      "location": "-",
+      "power_station_name": "Bend",
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 147,
+      "company_name": "-",
+      "location": "-",
+      "power_station_name": "Abon. från Hährsie Elektriska Ferin",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 148,
+      "company_name": "-",
+      "location": "-",
+      "power_station_name": "Lärön",
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 149,
+      "company_name": "Eds",
+      "location": "Överål",
+      "power_station_name": "Abon. från Fjalnäs Stolsvekns Ferin",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Överål, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 151,
+      "company_name": "Norrbrand",
+      "location": "-",
+      "power_station_name": "Sundinge",
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 153,
+      "company_name": "Alnams Elektr. B.=l.förening",
+      "location": "Alnö",
+      "power_station_name": "Abon. från Beromag Brörbella",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Alnö, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Alnön, Sweden",
+        "location": {
+          "lat": 62.4035166,
+          "lng": 17.4604069
+        }
+      }
+    },
+    {
+      "index": 154,
+      "company_name": "Ramse Elektr. Förening",
+      "location": "-",
+      "power_station_name": "Abon. från Ramnsjö Informationsffton.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "-, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    }
+  ],
+  "filename": "Västernorrland_4.png"
+}

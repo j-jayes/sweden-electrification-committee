@@ -1,0 +1,565 @@
+{
+  "data": [
+    {
+      "index": 111,
+      "company_name": "Hernebo industri A.-B.",
+      "location": "Söderala",
+      "power_station_name": "Hernebo",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Söderala, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 61 Söderala, Sweden",
+        "location": {
+          "lat": 61.28214730000001,
+          "lng": 16.95946
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Ljusne-Voxna A.-B.",
+      "location": "Skog",
+      "power_station_name": "Guldgruvan",
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "Skog, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 69 Skog, Sweden",
+        "location": {
+          "lat": 61.16475990000001,
+          "lng": 16.8215099
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Norra Skogs elektr. distributionsförening",
+      "location": "Skog",
+      "power_station_name": "Abon. från nr 112, Guldgruve kraftst.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Skog, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 69 Skog, Sweden",
+        "location": {
+          "lat": 61.16475990000001,
+          "lng": 16.8215099
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Hinds snickerifabrik",
+      "location": "Skog och Ockelbo",
+      "power_station_name": "Abon. från 112, Guldgruve kraftst.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Skog och Ockelbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ockelbo, Sweden",
+        "location": {
+          "lat": 60.89178399999999,
+          "lng": 16.7201873
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Mindre kraftanläggning",
+      "location": "Skog",
+      "power_station_name": "25, Bosågens",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Skog, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 69 Skog, Sweden",
+        "location": {
+          "lat": 61.16475990000001,
+          "lng": 16.8215099
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Holmsvedens sulfatfabrik",
+      "location": "Söderala",
+      "power_station_name": "Hunsbo",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Söderala, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 61 Söderala, Sweden",
+        "location": {
+          "lat": 61.28214730000001,
+          "lng": 16.95946
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Mindre kraftanläggning",
+      "location": "Holmsveden",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 15,
+      "full_location": "Holmsveden, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "823 92 Holmsveden, Sweden",
+        "location": {
+          "lat": 61.1131277,
+          "lng": 16.7279774
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "...",
+      "location": "Hentaböle",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 15,
+      "full_location": "Hentaböle, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "...",
+      "location": "Lingbo",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 20,
+      "full_location": "Lingbo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "816 92 Lingbo, Sweden",
+        "location": {
+          "lat": 61.0459523,
+          "lng": 16.6846282
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "A.-B. Lingbo verkstäder",
+      "location": "Lingbo kapell",
+      "power_station_name": "Vistering",
+      "power_source": "steam",
+      "installed_capacity_kva": 80,
+      "full_location": "Lingbo kapell, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "816 92 Lingbo, Sweden",
+        "location": {
+          "lat": 61.0459523,
+          "lng": 16.6846282
+        }
+      }
+    },
+    {
+      "index": 121,
+      "company_name": "Mindre kraftanläggning",
+      "location": "Skog och Söderala",
+      "power_station_name": "Ljusne",
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Skog och Söderala, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 61 Söderala, Sweden",
+        "location": {
+          "lat": 61.28214730000001,
+          "lng": 16.95946
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Ljusne-Voxna A.-B.",
+      "location": "Krafteleverans fr. nr 123 Ljusneverken",
+      "power_station_name": "Ab. från nr 123 Ljusne",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Krafteleverans fr. nr 123 Ljusneverken, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "...",
+      "location": "Krafteleverans fr. nr 123 Ljusneverken",
+      "power_station_name": "Ab. från nr 123 Ljusne",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Krafteleverans fr. nr 123 Ljusneverken, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Sultt A.-B. Ljusnan",
+      "location": "Vallvik gas",
+      "power_station_name": "Ab. från nr 123 Ljusne",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5000,
+      "full_location": "Vallvik gas, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 79 Vallvik, Sweden",
+        "location": {
+          "lat": 61.1847212,
+          "lng": 17.1791565
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "Bergvik och Ala Nya A.-B.",
+      "location": "Söderala",
+      "power_station_name": "Bergviks södra",
+      "power_source": "subscription",
+      "installed_capacity_kva": 220,
+      "full_location": "Söderala, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 61 Söderala, Sweden",
+        "location": {
+          "lat": 61.28214730000001,
+          "lng": 16.95946
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "Vasaiters elektr. distributionsförening",
+      "location": "Haga",
+      "power_station_name": "Abon. från nr 125 Bergvik och Ala Nya A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Haga, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "823 91 Hårga, Sweden",
+        "location": {
+          "lat": 61.2685663,
+          "lng": 16.5554849
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "...",
+      "location": "Sunnanå",
+      "power_station_name": "Ab. från nr 125 Bergvik och Ala Nya A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Sunnanå, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 68 Sunnanå, Sweden",
+        "location": {
+          "lat": 61.2519471,
+          "lng": 16.863091
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "...",
+      "location": "Myrkyje by",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 38000,
+      "full_location": "Myrkyje by, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "828 91 Gavleborg, Sweden",
+        "location": {
+          "lat": 61.51322,
+          "lng": 15.53581
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "Alsätra distributionsförening",
+      "location": "Skog",
+      "power_station_name": "Krafteleverans fr. nr 125 Bergviks kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 33000,
+      "full_location": "Skog, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 69 Skog, Sweden",
+        "location": {
+          "lat": 61.16475990000001,
+          "lng": 16.8215099
+        }
+      }
+    },
+    {
+      "index": 130,
+      "company_name": "Askesta sågverk",
+      "location": "Sandarne",
+      "power_station_name": "Söderhamn kraftst.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 83000,
+      "full_location": "Sandarne, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 72 Sandarne, Sweden",
+        "location": {
+          "lat": 61.25998180000001,
+          "lng": 17.1472249
+        }
+      }
+    },
+    {
+      "index": 131,
+      "company_name": "Ala sågverk",
+      "location": "Söderala",
+      "power_station_name": "Sandarne",
+      "power_source": "steam",
+      "installed_capacity_kva": 900,
+      "full_location": "Söderala, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 61 Söderala, Sweden",
+        "location": {
+          "lat": 61.28214730000001,
+          "lng": 16.95946
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Sandarnes sulfatfabrik",
+      "location": "Sandarne",
+      "power_station_name": "Sandarne",
+      "power_source": "steam",
+      "installed_capacity_kva": 900,
+      "full_location": "Sandarne, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 72 Sandarne, Sweden",
+        "location": {
+          "lat": 61.25998180000001,
+          "lng": 17.1472249
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Mindre kraftanläggning",
+      "location": "Söderala",
+      "power_station_name": "Ljusne",
+      "power_source": "steam",
+      "installed_capacity_kva": 75,
+      "full_location": "Söderala, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 61 Söderala, Sweden",
+        "location": {
+          "lat": 61.28214730000001,
+          "lng": 16.95946
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "Florins kraft A.-B.",
+      "location": "Mo",
+      "power_station_name": "Florvam",
+      "power_source": "water",
+      "installed_capacity_kva": 69,
+      "full_location": "Mo, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 93 Mo, Sweden",
+        "location": {
+          "lat": 61.3125699,
+          "lng": 16.7807089
+        }
+      }
+    },
+    {
+      "index": 135,
+      "company_name": "Mindre kraftanläggning",
+      "location": "Myrkyje",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Myrkyje, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 136,
+      "company_name": "...",
+      "location": "Myssjöke",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Myssjöke, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": "Häsjö kraft A.-B.",
+      "location": "Norrala kraftstation",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 53360,
+      "full_location": "Norrala kraftstation, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 94 Norrala, Sweden",
+        "location": {
+          "lat": 61.36022569999999,
+          "lng": 16.9859866
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": "Norrlands kraft A.-B.",
+      "location": "Håsjö och Måssjö kraftstationer",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10000,
+      "full_location": "Håsjö och Måssjö kraftstationer, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "824 67 Hålsjo, Sweden",
+        "location": {
+          "lat": 61.8319553,
+          "lng": 16.758497
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": "Skars elektriska A.-B.",
+      "location": "Trönö",
+      "power_station_name": "Norrala",
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Trönö, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 95 Trönö, Sweden",
+        "location": {
+          "lat": 61.39651219999999,
+          "lng": 16.8336653
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": "Mindre kraftanläggning",
+      "location": "Skärså",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 83000,
+      "full_location": "Skärså, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 91 Skärså, Sweden",
+        "location": {
+          "lat": 61.3795656,
+          "lng": 17.1074288
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": "Trönö elektriska A.-B.",
+      "location": "Trönö",
+      "power_station_name": "Trönö",
+      "power_source": "water",
+      "installed_capacity_kva": 4000,
+      "full_location": "Trönö, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 95 Trönö, Sweden",
+        "location": {
+          "lat": 61.39651219999999,
+          "lng": 16.8336653
+        }
+      }
+    },
+    {
+      "index": 142,
+      "company_name": "Mindre kraftanläggning",
+      "location": "Grönstens",
+      "power_station_name": "Ab. from Trönö elektriska A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 320,
+      "full_location": "Grönstens, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "...",
+      "location": "Grubbe",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 32,
+      "full_location": "Grubbe, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "826 95 Grubbe, Sweden",
+        "location": {
+          "lat": 61.44417550000001,
+          "lng": 16.7269689
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "...",
+      "location": "Stugte",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 22,
+      "full_location": "Stugte, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "...",
+      "location": "Tygtsta",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 16,
+      "full_location": "Tygtsta, Gävleborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gavleborg County, Sweden",
+        "location": {
+          "lat": 61.4388743,
+          "lng": 16.5940196
+        }
+      }
+    }
+  ],
+  "filename": "Gävleborg_4.png"
+}

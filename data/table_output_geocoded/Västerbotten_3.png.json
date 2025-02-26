@@ -1,0 +1,549 @@
+{
+  "data": [
+    {
+      "index": 78,
+      "company_name": "Tvärålund–Örträsk El. Fören.",
+      "location": "Vännäs",
+      "power_station_name": "Orrböle",
+      "power_source": "water",
+      "installed_capacity_kva": 11,
+      "full_location": "Vännäs, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vännäs, Sweden",
+        "location": {
+          "lat": 63.908007,
+          "lng": 19.752965
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Järmböle El. Fören.",
+      "location": "Degerfors",
+      "power_station_name": "Järmböle",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Degerfors, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "922 31 Degerfors, Sweden",
+        "location": {
+          "lat": 64.2,
+          "lng": 19.716667
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Bjurholms Såg och Elverk Bol.",
+      "location": "Norsjö",
+      "power_station_name": "Renfors",
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Vindelns Såg och Vattenkraft A.-B.",
+      "location": "Jörns",
+      "power_station_name": "Ledefors",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Jörns, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "936 51 Jörn, Sweden",
+        "location": {
+          "lat": 65.0576818,
+          "lng": 20.0345639
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Hällnas El. Kraft A.-B.",
+      "location": "Vännäs",
+      "power_station_name": "Stennäs",
+      "power_source": "water",
+      "installed_capacity_kva": 82,
+      "full_location": "Vännäs, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vännäs, Sweden",
+        "location": {
+          "lat": 63.908007,
+          "lng": 19.752965
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Otto Holmberg, Stensträsk",
+      "location": "Norsjö",
+      "power_station_name": "Anstjån",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Otto Holmberg, Stensträsk",
+      "location": "Norsjö",
+      "power_station_name": "Ankarsjön",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Otto Holmberg, Stensträsk",
+      "location": "Norsjö",
+      "power_station_name": "Björkås",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "Otto Holmberg, Stensträsk",
+      "location": "Norsjö",
+      "power_station_name": "Storsandsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Åmsele EL-Fören.",
+      "location": "Åmsele",
+      "power_station_name": "Åmsele",
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Åmsele, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "922 75 Åmsele, Sweden",
+        "location": {
+          "lat": 64.5296316,
+          "lng": 19.3471134
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": "Västerfors Bol.-Fören.",
+      "location": "Kalix",
+      "power_station_name": "Västerfors",
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Kalix, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerbotten County, Sweden",
+        "location": {
+          "lat": 65.3337311,
+          "lng": 16.5161695
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Strandholms Bol.-Fören.",
+      "location": "Umeå",
+      "power_station_name": "Strandholm",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Umeå, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Umeå, Sweden",
+        "location": {
+          "lat": 63.8258471,
+          "lng": 20.2630354
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "Vilträskens EL-Fören.",
+      "location": "Burträsk",
+      "power_station_name": "Vilträsk",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Burträsk, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "937 31 Burträsk, Sweden",
+        "location": {
+          "lat": 64.5197907,
+          "lng": 20.6566774
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "Rutträsk EL. Fören.",
+      "location": "Norsjö",
+      "power_station_name": "Risålder",
+      "power_source": "water",
+      "installed_capacity_kva": 6,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Rutträsk EL. Fören.",
+      "location": "Norsjö",
+      "power_station_name": "Mårsårtick",
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Adakås EL. Fören.",
+      "location": "Malå",
+      "power_station_name": "Potafisk",
+      "power_source": "water",
+      "installed_capacity_kva": 6,
+      "full_location": "Malå, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Malå, Sweden",
+        "location": {
+          "lat": 65.18512,
+          "lng": 18.74907
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Rutträsk EL. Fören.",
+      "location": "Norsjö",
+      "power_station_name": "Polaren",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 102,
+      "company_name": "Skånsa EL. Kraft A.-B.",
+      "location": "Stensele",
+      "power_station_name": "Gumbacken",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Stensele, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "923 41 Stensele, Sweden",
+        "location": {
+          "lat": 65.0649864,
+          "lng": 17.1598298
+        }
+      }
+    },
+    {
+      "index": 104,
+      "company_name": "Distrib. från Hammarskyr.",
+      "location": "Hammarskyrka",
+      "power_station_name": "subscription from Kraftverk fr. Gädebacka",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Hammarskyrka, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerbotten County, Sweden",
+        "location": {
+          "lat": 65.3337311,
+          "lng": 16.5161695
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Långdass El. A.-B.",
+      "location": "Nordmaling",
+      "power_station_name": "Hågrås",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Nordmaling, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nordmaling, Sweden",
+        "location": {
+          "lat": 63.5671062,
+          "lng": 19.5050216
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Hagstäde El.-Fören.",
+      "location": "Höglunda",
+      "power_station_name": "Gärdsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Höglunda, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerbotten County, Sweden",
+        "location": {
+          "lat": 65.3337311,
+          "lng": 16.5161695
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Rosinsjo EL. A.-B.",
+      "location": "Vännäs",
+      "power_station_name": "Hornsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Vännäs, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vännäs, Sweden",
+        "location": {
+          "lat": 63.908007,
+          "lng": 19.752965
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "Strömarks EL. Fören.",
+      "location": "Nordmaling",
+      "power_station_name": "Grönfjäll",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Nordmaling, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nordmaling, Sweden",
+        "location": {
+          "lat": 63.5671062,
+          "lng": 19.5050216
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Brattsbacka EL. Fören.",
+      "location": "Nordmaling",
+      "power_station_name": "Brattsbacka",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Nordmaling, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nordmaling, Sweden",
+        "location": {
+          "lat": 63.5671062,
+          "lng": 19.5050216
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Bjurholms EL. A.-B.",
+      "location": "Bjurholm",
+      "power_station_name": "Bjurholm",
+      "power_source": "water",
+      "installed_capacity_kva": 32,
+      "full_location": "Bjurholm, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "916 31 Bjurholm, Sweden",
+        "location": {
+          "lat": 63.9304056,
+          "lng": 19.2192125
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Lillsträsk EL-Fören.",
+      "location": "Norsjö",
+      "power_station_name": "Lillsträsk",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Butterträsk EL-Fören.",
+      "location": "Norsjö",
+      "power_station_name": "Butterträsk",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Ottensträskens Kraft A.-B.",
+      "location": "Norsjö",
+      "power_station_name": "Ottensträskbäcken",
+      "power_source": "water",
+      "installed_capacity_kva": 6,
+      "full_location": "Norsjö, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norsjö, Sweden",
+        "location": {
+          "lat": 64.9135093,
+          "lng": 19.4826413
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Örträsk El.-Fören.",
+      "location": "Örträsk o. Lycksele",
+      "power_station_name": "Lämfors",
+      "power_source": "water",
+      "installed_capacity_kva": 8,
+      "full_location": "Örträsk o. Lycksele, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "916 95 Örträsk, Sweden",
+        "location": {
+          "lat": 64.13351159999999,
+          "lng": 18.985254
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Väjaindustril.",
+      "location": "Lycksele",
+      "power_station_name": "Jonsfors",
+      "power_source": "water",
+      "installed_capacity_kva": 16,
+      "full_location": "Lycksele, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lycksele, Sweden",
+        "location": {
+          "lat": 64.5958098,
+          "lng": 18.676367
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Lycksele Tekniska Verk.",
+      "location": "Brattforsen",
+      "power_station_name": "Brattfors",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Brattforsen, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västerbotten County, Sweden",
+        "location": {
+          "lat": 65.3337311,
+          "lng": 16.5161695
+        }
+      }
+    },
+    {
+      "index": 121,
+      "company_name": "Norsjö EL-Fören.",
+      "location": "Gumboda",
+      "power_station_name": "Branthors",
+      "power_source": "water",
+      "installed_capacity_kva": 16,
+      "full_location": "Gumboda, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "936 93 Gumboda, Sweden",
+        "location": {
+          "lat": 64.9503999,
+          "lng": 19.9270865
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Brattens EL. Fören.",
+      "location": "Bratten",
+      "power_station_name": "Brattenfors",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Bratten, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "921 96 Bratten, Sweden",
+        "location": {
+          "lat": 64.68333299999999,
+          "lng": 18.433333
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Olofsfors Bruk",
+      "location": "Nordmaling",
+      "power_station_name": "Löfdal",
+      "power_source": "water",
+      "installed_capacity_kva": 4,
+      "full_location": "Nordmaling, Västerbotten county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nordmaling, Sweden",
+        "location": {
+          "lat": 63.5671062,
+          "lng": 19.5050216
+        }
+      }
+    }
+  ],
+  "filename": "Västerbotten_3.png"
+}

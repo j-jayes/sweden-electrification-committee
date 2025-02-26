@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "index": 161,
+      "company_name": "Ortsdistributionen i Kinna etc.",
+      "location": "Kinna, Fritsla m. fl.",
+      "power_station_name": "Ab. från Viskans Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 800,
+      "full_location": "Kinna, Fritsla m. fl., Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kinna socken, Kinna, Sweden",
+        "location": {
+          "lat": 57.50984,
+          "lng": 12.6941321
+        }
+      }
+    },
+    {
+      "index": 162,
+      "company_name": "Viskans Kraft A.B.",
+      "location": "Örby Berghem",
+      "power_station_name": "Kungsfors",
+      "power_source": "water",
+      "installed_capacity_kva": 1200,
+      "full_location": "Örby Berghem, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örby, Kinna, Sweden",
+        "location": {
+          "lat": 57.48644009999999,
+          "lng": 12.6975137
+        }
+      }
+    },
+    {
+      "index": 163,
+      "company_name": "Ortsdistributionen i Lekvad",
+      "location": "Lekvad",
+      "power_station_name": "Ab. från Viskans Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 300,
+      "full_location": "Lekvad, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "511 96 Lekvad, Sweden",
+        "location": {
+          "lat": 57.4512921,
+          "lng": 12.6042401
+        }
+      }
+    },
+    {
+      "index": 165,
+      "company_name": "S. Marks el. distr.-fören.",
+      "location": "Hägersten m. fl., Härred, Torvalla",
+      "power_station_name": "Ab. från Viskans Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 800,
+      "full_location": "Hägersten m. fl., Härred, Torvalla, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Härryda, Sweden",
+        "location": {
+          "lat": 57.69139449999999,
+          "lng": 12.2826656
+        }
+      }
+    },
+    {
+      "index": 166,
+      "company_name": "M. Bengtsson S. A. Johansson",
+      "location": "Harred Kungasäter",
+      "power_station_name": "Vosse",
+      "power_source": "water",
+      "installed_capacity_kva": 780,
+      "full_location": "Harred Kungasäter, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "519 92 Kungsäter, Sweden",
+        "location": {
+          "lat": 57.30759920000001,
+          "lng": 12.5758928
+        }
+      }
+    },
+    {
+      "index": 167,
+      "company_name": "Hedin Mansf. A.-B.",
+      "location": "Stamnervad Ryda",
+      "power_station_name": "Stamnervad",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Stamnervad Ryda, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "523 95 Ryda, Sweden",
+        "location": {
+          "lat": 57.9249893,
+          "lng": 13.2548185
+        }
+      }
+    },
+    {
+      "index": 168,
+      "company_name": "Fjärås Kraft A.-B.",
+      "location": "Sätlia, Björkefors Sätlia",
+      "power_station_name": "Nr 19 i Hallands län",
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Sätlia, Björkefors Sätlia, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "511 69 Sätila, Sweden",
+        "location": {
+          "lat": 57.5425354,
+          "lng": 12.4333167
+        }
+      }
+    },
+    {
+      "index": 170,
+      "company_name": "Ingeards vilobem",
+      "location": "Ingeard",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 800,
+      "full_location": "Ingeard, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 171,
+      "company_name": "E. Svensson m. fl., Björkåsen Knut Gustafsson m. fl.",
+      "location": "Björketorp",
+      "power_station_name": "Hellinge såg Kjulbens",
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Björketorp, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "519 94 Björketorp, Sweden",
+        "location": {
+          "lat": 57.42690609999999,
+          "lng": 12.5240279
+        }
+      }
+    },
+    {
+      "index": 172,
+      "company_name": "Forssa bruk",
+      "location": "Bollebygd",
+      "power_station_name": "Hellinge såg",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Bollebygd, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bollebygd, Sweden",
+        "location": {
+          "lat": 57.66896910000001,
+          "lng": 12.5701434
+        }
+      }
+    },
+    {
+      "index": 174,
+      "company_name": "Bollebygds el. distr.-fören., Hindås el. distr.-fören.",
+      "location": "Björketorp",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 8000,
+      "full_location": "Björketorp, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "519 94 Björketorp, Sweden",
+        "location": {
+          "lat": 57.42690609999999,
+          "lng": 12.5240279
+        }
+      }
+    },
+    {
+      "index": 176,
+      "company_name": "Grönkullens väveri",
+      "location": "Bollebygd",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 150,
+      "full_location": "Bollebygd, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bollebygd, Sweden",
+        "location": {
+          "lat": 57.66896910000001,
+          "lng": 12.5701434
+        }
+      }
+    },
+    {
+      "index": 177,
+      "company_name": "Sv. mät- och tumstocksfabriken",
+      "location": "Bollebygd, Sandhult",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 560,
+      "full_location": "Bollebygd, Sandhult, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bollebygd, Sweden",
+        "location": {
+          "lat": 57.66896910000001,
+          "lng": 12.5701434
+        }
+      }
+    },
+    {
+      "index": 178,
+      "company_name": "Ortsdistributionen från Hindås etc.",
+      "location": "Bollebygd",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 300,
+      "full_location": "Bollebygd, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bollebygd, Sweden",
+        "location": {
+          "lat": 57.66896910000001,
+          "lng": 12.5701434
+        }
+      }
+    },
+    {
+      "index": 179,
+      "company_name": "Bollegybs el. distr.-fören.",
+      "location": "Sandhult, Bollebygd",
+      "power_station_name": "Ab. från Sv. mät- och tumstocksfabr.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 530,
+      "full_location": "Sandhult, Bollebygd, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "504 91 Sandhult, Sweden",
+        "location": {
+          "lat": 57.7755379,
+          "lng": 12.8065869
+        }
+      }
+    },
+    {
+      "index": 181,
+      "company_name": "Herm. Vedenul m. fl., Assarebys och Vena Kraft",
+      "location": "Frändefors, Gestad, Bolstad",
+      "power_station_name": "Ab. från Kvällen",
+      "power_source": "subscription",
+      "installed_capacity_kva": 540,
+      "full_location": "Frändefors, Gestad, Bolstad, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 66 Bolstad, Sweden",
+        "location": {
+          "lat": 58.5670587,
+          "lng": 12.47688
+        }
+      }
+    },
+    {
+      "index": 182,
+      "company_name": "Assarebys och Vena Kraft A.-B.",
+      "location": "Frändefors, Bolstad, Gestad",
+      "power_station_name": "Assarebys kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Frändefors, Bolstad, Gestad, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 66 Bolstad, Sweden",
+        "location": {
+          "lat": 58.5670587,
+          "lng": 12.47688
+        }
+      }
+    },
+    {
+      "index": 183,
+      "company_name": "Böns El. Kvam A.-B.",
+      "location": "Gestad Holm",
+      "power_station_name": "Böns",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Gestad Holm, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 65 Gestad, Sweden",
+        "location": {
+          "lat": 58.53772399999999,
+          "lng": 12.434324
+        }
+      }
+    },
+    {
+      "index": 184,
+      "company_name": "Melleruda köpnings el.-verk",
+      "location": "Gestad Holm",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2100,
+      "full_location": "Gestad Holm, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 65 Gestad, Sweden",
+        "location": {
+          "lat": 58.53772399999999,
+          "lng": 12.434324
+        }
+      }
+    },
+    {
+      "index": 185,
+      "company_name": "Ör-Melleruds El. Kraft A.-B. och Melleruds El. A.-B.",
+      "location": "Ör, Holm",
+      "power_station_name": "Stampen",
+      "power_source": "water",
+      "installed_capacity_kva": 1900,
+      "full_location": "Ör, Holm, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    }
+  ],
+  "filename": "Älvsborg_6.png"
+}

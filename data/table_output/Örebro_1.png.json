@@ -1,0 +1,101 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Moälv EL. Ab.",
+            "location": "Moälv",
+            "power_station_name": "Ab. fr. Örebro EL. verks AB",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 2,
+            "company_name": "Lantbrukarnas EL. Förening",
+            "location": "Kilanda",
+            "power_station_name": "Ab. fr. Mölnå Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 3,
+            "company_name": "A.-B. Garphytta Bruk",
+            "location": "Västra Tysslinge",
+            "power_station_name": "Garphyttan och Yxhult, Lanna med flera",
+            "power_source": "steam",
+            "installed_capacity_kva": 630
+        },
+        {
+            "index": 4,
+            "company_name": "Strömsnäs JBM. Tyslinge H.-F.",
+            "location": "Tysslinge",
+            "power_station_name": "Ab. fr. Örebro EL. verks AB",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 5,
+            "company_name": "Örebro El. Ab.- Kraftnät Ab. El. Forskn. vid Långbro",
+            "location": "Långbro, Anta",
+            "power_station_name": "Karlslunda",
+            "power_source": "diesel",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 6,
+            "company_name": "Motala Kraftverkets Intress. vat. verk",
+            "location": "Örebro",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 7000
+        },
+        {
+            "index": 7,
+            "company_name": "Örebro EL. AB.",
+            "location": "Örebro",
+            "power_station_name": "Tysinge Virsunda Ab. Fr. Kalmar ",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 8,
+            "company_name": "Ab. Betaniedal",
+            "location": "Örebro",
+            "power_station_name": "Örebro EL. AB.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 9,
+            "company_name": "Ab. Södra Hammarnäs",
+            "location": "Sjöbäck",
+            "power_station_name": "Ab. fr. Örebro EL. verks AB",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 10,
+            "company_name": "Järnvägens Starta AB ögon",
+            "location": "Ahlby, Mbab Albro",
+            "power_station_name": "Ab. fr. Örebro EL. verks AB",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 11,
+            "company_name": "Arvika Ortnamnsf.",
+            "location": "Västra Långbro Kyrka",
+            "power_station_name": "Dylta kvarn",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 12,
+            "company_name": "Djäk, Samarbets.",
+            "location": "Dylta kvams",
+            "power_station_name": "Ab. fr. Örebro EL. verks AB",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        }
+    ],
+    "filename": "Örebro_1.png"
+}

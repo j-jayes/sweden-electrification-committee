@@ -1,0 +1,181 @@
+{
+    "data": [
+        {
+            "index": 93,
+            "company_name": "Nykarvns Pappersbruk A.-B.",
+            "location": "Turinge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 94,
+            "company_name": "Turinge el. distr.-fören. och Nykarvns Torv A.-B. F. Berglund",
+            "location": "Turinge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 95,
+            "company_name": "Salems el. distr.-fören.",
+            "location": "Salem",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 96,
+            "company_name": "Salems östra el. distr.-fören. och Ekerö-Lovö el. distr.-fören. och Drottningholms slott forest västra el. distr.-fören.",
+            "location": "Ekerö, Lovö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 97,
+            "company_name": "Nya murbruksfabriken Sånga och Så. el. distr. fören.",
+            "location": "Sånga, Skå",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 98,
+            "company_name": "Svartsjö tvångsarbetanst.",
+            "location": "Svartsjö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 101,
+            "company_name": "Färentuna-Hilleshögs el. distr.-fören.",
+            "location": "Färentuna, Hilleshög",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 102,
+            "company_name": "Munsö-Adelsö el. distr.-fören.",
+            "location": "Munsö, Adelsö",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 103,
+            "company_name": "Sand & Grus A.-B. Jelander Stockholms stads vattenverk",
+            "location": "Botkyrka",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 104,
+            "company_name": "Fitjja el. distr.-fören. Långbro inst.-hem. m. m. eldistrib.förening.",
+            "location": "Enskede",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 105,
+            "company_name": "Uttrans el.a.b., Botkyrka salem, Bot.",
+            "location": "Årsta Vätteri",
+            "power_station_name": "Utröna Kraft",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 106,
+            "company_name": "Tullinge El. A.-B.",
+            "location": "Botkyrka",
+            "power_station_name": "A.-B. Separator",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 107,
+            "company_name": "A.-B. Separator",
+            "location": "Hammarby",
+            "power_station_name": "A.-B. Separator",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 108,
+            "company_name": "Huddinge egendomars el. kraftfören.",
+            "location": "Huddinge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 109,
+            "company_name": "Huddinge el. distr.-fören.",
+            "location": "Huddinge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 110,
+            "company_name": "Drevvikens el. distr.-fören.",
+            "location": "Österhaninge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 111,
+            "company_name": "Luth & Rognäs El. A.-B.",
+            "location": "Tyresö",
+            "power_station_name": "Uddeby",
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 112,
+            "company_name": "Dalarö el. distr.-fören.",
+            "location": "Dalarö",
+            "power_station_name": "subscription from Stockholms el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 113,
+            "company_name": "Södra Grödinge el. distr.-förening",
+            "location": "Björnlunda",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 114,
+            "company_name": "Lotsbro el.-verk",
+            "location": "Sorunda",
+            "power_station_name": "subscription from Stockholms el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 115,
+            "company_name": "Västberga el. distr.-fören.",
+            "location": "Västberga",
+            "power_station_name": "subscription from Stockholms el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 116,
+            "company_name": "Tungelsta el. distr.-fören.",
+            "location": "Västerhaninge",
+            "power_station_name": "subscription from Stockholms el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        }
+    ],
+    "filename": "Stockholm_5.png"
+}

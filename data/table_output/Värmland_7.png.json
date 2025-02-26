@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "index": 192,
+            "company_name": "Persbergs gruvaktiebolag",
+            "location": "Filipstad",
+            "power_station_name": "Persbergs kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 193,
+            "company_name": "Mölnlycke Tomt A.-B.",
+            "location": "Rämmen",
+            "power_station_name": "Hellefors Bruks A.-B. kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 194,
+            "company_name": "Tabergs Grufv A. B.",
+            "location": "Nordmark",
+            "power_station_name": "subscription from Hellefors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 195,
+            "company_name": "Hellefors Bruks A.-B.",
+            "location": "Gåsborn",
+            "power_station_name": "Gåsborns kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 196
+        },
+        {
+            "index": 197,
+            "company_name": "Lesjöfors A.-B.",
+            "location": "Lesjöfors",
+            "power_station_name": "Lesjöfors",
+            "power_source": "water",
+            "installed_capacity_kva": 196
+        },
+        {
+            "index": 198,
+            "company_name": "Billeruds A.-B.",
+            "location": "Kil",
+            "power_station_name": "Billeruds kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 199,
+            "company_name": "Långhansbyttan, Lesjöfors A.-B.",
+            "location": "Nordmark",
+            "power_station_name": "Abonnemang från Hellefors bruk A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 201,
+            "company_name": "Aron Aronsson",
+            "location": "Gåsborn",
+            "power_station_name": "Gåsborns kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 206,
+            "company_name": "Do",
+            "location": "Värmland",
+            "power_station_name": "Jonsbols kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 108000
+        },
+        {
+            "index": 210,
+            "company_name": "Kristinehamn stad. med ifråntagna socknar m. fl. abonnenter",
+            "location": "Kristinehamn",
+            "power_station_name": "Christiinehamn kraftstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 1000
+        }
+    ],
+    "filename": "Värmland_7.png"
+}

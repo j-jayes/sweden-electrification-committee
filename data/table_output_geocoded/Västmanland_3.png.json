@@ -1,0 +1,645 @@
+{
+  "data": [
+    {
+      "index": 56,
+      "company_name": "Ramnäs bruksaktiebolag",
+      "location": "Ramnäs",
+      "power_station_name": "subscription from Wimbo-Ramnäs Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1700,
+      "full_location": "Ramnäs, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "735 60 Ramnäs, Sweden",
+        "location": {
+          "lat": 59.77475990000001,
+          "lng": 16.1946769
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Gutstas Elektriska A.-B.",
+      "location": "Malm",
+      "power_station_name": "subscription from Jäders bruk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3300,
+      "full_location": "Malm, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Viby elektriska distributionsförening",
+      "location": "Arboga l.",
+      "power_station_name": "subscription from Kungsörs Vatten- och belysningsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Arboga l., Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arboga, Sweden",
+        "location": {
+          "lat": 59.39368829999999,
+          "lng": 15.8381747
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Granhammars elektr. distributionsförening",
+      "location": "Kung Karl",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Kung Karl, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kaplansgatan 3A, 736 33 Kungsör, Sweden",
+        "location": {
+          "lat": 59.4211021,
+          "lng": 16.0933057
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "V. Fernebo",
+      "location": "V. Fernebo",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "V. Fernebo, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Salbohedsvägen 6, 733 60 Västerfärnebo, Sweden",
+        "location": {
+          "lat": 59.9437413,
+          "lng": 16.2808327
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": ">>",
+      "location": "Plåckebo",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Plåckebo, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 63 Fläckebo, Sweden",
+        "location": {
+          "lat": 59.8753951,
+          "lng": 16.3467336
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": ">>",
+      "location": "Harakers",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Harakers, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Haraker, 726 91 Skultuna, Sweden",
+        "location": {
+          "lat": 59.773174,
+          "lng": 16.4613215
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": ">>",
+      "location": "Romfartuna",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Romfartuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Romfartuna, 725 94 Västerås, Sweden",
+        "location": {
+          "lat": 59.73398299999999,
+          "lng": 16.559953
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": ">>",
+      "location": "Tillberga-Hubbo och Tillberga elektr. distributionsföreningar",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 1350,
+      "full_location": "Tillberga-Hubbo och Tillberga elektr. distributionsföreningar, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "722 33 Tillberga, Sweden",
+        "location": {
+          "lat": 59.6838178,
+          "lng": 16.6233645
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": ">>",
+      "location": "Badelunda elektr. distributionsförening",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Badelunda elektr. distributionsförening, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Badelunda Naturreservat, Unnamed Road, 725 96 Västerås, Sweden",
+        "location": {
+          "lat": 59.6428312,
+          "lng": 16.6258362
+        }
+      }
+    },
+    {
+      "index": 66,
+      "company_name": "Dingtuna",
+      "location": "Dingtuna",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Dingtuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "724 75 Dingtuna, Sweden",
+        "location": {
+          "lat": 59.57063169999999,
+          "lng": 16.3821914
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": ">>",
+      "location": "Västerås-Barkarö",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Västerås-Barkarö, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "725 91 Barkarö, Sweden",
+        "location": {
+          "lat": 59.5543019,
+          "lng": 16.5032391
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": ">>",
+      "location": "Rytterne",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Rytterne, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Rytterne socken, 725 92 Västerås, Sweden",
+        "location": {
+          "lat": 59.49574999999999,
+          "lng": 16.35828
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Strömholms ridskola och Strömsholms elektr. distr.förening",
+      "location": "Kolbäck",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Kolbäck, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 50 Kolbäck, Sweden",
+        "location": {
+          "lat": 59.5635636,
+          "lng": 16.2303593
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Sävby elektr. distributionsförening",
+      "location": "Sävby",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Sävby, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 93 Säby, Sweden",
+        "location": {
+          "lat": 59.54900199999999,
+          "lng": 16.3073313
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Svedvi",
+      "location": "Svedvi",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Svedvi, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "734 92 Svedvi, Sweden",
+        "location": {
+          "lat": 59.591736,
+          "lng": 16.270791
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Kolbäck-Bergs",
+      "location": "Berg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Berg, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "731 97 Berg, Sweden",
+        "location": {
+          "lat": 59.4315265,
+          "lng": 15.9538249
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": ">>",
+      "location": "Munktorps",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Munktorps, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "731 70 Munktorp, Sweden",
+        "location": {
+          "lat": 59.53277929999999,
+          "lng": 16.1337585
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": ">>",
+      "location": "Torpa",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Torpa, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "731 96 Torp, Sweden",
+        "location": {
+          "lat": 59.47473650000001,
+          "lng": 15.8246139
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Kungsgrottens elektriska",
+      "location": "Kung Karl",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Kung Karl, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kaplansgatan 3A, 736 33 Kungsör, Sweden",
+        "location": {
+          "lat": 59.4211021,
+          "lng": 16.0933057
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Imsta-Kihlbro",
+      "location": "Kihlbro",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Kihlbro, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Tedda",
+      "location": "Tedda",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Tedda, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Tortuna",
+      "location": "Tortuna",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Tortuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "725 96 Tortuna, Sweden",
+        "location": {
+          "lat": 59.6768574,
+          "lng": 16.7289218
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": ">>",
+      "location": "Simtuna",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Simtuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Frösfuth",
+      "location": "Frösfuth",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Frösfuth, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Härnevi",
+      "location": "Härnevi",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Härnevi, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Torsuna-Österunda el. distributionsförening.",
+      "location": "Österunda",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Österunda, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": ">>",
+      "location": "Altuna",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Altuna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": ">>",
+      "location": "Tärna",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Tärna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 93 Tärnaby, Sweden",
+        "location": {
+          "lat": 59.83174820000001,
+          "lng": 16.7027835
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Ramsa",
+      "location": "Tärna",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Tärna, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 93 Tärnaby, Sweden",
+        "location": {
+          "lat": 59.83174820000001,
+          "lng": 16.7027835
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": ">>",
+      "location": "Kila",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Kila, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "733 94 Kila, Sweden",
+        "location": {
+          "lat": 59.8688026,
+          "lng": 16.5463443
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": ">>",
+      "location": "Nora",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 290,
+      "full_location": "Nora, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": ">>",
+      "location": "Saladmamm",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 9000,
+      "full_location": "Saladmamm, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Västerlövsta s. Vittinge elektriska distributionsförening",
+      "location": "Västerlövsta",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Västerlövsta, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": ">>",
+      "location": "Vittinge",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Vittinge, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "A.-B. Västeråsmaskiner",
+      "location": "Vittinge",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 9000,
+      "full_location": "Vittinge, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": ">>",
+      "location": ">",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": ">, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": ">>",
+      "location": ">",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": ">, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Hed Elektriska A.-B.",
+      "location": "Hed",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 9000,
+      "full_location": "Hed, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "731 15 Heds Socken, Sweden",
+        "location": {
+          "lat": 59.6807962,
+          "lng": 15.7622128
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Huddinge elektr. distributionsförening",
+      "location": "Huddinge",
+      "power_station_name": "subscription from Älvkarleby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Huddinge, Västmanland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västmanland County, Sweden",
+        "location": {
+          "lat": 59.6713879,
+          "lng": 16.2158954
+        }
+      }
+    }
+  ],
+  "filename": "Västmanland_3.png"
+}

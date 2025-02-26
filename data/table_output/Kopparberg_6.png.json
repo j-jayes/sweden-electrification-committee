@@ -1,0 +1,325 @@
+{
+    "data": [
+        {
+            "index": 175,
+            "company_name": "Häradsbygdens El. Bel.-Fören.",
+            "location": "Leksand",
+            "power_station_name": "Ab. fr. St. Kop. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 176,
+            "company_name": "Norra Leksands El. Distr.-Fören.",
+            "location": "Leksand",
+            "power_station_name": "Ab. fr. Skeborgs Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 177,
+            "company_name": "Brosens El. And.-Fören.",
+            "location": "Brosens",
+            "power_station_name": "Brosens",
+            "power_source": "water",
+            "installed_capacity_kva": 1630
+        },
+        {
+            "index": 178,
+            "company_name": "Nedre Siljans El. Bel.-Fören.",
+            "location": "Rättvik",
+            "power_station_name": "Rättviksfors",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 179,
+            "company_name": "Mindre distrib.-företag",
+            "location": "Leksand",
+            "power_station_name": "Skeborg",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 180,
+            "company_name": "Mindre distrib.-företag",
+            "location": "Siljansnäs",
+            "power_station_name": "Siljansnäs",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 181,
+            "company_name": "Siljansnäs El. Bel.-Fören.",
+            "location": "Siljansnäs",
+            "power_station_name": "Ab. fr. St. Kop. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 182,
+            "company_name": "Indjöns El. Bel.-Fören.",
+            "location": "Siljansnäs",
+            "power_station_name": "Ab. fr. St. Kop. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 183,
+            "company_name": "Müns El. Bel.-Fören.",
+            "location": "Söderås",
+            "power_station_name": "Ab. Frön. Kop. B.A.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 184,
+            "company_name": "Falu Yllefabriks A.-B.",
+            "location": "Falun",
+            "power_station_name": "Gopa",
+            "power_source": "water",
+            "installed_capacity_kva": 1950
+        },
+        {
+            "index": 185,
+            "company_name": "Sägmura El. Bel.-Fören.",
+            "location": "Bjursås",
+            "power_station_name": "Solarvsan",
+            "power_source": "steam",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 186,
+            "company_name": "Munktells Pappersf.-A.-B.",
+            "location": "Bjursås",
+            "power_station_name": "Albybergskvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 187,
+            "company_name": "Bjursås Bel.-Fören.",
+            "location": "Bjursås",
+            "power_station_name": "Sjägmo",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 188,
+            "company_name": "Bjursås Bel.-Fören.",
+            "location": "Blomsfors",
+            "power_station_name": "Sjägmo",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 189,
+            "company_name": "Vertöns El. Bel.-Fören.",
+            "location": "Norrån",
+            "power_station_name": "Smedsnäsgården",
+            "power_source": "diesel",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 190,
+            "company_name": "Norrgårds Bel.-Fören.",
+            "location": "Fjällskogbro",
+            "power_station_name": "Fjällskogbro",
+            "power_source": "water",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 191,
+            "company_name": "Västerdalvens Kraft A.-B.",
+            "location": "Gagnef",
+            "power_station_name": "Mockfjärd",
+            "power_source": "water",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 192,
+            "company_name": "Mockfjärds El. Distr.-Fören.",
+            "location": "Gagnef",
+            "power_station_name": "Ab. fr. St. Kop. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 193,
+            "company_name": "Ö. Elsa Elektr. i Mockfjärd",
+            "location": "Gagnef",
+            "power_station_name": "Ab. fr. St. Kop. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 194,
+            "company_name": "M-stad. El. o Grödta Kraftverk",
+            "location": "Gagnef",
+            "power_station_name": "Ab. fr. Skeborgs A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 195,
+            "company_name": "Västerfors El. Distr.-Fören.",
+            "location": "Gagnef",
+            "power_station_name": "Ab. fr. St. Kop. A.B.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 320
+        },
+        {
+            "index": 196,
+            "company_name": "Gräfve El. Bel.-Fören.",
+            "location": "Gagnef",
+            "power_station_name": "Gräfve",
+            "power_source": "water",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 197,
+            "company_name": "Gagnets El. Bel.-Fören.",
+            "location": "Övermo",
+            "power_station_name": "Övermo",
+            "power_source": "water",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 198,
+            "company_name": "Mindre distrib.-företag",
+            "location": "Övermo",
+            "power_station_name": "Övermo",
+            "power_source": "water",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 199,
+            "company_name": "Mindre distrib.-företag",
+            "location": "Gagnef",
+            "power_station_name": "Gagnef",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 200,
+            "company_name": "G. Gagnef Kraftb. o Bel.-Fören.",
+            "location": "Västra Gagnef",
+            "power_station_name": "Smedsbro",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 201,
+            "company_name": "Ickäsa Elekt. And.-Fören.",
+            "location": "Ickä",
+            "power_station_name": "Ickä",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 202,
+            "company_name": "Rättvik o delvis Noto El.",
+            "location": "Rättvik",
+            "power_station_name": "Nya Ickä",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 203,
+            "company_name": "Nya Ickä Tallkvans A.-B.",
+            "location": "Rättvik",
+            "power_station_name": "Nya Ickä",
+            "power_source": "water",
+            "installed_capacity_kva": 1890
+        },
+        {
+            "index": 204,
+            "company_name": "Ovannynä Elektr. A.-B.",
+            "location": "Vinraefvarn",
+            "power_station_name": "Vinterkvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 205,
+            "company_name": "Gårdsjö Blj.-Fören.",
+            "location": "Vinraefvarn",
+            "power_station_name": "Gästgivar",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 206,
+            "company_name": "Hedslunds El. And.-Fören.",
+            "location": "Vinraefvarn",
+            "power_station_name": "Smedsbo",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 207,
+            "company_name": "Östbjörka El. And.-Fören.",
+            "location": "Vinraefvarn",
+            "power_station_name": "Smedsbo",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 208,
+            "company_name": "Boda El. i Björka",
+            "location": "Björka",
+            "power_station_name": "Ab. fr. Kop. E. & Gräv-A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 209,
+            "company_name": "Boda El. Bel.-Fören.",
+            "location": "Björka",
+            "power_station_name": "Ab. fr. Kop. E. & Gräv-A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 210,
+            "company_name": "V Rästa El. Kraftf.-A.-B.",
+            "location": "Björka",
+            "power_station_name": "Ab. fr. Kop. E. & Gräv-A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 211,
+            "company_name": "Mindre distrib.-företag",
+            "location": "Björka",
+            "power_station_name": "Ab. fr. Kop. E. & Gräv-A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 212,
+            "company_name": "Alfta Elektr. Centrum",
+            "location": "Björkar",
+            "power_station_name": "Björkar",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 213,
+            "company_name": "Nittsjö El. Fören.",
+            "location": "Nittsjö",
+            "power_station_name": "Nittsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 214,
+            "company_name": "Bingsjö El. Bel.-Fören.",
+            "location": "Bingsjö",
+            "power_station_name": "Bingsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        }
+    ],
+    "filename": "Kopparberg_6.png"
+}

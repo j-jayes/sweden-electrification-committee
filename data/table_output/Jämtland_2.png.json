@@ -1,0 +1,317 @@
+{
+    "data": [
+        {
+            "index": 36,
+            "company_name": "Insp. Br. Carlsson",
+            "location": "Billsta",
+            "power_station_name": "Billsta",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 37,
+            "company_name": "Hacks-Näs El. A.-B.",
+            "location": "Lilla",
+            "power_station_name": "Lilla",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 38,
+            "company_name": "Gillhovs El. Fören.",
+            "location": "Gillhovs by",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 39,
+            "company_name": "El. och Bykruks El. A.-B.",
+            "location": "Lö, Kyrksjö, och Frösö",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 40,
+            "company_name": "El. och A.-B. Handos, Brevöl",
+            "location": "Hackås",
+            "power_station_name": "Löt",
+            "power_source": "subscription",
+            "installed_capacity_kva": 249
+        },
+        {
+            "index": 41,
+            "company_name": "Kromhuv, Näninge, Aspås och Lit byar samt Öhnets bymarin",
+            "location": "Lit, Rödön, Näskott o. Aspås",
+            "power_station_name": "Löt, Rödön, Näskott o. Aspås",
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 42,
+            "company_name": "Häggenås El. A.-B.",
+            "location": "Häggenås",
+            "power_station_name": "Häggenås",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 43,
+            "company_name": "Högforsens Ind. A.-B.",
+            "location": "Högom",
+            "power_station_name": "Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 44,
+            "company_name": "Röjsindens El. Fören.",
+            "location": "Häkan",
+            "power_station_name": "Håkan",
+            "power_source": "subscription",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 45,
+            "company_name": "Nya Förenade Kraft A.-B.",
+            "location": "Håksoren",
+            "power_station_name": "Håksoren",
+            "power_source": "steam",
+            "installed_capacity_kva": 192
+        },
+        {
+            "index": 46,
+            "company_name": "Norra Skärvångens El. Fören.",
+            "location": "Lillskärvången",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 47,
+            "company_name": "Åsörings o. Hofgrens El. Fören.",
+            "location": "Högom",
+            "power_station_name": "Högom",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 48,
+            "company_name": "Mörviksens El. Förs. Fören.",
+            "location": "Tennfors",
+            "power_station_name": "Rättvik",
+            "power_source": "water",
+            "installed_capacity_kva": 165
+        },
+        {
+            "index": 49,
+            "company_name": "Laxsjö El. Fören.",
+            "location": "Laxsjö",
+            "power_station_name": "Rättvik",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 50,
+            "company_name": "Storbäckens Byamän",
+            "location": "Rättvik",
+            "power_station_name": "Rättvik",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 51,
+            "company_name": "Vålberg kraft o. Såg A.-B.",
+            "location": "Våljä",
+            "power_station_name": "Våljä",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 52,
+            "company_name": "Rörvattnets El. Fören.",
+            "location": "Hotagen",
+            "power_station_name": "Rörvattnet",
+            "power_source": "water",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 53,
+            "company_name": "Hogdalen El. Fören.",
+            "location": "Högsjön",
+            "power_station_name": "Högsjön",
+            "power_source": "diesel",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 54,
+            "company_name": "Mt. Stetvens El. Fören.",
+            "location": "Hissmofors",
+            "power_station_name": "Hissmofors",
+            "power_source": "steam",
+            "installed_capacity_kva": 180
+        },
+        {
+            "index": 55,
+            "company_name": "Rödögjens El. Fören.",
+            "location": "Rödö",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 175
+        },
+        {
+            "index": 56,
+            "company_name": "Södra Krokoms El. Fören.",
+            "location": "Rödö, Näskott",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 57,
+            "company_name": "Niils Majenefientering.",
+            "location": "Östersund",
+            "power_station_name": "Hissmofors",
+            "power_source": "diesel",
+            "installed_capacity_kva": 420
+        },
+        {
+            "index": 58,
+            "company_name": "Bolinder Munella El. För.",
+            "location": "Aspås",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 59,
+            "company_name": "Naidens Åndol. fabrikk",
+            "location": "Nälden",
+            "power_station_name": "Löt",
+            "power_source": "water",
+            "installed_capacity_kva": 6
+        },
+        {
+            "index": 60,
+            "company_name": "Solde lundinan El. För.",
+            "location": "Aspås",
+            "power_station_name": "Löt",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 61,
+            "company_name": "Valsunds Mæk. Verkstad",
+            "location": "Näskott",
+            "power_station_name": "Näskott",
+            "power_source": "water",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 62,
+            "company_name": "A.-B. Yttetvat Valksvaxm",
+            "location": "Ytterån",
+            "power_station_name": "Ytterån",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 63,
+            "company_name": "Follsten Deilsf. Fören. o. Tängs",
+            "location": "Ås",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 64,
+            "company_name": "Visuamältsd. El. Fören.",
+            "location": "Ås",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 65,
+            "company_name": "Elsta Distr.-Fören.",
+            "location": "Ås",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 66,
+            "company_name": "Kungsviks El. Fören.",
+            "location": "Östersund",
+            "power_station_name": "Östersund",
+            "power_source": "water",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 67,
+            "company_name": "Östersund El. A.-B.",
+            "location": "Östersund",
+            "power_station_name": "Östersund",
+            "power_source": "water",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 68,
+            "company_name": "Sho El. Fören.",
+            "location": "Östersund",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1780
+        },
+        {
+            "index": 69,
+            "company_name": "Hammerdal El. Kraft A.-B.",
+            "location": "Hammerdal och Gösjö",
+            "power_station_name": "Hammar",
+            "power_source": "steam",
+            "installed_capacity_kva": 811
+        },
+        {
+            "index": 70,
+            "company_name": "Yttre disst.-företag",
+            "location": "Svejde",
+            "power_station_name": "Svejde",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 71,
+            "company_name": "Nylanda Kraft A.-B.",
+            "location": "Nyland",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 72,
+            "company_name": "A.-B. Per Holmes El-verk",
+            "location": "Ström",
+            "power_station_name": "Hummern",
+            "power_source": "water",
+            "installed_capacity_kva": 210
+        },
+        {
+            "index": 73,
+            "company_name": "Uriksfors Sulfit A.-B.",
+            "location": "Nyland",
+            "power_station_name": "Nyland",
+            "power_source": "water",
+            "installed_capacity_kva": 275
+        },
+        {
+            "index": 74,
+            "company_name": "Lövberga El. Fören.",
+            "location": "Lövberga",
+            "power_station_name": "subscription from Ab. Fr. Hissmofors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 107
+        }
+    ],
+    "filename": "Jämtland_2.png"
+}

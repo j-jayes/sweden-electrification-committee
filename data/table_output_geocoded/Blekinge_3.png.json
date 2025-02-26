@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "index": 29,
+      "company_name": "Fagerfors Gjuterio Mek. Verstad",
+      "location": "Bäckaryd och Eringaboda",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 1600,
+      "full_location": "Bäckaryd och Eringaboda, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "372 77 Backaryd, Sweden",
+        "location": {
+          "lat": 56.34645380000001,
+          "lng": 15.1535914
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Hjortsberga",
+      "location": "Djurtorp",
+      "power_station_name": "Vattenfall",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Djurtorp, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "374 96 Djurtorp, Sweden",
+        "location": {
+          "lat": 56.2180384,
+          "lng": 15.0443154
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Emil Petersson",
+      "location": "Almarviks kvarn",
+      "power_station_name": "Ångmaskin",
+      "power_source": "steam",
+      "installed_capacity_kva": 100,
+      "full_location": "Almarviks kvarn, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Blekinge County, Sweden",
+        "location": {
+          "lat": 56.143109,
+          "lng": 15.3666703
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "S. E. Brunberg",
+      "location": "Yabrofälles",
+      "power_station_name": "Vatten- och Ångmaskin",
+      "power_source": "water",
+      "installed_capacity_kva": 660,
+      "full_location": "Yabrofälles, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Blekinge County, Sweden",
+        "location": {
+          "lat": 56.143109,
+          "lng": 15.3666703
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Bergs m.m. byars belysningsfören.",
+      "location": "Marielund",
+      "power_station_name": "Vattenturbin",
+      "power_source": "water",
+      "installed_capacity_kva": 450,
+      "full_location": "Marielund, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Marielund, Marielunds gård 1, 373 33 Nättraby, Sweden",
+        "location": {
+          "lat": 56.218889,
+          "lng": 15.533056
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "S. Hellerström",
+      "location": "Nättraby",
+      "power_station_name": "Marielund",
+      "power_source": "water",
+      "installed_capacity_kva": 170,
+      "full_location": "Nättraby, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "373 31 Nättraby, Sweden",
+        "location": {
+          "lat": 56.2011731,
+          "lng": 15.5365459
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Nättraby Läderfabr.",
+      "location": "Nättraby",
+      "power_station_name": "Marielund",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Nättraby, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "373 31 Nättraby, Sweden",
+        "location": {
+          "lat": 56.2011731,
+          "lng": 15.5365459
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "A. Danielsson",
+      "location": "Rödeby",
+      "power_station_name": "Rödebyholm",
+      "power_source": "water",
+      "installed_capacity_kva": 169,
+      "full_location": "Rödeby, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "373 42 Rödeby, Sweden",
+        "location": {
+          "lat": 56.2620008,
+          "lng": 15.6193129
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "Borgs ströms styrelses",
+      "location": "Angerman",
+      "power_station_name": "Bubbetorp",
+      "power_source": "water",
+      "installed_capacity_kva": 167,
+      "full_location": "Angerman, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Blekinge County, Sweden",
+        "location": {
+          "lat": 56.143109,
+          "lng": 15.3666703
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Lyckeaborgs Spikfabr. (L.L. Lindberg)",
+      "location": "Lyckeaborg",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Lyckeaborg, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "371 92 Lyckeåborg, Sweden",
+        "location": {
+          "lat": 56.2298723,
+          "lng": 15.6896682
+        }
+      }
+    }
+  ],
+  "filename": "Blekinge_3.png"
+}

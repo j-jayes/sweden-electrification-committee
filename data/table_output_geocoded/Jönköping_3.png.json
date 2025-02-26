@@ -1,0 +1,357 @@
+{
+  "data": [
+    {
+      "index": 36,
+      "company_name": "Månseryds gård, Bankeryd",
+      "location": "Bankeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 27,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "Lalleryds elektriska förening",
+      "location": "Järstorp sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Järstorp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "555 94 Järstorp, Sweden",
+        "location": {
+          "lat": 57.80449100000001,
+          "lng": 14.112602
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Järstorp pr Jönköping",
+      "location": "Järstorp sn",
+      "power_station_name": "Ab. fr. Jönköpings el-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Järstorp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "555 94 Järstorp, Sweden",
+        "location": {
+          "lat": 57.80449100000001,
+          "lng": 14.112602
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "Järstorps elektriska distr.-for., Järstorp pr Jönköping",
+      "location": "Järstorp sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Järstorp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "555 94 Järstorp, Sweden",
+        "location": {
+          "lat": 57.80449100000001,
+          "lng": 14.112602
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "Klimamestorp gård, Jönköping",
+      "location": "Jönköping sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 18,
+      "full_location": "Jönköping sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jönköping, Sweden",
+        "location": {
+          "lat": 57.78261370000001,
+          "lng": 14.1617876
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "A.-B. Sandserydselektr.-verk",
+      "location": "Sandseryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 37,
+      "full_location": "Sandseryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "555 93 Sandseryd, Sweden",
+        "location": {
+          "lat": 57.7406511,
+          "lng": 14.0826509
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Huskvarnastads elektr.-verk",
+      "location": "Huskvarna stad",
+      "power_station_name": "Huskvarnastads elektr.ve-rk Husqvarna",
+      "power_source": "subscription",
+      "installed_capacity_kva": 41,
+      "full_location": "Huskvarna stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huskvarna, Sweden",
+        "location": {
+          "lat": 57.7904141,
+          "lng": 14.2755781
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "A.-B. Huskvarn a vapenfabr. A.-B.",
+      "location": "Huskvarna stad",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 58,
+      "full_location": "Huskvarna stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huskvarna, Sweden",
+        "location": {
+          "lat": 57.7904141,
+          "lng": 14.2755781
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Angbrottets microfiberfabriks A.-B., Husqvarna",
+      "location": "Huskvarna stad",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 44,
+      "full_location": "Huskvarna stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huskvarna, Sweden",
+        "location": {
+          "lat": 57.7904141,
+          "lng": 14.2755781
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "Årås elektr.-verk",
+      "location": "Årås sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 12,
+      "full_location": "Årås sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "Åråsås kraftstation",
+      "location": "Hovslätt sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Hovslätt sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hovslätt, 556 27 Jönköping, Sweden",
+        "location": {
+          "lat": 57.73202599999999,
+          "lng": 14.1202423
+        }
+      }
+    },
+    {
+      "index": 47,
+      "company_name": "Jönköpings stad",
+      "location": "Jönköpings stad",
+      "power_station_name": "Jönköpings el-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 45,
+      "full_location": "Jönköpings stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jönköping, Sweden",
+        "location": {
+          "lat": 57.78261370000001,
+          "lng": 14.1617876
+        }
+      }
+    },
+    {
+      "index": 48,
+      "company_name": "Jönköpings kraftstation",
+      "location": "Jönköpings stad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 7500,
+      "full_location": "Jönköpings stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jönköping, Sweden",
+        "location": {
+          "lat": 57.78261370000001,
+          "lng": 14.1617876
+        }
+      }
+    },
+    {
+      "index": 49,
+      "company_name": "Munksjö A.-B., Jönköping",
+      "location": "Jönköping stad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 4100,
+      "full_location": "Jönköping stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jönköping, Sweden",
+        "location": {
+          "lat": 57.78261370000001,
+          "lng": 14.1617876
+        }
+      }
+    },
+    {
+      "index": 50,
+      "company_name": "Huskvarna",
+      "location": "Huskvarna stad",
+      "power_station_name": "Ab. fr. Huskvarna vapenfabr. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3740,
+      "full_location": "Huskvarna stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huskvarna, Sweden",
+        "location": {
+          "lat": 57.7904141,
+          "lng": 14.2755781
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "Husqvarna",
+      "location": "Huskvarna stad",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 2475,
+      "full_location": "Huskvarna stad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Huskvarna, Sweden",
+        "location": {
+          "lat": 57.7904141,
+          "lng": 14.2755781
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "Hakarp sn",
+      "location": "Hakarp sn",
+      "power_station_name": "Ab. fr. Smålands Kraft. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Hakarp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 76 Hakarp, Sweden",
+        "location": {
+          "lat": 57.1962359,
+          "lng": 13.5088402
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "Klevarps elektr.-verk, Tenhult",
+      "location": "Rogberga sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Rogberga sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "561 61 Rogberga, Sweden",
+        "location": {
+          "lat": 57.7342911,
+          "lng": 14.2927325
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "A.-B. Norrhammaras elektr.-verk, Norrhamar",
+      "location": "Barnarp sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Barnarp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "556 31 Barnarp, Sweden",
+        "location": {
+          "lat": 57.7125721,
+          "lng": 14.1754797
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "Ställfors elektr.-verk, Barnarp pr Jönköping",
+      "location": "Barnarp sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 4,
+      "full_location": "Barnarp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "556 31 Barnarp, Sweden",
+        "location": {
+          "lat": 57.7125721,
+          "lng": 14.1754797
+        }
+      }
+    },
+    {
+      "index": 56,
+      "company_name": "Norrhammars Bruk, Norrahammar. Kraftstn vid Hökensås",
+      "location": "Norrahammar",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 5300,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Norrhammar Bruk, Norrahammar. Kraftstation vid Slätten",
+      "location": "Norrahammar",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 1,
+      "full_location": "Norrahammar, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norrahammar, Jönköping, Sweden",
+        "location": {
+          "lat": 57.6970541,
+          "lng": 14.1095846
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_3.png"
+}

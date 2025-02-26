@@ -1,0 +1,245 @@
+{
+    "data": [
+        {
+            "index": 26,
+            "company_name": "Dannemora gruvintressenter",
+            "location": "Dannemora",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 27,
+            "company_name": "Gimo—Österby Bruks A.-B.",
+            "location": "Film",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 28,
+            "company_name": "Upplands och Bergs el. distr.-fören.",
+            "location": "Tegelsmora",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 29,
+            "company_name": "Tegelsmora el. distr.-fören.",
+            "location": "Tegelsmora",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 30,
+            "company_name": "Gimo—Österby Bruks A.-B.",
+            "location": "Gimo",
+            "power_station_name": "Tobo kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 31,
+            "company_name": "\"B. v. Rosen och andra,/Vendels el. distr.-fören.\"",
+            "location": "Vendel",
+            "power_station_name": "Ketelsäng",
+            "power_source": "water",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 32,
+            "company_name": "Gimo—Österby Bruks A.-B.",
+            "location": "Stefan namnar",
+            "power_station_name": "Ab. från Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 33,
+            "company_name": "\"\"",
+            "location": "Alunda",
+            "power_station_name": "Ab. från Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 34,
+            "company_name": "\"Eskelby el. distr.-fören./Vaksinge A.-B\".",
+            "location": "Ekeby",
+            "power_station_name": "subscription from Vaksinge",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 35,
+            "company_name": "Alunda norra och Tuna distr.-fören.",
+            "location": "Alunda, Tuna",
+            "power_station_name": "Ab. från Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 36,
+            "company_name": "Ölands-Stabby el. distr.-fören.",
+            "location": "Stabby",
+            "power_station_name": "Ab. från Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 37,
+            "company_name": "\"Skebegårds ånghv series bolag\"",
+            "location": "Skebegårds",
+            "power_station_name": "Skeberga",
+            "power_source": "steam",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 38,
+            "company_name": "\"Älvkarleby kraftverk\"",
+            "location": "unknown",
+            "power_station_name": "unknown",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 39,
+            "company_name": "\"Uppsala stads el. verk.\"",
+            "location": "Uppsala",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 40,
+            "company_name": "\"\"",
+            "location": "unknown",
+            "power_station_name": "stored in category D (Uppsala die s group per cent)",
+            "power_source": "diesel",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 41,
+            "company_name": "\"\"",
+            "location": "unknown",
+            "power_station_name": "subscription from Alfrkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 42,
+            "company_name": "Old Uppsala and Bjerke—Balinge El. Association",
+            "location": "Gamla Uppsala",
+            "power_station_name": "unknown",
+            "power_source": "water",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 43,
+            "company_name": "\"\"",
+            "location": "Balinge",
+            "power_station_name": "Ab. from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 44,
+            "company_name": "Dispoanien and Co. (D.o. Karl K. Karlsson)",
+            "location": "Bjerklinge el. distr.-fören*.)",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 45,
+            "company_name": "\"Skuttunge Sawmills and 9\"",
+            "location": "Skuttunge",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 46,
+            "company_name": "\"Firm Anders Ek Bjerkinge\"",
+            "location": "Bjurcarls",
+            "power_station_name": "subscription from Ubbolsta saw",
+            "power_source": "subscription",
+            "installed_capacity_kva": 250
+        },
+        {
+            "index": 47,
+            "company_name": "Ubbolsta saw",
+            "location": "unknown",
+            "power_station_name": "Ubbolsta saw",
+            "power_source": "steam",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 48,
+            "company_name": "Al in so tom surgery school/b',Jumikll",
+            "location": "Jumikll",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 49,
+            "company_name": "Paul M . utv. Dindquist (Doktor Pahl Utkrist)",
+            "location": "Lena,Tensta",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 50,
+            "company_name": "\"Söderfors Bruks A.-B.\"",
+            "location": "Vattholma",
+            "power_station_name": "Batholma",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 51,
+            "company_name": "\"Väsby el. distr.-fören.\"",
+            "location": "Viksa",
+            "power_station_name": "Ab. från Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 52,
+            "company_name": "\"\"",
+            "location": "Pungbo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 53,
+            "company_name": "Parkas el distr.-fören.",
+            "location": "Rasbo",
+            "power_station_name": "Ab. from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 54,
+            "company_name": "Hemmingshög/Saga Sawmills/Kungsby. /Protected by registered trademark\"",
+            "location": "Lonnebo",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 170
+        },
+        {
+            "index": 55,
+            "company_name": "The Vän—, Rasbickl Electricity Group.",
+            "location": "Rasbokil",
+            "power_station_name": "unknown",
+            "power_source": "steam",
+            "installed_capacity_kva": 200
+        }
+    ],
+    "filename": "Uppsala_2.png"
+}

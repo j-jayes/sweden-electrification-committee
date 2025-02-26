@@ -1,0 +1,115 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Härad eller ting- lag samt samhälle, som acteur landkommun, var anläggningen i sin helhet eller till väsentligt delar belägen",
+            "description": "Namnet på den geografiska platsen."
+        },
+        {
+            "id": 2,
+            "label": "Anläggningens namn och adress",
+            "description": "Specifikt namn och adress för anläggningen."
+        },
+        {
+            "id": 3,
+            "label": "Drivmotor",
+            "description": "Typ av drivmotor."
+        },
+        {
+            "id": 4,
+            "label": "Utbyggd effekt",
+            "description": "Den maximala effekt som anläggningen kan producera."
+        },
+        {
+            "id": 5,
+            "label": "Total generell effekt",
+            "description": "Den totala effekten av anläggningen."
+        },
+        {
+            "id": 6,
+            "label": "Sammanlagd storlek i kW",
+            "description": "Det totala antalet kilowatt som anläggningen hanterar."
+        },
+        {
+            "id": 7,
+            "label": "Period Spänning",
+            "description": "Den tid som spänning tillhandahålls."
+        },
+        {
+            "id": 8,
+            "label": "Elektriskt system",
+            "description": "Systemet som används för elektrisk distribution."
+        },
+        {
+            "id": 9,
+            "label": "Sammanlagd längd",
+            "description": "Längden av de elektriska ledningarna."
+        },
+        {
+            "id": 10,
+            "label": "Sammanlagd trans- formator effekt",
+            "description": "Den sammanlagda effekten av transformatorerna."
+        },
+        {
+            "id": 11,
+            "label": "Spänning",
+            "description": "Mängden elektrisk spänning."
+        },
+        {
+            "id": 12,
+            "label": "kV",
+            "description": "Kilovolt, energiemhet."
+        },
+        {
+            "id": 13,
+            "label": "kVA",
+            "description": "Kilovolt-ampere, enhet för apparatens apparenteffekt."
+        },
+        {
+            "id": 14,
+            "label": "Antal",
+            "description": "Antalet funktioner eller enheter."
+        },
+        {
+            "id": 15,
+            "label": "Kketar i kV",
+            "description": "Kategorier i kilovolt."
+        },
+        {
+            "id": 16,
+            "label": "kW",
+            "description": "Kilowatt, mätning av effekt."
+        },
+        {
+            "id": 17,
+            "label": "Årtal",
+            "description": "Året anläggningen byggdes eller var aktiv."
+        },
+        {
+            "id": 18,
+            "label": "Byggnads- kostnad",
+            "description": "Kostnaden för byggandet av anläggningen."
+        },
+        {
+            "id": 19,
+            "label": "Alstra eller tillförd kraftbolag",
+            "description": "Kraftbolag som tillhandahåller energi till anläggningen."
+        },
+        {
+            "id": 20,
+            "label": "Ung- förtiga total anläggnings- kostnad",
+            "description": "Uppskattad total kostnad för anläggningen."
+        },
+        {
+            "id": 21,
+            "label": "Anmärkningar",
+            "description": "Övergripande påpekanden eller anteckningar."
+        },
+        {
+            "id": 22,
+            "label": "Anlägg- ningens nr",
+            "description": "Unik identifiering av anläggningen."
+        }
+    ],
+    "filename": "Jönköping_1.png"
+}

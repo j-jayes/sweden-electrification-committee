@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "index": 60,
+      "company_name": "Boalts såg",
+      "location": "Vittsjö sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Vittsjö sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 66 Vittsjö, Sweden",
+        "location": {
+          "lat": 56.34330929999999,
+          "lng": 13.6628735
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Andelsföreningen Vittsjö Elektricitetsverk",
+      "location": "Vittsjö sn",
+      "power_station_name": "subscription from Bjärnums Elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Vittsjö sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 66 Vittsjö, Sweden",
+        "location": {
+          "lat": 56.34330929999999,
+          "lng": 13.6628735
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": "Visseltofta kvarn och såg",
+      "location": "Visseltofta sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Visseltofta sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "283 95 Visseltofta, Sweden",
+        "location": {
+          "lat": 56.4245278,
+          "lng": 13.8582409
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "Möllerödssn, Visseltofta sn",
+      "location": "Visseltofta sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Visseltofta sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "283 95 Visseltofta, Sweden",
+        "location": {
+          "lat": 56.4245278,
+          "lng": 13.8582409
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Brödern Jönssons Möbelaffär",
+      "location": "Verum sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 18,
+      "full_location": "Verum sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 68 Verum, Sweden",
+        "location": {
+          "lat": 56.366667,
+          "lng": 13.783333
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "Andelsföreningen Verum Elektricitetsverk",
+      "location": "Verum sn",
+      "power_station_name": "subscription from Skånska Kraft A.-B., Malmö",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Verum sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 68 Verum, Sweden",
+        "location": {
+          "lat": 56.366667,
+          "lng": 13.783333
+        }
+      }
+    },
+    {
+      "index": 66,
+      "company_name": "Hjärnarps Elektricitetsförening",
+      "location": "Bjärnum",
+      "power_station_name": "subscription from Bjärnums Elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Bjärnum, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 61 Bjärnum, Sweden",
+        "location": {
+          "lat": 56.2914154,
+          "lng": 13.7097126
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Hennes Elektricitetsförening",
+      "location": "Bjärnum",
+      "power_station_name": "subscription from Bjärnums Elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Bjärnum, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "282 61 Bjärnum, Sweden",
+        "location": {
+          "lat": 56.2914154,
+          "lng": 13.7097126
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "A.-B. Hörby,Värme och elektricitetsverk, Hörby",
+      "location": "Hörby sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Hörby sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hörby, Sweden",
+        "location": {
+          "lat": 55.8508109,
+          "lng": 13.6599486
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Andelsföreningen Tyringe Elektricitetsverk",
+      "location": "Finja sn",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Finja sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "281 53 Finja, Sweden",
+        "location": {
+          "lat": 56.1681562,
+          "lng": 13.694527
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Malta Andelselektricitetsförening",
+      "location": "Vanviks sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "Vanviks sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skåne County, Sweden",
+        "location": {
+          "lat": 55.99025719999999,
+          "lng": 13.5957692
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Ballingslövs Elektricitetsverk A.-B., Ballingslöv",
+      "location": "Stoby sn",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Stoby sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "281 44 Stoby, Sweden",
+        "location": {
+          "lat": 56.17505019999999,
+          "lng": 13.828094
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Tyringe",
+      "location": "Stoby sn",
+      "power_station_name": "subscription from Ballingslövs Elektricitets A.-B., Ballingslöv",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Stoby sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "281 44 Stoby, Sweden",
+        "location": {
+          "lat": 56.17505019999999,
+          "lng": 13.828094
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Norra Sandby",
+      "location": "Norra Sandby sn",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Norra Sandby sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "281 91 Norra Sandby, Sweden",
+        "location": {
+          "lat": 56.2002635,
+          "lng": 13.9196599
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Kristianstads Elektricitetsverk",
+      "location": "Hässleholm sn",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Hässleholm sn, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hässleholm, Sweden",
+        "location": {
+          "lat": 56.15891449999999,
+          "lng": 13.7667655
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Ab. från Hasselholms stads elektricitetsverk",
+      "location": "Hässleholm",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Hässleholm, Kristianstad county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hässleholm, Sweden",
+        "location": {
+          "lat": 56.15891449999999,
+          "lng": 13.7667655
+        }
+      }
+    }
+  ],
+  "filename": "Kristianstad_4.png"
+}

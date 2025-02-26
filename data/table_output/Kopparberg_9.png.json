@@ -1,0 +1,101 @@
+{
+    "data": [
+        {
+            "index": 295,
+            "company_name": "Tolvsåo Kvarnbol",
+            "location": "Söderbärke",
+            "power_station_name": "Tolvsåo",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 296,
+            "company_name": "Tunkarsbo Kraft- o. Bel.-För.",
+            "location": "Västerås",
+            "power_station_name": "Bengal G. Kraftförvaltning",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 297,
+            "company_name": "Vibberbo förening för ljus och kraft",
+            "location": "Västerås",
+            "power_station_name": "Västanmyra",
+            "power_source": "steam",
+            "installed_capacity_kva": 3500
+        },
+        {
+            "index": 298,
+            "company_name": "Mindre distr.-företag",
+            "location": "Västerås",
+            "power_station_name": "Staxhammar",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 299,
+            "company_name": "Mindre distr.-företag",
+            "location": "Västerås",
+            "power_station_name": "Tullkvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 300,
+            "company_name": "Mindre distr.-företag",
+            "location": "Västerås",
+            "power_station_name": "",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 301,
+            "company_name": "Ulvså lysförening",
+            "location": "Malingsbo",
+            "power_station_name": "Hemshyttan",
+            "power_source": "water",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 302,
+            "company_name": "Ulvså lysförening",
+            "location": "Malingsbo",
+            "power_station_name": "Vad",
+            "power_source": "water",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 303,
+            "company_name": "Ulvså lysförening",
+            "location": "Malingsbo",
+            "power_station_name": "Malmingsbo",
+            "power_source": "water",
+            "installed_capacity_kva": 9000
+        },
+        {
+            "index": 304,
+            "company_name": "K. Järnvägsstyrelsen",
+            "location": "Grytnäs",
+            "power_station_name": "Bruks A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 305,
+            "company_name": "K. Järnvägsstyrelsen",
+            "location": "Grytnäs",
+            "power_station_name": "Ab. fr. Norbergs El. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 306,
+            "company_name": "Södra Dalarnas Järnvägs A.-B.",
+            "location": "Grytnäs",
+            "power_station_name": "",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10000
+        }
+    ],
+    "filename": "Kopparberg_9.png"
+}

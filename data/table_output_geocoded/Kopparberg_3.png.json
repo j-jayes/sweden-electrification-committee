@@ -1,0 +1,549 @@
+{
+  "data": [
+    {
+      "index": 68,
+      "company_name": "Transf.-stat. i Domnarvets kraftstation",
+      "location": "St. Tuna",
+      "power_station_name": "subscription from St. Kop. Bergsl. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Lägls-Stora Kopp. Bergsl. För.",
+      "location": "St. Tuna",
+      "power_station_name": "subscription from Ab. Fr. St. Kop. B.A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Orsa El. Distr.-För.",
+      "location": "Aspeboda, Torsång o. v.",
+      "power_station_name": "St. Kop. Bergsl. A.-B.",
+      "power_source": "water",
+      "installed_capacity_kva": 45,
+      "full_location": "Aspeboda, Torsång o. v., Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "781 94 Torsång, Sweden",
+        "location": {
+          "lat": 60.4611653,
+          "lng": 15.5754637
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Div. mindre distr.-företag",
+      "location": "St. Tuna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Repböleko. o. Båstä El. Distr.-För.",
+      "location": "St. Tuna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 58,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Elektr. Distr.-För.-Lyrkarleby",
+      "location": "St. Tuna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Div. mindre distr.-företag",
+      "location": "St. Tuna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 162,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Orsa Arnsbergs E. D. F.",
+      "location": "St. Tuna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Södra Arnsbergs E. D.-F.",
+      "location": "Uleå",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Uleå, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Div. mindre distr.-företag",
+      "location": "St. Tuna",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Vattnammens El. A.-B.",
+      "location": "Forsbacka",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 2500,
+      "full_location": "Forsbacka, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "781 91 Forsbacka, Sweden",
+        "location": {
+          "lat": 60.4385085,
+          "lng": 15.4544332
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "A.-B. Vattnamsen kvarn",
+      "location": "Vattnamm",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Vattnamm, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Sellnäs transf.-stat.",
+      "location": "Ab. fr. Ylikarleb, Kraftverk",
+      "power_station_name": "subscription from Ab. fr. Ylikarleb, Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Ab. fr. Ylikarleb, Kraftverk, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Sellnäs transf.-stat.",
+      "location": "Sellnäs",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Sellnäs, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "781 98 Sellnäs, Sweden",
+        "location": {
+          "lat": 60.4105609,
+          "lng": 15.3789338
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Idkerbergets transf.-stat.",
+      "location": "Idkerberget",
+      "power_station_name": "subscription from Ylikarlebys Kraft-A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Idkerberget, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "781 99 Idkerberget, Sweden",
+        "location": {
+          "lat": 60.3804351,
+          "lng": 15.2277302
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Gruvaktiebol. Dalarna",
+      "location": "Långsjön",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 800,
+      "full_location": "Långsjön, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "781 91 Långsjö, Sweden",
+        "location": {
+          "lat": 60.40761629999999,
+          "lng": 15.5306535
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Rämsbyns Kraft A.-B.",
+      "location": "Rämsbyn",
+      "power_station_name": "subscription from Ylikerklubb Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Rämsbyn, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Rämsbyn, 781 99 Idkerberget, Sweden",
+        "location": {
+          "lat": 60.3079544,
+          "lng": 15.1937901
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "J. Hallberg, Sahlins",
+      "location": "Sennsjön",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 4,
+      "full_location": "Sennsjön, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Gävebo Kvartbo",
+      "location": "Tjärtön",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 66,
+      "full_location": "Tjärtön, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Mindre distr.-företag",
+      "location": "Alderbick",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Alderbick, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "Gimmas Kraft A.-B.",
+      "location": "Duvnos",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1610,
+      "full_location": "Duvnos, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": "Silverbys transf.-stat.",
+      "location": "Silveberby",
+      "power_station_name": "subscription from Ab. fr. Ylikarleb Kraftvek",
+      "power_source": "subscription",
+      "installed_capacity_kva": 250,
+      "full_location": "Silveberby, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Ulsvyite Järnverks A.-B.",
+      "location": "Dormsveden",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 480,
+      "full_location": "Dormsveden, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": "Div. mindre distr.-företag",
+      "location": "Storbråfallet",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1500,
+      "full_location": "Storbråfallet, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Mindre distr.-företag",
+      "location": "Grävet",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 850,
+      "full_location": "Grävet, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "Sönarby Kraftstat För.",
+      "location": "Gävle",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Gävle, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norra Kungsgatan 37, 803 23 Gävle, Sweden",
+        "location": {
+          "lat": 60.6797059,
+          "lng": 17.1384009
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "Gävlarby Kraftstat För.",
+      "location": "Narbov",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 250,
+      "full_location": "Narbov, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Gustav El. Distr.-För.",
+      "location": "Ab. fr. St. Kop. B.A.-B.",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1500,
+      "full_location": "Ab. fr. St. Kop. B.A.-B., Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Sollvars el. Kraft-A. B.",
+      "location": "Stäter",
+      "power_station_name": "subscription from Ab. fr. Ylikarlby Kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 700,
+      "full_location": "Stäter, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "Säters El. Distr.-För.",
+      "location": "Säters lk.",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Säters lk., Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Säter, Sweden",
+        "location": {
+          "lat": 60.34665,
+          "lng": 15.7479
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Silverbys transf.-stat.",
+      "location": "Ab. fr. Ylikaharley Kraftverk",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Ab. fr. Ylikaharley Kraftverk, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 100,
+      "company_name": "Mindre distr.-företag",
+      "location": "Ab. fr. Dalsbyn",
+      "power_station_name": "subscription from Dalsbyn",
+      "power_source": "subscription",
+      "installed_capacity_kva": 175,
+      "full_location": "Ab. fr. Dalsbyn, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "783 35 Dalsbyn, Sweden",
+        "location": {
+          "lat": 60.35612030000001,
+          "lng": 15.7499991
+        }
+      }
+    },
+    {
+      "index": 101,
+      "company_name": "Transf.-stat. vid Säter",
+      "location": "Padsenläns",
+      "power_station_name": "subscription from St. Kop. Bergsl. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Padsenläns, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 102,
+      "company_name": "Tomeliso El. Distr.-För.",
+      "location": "St. Skevdi",
+      "power_station_name": "subscription from Ab. fr. St. Kop. B.A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "St. Skevdi, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    }
+  ],
+  "filename": "Kopparberg_3.png"
+}

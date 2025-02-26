@@ -1,0 +1,613 @@
+{
+  "data": [
+    {
+      "index": 21,
+      "company_name": "Ödby El. För.",
+      "location": "Ödby",
+      "power_station_name": "Ödby El. Underbyggn.",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Ödby, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Länslinjen Syd.",
+      "location": "Älvestorp",
+      "power_station_name": "Runstorp",
+      "power_source": "water",
+      "installed_capacity_kva": 15000,
+      "full_location": "Älvestorp, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "712 95 Alvestorp, Sweden",
+        "location": {
+          "lat": 59.6294485,
+          "lng": 14.5660404
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Företag Bruk A.B.",
+      "location": "Asker",
+      "power_station_name": "Brevensfattel",
+      "power_source": "water",
+      "installed_capacity_kva": 20000,
+      "full_location": "Asker, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "715 94 Asker, Sweden",
+        "location": {
+          "lat": 59.14703249999999,
+          "lng": 15.4666065
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Företag Bruk A.B.",
+      "location": "Asker Norrby, Kalkudden, Ekeby, Svennevad, Svingstad",
+      "power_station_name": "Ab. fr. Örebro E.I.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 40000,
+      "full_location": "Asker Norrby, Kalkudden, Ekeby, Svennevad, Svingstad, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "647 93 Kalkudden, Sweden",
+        "location": {
+          "lat": 59.2675582,
+          "lng": 17.2801648
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Mindre distr. företag",
+      "location": "Svennevad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 41500,
+      "full_location": "Svennevad, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "697 92 Svennevad, Sweden",
+        "location": {
+          "lat": 59.01666699999999,
+          "lng": 15.366667
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Gräve El, Hamilton",
+      "location": "Bo",
+      "power_station_name": "Haddeforss",
+      "power_source": "water",
+      "installed_capacity_kva": 4500,
+      "full_location": "Bo, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "715 91 Bo, Sweden",
+        "location": {
+          "lat": 59.1880659,
+          "lng": 15.503331
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Hallberg",
+      "location": "Hallberg",
+      "power_station_name": "Högsta",
+      "power_source": "water",
+      "installed_capacity_kva": 40000,
+      "full_location": "Hallberg, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Hallsberg, Sweden",
+        "location": {
+          "lat": 59.0665316,
+          "lng": 15.10229
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Moistla Kraftverksförening, Hallstahammar, Vissbo, Avesta",
+      "location": "Hallstahammar",
+      "power_station_name": "Ab. fr. Örebro E.I.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 40000,
+      "full_location": "Hallstahammar, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Moistla Kraftverksförening, Hallstahammar, Vissbo, Avesta",
+      "location": "Vissbo",
+      "power_station_name": "Ab. fr. Örebro E.I.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Vissbo, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Ab. Hallbergs El.",
+      "location": "Hallstahammar, Kumla",
+      "power_station_name": "Ab. fr. Örebro E.I.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Hallstahammar, Kumla, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kumla, Sweden",
+        "location": {
+          "lat": 59.12653590000001,
+          "lng": 15.1401053
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Kumla El. A.B.",
+      "location": "Abrahamsänge",
+      "power_station_name": "Ab. fr. Örebro E.I.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Abrahamsänge, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Yxhults Stenhuggeri",
+      "location": "Kumla",
+      "power_station_name": "Ab. fr. Örebro E.I.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 9000,
+      "full_location": "Kumla, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kumla, Sweden",
+        "location": {
+          "lat": 59.12653590000001,
+          "lng": 15.1401053
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Lesjöfors Bruk A.B.",
+      "location": "Lesjöfors, Lesjöholm, Hammartorp",
+      "power_station_name": "Ab. fr. Motala E.I.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Lesjöfors, Lesjöholm, Hammartorp, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Lesjöfors Bruk A.B.",
+      "location": "Lesjöholm Leiden",
+      "power_station_name": "Ab. fr. Kraft A.B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Lesjöholm Leiden, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Medevi m. El. Distr. Förening",
+      "location": "Medela",
+      "power_station_name": "Ab, fr. Mariestads Köping",
+      "power_source": "subscription",
+      "installed_capacity_kva": 20000,
+      "full_location": "Medela, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Skåne Elsyföreningen",
+      "location": "Skåne",
+      "power_station_name": "Grönby",
+      "power_source": "water",
+      "installed_capacity_kva": 2900,
+      "full_location": "Skåne, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "Åsbro Aldresta B.",
+      "location": "Viby",
+      "power_station_name": "Lännaholm",
+      "power_source": "water",
+      "installed_capacity_kva": 3800,
+      "full_location": "Viby, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "694 95 Viby, Sweden",
+        "location": {
+          "lat": 59.060593,
+          "lng": 14.878039
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Tjörshult",
+      "location": "Hammarudden",
+      "power_station_name": "Vimmerby A.I.",
+      "power_source": "water",
+      "installed_capacity_kva": 1920,
+      "full_location": "Hammarudden, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "Leds Träsk A.B.",
+      "location": "Karlskoga, Södertälje",
+      "power_station_name": "Wijkmanhausen",
+      "power_source": "steam",
+      "installed_capacity_kva": 16200,
+      "full_location": "Karlskoga, Södertälje, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Karlskoga, Sweden",
+        "location": {
+          "lat": 59.32863399999999,
+          "lng": 14.536414
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "Bocks Kraftaktiebolaget",
+      "location": "Adolfsberg, Kungsängen",
+      "power_station_name": "Karlskoga Trådarbeten",
+      "power_source": "steam",
+      "installed_capacity_kva": 3380,
+      "full_location": "Adolfsberg, Kungsängen, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Adolfsberg, Örebro, Sweden",
+        "location": {
+          "lat": 59.24880820000001,
+          "lng": 15.168519
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "Ryet, Kåna, Skällskogen",
+      "location": "Säffle",
+      "power_station_name": "Load Valverket",
+      "power_source": "water",
+      "installed_capacity_kva": 4500,
+      "full_location": "Säffle, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Yxhults Stenhuggeri",
+      "location": "Yxhult",
+      "power_station_name": "Hörken",
+      "power_source": "water",
+      "installed_capacity_kva": 9000,
+      "full_location": "Yxhult, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "692 92 Kumla, Sweden",
+        "location": {
+          "lat": 59.1082725,
+          "lng": 15.2269936
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "Kumla El. A.B.",
+      "location": "Ljungsbro",
+      "power_station_name": "Heidruder",
+      "power_source": "water",
+      "installed_capacity_kva": 20000,
+      "full_location": "Ljungsbro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Topoe Kraft A.B.",
+      "location": "Filipstad",
+      "power_station_name": "Torkato Ljus",
+      "power_source": "steam",
+      "installed_capacity_kva": 20000,
+      "full_location": "Filipstad, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "Yxhults Stenhuggeri",
+      "location": "Ljusdal",
+      "power_station_name": "Eidanger",
+      "power_source": "water",
+      "installed_capacity_kva": 2500,
+      "full_location": "Ljusdal, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "Yxhults Stenhuggeri",
+      "location": "Norra Rönneberga",
+      "power_station_name": "Torvökvarn",
+      "power_source": "steam",
+      "installed_capacity_kva": 6000,
+      "full_location": "Norra Rönneberga, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nora, Sweden",
+        "location": {
+          "lat": 59.51920639999999,
+          "lng": 15.0378667
+        }
+      }
+    },
+    {
+      "index": 47,
+      "company_name": "Mindre distr. företag",
+      "location": "Klolangst",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 12000,
+      "full_location": "Klolangst, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 48,
+      "company_name": "Yxhults Stenhuggeri",
+      "location": "Karlstad",
+      "power_station_name": "Värmlands Kvarn",
+      "power_source": "steam",
+      "installed_capacity_kva": 9000,
+      "full_location": "Karlstad, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 49,
+      "company_name": "Östra Kalandderiet",
+      "location": "Örebro",
+      "power_station_name": "Erichsbergsverket",
+      "power_source": "steam",
+      "installed_capacity_kva": 6000,
+      "full_location": "Örebro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro, Sweden",
+        "location": {
+          "lat": 59.2752626,
+          "lng": 15.2134105
+        }
+      }
+    },
+    {
+      "index": 50,
+      "company_name": "Toffes Wulkangan",
+      "location": "Gävle",
+      "power_station_name": "Lufors",
+      "power_source": "water",
+      "installed_capacity_kva": 2000,
+      "full_location": "Gävle, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "Länslinjen öst",
+      "location": "Vadsbro",
+      "power_station_name": "Sätna",
+      "power_source": "water",
+      "installed_capacity_kva": 5200,
+      "full_location": "Vadsbro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "Mindre distr. företag",
+      "location": "Långemarken",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 11000,
+      "full_location": "Långemarken, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "Yxhults Stenhuggeri",
+      "location": "Gruvhem",
+      "power_station_name": "Årby",
+      "power_source": "steam",
+      "installed_capacity_kva": 4000,
+      "full_location": "Gruvhem, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "Rundmark",
+      "location": "Kristinehamn",
+      "power_station_name": "Vilingskogen",
+      "power_source": "steam",
+      "installed_capacity_kva": 8000,
+      "full_location": "Kristinehamn, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "Hallstahammars Kraftaktiebolaget",
+      "location": "Kribbe, Kvistbro",
+      "power_station_name": "Öm",
+      "power_source": "water",
+      "installed_capacity_kva": 9200,
+      "full_location": "Kribbe, Kvistbro, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "716 93 Kvistbro, Sweden",
+        "location": {
+          "lat": 59.1561451,
+          "lng": 14.802482
+        }
+      }
+    },
+    {
+      "index": 56,
+      "company_name": "Mölntorps Kvarn A.B.",
+      "location": "Krifva",
+      "power_station_name": "Malmö Respektive Kraftst",
+      "power_source": "steam",
+      "installed_capacity_kva": 9000,
+      "full_location": "Krifva, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Mindre distr. företag",
+      "location": "Mellby",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 5000,
+      "full_location": "Mellby, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Grand Karlsson",
+      "location": "Slöinge",
+      "power_station_name": "Skogen",
+      "power_source": "steam",
+      "installed_capacity_kva": 9000,
+      "full_location": "Slöinge, Örebro county, Sweden",
+      "geocoding": {
+        "formatted_address": "Örebro County, Sweden",
+        "location": {
+          "lat": 59.535036,
+          "lng": 15.0065731
+        }
+      }
+    }
+  ],
+  "filename": "Örebro_2.png"
+}

@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "index": 15,
+      "company_name": "Soleryds elektricitetsverk, Larbr., E. Andersson",
+      "location": "Landa sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Landa sn, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Hofors, såg och elektricitetsverk, Skagerback, Joh. Andersson",
+      "location": "Idala sn, Hjortsberga",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Idala sn, Hjortsberga, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "311 41 Hjortsberg, Sweden",
+        "location": {
+          "lat": 56.88388459999999,
+          "lng": 12.5163019
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Edsbyns elektriska distributionsförening, Edsbyn",
+      "location": "Vedums sn",
+      "power_station_name": "subscription from Yngeredsfors kraft a.-b., Mölndal",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vedums sn, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Kullagården, Godisg. J. Å. Johansson",
+      "location": "Vedums sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Vedums sn, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Lindbergs distributionsanläggning, Tofta",
+      "location": "Lindberg sn",
+      "power_station_name": "subscription from Yngeredsfors kraft a.-b., Mölndal",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lindberg sn, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 92 Lindberg parish, Sweden",
+        "location": {
+          "lat": 57.1596655,
+          "lng": 12.3129658
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Yttra Elektricitetsverk, f.d. Viskestyrelsens E.f.",
+      "location": "Ställinge sn, Glosgården",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Ställinge sn, Glosgården, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Vikelsa elektricitetsverk, Lantbr. Johan Algot Persson",
+      "location": "Skällinge sn, Gärdhems gård, Täng",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Skällinge sn, Gärdhems gård, Täng, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 99 Skällinge, Sweden",
+        "location": {
+          "lat": 57.18219389999999,
+          "lng": 12.4691995
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Varbergs stads elverk, Rosendahl",
+      "location": "Varbergs stad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Varbergs stad, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varberg, Sweden",
+        "location": {
+          "lat": 57.107118,
+          "lng": 12.2520907
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Tullinge elektriska distr.förening, Tullinge by",
+      "location": "Åre sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Åre sn, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Tossebäcks kvarn, Lantbr., Oskar Andersson",
+      "location": "Rolvs sn, Rolvstorp",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Rolvs sn, Rolvstorp, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Melleruds elektriska distributionsförening",
+      "location": "Högvads sn, Högvads",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 920,
+      "full_location": "Högvads sn, Högvads, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Hindelens elektriska distributionsförening, Bolsgård",
+      "location": "Äspered sn",
+      "power_station_name": "subscription from Yngeredsfors kraft a.-b., Mölndal",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Äspered sn, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Tvååkers kraft a.-b., Tvååker",
+      "location": "Tvååkers sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10000,
+      "full_location": "Tvååkers sn, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "432 78 Tvååker, Sweden",
+        "location": {
+          "lat": 57.0422295,
+          "lng": 12.3984054
+        }
+      }
+    }
+  ],
+  "filename": "Halland_2.png"
+}

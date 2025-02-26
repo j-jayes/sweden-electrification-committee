@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "index": 97,
+            "company_name": "Käcka Lerviks Gryth A.B.",
+            "location": "Fellingsbro",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 98,
+            "company_name": "Fellingsbro V:a Vatten A.B.",
+            "location": "Yxsjön",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 99,
+            "company_name": "Kraft. Gryth. Ab.",
+            "location": "Grythyttan",
+            "power_station_name": "Vansätra",
+            "power_source": "water",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 100,
+            "company_name": "A.-B. Sikforsen",
+            "location": "Järnboås",
+            "power_station_name": "Förmalfyttan",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 101,
+            "company_name": "Hjalpjö",
+            "location": "Bredsjö, övre D.",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 2500
+        },
+        {
+            "index": 102,
+            "company_name": "O.-B. Sigfridsen",
+            "location": "Övre Nymanmark",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 103,
+            "company_name": "A.-B. Sjöström-Holmlund",
+            "location": "Natter",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 104,
+            "company_name": "O.-B. Sjöservice",
+            "location": "?",
+            "power_station_name": "Grythohyttan",
+            "power_source": "water",
+            "installed_capacity_kva": 2900
+        },
+        {
+            "index": 105,
+            "company_name": "Ekengårdens Kraft",
+            "location": "Pershyttefors,",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3500
+        },
+        {
+            "index": 106,
+            "company_name": "Skagerskus",
+            "location": "Karlskoga",
+            "power_station_name": "Sjäx.,",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 107,
+            "company_name": "Bodens Kraft",
+            "location": "Grönköp",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 2100
+        },
+        {
+            "index": 108,
+            "company_name": "Hörnbergs-Lund",
+            "location": "Vansätra,",
+            "power_station_name": "Smånäsan",
+            "power_source": "water",
+            "installed_capacity_kva": 3400
+        },
+        {
+            "index": 109,
+            "company_name": "A.-B. Bårdgelöt & Hallyn",
+            "location": "Björkö",
+            "power_station_name": "Limloktorp",
+            "power_source": "water",
+            "installed_capacity_kva": 2800
+        },
+        {
+            "index": 110,
+            "company_name": "Räggen Kraftstation",
+            "location": "Ollingeån",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 111,
+            "company_name": "Fellingsbro Station",
+            "location": "?",
+            "power_station_name": "Vibäck",
+            "power_source": "water",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 112,
+            "company_name": "Skippersbro Kraft",
+            "location": "Hjulsjö",
+            "power_station_name": "Morhyttan",
+            "power_source": "steam",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 113,
+            "company_name": "Bodens A.-B. Haspeliks",
+            "location": "Hjulsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 114,
+            "company_name": "Hjulsjö L. A.b.",
+            "location": "Hjulsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 115,
+            "company_name": "Nyfors K. Karlskog",
+            "location": "Karlskoga",
+            "power_station_name": "Karlsvik",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        }
+    ],
+    "filename": "Örebro_4.png"
+}

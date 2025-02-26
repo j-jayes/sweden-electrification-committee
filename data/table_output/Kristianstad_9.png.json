@@ -1,0 +1,101 @@
+{
+    "data": [
+        {
+            "index": 152,
+            "company_name": "Käsema Elektricitetsverk, Glimminge sn (Malmöhus län)",
+            "location": "Glimminge",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 153,
+            "company_name": "Borrby sn ....",
+            "location": "Borrby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 154,
+            "company_name": "Östra Hoby sn ....",
+            "location": "Östra Hoby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 155,
+            "company_name": "Löderup sn ....",
+            "location": "Löderup",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 156,
+            "company_name": "Simrishamns stad ....",
+            "location": "Simrishamn",
+            "power_station_name": "subscription from Svenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 157,
+            "company_name": "Gärsnäs Andelselektricitetsförening, Gärsnäs",
+            "location": "Gärsnäs",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 158,
+            "company_name": "Tommarps Andelselektricitetsförening, Tommarp",
+            "location": "Tommarp",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 159,
+            "company_name": "Svenska Skolstiftelsen, Järrestad",
+            "location": "Järrestad",
+            "power_station_name": "subscription from Svenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 160,
+            "company_name": "Vallby Andelselektricitetsförening, Hammerödje",
+            "location": "Vallby",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 161,
+            "company_name": "Bjärsjö Bryggeri A.-B., Simrishamn",
+            "location": "Simrishamn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 162,
+            "company_name": "Simrishamns Andelselektricitetsförening, Simrishamn",
+            "location": "Simrishamn",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 163,
+            "company_name": "Branteviks Andelselektricitetsförening, Brantevik",
+            "location": "Brantevik",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        }
+    ],
+    "filename": "Kristianstad_9.png"
+}

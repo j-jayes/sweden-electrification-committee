@@ -1,0 +1,437 @@
+{
+  "data": [
+    {
+      "index": 56,
+      "company_name": "Dalby el. distr.-fören.",
+      "location": "Dalby, Uppsalaslän",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Dalby, Uppsalaslän, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "745 99 Dalby, Sweden",
+        "location": {
+          "lat": 59.533333,
+          "lng": 17.35
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Bälinge el. distr.-fören.",
+      "location": "Bälinge, V. Åker, Högbeck, Skogsbro",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Bälinge, V. Åker, Högbeck, Skogsbro, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "815 92 Skogsbo, Sweden",
+        "location": {
+          "lat": 60.31608019999999,
+          "lng": 17.5804537
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Håtuna el. distr.-fören.",
+      "location": "Håtuna, Håtunaborg, Tibbla",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Håtuna, Håtunaborg, Tibbla, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Västra Bygds el. distr.-fören.",
+      "location": "V. Byd",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "V. Byd, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "Stockholms-Näs el. distr.-fören.",
+      "location": "Stockholms-Näs",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Stockholms-Näs, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "819 62 Näs, Sweden",
+        "location": {
+          "lat": 60.48245679999999,
+          "lng": 17.6243704
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "Loss el. distr.-fören.",
+      "location": "Loss, Lossa",
+      "power_station_name": "Säbyholm",
+      "power_source": "water",
+      "installed_capacity_kva": 130,
+      "full_location": "Loss, Lossa, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 62,
+      "company_name": "Kumlaels hemkoøäer el. distr.-fören.",
+      "location": "Kumla, Enköping",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Kumla, Enköping, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "749 51 Kumla, Sweden",
+        "location": {
+          "lat": 59.5951068,
+          "lng": 17.2243779
+        }
+      }
+    },
+    {
+      "index": 63,
+      "company_name": "Älvkarleby kraftverk, Sekundärstationen 1 Enköping",
+      "location": "Enköping",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Enköping, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Enköping, Sweden",
+        "location": {
+          "lat": 59.63569090000001,
+          "lng": 17.0778228
+        }
+      }
+    },
+    {
+      "index": 64,
+      "company_name": "Enköpings stads el. verk",
+      "location": "Enköping, Täby, Vartrbruk",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Enköping, Täby, Vartrbruk, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "741 97 Täby, Sweden",
+        "location": {
+          "lat": 59.975283,
+          "lng": 18.1736662
+        }
+      }
+    },
+    {
+      "index": 65,
+      "company_name": "Vänge el. distr.-fören.",
+      "location": "Vänge, Järlåsa",
+      "power_station_name": "Enköpings el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vänge, Järlåsa, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "755 76 Vänge, Sweden",
+        "location": {
+          "lat": 59.8579112,
+          "lng": 17.4301961
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Skolsta el. distr.-fören.",
+      "location": "Skolsta",
+      "power_station_name": "Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Skolsta, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "749 51 Skolsta, Sweden",
+        "location": {
+          "lat": 59.6598742,
+          "lng": 17.2422955
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Sparrsätra el. distr.-fören.",
+      "location": "Sparrsätra, Långdsbacka",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Sparrsätra, Långdsbacka, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "745 95 Sparrsätraby, Sweden",
+        "location": {
+          "lat": 59.7,
+          "lng": 16.95
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Sparredia el. distr.-fören.",
+      "location": "Sparta, Sjöfallet",
+      "power_station_name": "Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Sparta, Sjöfallet, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "[Älv-B. Grillby el.-verk och Villbery el. distr.-fören.",
+      "location": "Grillby, Enköping",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Grillby, Enköping, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "749 52 Grillby, Sweden",
+        "location": {
+          "lat": 59.6267071,
+          "lng": 17.256975
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Litslema el. distr.-fören.",
+      "location": "Litslema, Härteberg",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 130,
+      "full_location": "Litslema, Härteberg, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "745 96 Härkeberga, Sweden",
+        "location": {
+          "lat": 59.691786,
+          "lng": 17.1892299
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Örsnäsbro el. distr.-fören.",
+      "location": "Örnsbro, Grensta, Önader, Tullinge, Stenkälla, Överda",
+      "power_station_name": "Västmanlands län",
+      "power_source": "oil",
+      "installed_capacity_kva": 0,
+      "full_location": "Örnsbro, Grensta, Önader, Tullinge, Stenkälla, Överda, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Husby-Sjutolfts el. distr.-fören.",
+      "location": "Husby-Sjutolfts, Torp",
+      "power_station_name": "Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Husby-Sjutolfts, Torp, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "740 44 Torp, Sweden",
+        "location": {
+          "lat": 60.1704824,
+          "lng": 17.0505583
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Rogsta el. distr.-fören.",
+      "location": "Rogsta-Kvistberga",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Rogsta-Kvistberga, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Bacarna och Eskillå kvarnar",
+      "location": "Bacarn, Grän",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Bacarn, Grän, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "741 78 Grän, Sweden",
+        "location": {
+          "lat": 59.933333,
+          "lng": 17.816667
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Hallby el. distr.-fören.",
+      "location": "Hallby, Lillforsa, Vaxmora",
+      "power_station_name": "Västmanlands län",
+      "power_source": "oil",
+      "installed_capacity_kva": 0,
+      "full_location": "Hallby, Lillforsa, Vaxmora, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "749 50 Hällby, Sweden",
+        "location": {
+          "lat": 59.6496645,
+          "lng": 17.28439
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Lots el. distr.-fören.",
+      "location": "Lots, Hacksta",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Lots, Hacksta, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "749 51 Hacksta, Sweden",
+        "location": {
+          "lat": 59.5485697,
+          "lng": 17.3762488
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Skölsta el. distr.-fören.",
+      "location": "Skölsta, Eggby",
+      "power_station_name": "Västmanlands län",
+      "power_source": "subscription",
+      "installed_capacity_kva": 74,
+      "full_location": "Skölsta, Eggby, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "532 92 Eggby, Sweden",
+        "location": {
+          "lat": 58.43202520000001,
+          "lng": 13.6439215
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Boglösa el. distr.-fören.",
+      "location": "Boglösa, Namibia",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 120,
+      "full_location": "Boglösa, Namibia, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "745 97 Boglösa, Sweden",
+        "location": {
+          "lat": 59.59480949999999,
+          "lng": 17.1785088
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Enköpings-Näs el. distr.-fören.",
+      "location": "Enköping",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 120,
+      "full_location": "Enköping, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Enköping, Sweden",
+        "location": {
+          "lat": 59.63569090000001,
+          "lng": 17.0778228
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Teda el. distr.-fören.",
+      "location": "Teda",
+      "power_station_name": "Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Teda, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Strömbergs el. distr.-fören.",
+      "location": "Strömbergs",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Strömbergs, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uppsala County, Sweden",
+        "location": {
+          "lat": 60.2724233,
+          "lng": 18.1396124
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Kulla el. distr.-fören.",
+      "location": "Kulla, Hammad",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Kulla, Hammad, Uppsala county, Sweden",
+      "geocoding": {
+        "formatted_address": "749 62 Kulla, Sweden",
+        "location": {
+          "lat": 59.691769,
+          "lng": 17.4686362
+        }
+      }
+    }
+  ],
+  "filename": "Uppsala_3.png"
+}

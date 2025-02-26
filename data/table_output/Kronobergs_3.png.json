@@ -1,0 +1,197 @@
+{
+    "data": [
+        {
+            "index": 48,
+            "company_name": "Husaby Bruk (J. S. F. Stephens)",
+            "location": "Skatelöv",
+            "power_station_name": "Husaby",
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 49,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Skatelöv",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 50,
+            "company_name": "Grimslövs And. El. Fören.",
+            "location": "Grimslöv",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 51,
+            "company_name": "Gust. Nilsson",
+            "location": "Väster Torsås",
+            "power_station_name": "Kvarnagård",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 52,
+            "company_name": "Vislanda Municipal-samhälle",
+            "location": "Vislanda",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 53,
+            "company_name": "Målaskogs El. Fören.",
+            "location": "Ryssby",
+            "power_station_name": "Målaskog",
+            "power_source": "water",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 54,
+            "company_name": "Allfr, Thyr och Sunnerå-ortens El. Energifören.",
+            "location": "Ryssby",
+            "power_station_name": "Sunnerå",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 55,
+            "company_name": "Ryssby And. El. Fören.",
+            "location": "Ryssby",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 56,
+            "company_name": "Tutaryds And. El. Fören.",
+            "location": "Tutaryd",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 57,
+            "company_name": "Värnamo Kraft A.-B.",
+            "location": "Berga",
+            "power_station_name": "Åby",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 58,
+            "company_name": "Ortsdistribuntionen i Åby, Hörda m. fl.",
+            "location": "Åby",
+            "power_station_name": "subscription from Värnamo Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 59,
+            "company_name": "Ortsdistributionen i Vittaryd och Tofta-holm",
+            "location": "Vittaryd och Dörarp",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 60,
+            "company_name": "Ljungby köping",
+            "location": "Ljungby",
+            "power_station_name": "Ljungby",
+            "power_source": "water",
+            "installed_capacity_kva": 825
+        },
+        {
+            "index": 61,
+            "company_name": "Gustafsfor Kraft A.-B.",
+            "location": "Pjettjeryd, Håmeda, S. Ljunga, Agunnaryd, Kånna och Berga",
+            "power_station_name": "Gustafsfor",
+            "power_source": "water",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 62,
+            "company_name": "Distributionsföretaget i Angelstad (Gottrf. Andersson m. fl.)",
+            "location": "Angelstad",
+            "power_station_name": "Kärringe",
+            "power_source": "water",
+            "installed_capacity_kva": 380
+        },
+        {
+            "index": 63,
+            "company_name": "Romborna och Lillarp Bel. Fören och Tjuvarps Bel. Fören.",
+            "location": "Annerstad",
+            "power_station_name": "Bolmaryd",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 64,
+            "company_name": "Skeens Bel. Fören.",
+            "location": "Skeen",
+            "power_station_name": "Skeen",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 65,
+            "company_name": "Byholma Kraft A.-B.",
+            "location": "Byholma",
+            "power_station_name": "Byholma",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 66,
+            "company_name": "Lidhults Nya Låd och Träförädlings A.-B.",
+            "location": "Lidhult",
+            "power_station_name": "Lidhult",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 67,
+            "company_name": "A.-B. Ränte kraftstation",
+            "location": "Torpa",
+            "power_station_name": "Ränte",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 68,
+            "company_name": "Traryd El. Fören.",
+            "location": "Traryd",
+            "power_station_name": "Traryd",
+            "power_source": "water",
+            "installed_capacity_kva": 220
+        },
+        {
+            "index": 69,
+            "company_name": "F. A. Adelswärd",
+            "location": "Göteryd",
+            "power_station_name": "Ryfors",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 70,
+            "company_name": "Delary Sulfatfabrik (Strömsnäs Bruks A.-B.)",
+            "location": "Delary",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 71,
+            "company_name": "Strömsnäs Bruks A.-B.",
+            "location": "Traryd",
+            "power_station_name": "Strömsnäs",
+            "power_source": "water",
+            "installed_capacity_kva": 2125
+        }
+    ],
+    "filename": "Kronobergs_3.png"
+}

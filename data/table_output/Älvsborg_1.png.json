@@ -1,0 +1,197 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Trollhätte kraftverk",
+            "location": "Trollhättan",
+            "power_station_name": "Trollhättan",
+            "power_source": "water",
+            "installed_capacity_kva": 165000
+        },
+        {
+            "index": 2,
+            "company_name": "Trollhätte stads el.-verk",
+            "location": "Trollhättan",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 3,
+            "company_name": "Ostsdistributionen i Hjulkvarn etc.",
+            "location": "Trollhättan",
+            "power_station_name": "Trollhättan",
+            "power_source": "water",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 4,
+            "company_name": "Nydqvist & Holms A.-B.",
+            "location": "Trollhättan",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 5,
+            "company_name": "Trollhätte kanal",
+            "location": "Trollhättan, Vänersborg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 6,
+            "company_name": "A.-B. Stridsberg & Björk Trollhätte kraftverk",
+            "location": "Trollhättan",
+            "power_station_name": "Fördelningscentralen i Stallbacka",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 7,
+            "company_name": "Diverse industrier i Stallbacka",
+            "location": "Vänersborg",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 8,
+            "company_name": "Vargöns A.-B. Ostsdistributionen vid Vargön m. fl.",
+            "location": "Vargöns A.-B.",
+            "power_station_name": "Vargöns A.-B",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 9,
+            "company_name": "Vänersborgs el.-verk",
+            "location": "Vänersborg",
+            "power_station_name": "Trollhätte kraftverk",
+            "power_source": "water",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 10,
+            "company_name": "Nyqvards egendom",
+            "location": "Vänersborg",
+            "power_station_name": "Vänersborgs el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 11,
+            "company_name": "Vänersborg el. distry.-fören. Montén i Lundens",
+            "location": "Vänersborg",
+            "power_station_name": "Vänersborgs el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 12,
+            "company_name": "Karlsson i Galltorp",
+            "location": "Vänersborg",
+            "power_station_name": "Vänersborgs el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 13,
+            "company_name": "Väne-Åsaka el. distry.-fören N. Björke el. distr.-fören. E. Andersson & G. Johansson",
+            "location": "Väne-Åsaka",
+            "power_station_name": "Björke",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 14,
+            "company_name": "Torsens el. distry.-fören.",
+            "location": "Västra Tunhem",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30000
+        },
+        {
+            "index": 15,
+            "company_name": "Almbacka etc. 190ment Pearson Sons el. distry.-fören.",
+            "location": "N. Björke",
+            "power_station_name": "Björke",
+            "power_source": "water",
+            "installed_capacity_kva": 15000
+        },
+        {
+            "index": 16,
+            "company_name": "Holmström et Arbetskom.",
+            "location": "Björke",
+            "power_station_name": "Björke",
+            "power_source": "water",
+            "installed_capacity_kva": 30000
+        },
+        {
+            "index": 17,
+            "company_name": "S. M. Siden vall 32ali dette el. distry.-fören Geddeholm Pappersindustri. Inf.",
+            "location": "Björkefors",
+            "power_station_name": "Björkefors",
+            "power_source": "water",
+            "installed_capacity_kva": 30000
+        },
+        {
+            "index": 18,
+            "company_name": "Vassända-Naglum MtlJeringstad.",
+            "location": "Vassända-Naglum",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30000
+        },
+        {
+            "index": 19,
+            "company_name": "Svenska Vag-Actereghem MtlJeringstad",
+            "location": "Vassända-Naglum",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30000
+        },
+        {
+            "index": 20,
+            "company_name": "Naglum.",
+            "location": "Naglum",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 21,
+            "company_name": "Almbacka Tt.evamner & oss J. Hedins abbs J. and E. Stjernis eldistr.-fören",
+            "location": "Väne-Ryr",
+            "power_station_name": "Almbacka",
+            "power_source": "steam",
+            "installed_capacity_kva": 55000
+        },
+        {
+            "index": 22,
+            "company_name": "Tidaholms Anal.value Foundrene Tidaholms Jannbensjomelins maverbden.B overen.",
+            "location": "Stora Brynet",
+            "power_station_name": "Stora Brynet",
+            "power_source": "steam",
+            "installed_capacity_kva": 13000
+        },
+        {
+            "index": 23,
+            "company_name": "Lallereds Ishysterna.",
+            "location": "Gärdhem",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30000
+        },
+        {
+            "index": 24,
+            "company_name": "Velanda el industrier.",
+            "location": "Väne-Åsaka",
+            "power_station_name": "Velanda",
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        }
+    ],
+    "filename": "Älvsborg_1.png"
+}

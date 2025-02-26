@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "index": 30,
+            "company_name": "Holmens kvarn och elektricitet",
+            "location": "Kvarnagård, Falkenberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 31,
+            "company_name": "Barthels kvarn och elektricitet",
+            "location": "Fredenberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 32,
+            "company_name": "Fagnareds elektricitetsförening",
+            "location": "Fagnared",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 33,
+            "company_name": "Fagereds elvi",
+            "location": "Fagered",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 34,
+            "company_name": "Fagereds Länssanatorium",
+            "location": "Förstorp",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 95
+        },
+        {
+            "index": 35,
+            "company_name": "Ullareds elektricitetsförening",
+            "location": "Ullared",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 37
+        },
+        {
+            "index": 36,
+            "company_name": "Svartå kraftförening",
+            "location": "Svartå",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 37,
+            "company_name": "Yngeredssfors kraft a.-b. Mölndal, Älvsborg, Göteborg,",
+            "location": "Yngered",
+            "power_station_name": "Från bolagets vattenkraftstationer",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 38,
+            "company_name": "Gunnarp sn",
+            "location": "Gunnarp",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 39,
+            "company_name": "Ätrans såg",
+            "location": "Ätran",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 9
+        },
+        {
+            "index": 40,
+            "company_name": "Esereds elektriska distribution",
+            "location": "Eskede",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 9
+        },
+        {
+            "index": 41,
+            "company_name": "Resered",
+            "location": "Resered",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 3
+        },
+        {
+            "index": 42,
+            "company_name": "Dagsås sn",
+            "location": "Dagsås",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 160
+        },
+        {
+            "index": 43,
+            "company_name": "Skrea kraut",
+            "location": "Skrea",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 240
+        },
+        {
+            "index": 44,
+            "company_name": "Öxbro kvarn och såg",
+            "location": "Bjärnared",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 9
+        },
+        {
+            "index": 45,
+            "company_name": "Stågereds såg och ehlictetvärk",
+            "location": "Stågered",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 9
+        },
+        {
+            "index": 46,
+            "company_name": "Åstrals elektricitetsverk",
+            "location": "Åstral",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 47,
+            "company_name": "Risens kvarn",
+            "location": "Kvarnagård, Långås",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        }
+    ],
+    "filename": "Halland_3.png"
+}

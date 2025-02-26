@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "index": 66,
+      "company_name": "Ab. från Älvkarleby kraftverk",
+      "location": "Lidingö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lidingö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lidingö, Sweden",
+        "location": {
+          "lat": 59.36295999999999,
+          "lng": 18.1468
+        }
+      }
+    },
+    {
+      "index": 67,
+      "company_name": "Lidingö kraftstation",
+      "location": "Nacka",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 390,
+      "full_location": "Nacka, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Nacka, Sweden",
+        "location": {
+          "lat": 59.30790299999999,
+          "lng": 18.156042
+        }
+      }
+    },
+    {
+      "index": 68,
+      "company_name": "Saltsjöbaden kraftstation",
+      "location": "Boo",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 185,
+      "full_location": "Boo, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Boo, Sweden",
+        "location": {
+          "lat": 59.3307172,
+          "lng": 18.2867057
+        }
+      }
+    },
+    {
+      "index": 69,
+      "company_name": "Gustavsbergs fabriksintressenter",
+      "location": "Gustavsberg",
+      "power_station_name": "Gustavsbergs kraftstation",
+      "power_source": "diesel",
+      "installed_capacity_kva": 550,
+      "full_location": "Gustavsberg, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gustavsberg, Sweden",
+        "location": {
+          "lat": 59.314449,
+          "lng": 18.3985281
+        }
+      }
+    },
+    {
+      "index": 70,
+      "company_name": "Ab. från Älvkarleby kraftverk",
+      "location": "Värmdö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Värmdö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "139 36 Värmdö, Sweden",
+        "location": {
+          "lat": 59.3163663,
+          "lng": 18.4465719
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Värmdö och Djurö",
+      "location": "Ingarö",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ingarö, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ingarö, Sweden",
+        "location": {
+          "lat": 59.2551884,
+          "lng": 18.4776772
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Täby El. Ab.",
+      "location": "Täby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Täby, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Täby, Sweden",
+        "location": {
+          "lat": 59.4419,
+          "lng": 18.0703299
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Vallentuna El. distr.-fören.",
+      "location": "Vallentuna",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Vallentuna, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vallentuna, Sweden",
+        "location": {
+          "lat": 59.53569999999999,
+          "lng": 18.078017
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Ritneka Trävaru A.-B.",
+      "location": "Markim",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Markim, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Markim, 186 93 Vallentuna, Sweden",
+        "location": {
+          "lat": 59.60310399999999,
+          "lng": 18.054922
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Össeby-Garn el. distr.-fören.",
+      "location": "Össeby",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Össeby, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "LILLA GARN 33, 186 97 Brottby, Sweden",
+        "location": {
+          "lat": 59.5625891,
+          "lng": 18.2542293
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Rydbo el. distr.-fören.",
+      "location": "Östra Ryd",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Östra Ryd, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Östra Ryd, Sweden",
+        "location": {
+          "lat": 59.4477145,
+          "lng": 18.1780355
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Vaxholms stads el.-verk",
+      "location": "Vaxholm",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Vaxholm, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vaxholm, Sweden",
+        "location": {
+          "lat": 59.40329679999999,
+          "lng": 18.3263804
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "K. Marinförvaltningen",
+      "location": "Vaxholm",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Vaxholm, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vaxholm, Sweden",
+        "location": {
+          "lat": 59.40329679999999,
+          "lng": 18.3263804
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Norra Värmdö El. Distry. A.-B.",
+      "location": "Stockholm",
+      "power_station_name": "Kraftverk från Untra",
+      "power_source": "subscription",
+      "installed_capacity_kva": 37000,
+      "full_location": "Stockholm, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm, Sweden",
+        "location": {
+          "lat": 59.3327036,
+          "lng": 18.0656255
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Stenhamra El. Ab.",
+      "location": "Stockholm",
+      "power_station_name": "Ab. från Stockholms el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Stockholm, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm, Sweden",
+        "location": {
+          "lat": 59.3327036,
+          "lng": 18.0656255
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Brännkyrka El. Distr. A.-B.",
+      "location": "Södertälje",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Södertälje, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södertälje, Sweden",
+        "location": {
+          "lat": 59.197762,
+          "lng": 17.6201942
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Södertälje kraftstation",
+      "location": "Södertälje",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Södertälje, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Södertälje, Sweden",
+        "location": {
+          "lat": 59.197762,
+          "lng": 17.6201942
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Österlänng el. distr.-fören.",
+      "location": "Österlänge",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 200,
+      "full_location": "Österlänge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Tveta",
+      "location": "Bränninge",
+      "power_station_name": "Bränninge",
+      "power_source": "diesel",
+      "installed_capacity_kva": 86,
+      "full_location": "Bränninge, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "K. W. Hagelin",
+      "location": "Riksäng",
+      "power_station_name": "subscription from Älvkarleby kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 600,
+      "full_location": "Riksäng, Stockholm county, Sweden",
+      "geocoding": {
+        "formatted_address": "Stockholm County, Sweden",
+        "location": {
+          "lat": 59.4069048,
+          "lng": 18.8230665
+        }
+      }
+    }
+  ],
+  "filename": "Stockholm_4.png"
+}

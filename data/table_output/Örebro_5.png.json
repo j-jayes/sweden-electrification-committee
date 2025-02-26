@@ -1,0 +1,277 @@
+{
+    "data": [
+        {
+            "index": 131,
+            "company_name": "Gällemdeshyttan Gr.",
+            "location": "Grythyttan",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 2800
+        },
+        {
+            "index": 132,
+            "company_name": "Faxe, Pahne och Co.",
+            "location": "Järnväg",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 3500
+        },
+        {
+            "index": 133,
+            "company_name": "Skyllberg El.",
+            "location": "Skyllberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 700
+        },
+        {
+            "index": 134,
+            "company_name": "Hällefors Bruk AB",
+            "location": "Hällefors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 8000
+        },
+        {
+            "index": 135,
+            "company_name": "Hällefors och",
+            "location": "Hällefors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 136,
+            "company_name": ">>",
+            "location": "Stjärnsund",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 137,
+            "company_name": ">>",
+            "location": "Skators",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 138,
+            "company_name": ">>",
+            "location": "Hällefors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 139,
+            "company_name": ">>",
+            "location": "Stjerns",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 140,
+            "company_name": ">>",
+            "location": "Gällemdeshyttan",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 7000
+        },
+        {
+            "index": 141,
+            "company_name": ">>",
+            "location": "Jönnaberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 16700
+        },
+        {
+            "index": 142,
+            "company_name": ">>",
+            "location": "Gåsbornshyttan",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 6000
+        },
+        {
+            "index": 143,
+            "company_name": "Stjärns Gruveengruva",
+            "location": "Stjärns",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10000
+        },
+        {
+            "index": 144,
+            "company_name": "A.-B. Skott Managem.",
+            "location": "Lindesberg",
+            "power_station_name": "Stort Hytta",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 145,
+            "company_name": "Dalkarlsberget A.B.",
+            "location": "Lindesberg",
+            "power_station_name": "Dalkarlsberget",
+            "power_source": "water",
+            "installed_capacity_kva": 7000
+        },
+        {
+            "index": 146,
+            "company_name": "Linde",
+            "location": "Lindesberg",
+            "power_station_name": "Öskevik",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 147,
+            "company_name": "Föréns",
+            "location": "Lindesberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 750
+        },
+        {
+            "index": 148,
+            "company_name": "Vedevåg - Kopparb.",
+            "location": "Vedevåg",
+            "power_station_name": "Vedvåg",
+            "power_source": "water",
+            "installed_capacity_kva": 440
+        },
+        {
+            "index": 149,
+            "company_name": "Bruksäg. Ola. Olofsson",
+            "location": "Linde",
+            "power_station_name": "Värnberg",
+            "power_source": "diesel",
+            "installed_capacity_kva": 330
+        },
+        {
+            "index": 150,
+            "company_name": "Struk laddition",
+            "location": "Koppenberga",
+            "power_station_name": "Östra Bolar",
+            "power_source": "diesel",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 151,
+            "company_name": "Linde",
+            "location": "Lindesberg",
+            "power_station_name": "Lieke/Skogsb.",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 152,
+            "company_name": "Grunnt - Flors",
+            "location": "Nya A. Dalkarlb.",
+            "power_station_name": "Nya A. Dalkarlb.",
+            "power_source": "water",
+            "installed_capacity_kva": 810
+        },
+        {
+            "index": 153,
+            "company_name": "Agore-El Distr Bibliotek",
+            "location": "Linde",
+            "power_station_name": "Nyberga Dalkarlbs.",
+            "power_source": "water",
+            "installed_capacity_kva": 2500
+        },
+        {
+            "index": 154,
+            "company_name": "A. B. Hammarsberg Linde",
+            "location": "Hammarsberg",
+            "power_station_name": "A. Dalkarlb.",
+            "power_source": "water",
+            "installed_capacity_kva": 780
+        },
+        {
+            "index": 155,
+            "company_name": "För.-K. T. Turelberg Lövningbo",
+            "location": "Kopparvalla",
+            "power_station_name": "Mio Soyens",
+            "power_source": "water",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 156,
+            "company_name": "Lindekors",
+            "location": "Linde",
+            "power_station_name": "Älvtorp i Ringb.",
+            "power_source": "water",
+            "installed_capacity_kva": 720
+        },
+        {
+            "index": 157,
+            "company_name": "K. N. And Oppman",
+            "location": "Kopparberg",
+            "power_station_name": "Skoghammar",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 158,
+            "company_name": "A.-B. Hägkarna",
+            "location": "Ulvshyttan",
+            "power_station_name": "Stjerns",
+            "power_source": "diesel",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 159,
+            "company_name": "Atreurström AB, Sundf.",
+            "location": "Gränsby",
+            "power_station_name": "Älgå",
+            "power_source": "water",
+            "installed_capacity_kva": 880
+        },
+        {
+            "index": 160,
+            "company_name": "P.C Karlund",
+            "location": "Säfskogen",
+            "power_station_name": "Hällby",
+            "power_source": "water",
+            "installed_capacity_kva": 530
+        },
+        {
+            "index": 161,
+            "company_name": "Stenberg och Fr.",
+            "location": "Nedrebyän",
+            "power_station_name": "Runhult",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 162,
+            "company_name": "Bruksäg Svärforsk",
+            "location": "Örebro",
+            "power_station_name": "Lenhult",
+            "power_source": "water",
+            "installed_capacity_kva": 980
+        },
+        {
+            "index": 163,
+            "company_name": "Ruter KB, Lideland",
+            "location": "Säfsjön",
+            "power_station_name": "Ödenbäck",
+            "power_source": "water",
+            "installed_capacity_kva": 520
+        },
+        {
+            "index": 164,
+            "company_name": "A.-B. Stratrön",
+            "location": "Grasberg",
+            "power_station_name": "Stratvik",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        }
+    ],
+    "filename": "Örebro_5.png"
+}

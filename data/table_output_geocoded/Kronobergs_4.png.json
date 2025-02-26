@@ -1,0 +1,453 @@
+{
+  "data": [
+    {
+      "index": 72,
+      "company_name": "Axhults El. Energifören.",
+      "location": "Traryd",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Traryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "287 72 Traryd, Sweden",
+        "location": {
+          "lat": 56.5783672,
+          "lng": 13.7477129
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Lagamills A.-B.",
+      "location": "Markaryd",
+      "power_station_name": "Timsfors",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Markaryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Markaryd, Sweden",
+        "location": {
+          "lat": 56.4617744,
+          "lng": 13.5962744
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Markaryds köping och Markaryds And. El. Fören.",
+      "location": "Markaryd",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Markaryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Markaryd, Sweden",
+        "location": {
+          "lat": 56.4617744,
+          "lng": 13.5962744
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "Ångabäck",
+      "location": "Ångabäck",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Ångabäck, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "285 93 Ängabäck, Sweden",
+        "location": {
+          "lat": 56.4872124,
+          "lng": 13.4987145
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Sydsvenska Kraft A.-B. Trans.-sta. i Älmhult",
+      "location": "Stenbrohult",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Stenbrohult, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "343 71 Stenbrohult, Sweden",
+        "location": {
+          "lat": 56.617239,
+          "lng": 14.1851712
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Älmhults köping",
+      "location": "Älmhult",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Älmhult, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älmhult, Sweden",
+        "location": {
+          "lat": 56.5524461,
+          "lng": 14.1374047
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Distributionen i Möckelns station",
+      "location": "Älmhult",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Älmhult, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älmhult, Sweden",
+        "location": {
+          "lat": 56.5524461,
+          "lng": 14.1374047
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Distributionen i Fällhult",
+      "location": "Virestad",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Virestad, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "343 73 Virestad, Sweden",
+        "location": {
+          "lat": 56.62546949999999,
+          "lng": 14.3392329
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Distributionen i Stenbrohult",
+      "location": "Stenbrohult",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Stenbrohult, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "343 71 Stenbrohult, Sweden",
+        "location": {
+          "lat": 56.617239,
+          "lng": 14.1851712
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Distributionen i Liatorp",
+      "location": "Liatorp",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Liatorp, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "343 74 Liatorp, Sweden",
+        "location": {
+          "lat": 56.66514,
+          "lng": 14.2738533
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Gemla Fabriks A.-B.",
+      "location": "Gemla",
+      "power_station_name": "Dio",
+      "power_source": "water",
+      "installed_capacity_kva": 47,
+      "full_location": "Gemla, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "355 73 Gemla, Sweden",
+        "location": {
+          "lat": 56.8672585,
+          "lng": 14.6436202
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Fridafors Fabr. A.-B.",
+      "location": "Almundsryd",
+      "power_station_name": "Fridafors nedre",
+      "power_source": "water",
+      "installed_capacity_kva": 960,
+      "full_location": "Almundsryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "362 56 Almundsryd, Sweden",
+        "location": {
+          "lat": 56.46666699999999,
+          "lng": 14.683333
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Ortsdistributionen i Ryds me.",
+      "location": "Ryd",
+      "power_station_name": "Ab. fr. Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "362 56 Ryd, Sweden",
+        "location": {
+          "lat": 56.4626501,
+          "lng": 14.6938342
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Distributionen i Brändeborg",
+      "location": "Brändeborg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Brändeborg, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Urshults And. El. Fören.",
+      "location": "Urshult",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Urshult, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "362 54 Urshult, Sweden",
+        "location": {
+          "lat": 56.5312804,
+          "lng": 14.8146271
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "Orrefors Glasbruk",
+      "location": "Hälleberga",
+      "power_station_name": "Orrefors",
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Hälleberga, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 75 Hälleberga, Sweden",
+        "location": {
+          "lat": 56.865633,
+          "lng": 15.6843345
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": "Konga A.-B.",
+      "location": "Sandsjö",
+      "power_station_name": "Konga",
+      "power_source": "water",
+      "installed_capacity_kva": 24,
+      "full_location": "Sandsjö, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "342 64 Sandsjö, Sweden",
+        "location": {
+          "lat": 57.01773739999999,
+          "lng": 14.7092225
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "A.-B. Boksholms Sulfitfabrik",
+      "location": "Hornaryd",
+      "power_station_name": "Böksholm",
+      "power_source": "steam",
+      "installed_capacity_kva": 52,
+      "full_location": "Hornaryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 91 Hornaryd, Sweden",
+        "location": {
+          "lat": 57.1129008,
+          "lng": 14.9745067
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": "Gransholms A.-B.",
+      "location": "Öja",
+      "power_station_name": "Gransholm",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Öja, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "355 73 Öja, Sweden",
+        "location": {
+          "lat": 56.8511085,
+          "lng": 14.6255053
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Strömsnäs Bruks samhälle",
+      "location": "Traryd",
+      "power_station_name": "subscription from Sydsvenska Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Traryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "287 72 Traryd, Sweden",
+        "location": {
+          "lat": 56.5783672,
+          "lng": 13.7477129
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "Smålands Yllefabr. A.-B.",
+      "location": "Berga",
+      "power_station_name": "Åbyfors",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Berga, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "363 94 Berg, Sweden",
+        "location": {
+          "lat": 57.0729599,
+          "lng": 14.7154366
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "G. Collander m. fl.",
+      "location": "Ö. Torsås",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Ö. Torsås, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Gåvetorps gård",
+      "location": "Lekaryd",
+      "power_station_name": "Åäng",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Lekaryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "342 92 Lekaryd, Sweden",
+        "location": {
+          "lat": 56.933333,
+          "lng": 14.566667
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "J. A. Johansson m fl.",
+      "location": "Tingsås",
+      "power_station_name": "Midingsbråte",
+      "power_source": "water",
+      "installed_capacity_kva": 8,
+      "full_location": "Tingsås, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kronoberg County, Sweden",
+        "location": {
+          "lat": 56.89064940000001,
+          "lng": 14.5084523
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Palm & Pettersson",
+      "location": "Älmhult",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Älmhult, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älmhult, Sweden",
+        "location": {
+          "lat": 56.5524461,
+          "lng": 14.1374047
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Mindre kraftstationer",
+      "location": "Ljuder",
+      "power_station_name": "Tjoggsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Ljuder, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "365 94 Ljuder, Sweden",
+        "location": {
+          "lat": 56.6810848,
+          "lng": 15.3152861
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "Vrå El. Fören.",
+      "location": "Vrå",
+      "power_station_name": "Vrå",
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Vrå, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "341 73 Vrå, Sweden",
+        "location": {
+          "lat": 56.73573829999999,
+          "lng": 13.4536869
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Strömsnäs Bruk Mjäryd",
+      "location": "Traryd",
+      "power_station_name": "Kraftlev. från Strömsnäs Bruk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Traryd, Kronobergs county, Sweden",
+      "geocoding": {
+        "formatted_address": "287 72 Traryd, Sweden",
+        "location": {
+          "lat": 56.5783672,
+          "lng": 13.7477129
+        }
+      }
+    }
+  ],
+  "filename": "Kronobergs_4.png"
+}

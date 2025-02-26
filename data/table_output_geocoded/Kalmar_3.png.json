@@ -1,0 +1,453 @@
+{
+  "data": [
+    {
+      "index": 70,
+      "company_name": "Distrib. fr. St. Sinnerstads trans.-central",
+      "location": "Närlunda, Målilla, Yvetå och Gårdveta",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Närlunda, Målilla, Yvetå och Gårdveta, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "577 73 Gårdveda, Sweden",
+        "location": {
+          "lat": 57.3810866,
+          "lng": 15.7557946
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "A.-B. Rosensfors bruk",
+      "location": "Målilla",
+      "power_station_name": "Rosenfors",
+      "power_source": "water",
+      "installed_capacity_kva": 126,
+      "full_location": "Målilla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "577 74 Målilla, Sweden",
+        "location": {
+          "lat": 57.3891396,
+          "lng": 15.8162213
+        }
+      }
+    },
+    {
+      "index": 71,
+      "company_name": "Målilla Möbelfabrik",
+      "location": "Målilla",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Målilla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "577 74 Målilla, Sweden",
+        "location": {
+          "lat": 57.3891396,
+          "lng": 15.8162213
+        }
+      }
+    },
+    {
+      "index": 72,
+      "company_name": "Årnanders bruk",
+      "location": "Väster, Vimmerby",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Väster, Vimmerby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vimmerby, Sweden",
+        "location": {
+          "lat": 57.6690339,
+          "lng": 15.858857
+        }
+      }
+    },
+    {
+      "index": 73,
+      "company_name": "Eiseboom",
+      "location": "Åmåns",
+      "power_station_name": "Bensjö",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Åmåns, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 74,
+      "company_name": "Distrib. i Virserum",
+      "location": "Virserum",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Virserum, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "577 71 Virserum, Sweden",
+        "location": {
+          "lat": 57.3199949,
+          "lng": 15.5812344
+        }
+      }
+    },
+    {
+      "index": 75,
+      "company_name": "K. Bomans kraftanläggning",
+      "location": "Mörtfors",
+      "power_station_name": "Mörtfors",
+      "power_source": "water",
+      "installed_capacity_kva": 13,
+      "full_location": "Mörtfors, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "572 96 Mörtfors, Sweden",
+        "location": {
+          "lat": 57.5235351,
+          "lng": 16.470827
+        }
+      }
+    },
+    {
+      "index": 76,
+      "company_name": "Ryngångsångsgård",
+      "location": "Mörlunda",
+      "power_station_name": "Ryngångsångsgård",
+      "power_source": "water",
+      "installed_capacity_kva": 3,
+      "full_location": "Mörlunda, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "577 75 Mörlunda, Sweden",
+        "location": {
+          "lat": 57.32104990000001,
+          "lng": 15.8635239
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Finsjö Kraft A.-B.",
+      "location": "Högsby",
+      "power_station_name": "Blankaström",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Högsby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Högsby, Sweden",
+        "location": {
+          "lat": 57.17260400000001,
+          "lng": 16.020619
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Palm o. Pettersson",
+      "location": "Fagerhult",
+      "power_station_name": "Stora Kisjö",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Fagerhult, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "579 94 Fagerhult, Sweden",
+        "location": {
+          "lat": 57.1476793,
+          "lng": 15.6626605
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Björköhults Glashruck A.-B. Förenade tändsticksfabr.",
+      "location": "Kråksemåla",
+      "power_station_name": "Björköhult",
+      "power_source": "water",
+      "installed_capacity_kva": 92,
+      "full_location": "Kråksemåla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 74 Kråksmåla, Sweden",
+        "location": {
+          "lat": 57.0216226,
+          "lng": 15.8569438
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Finsjö Kraft A.-B.",
+      "location": "Högsby Filseryd",
+      "power_station_name": "Grödeskär",
+      "power_source": "water",
+      "installed_capacity_kva": 230,
+      "full_location": "Högsby Filseryd, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Högsby, Sweden",
+        "location": {
+          "lat": 57.17260400000001,
+          "lng": 16.020619
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Finsjö Kraft A.-B.",
+      "location": "Fågelfors",
+      "power_station_name": "Frövi",
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Fågelfors, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "579 72 Fågelfors, Sweden",
+        "location": {
+          "lat": 57.20390339999999,
+          "lng": 15.8489663
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Ortadsiltr. fr. Blankanäs",
+      "location": "Högsby",
+      "power_station_name": "Frövi övre",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Högsby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Högsby, Sweden",
+        "location": {
+          "lat": 57.17260400000001,
+          "lng": 16.020619
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "Ortadsiltr. fr. Frövi",
+      "location": "Högsby",
+      "power_station_name": "Finsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 750,
+      "full_location": "Högsby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Högsby, Sweden",
+        "location": {
+          "lat": 57.17260400000001,
+          "lng": 16.020619
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Ortadsiltr. fr. Finsjö",
+      "location": "Ab. fr. Finsjö Kraft, Långelamåla",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ab. fr. Finsjö Kraft, Långelamåla, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 73 Finsjö, Sweden",
+        "location": {
+          "lat": 57.1496854,
+          "lng": 16.2444178
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Ortadsiltr. fr. Finsjö",
+      "location": "Filseryd",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1600,
+      "full_location": "Filseryd, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Ortadsiltr. fr. Finsjö",
+      "location": "Filseryd",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1600,
+      "full_location": "Filseryd, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "Finsjö Kraft A.-B.",
+      "location": "Oskarshamn",
+      "power_station_name": "Oskarshamns central",
+      "power_source": "diesel",
+      "installed_capacity_kva": 500,
+      "full_location": "Oskarshamn, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Oskarshamn, Sweden",
+        "location": {
+          "lat": 57.26569929999999,
+          "lng": 16.4473984
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": "Oskarshamns stad",
+      "location": "Oskarshamn",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 4000,
+      "full_location": "Oskarshamn, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Oskarshamn, Sweden",
+        "location": {
+          "lat": 57.26569929999999,
+          "lng": 16.4473984
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Oskarshamns kopparverk",
+      "location": "Oskarshamn",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 4000,
+      "full_location": "Oskarshamn, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Oskarshamn, Sweden",
+        "location": {
+          "lat": 57.26569929999999,
+          "lng": 16.4473984
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": "Ortadsiltr. fr. Oskarshamns transf.-central",
+      "location": "Döderhult",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 830,
+      "full_location": "Döderhult, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "572 51 Döderhult, Sweden",
+        "location": {
+          "lat": 57.2678194,
+          "lng": 16.4022069
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Emfors Bruk",
+      "location": "Filseryd",
+      "power_station_name": "Carlshammar",
+      "power_source": "water",
+      "installed_capacity_kva": 600,
+      "full_location": "Filseryd, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "Finsjö Kraft A.-B.",
+      "location": "Emfors",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 4000,
+      "full_location": "Emfors, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "572 74 Emsfors, Sweden",
+        "location": {
+          "lat": 57.1450444,
+          "lng": 16.4535047
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "Finsjö Kraft A.-B.",
+      "location": "Hornsö",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2000,
+      "full_location": "Hornsö, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 91 Hornsö, Sweden",
+        "location": {
+          "lat": 57.0060036,
+          "lng": 16.2195034
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Distrib. i Blomstermåla",
+      "location": "Ålem",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Talebo",
+      "location": "Ålem",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2000,
+      "full_location": "Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 40 Ålem, Sweden",
+        "location": {
+          "lat": 56.948897,
+          "lng": 16.3844023
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Talebo",
+      "location": "Ab. fr. Finsjö Kraft, Ålem",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 2000,
+      "full_location": "Ab. fr. Finsjö Kraft, Ålem, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "384 73 Finsjö, Sweden",
+        "location": {
+          "lat": 57.1496854,
+          "lng": 16.2444178
+        }
+      }
+    }
+  ],
+  "filename": "Kalmar_3.png"
+}

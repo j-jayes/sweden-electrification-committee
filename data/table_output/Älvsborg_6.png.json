@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "index": 161,
+            "company_name": "Ortsdistributionen i Kinna etc.",
+            "location": "Kinna, Fritsla m. fl.",
+            "power_station_name": "Ab. från Viskans Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 162,
+            "company_name": "Viskans Kraft A.B.",
+            "location": "Örby Berghem",
+            "power_station_name": "Kungsfors",
+            "power_source": "water",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 163,
+            "company_name": "Ortsdistributionen i Lekvad",
+            "location": "Lekvad",
+            "power_station_name": "Ab. från Viskans Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 165,
+            "company_name": "S. Marks el. distr.-fören.",
+            "location": "Hägersten m. fl., Härred, Torvalla",
+            "power_station_name": "Ab. från Viskans Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 166,
+            "company_name": "M. Bengtsson S. A. Johansson",
+            "location": "Harred Kungasäter",
+            "power_station_name": "Vosse",
+            "power_source": "water",
+            "installed_capacity_kva": 780
+        },
+        {
+            "index": 167,
+            "company_name": "Hedin Mansf. A.-B.",
+            "location": "Stamnervad Ryda",
+            "power_station_name": "Stamnervad",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 168,
+            "company_name": "Fjärås Kraft A.-B.",
+            "location": "Sätlia, Björkefors Sätlia",
+            "power_station_name": "Nr 19 i Hallands län",
+            "power_source": "water",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 170,
+            "company_name": "Ingeards vilobem",
+            "location": "Ingeard",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 171,
+            "company_name": "E. Svensson m. fl., Björkåsen Knut Gustafsson m. fl.",
+            "location": "Björketorp",
+            "power_station_name": "Hellinge såg Kjulbens",
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 172,
+            "company_name": "Forssa bruk",
+            "location": "Bollebygd",
+            "power_station_name": "Hellinge såg",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 174,
+            "company_name": "Bollebygds el. distr.-fören., Hindås el. distr.-fören.",
+            "location": "Björketorp",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 8000
+        },
+        {
+            "index": 176,
+            "company_name": "Grönkullens väveri",
+            "location": "Bollebygd",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 177,
+            "company_name": "Sv. mät- och tumstocksfabriken",
+            "location": "Bollebygd, Sandhult",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 560
+        },
+        {
+            "index": 178,
+            "company_name": "Ortsdistributionen från Hindås etc.",
+            "location": "Bollebygd",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 179,
+            "company_name": "Bollegybs el. distr.-fören.",
+            "location": "Sandhult, Bollebygd",
+            "power_station_name": "Ab. från Sv. mät- och tumstocksfabr.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 530
+        },
+        {
+            "index": 181,
+            "company_name": "Herm. Vedenul m. fl., Assarebys och Vena Kraft",
+            "location": "Frändefors, Gestad, Bolstad",
+            "power_station_name": "Ab. från Kvällen",
+            "power_source": "subscription",
+            "installed_capacity_kva": 540
+        },
+        {
+            "index": 182,
+            "company_name": "Assarebys och Vena Kraft A.-B.",
+            "location": "Frändefors, Bolstad, Gestad",
+            "power_station_name": "Assarebys kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 183,
+            "company_name": "Böns El. Kvam A.-B.",
+            "location": "Gestad Holm",
+            "power_station_name": "Böns",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 184,
+            "company_name": "Melleruda köpnings el.-verk",
+            "location": "Gestad Holm",
+            "power_station_name": "Ab. från Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 2100
+        },
+        {
+            "index": 185,
+            "company_name": "Ör-Melleruds El. Kraft A.-B. och Melleruds El. A.-B.",
+            "location": "Ör, Holm",
+            "power_station_name": "Stampen",
+            "power_source": "water",
+            "installed_capacity_kva": 1900
+        }
+    ],
+    "filename": "Älvsborg_6.png"
+}

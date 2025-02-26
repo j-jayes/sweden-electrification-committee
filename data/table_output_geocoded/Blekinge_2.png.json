@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "index": 13,
+      "company_name": "Stadens elektricitetsverk",
+      "location": "Karlskrona",
+      "power_station_name": "subscription from Djupafors",
+      "power_source": "subscription",
+      "installed_capacity_kva": 600,
+      "full_location": "Karlskrona, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Karlskrona, Sweden",
+        "location": {
+          "lat": 56.161224,
+          "lng": 15.5869
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Ekfors kraftstation",
+      "location": "Bräkne-Hoby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 600,
+      "full_location": "Bräkne-Hoby, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "372 61 Bräkne-Hoby, Sweden",
+        "location": {
+          "lat": 56.2295999,
+          "lng": 15.1150425
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Mariebergs kraftstation",
+      "location": "Asarum",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 600,
+      "full_location": "Asarum, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "374 50 Asarum, Sweden",
+        "location": {
+          "lat": 56.2,
+          "lng": 14.83333
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Strömmens Bruk A.-B.",
+      "location": "Nötabråne",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 100,
+      "full_location": "Nötabråne, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "374 91 Nötabråne, Sweden",
+        "location": {
+          "lat": 56.2324784,
+          "lng": 14.8654221
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "A.-B. Santesson",
+      "location": "Jannebergs",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Jannebergs, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "374 93 Janneberg, Sweden",
+        "location": {
+          "lat": 56.183333,
+          "lng": 14.816667
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Karlskrona kraftstation",
+      "location": "Ronneby landsförs.",
+      "power_station_name": "subscription from Djupafors",
+      "power_source": "subscription",
+      "installed_capacity_kva": 600,
+      "full_location": "Ronneby landsförs., Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ronneby, Sweden",
+        "location": {
+          "lat": 56.210434,
+          "lng": 15.2760229
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Kockums Järnverk",
+      "location": "Kallinge",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 300,
+      "full_location": "Kallinge, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "372 51 Kallinge, Sweden",
+        "location": {
+          "lat": 56.2427292,
+          "lng": 15.291613
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Kockums Emaljverk",
+      "location": "Listerby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Listerby, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "372 74 Listerby, Sweden",
+        "location": {
+          "lat": 56.1982929,
+          "lng": 15.4032196
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Listerby kvarn",
+      "location": "Listerby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "Listerby, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "372 74 Listerby, Sweden",
+        "location": {
+          "lat": 56.1982929,
+          "lng": 15.4032196
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Olofstorps kraftstation",
+      "location": "Jämshög",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Jämshög, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "293 72 Jämshög, Sweden",
+        "location": {
+          "lat": 56.2403103,
+          "lng": 14.5308835
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Näsum elektriska A.-B.",
+      "location": "Gammelstorp",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 400,
+      "full_location": "Gammelstorp, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gammalstorp, 294 93 Sölvesborg, Sweden",
+        "location": {
+          "lat": 56.10833299999999,
+          "lng": 14.633333
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "John Bengtsson",
+      "location": "Mörum",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 100,
+      "full_location": "Mörum, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "375 30 Mörrum, Sweden",
+        "location": {
+          "lat": 56.1938314,
+          "lng": 14.748156
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Karlshamns Faktoriet A.-B.",
+      "location": "Ringamåla",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Ringamåla, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "376 92 Ringamåla, Sweden",
+        "location": {
+          "lat": 56.3329566,
+          "lng": 14.7995234
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "A.-B. Svenska Metallverken",
+      "location": "Asarum",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Asarum, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "374 50 Asarum, Sweden",
+        "location": {
+          "lat": 56.2,
+          "lng": 14.83333
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Belganets kraft A.-B.",
+      "location": "Öljehult",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Öljehult, Blekinge county, Sweden",
+      "geocoding": {
+        "formatted_address": "372 93 Öljehult, Sweden",
+        "location": {
+          "lat": 56.416667,
+          "lng": 15.05
+        }
+      }
+    }
+  ],
+  "filename": "Blekinge_2.png"
+}

@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "index": 31,
+            "company_name": "Borgärdets Bel.-För.",
+            "location": "Svärdsjö",
+            "power_station_name": "Ab. fr. Munktells",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 32,
+            "company_name": "Forta-Bengtshedens Bel.-För.",
+            "location": "Pappersbruk A.-B.",
+            "power_station_name": "Lingheds västra",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 33,
+            "company_name": "Hillesborgs Bel.-För.",
+            "location": "Linghed El. Bel.",
+            "power_station_name": "Ab. fr. Falun El. Bel.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 35,
+            "company_name": "Lingheds El. Bel.-För.",
+            "location": "Grycksbo",
+            "power_station_name": "Egen kraftstation",
+            "power_source": "diesel",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 36,
+            "company_name": "Mindre distr.-företag",
+            "location": "Isala, Bole o Östanqvist B. B.-F",
+            "power_station_name": "Öster-vars Kvarn, Såg o Bel.-För.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 38,
+            "company_name": "Sv. Koppar. Bergsl. A.-B.",
+            "location": "Svartnäs",
+            "power_station_name": "Övre Svartnäs",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 39,
+            "company_name": "Mindre distr.-företag",
+            "location": "Ab. fr. Ovansjö Bel.",
+            "power_station_name": "Ab. fr. Ovansjö Bel. och Kvarn A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 40,
+            "company_name": "Lumshedens Kraft- o. Bel.-F",
+            "location": "Lumsheden",
+            "power_station_name": "Egen kraftst",
+            "power_source": "water",
+            "installed_capacity_kva": 900
+        },
+        {
+            "index": 42,
+            "company_name": "Ytter Tängers Bel.-För.",
+            "location": "Enviken",
+            "power_station_name": "Enviken El. Bel.-För.",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 44,
+            "company_name": "Rånvikens El. Bel.-För.",
+            "location": "Grycksbo",
+            "power_station_name": "Ab. fr. Falun El. B.A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 45,
+            "company_name": "Björkborns-Malmfors Bel.-För.",
+            "location": "Enviken",
+            "power_station_name": "Enviken El. Bel.-För.",
+            "power_source": "water",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 46,
+            "company_name": "Långholms Bel.-För.",
+            "location": "Rättvik",
+            "power_station_name": "Egen kraftstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 47,
+            "company_name": "Falu El. Bel.-A.B.",
+            "location": "Sundborn",
+            "power_station_name": "Sundborn",
+            "power_source": "oil",
+            "installed_capacity_kva": 1400
+        },
+        {
+            "index": 52,
+            "company_name": "St. Kopparb. Bergsl. A.-B.",
+            "location": "Vika",
+            "power_station_name": "Ab. fr. Falun El. Bel.-B. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 53,
+            "company_name": "Vika El. Distr.-För.",
+            "location": "Vika",
+            "power_station_name": "Ab. fr. Falun El. Bel.-B. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 61,
+            "company_name": "Långnäs El. Distr.-För.",
+            "location": "Utby",
+            "power_station_name": "Rönnman",
+            "power_source": "water",
+            "installed_capacity_kva": 350
+        },
+        {
+            "index": 62,
+            "company_name": "Kyna-Morna El. Distr.- or. o H.",
+            "location": "Rättvik",
+            "power_station_name": "Kyna-Morna",
+            "power_source": "water",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 63,
+            "company_name": "Hinsnorets Skogsäg. A.-B.",
+            "location": "St. Tuna",
+            "power_station_name": "Bullerforsen",
+            "power_source": "water",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 67,
+            "company_name": "Transf.-stat. i Domnarvets kraftstation",
+            "location": "St. Kop. Bergsl. A.-B.",
+            "power_station_name": "St. Kopparb. Bergsl. A.-B.",
+            "power_source": "oil",
+            "installed_capacity_kva": 5000
+        }
+    ],
+    "filename": "Kopparberg_2.png"
+}

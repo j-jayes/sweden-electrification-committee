@@ -1,0 +1,325 @@
+{
+    "data": [
+        {
+            "index": 156,
+            "company_name": "Järsta Elektr. Belysningsförening",
+            "location": "Säbrå",
+            "power_station_name": "subscription from Hernösands stad",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 157,
+            "company_name": "Aspnäs Elektr. Andelsförening",
+            "location": "Aspnäs",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 158,
+            "company_name": "Iönviken",
+            "location": "Iönviken",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 159,
+            "company_name": "Tavara A.-B. Norrland",
+            "location": "Lövvvik",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 11
+        },
+        {
+            "index": 160,
+            "company_name": "Brunnefors Såg och Elektr. Kraftverksförening",
+            "location": "Stigsjö",
+            "power_station_name": "Brunnefors",
+            "power_source": "steam",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 161,
+            "company_name": "Lars Wiklund",
+            "location": "Brunne",
+            "power_station_name": "Brunne",
+            "power_source": "water",
+            "installed_capacity_kva": 7
+        },
+        {
+            "index": 162,
+            "company_name": "Otte Wiklund, Utå",
+            "location": "Ullå Kvarn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 163,
+            "company_name": "Spjuteå byamän",
+            "location": "Vikersten",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 164,
+            "company_name": "Jens Vesta, Sörgården",
+            "location": "Sörgårdens kvarn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 165,
+            "company_name": "S. A. Nordin",
+            "location": "Häggdånger",
+            "power_station_name": "Hanne roten",
+            "power_source": "water",
+            "installed_capacity_kva": 6
+        },
+        {
+            "index": 166,
+            "company_name": "Sjögårds Elektr. Bel. förening",
+            "location": "Angien",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 7
+        },
+        {
+            "index": 167,
+            "company_name": "Dybergs Påljungby Elektr. Bel. förening",
+            "location": "Sjövik",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 168,
+            "company_name": "Häggdångers Elektr. And. förening",
+            "location": "By",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 13
+        },
+        {
+            "index": 169,
+            "company_name": "Hagås Elektr. A.-B",
+            "location": "Arbik bruk",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 170,
+            "company_name": "G. A. Nordin",
+            "location": "Ullånger",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 171,
+            "company_name": "Sundsvalls Cellulosa A.-B.",
+            "location": "Viksjö",
+            "power_station_name": "Viksjö",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 172,
+            "company_name": "Nyinds-Häggsjö Elektr. And. förening",
+            "location": "Villola",
+            "power_station_name": "Villola",
+            "power_source": "water",
+            "installed_capacity_kva": 11
+        },
+        {
+            "index": 173,
+            "company_name": "Sunds A.-B. Sundsvall",
+            "location": "Trefas",
+            "power_station_name": "Ivålok",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 174,
+            "company_name": "Joh. Uhlberg",
+            "location": "Nordvik",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 55
+        },
+        {
+            "index": 175,
+            "company_name": "Salåkers Ångsågs A.-B.",
+            "location": "Nordingrå",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 190
+        },
+        {
+            "index": 176,
+            "company_name": "Jemte H. Kraft A.-B.",
+            "location": "Salåker",
+            "power_station_name": "Salåker",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 177,
+            "company_name": "Järnsta Kvarn och Elektricitetsverk",
+            "location": "Järnsta",
+            "power_station_name": "Järnsta",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 178,
+            "company_name": "Arnlöv Holmelt",
+            "location": "Löfsta",
+            "power_station_name": "Löfsta",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 179,
+            "company_name": "Mörtsjo Släkters Andelsförening",
+            "location": "D. V. Mörtsjö",
+            "power_station_name": "D. V. Mörtsjö",
+            "power_source": "steam",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 180,
+            "company_name": "B.-G. Große Elektricitetsverk",
+            "location": "Nora",
+            "power_station_name": "Gröde",
+            "power_source": "water",
+            "installed_capacity_kva": 13
+        },
+        {
+            "index": 181,
+            "company_name": "Kråkås och Ekebys byamän",
+            "location": "Kråkås",
+            "power_station_name": "Kråkås",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 182,
+            "company_name": "P. Wilzén, Herresta",
+            "location": "Herresta",
+            "power_station_name": "Herresta",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 183,
+            "company_name": "Nordanby Kvarn- och Belysningsandelsförening",
+            "location": "Nora",
+            "power_station_name": "Saltet",
+            "power_source": "water",
+            "installed_capacity_kva": 45
+        },
+        {
+            "index": 184,
+            "company_name": "Oscar Svensson",
+            "location": "Nora",
+            "power_station_name": "Nora",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 185,
+            "company_name": "Östrfagerin i Nora Kvarn och Elektr. Andelsförening",
+            "location": "Satern",
+            "power_station_name": "Satern",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 186,
+            "company_name": "Sandås Sågverks A.-B.",
+            "location": "Sandås",
+            "power_station_name": "Sandås",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 187,
+            "company_name": "Holm och Grönås byamän",
+            "location": "Grönås",
+            "power_station_name": "Grönås",
+            "power_source": "water",
+            "installed_capacity_kva": 55
+        },
+        {
+            "index": 188,
+            "company_name": "Erik Edström, Dala",
+            "location": "Dala",
+            "power_station_name": "Dala",
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 189,
+            "company_name": "Övereds Elektricitetsförening",
+            "location": "Skog",
+            "power_station_name": "Övered",
+            "power_source": "water",
+            "installed_capacity_kva": 65
+        },
+        {
+            "index": 190,
+            "company_name": "Noravtsn Kvarn och Elektr. fören",
+            "location": "Skog",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 38
+        },
+        {
+            "index": 191,
+            "company_name": "Sundels A.-B. Berglund & Co.",
+            "location": "Skog",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 38
+        },
+        {
+            "index": 192,
+            "company_name": "E. K. Montongerföreningen",
+            "location": "Nora",
+            "power_station_name": "Norafamn",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 193,
+            "company_name": "Marinövföreningen",
+            "location": "Nora",
+            "power_station_name": "Noraström",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 194,
+            "company_name": "Kranfors A.-B.",
+            "location": "Gudmundrå",
+            "power_station_name": "Ikvoken",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 195,
+            "company_name": "Kraftverk från Eksele kraftstation",
+            "location": "Gudmundrå",
+            "power_station_name": "Kraftverk",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        }
+    ],
+    "filename": "Västernorrland_5.png"
+}

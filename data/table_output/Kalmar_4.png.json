@@ -1,0 +1,269 @@
+{
+    "data": [
+        {
+            "index": 97,
+            "company_name": "Distrib. i Mönsterås",
+            "location": "Mönsterås",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 98,
+            "company_name": "Herstorp",
+            "location": "Mönsterås",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 99,
+            "company_name": "Kaggertorp",
+            "location": "Mönsterås",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 100,
+            "company_name": "Ålem",
+            "location": "Ålem",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 101,
+            "company_name": "Tillingenabben",
+            "location": "Ålem",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 102,
+            "company_name": "Pataholm",
+            "location": "Ålem",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 103,
+            "company_name": "Strömsrum gård",
+            "location": "Ålem",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 104,
+            "company_name": "Kronbäcks gård",
+            "location": "Mönsterås",
+            "power_station_name": "Torsrum kvarn Ålem",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 105,
+            "company_name": "Johansson",
+            "location": "Ålem",
+            "power_station_name": "Gunneström Blomstermåla",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 106,
+            "company_name": "Gunneström",
+            "location": "Blomstermåla",
+            "power_station_name": "Gunneström Blomstermåla",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 107,
+            "company_name": "Johansson",
+            "location": "Ålem",
+            "power_station_name": "Gunneström Blomstermåla",
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 108,
+            "company_name": "Blomstermåla möbelfabrik",
+            "location": "Norrbacken",
+            "power_station_name": "subscription from Gunneström Blomstermåla",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 109,
+            "company_name": "Maskinfabr. A.-B. Norr.",
+            "location": "Norrbacken",
+            "power_station_name": "subscription from Gunneström Blomstermåla",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 110,
+            "company_name": "Ab.A.-B. Bohman & Johans.",
+            "location": "Blomstermåla",
+            "power_station_name": "subscription from Gunneström Blomstermåla",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 111,
+            "company_name": "Åfors möbelfabrik",
+            "location": "Åfors",
+            "power_station_name": "Strömsrum gård",
+            "power_source": "steam",
+            "installed_capacity_kva": 87
+        },
+        {
+            "index": 112,
+            "company_name": "Sundbäckshults tråindustrif",
+            "location": "Strömsholm",
+            "power_station_name": "Strömsrum gård",
+            "power_source": "steam",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 113,
+            "company_name": "Karlfors pappersfabrik",
+            "location": "Karlfors",
+            "power_station_name": "Bole kvarn Kyrkojord",
+            "power_source": "water",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 114,
+            "company_name": "Bole kvarn",
+            "location": "Ryssby",
+            "power_station_name": "Bole kvarn Kyrkojord",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 115,
+            "company_name": "Kråksmåla",
+            "location": "Minnesjö",
+            "power_station_name": "Kråksmåla Kyrkojord",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 116,
+            "company_name": "Alsterbro glasbruk",
+            "location": "Alsterbro såg o.qvarn",
+            "power_station_name": "subscription from Bole kvarn Kyrkojord",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 117,
+            "company_name": "Nybros köpman",
+            "location": "Nybros köpman",
+            "power_station_name": "subscription from Bole kvarn Kyrkojord",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 118,
+            "company_name": "Bole kvarn Kyrkojord",
+            "location": "Madesjö",
+            "power_station_name": "subscription from Bole kvarn Kyrkojord",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 119,
+            "company_name": "Häggum",
+            "location": "Kristvalla",
+            "power_station_name": "Brittås mølle Grunnao",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 120,
+            "company_name": "Grunnao",
+            "location": "Brittnåla",
+            "power_station_name": "Brittås mølle Grunnao",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 121,
+            "company_name": "Grunnao",
+            "location": "Brittnåla",
+            "power_station_name": "Brittås mølle Grunnao",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 122,
+            "company_name": "Grunnao",
+            "location": "Gunnabo",
+            "power_station_name": "Brittås mølle Grunnao",
+            "power_source": "water",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 123,
+            "company_name": "Reservation",
+            "location": "Kristvalla",
+            "power_station_name": "Reservation",
+            "power_source": "diesel",
+            "installed_capacity_kva": 520
+        },
+        {
+            "index": 124,
+            "company_name": "Reservation",
+            "location": "Kristvalla",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 125,
+            "company_name": "Kaffahr",
+            "location": "Kristvalla",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 126,
+            "company_name": "Ortstatsdistr. i Berga",
+            "location": "Förlösa",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 127,
+            "company_name": "Ortstatsdistr. i Berga",
+            "location": "Kalmar",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 128,
+            "company_name": "Ortstatsdistr. i Berga",
+            "location": "Åby",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 129,
+            "company_name": "Dörby and el-fören.",
+            "location": "Dörby",
+            "power_station_name": "subscription from Finsjö Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        }
+    ],
+    "filename": "Kalmar_4.png"
+}

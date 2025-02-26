@@ -1,0 +1,293 @@
+{
+    "data": [
+        {
+            "index": 181,
+            "company_name": "Gnarps belysnings A.-B.",
+            "location": "Gnarp och Jättendal",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 182,
+            "company_name": "Gränsfors elektriska A.-B.",
+            "location": "Gränsfors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 183,
+            "company_name": "Bergsjö kraft A.-B.",
+            "location": "Bergsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 184,
+            "company_name": "Edsbo och Ilsbos elektriska A.-B.",
+            "location": "Edsbo och Ilsbo",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 190
+        },
+        {
+            "index": 185,
+            "company_name": "Fagerviks belysningsförening",
+            "location": "Fagervik",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 186,
+            "company_name": "A.-B. Iggesunds bruk",
+            "location": "Bergsjö ångsåg Högom",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 37
+        },
+        {
+            "index": 187,
+            "company_name": "Sjölanders m. fl. kraftstation",
+            "location": "Korpen, Norra Algered",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 188,
+            "company_name": "Algereås nya elektricitetsverk",
+            "location": "Södra Algered",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 189,
+            "company_name": "Jägreda elektricitetsverk",
+            "location": "Ellenöned",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 190,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Slitters",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 191,
+            "company_name": "Blom m. fl. kraftstation",
+            "location": "Berga",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 192,
+            "company_name": "Borgel kvarns elektricitetsverk",
+            "location": "Yttre",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 8
+        },
+        {
+            "index": 193,
+            "company_name": "Norells och Norbergs kraftstation",
+            "location": "Franshammar",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 5
+        },
+        {
+            "index": 194,
+            "company_name": "Ströms bruks A.-B.",
+            "location": "Bjuråker",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 195,
+            "company_name": "A.-B. Iggesunds bruk",
+            "location": "Friggesund",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 196,
+            "company_name": "Svedjeåbo elektricitetsverk",
+            "location": "Svedjeåbo",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 32
+        },
+        {
+            "index": 197,
+            "company_name": "Strmbacks Fabriks A.-B.",
+            "location": "Hedvigsfors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3
+        },
+        {
+            "index": 198,
+            "company_name": "Brännås elektricitetsverk",
+            "location": "Brännås",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 199,
+            "company_name": "Norbergs kraftanläggning",
+            "location": "Långmor",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 200,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Norberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 201,
+            "company_name": "Strömbäck elektricitetsverk",
+            "location": "Bricka",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 202,
+            "company_name": "Lumsbo elektricitetsverk",
+            "location": "Stribomacka",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 203,
+            "company_name": "Movens elektricitetsverk",
+            "location": "Moviken",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 204,
+            "company_name": "A.-B. Delbo elektricitetsverk",
+            "location": "Fredriksfors",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 205,
+            "company_name": "& A.-Grons anläggning",
+            "location": "Överslive",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 206,
+            "company_name": "Vemså kraftstation",
+            "location": "Vensia",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 207,
+            "company_name": "Linnarna kraftstation",
+            "location": "Björks",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 208,
+            "company_name": "Stormns elektricitetsverk",
+            "location": "Stönne",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 209,
+            "company_name": "Stömne oevre kvarn",
+            "location": "Östra Tolbo",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 210,
+            "company_name": "Do",
+            "location": "Oppsjö",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 211,
+            "company_name": "A.-B. Arbårn kraftverk",
+            "location": "Arbår",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 650
+        },
+        {
+            "index": 212,
+            "company_name": "Do",
+            "location": "Iste",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 213,
+            "company_name": "Mindre kraftanläggning",
+            "location": "Ånga",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 214,
+            "company_name": "Do",
+            "location": "Bogården",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 27
+        },
+        {
+            "index": 215,
+            "company_name": "Do",
+            "location": "Dalån",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 4
+        },
+        {
+            "index": 216,
+            "company_name": "Do",
+            "location": "Häntsäter",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 3
+        }
+    ],
+    "filename": "Gävleborg_6.png"
+}

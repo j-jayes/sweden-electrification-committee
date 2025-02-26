@@ -1,0 +1,517 @@
+{
+  "data": [
+    {
+      "index": 98,
+      "company_name": "Ortdistributionen från Nain, Knon, Malsta, Sjäförnmo, Krakered och Forshälla R.",
+      "location": "Hammarö",
+      "power_station_name": "Abon. från Uddeholms",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Hammarö, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "663 44 Hammaro, Sweden",
+        "location": {
+          "lat": 59.33333,
+          "lng": 13.51667
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Do",
+      "location": "Bogeruds elektriska anläggning",
+      "power_station_name": "Abon. från Uddeholms A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Bogeruds elektriska anläggning, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "684 91 Bogerud, Sweden",
+        "location": {
+          "lat": 59.86666700000001,
+          "lng": 13.55
+        }
+      }
+    },
+    {
+      "index": 100,
+      "company_name": "Renstier elektriska förening",
+      "location": "Öv. Ullerud",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Öv. Ullerud, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "669 91 Övre Ullerud, Sweden",
+        "location": {
+          "lat": 59.6869664,
+          "lng": 13.4693797
+        }
+      }
+    },
+    {
+      "index": 101,
+      "company_name": "Grava elektriska A.-B.",
+      "location": "Grava Hammaren",
+      "power_station_name": "Ångpannefrom från Uddeholms A.-B.",
+      "power_source": "steam",
+      "installed_capacity_kva": 800,
+      "full_location": "Grava Hammaren, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 98 Gravås, Sweden",
+        "location": {
+          "lat": 59.7833882,
+          "lng": 12.5534925
+        }
+      }
+    },
+    {
+      "index": 102,
+      "company_name": "Do (Hammarö)",
+      "location": "Skoghallsverken",
+      "power_station_name": "Abon. från Uddeholms A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Skoghallsverken, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 103,
+      "company_name": "Do",
+      "location": "Do",
+      "power_station_name": "Krafttavernas från Uddeholms A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 104,
+      "company_name": "Do",
+      "location": "Do",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 105,
+      "company_name": "Do",
+      "location": "Do",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 110,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 106,
+      "company_name": "Skattkärr torv A.-B.",
+      "location": "Grava Hammaran",
+      "power_station_name": "Ö. Fågelvik Notjärnshyttan's",
+      "power_source": "steam",
+      "installed_capacity_kva": 1000,
+      "full_location": "Grava Hammaran, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 98 Gravås, Sweden",
+        "location": {
+          "lat": 59.7833882,
+          "lng": 12.5534925
+        }
+      }
+    },
+    {
+      "index": 107,
+      "company_name": "Mindre anläggning",
+      "location": "Alster",
+      "power_station_name": "Alster",
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Alster, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "656 39 Alster, Sweden",
+        "location": {
+          "lat": 59.4012898,
+          "lng": 13.6138993
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Uddelbohls kvarn",
+      "location": "Do",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Skoghallsverken",
+      "location": "N. Råda",
+      "power_station_name": "Sunne",
+      "power_source": "water",
+      "installed_capacity_kva": 350,
+      "full_location": "N. Råda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 93 Råda, Sweden",
+        "location": {
+          "lat": 60.0044883,
+          "lng": 13.5978744
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Dito",
+      "location": "Nordmark",
+      "power_station_name": "Do",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Nordmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "682 93 Nordmark, Sweden",
+        "location": {
+          "lat": 59.8370595,
+          "lng": 14.1211853
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "A.-B. Mohlbacks—Trysil",
+      "location": "Älvsbacka",
+      "power_station_name": "Sörvans bruk",
+      "power_source": "steam",
+      "installed_capacity_kva": 250,
+      "full_location": "Älvsbacka, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsbacka, 655 98 Molkom, Sweden",
+        "location": {
+          "lat": 59.737922,
+          "lng": 13.691556
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Johannsson Brattfors",
+      "location": "Brattfors",
+      "power_station_name": "Johansson's oscar bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Brattfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "682 91 Brattfors, Sweden",
+        "location": {
+          "lat": 59.6678933,
+          "lng": 14.0261929
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Uddeholms A.-B.",
+      "location": "Nyed",
+      "power_station_name": "Borgås kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 315,
+      "full_location": "Nyed, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Vassdals elektriska bel.",
+      "location": "Do",
+      "power_station_name": "Tillbergsbruk",
+      "power_source": "water",
+      "installed_capacity_kva": 76,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Dala Väveri A.-B.",
+      "location": "Foskerud",
+      "power_station_name": "Foskerud",
+      "power_source": "water",
+      "installed_capacity_kva": 83,
+      "full_location": "Foskerud, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Granforss",
+      "location": "Rudsberg",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 500,
+      "full_location": "Rudsberg, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Rudsberg, 681 95 Kristinehamn, Sweden",
+        "location": {
+          "lat": 59.372639,
+          "lng": 13.96758
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Per Person",
+      "location": "Högboda",
+      "power_station_name": "Högboda",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Högboda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "665 93 Högboda, Sweden",
+        "location": {
+          "lat": 59.5586459,
+          "lng": 13.0540335
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Uddeholms A.-B.",
+      "location": "Lindsör gård",
+      "power_station_name": "Abon. från Molkoms elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lindsör gård, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Tidensgårds kraft",
+      "location": "Töcksfors belysningsförening",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": null,
+      "full_location": "Töcksfors belysningsförening, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "672 41 Töcksfors, Sweden",
+        "location": {
+          "lat": 59.5075308,
+          "lng": 11.8425511
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Hulleby belysningsförening",
+      "location": "Hulleby",
+      "power_station_name": "Hulleby",
+      "power_source": "water",
+      "installed_capacity_kva": null,
+      "full_location": "Hulleby, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 121,
+      "company_name": "A.-B. Molkoms kvarn-o ch porvperverk",
+      "location": "Roglunda",
+      "power_station_name": "Molkoms elektricitetsverk",
+      "power_source": "water",
+      "installed_capacity_kva": 130,
+      "full_location": "Roglunda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Molkoms eltransporter",
+      "location": "Do",
+      "power_station_name": "Molkoms elektricitetsverk",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "Brödrerna Johansson",
+      "location": "Öv. Ullerud",
+      "power_station_name": "Molkoms elektricitetsverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Öv. Ullerud, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "669 91 Övre Ullerud, Sweden",
+        "location": {
+          "lat": 59.6869664,
+          "lng": 13.4693797
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Nosseruptors-Lövsen eltriska distrib fo—-reniig",
+      "location": "St. Kil",
+      "power_station_name": "Molkoms elektricitetsverk",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "Do (Hammarö)",
+      "location": "Nordmark",
+      "power_station_name": "Nordmarks elektricitetsverk",
+      "power_source": "steam",
+      "installed_capacity_kva": 130,
+      "full_location": "Nordmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "682 93 Nordmark, Sweden",
+        "location": {
+          "lat": 59.8370595,
+          "lng": 14.1211853
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "Dalsjöfors A.-B.",
+      "location": "Olara bruk",
+      "power_station_name": "Olaras bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 170,
+      "full_location": "Olara bruk, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "Ededslors A.-B.",
+      "location": "Munkefors bruk",
+      "power_station_name": "Trysils kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 190,
+      "full_location": "Munkefors bruk, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "Brödrerna Johansson",
+      "location": "Öv. Ullerud",
+      "power_station_name": "Dalsjöfors kol",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Öv. Ullerud, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "669 91 Övre Ullerud, Sweden",
+        "location": {
+          "lat": 59.6869664,
+          "lng": 13.4693797
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "Nosseruptors-Lövsen elektriska andelsförening",
+      "location": "St. Kil",
+      "power_station_name": "Abon. från Nosseruptors distribut.ftsf",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    }
+  ],
+  "filename": "Värmland_4.png"
+}

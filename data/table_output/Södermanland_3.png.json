@@ -1,0 +1,189 @@
+{
+    "data": [
+        {
+            "index": 46,
+            "company_name": "Valla El. Kraft och Belysnings A.-B.",
+            "location": "Lerbo",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 47,
+            "company_name": "Lerbo sockens el. distr. fören.",
+            "location": "Lerbo",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 48,
+            "company_name": "A.-B. Katrineholms el.-verk",
+            "location": "Katrineholm",
+            "power_station_name": "Katrineholms kraftst. II",
+            "power_source": "steam",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 49,
+            "company_name": "Värmbols Fabr. A.-B.",
+            "location": "Katrineholm",
+            "power_station_name": "Gene kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 37
+        },
+        {
+            "index": 50,
+            "company_name": "Baggebytorpsortens el. distr. fören.",
+            "location": "Vagnhärad",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 51,
+            "company_name": "Ö. Vingåkers el. distr.-fören. C. Levinenguth",
+            "location": "Vingåker",
+            "power_station_name": "Boda kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 52,
+            "company_name": "Strångsjö el. kraft- och belysningsförening",
+            "location": "Strångsjö",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 53,
+            "company_name": "R. Grönkvist Forssjö bruk",
+            "location": "St. Malm",
+            "power_station_name": "St. Djulö",
+            "power_source": "steam",
+            "installed_capacity_kva": 85
+        },
+        {
+            "index": 54,
+            "company_name": "Forssjö bruk",
+            "location": "St. Malm",
+            "power_station_name": "Forssjö damm",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 55,
+            "company_name": "Forssjö—Östra Djulö el. distr.-fören.",
+            "location": "St. Malm",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 56,
+            "company_name": "Forssjö och Stensjö el. distr. fören.",
+            "location": "St. Malm",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 57,
+            "company_name": "Kantorps malmfält",
+            "location": "Bettna",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 58,
+            "company_name": "Rassta Kraft och Trafik A.-B.",
+            "location": "Bettna",
+            "power_station_name": "Åkfors",
+            "power_source": "water",
+            "installed_capacity_kva": 370
+        },
+        {
+            "index": 59,
+            "company_name": "Björkviks el. distr.-fören.",
+            "location": "Björkvik",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 60,
+            "company_name": "Danbyholmsägare Vadsbro el. distr.-fören.",
+            "location": "Bettna",
+            "power_station_name": "Vedeby kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 61,
+            "company_name": "Bettna—Halla—Vrena el. Skeda-Halla, Backa-Hosjö - \\,\nVrena, Sigtomta",
+            "location": "Vrena",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 62,
+            "company_name": "Tuna—Lunda el. distr.-fören.",
+            "location": "Tuna, Lunda",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 67,
+            "company_name": "Nyköpingsortens el. distr.-fören.",
+            "location": "St. Nikolai",
+            "power_station_name": "subscription from Forsafallet",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 68,
+            "company_name": "Nyköpings stads el-verk",
+            "location": "Nyköping",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 69,
+            "company_name": "A.-B. Perioden",
+            "location": "Nyköping",
+            "power_station_name": "Stortorutsfallet",
+            "power_source": "water",
+            "installed_capacity_kva": 620
+        },
+        {
+            "index": 70,
+            "company_name": "A.-B. Fors ulspinneri",
+            "location": "Nyköping",
+            "power_station_name": "Forsafallet",
+            "power_source": "water",
+            "installed_capacity_kva": 159
+        },
+        {
+            "index": 71,
+            "company_name": "Stjärnholmsortens el. distr.-fören.",
+            "location": "Stjärnholm",
+            "power_station_name": "subscription from Motala kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 72,
+            "company_name": "Gamla Oxelösunds el. distr. fören.\nTrafik A.-B. G. Grängesberg—Oxelösund och Oxelösunds Järnverks A.-B.",
+            "location": "Oxelösund",
+            "power_station_name": "Oxelösund",
+            "power_source": "steam",
+            "installed_capacity_kva": 150
+        }
+    ],
+    "filename": "Södermanland_3.png"
+}

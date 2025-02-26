@@ -1,0 +1,253 @@
+{
+    "data": [
+        {
+            "index": 284,
+            "company_name": "Huggnäs elektriska distri-butionsförening",
+            "location": "Huggnäs",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1002
+        },
+        {
+            "index": 285,
+            "company_name": "Bro elektriska distributionsförening",
+            "location": "Bro",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1804
+        },
+        {
+            "index": 286,
+            "company_name": "S:a Ny elektriska distri-butionsförening",
+            "location": "S:a Ny",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 964
+        },
+        {
+            "index": 287,
+            "company_name": "By elektriska distributionsförening",
+            "location": "By",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1438
+        },
+        {
+            "index": 288,
+            "company_name": "Botilsäters elektriska distributionsförening",
+            "location": "Botilsäter",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1888
+        },
+        {
+            "index": 289,
+            "company_name": "Sjöstad-Mullsvi elektriska distributionsförening",
+            "location": "Sjöstad-Mullsvi",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 181
+        },
+        {
+            "index": 290,
+            "company_name": "Edslistseröd elektriska distributionsförening",
+            "location": "Edslistseröd",
+            "power_station_name": "subscription from Trollhätte kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 596
+        },
+        {
+            "index": 291,
+            "company_name": "Hultmarks, Björne.",
+            "location": "Gillberga",
+            "power_station_name": "Sandåsens kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 750
+        },
+        {
+            "index": 292,
+            "company_name": "Malsjö elektriska andels-förening",
+            "location": "Grums",
+            "power_station_name": "Malsjö kvarn",
+            "power_source": "water",
+            "installed_capacity_kva": 175
+        },
+        {
+            "index": 293,
+            "company_name": "Mindre kraftanläggning Billeruds A.-B.",
+            "location": "Borgvik",
+            "power_station_name": "Uppgifter saknas",
+            "power_source": "steam",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 294,
+            "company_name": "Edsleskogs Bruk",
+            "location": "Edsleskog",
+            "power_station_name": "Krykans snuffabrik",
+            "power_source": "steam",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 296,
+            "company_name": "Segerstad och Nor elekt-risk vätebruksandel",
+            "location": "E4",
+            "power_station_name": "Subscriptionsanläggning från Blix-fors kraftstation (nr. 377), Fakultets elektricitetsverk",
+            "power_source": "steam",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 297,
+            "company_name": "Kaptens F. H. W. Axelson.",
+            "location": "Bro",
+            "power_station_name": "Mässviks kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 680
+        },
+        {
+            "index": 300,
+            "company_name": "Älvåker, N. D.",
+            "location": "N. D.",
+            "power_station_name": "Älvåker kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 301,
+            "company_name": "N. A., J. A. Johansson",
+            "location": "Bög.",
+            "power_station_name": "Suliğgerås kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 700
+        },
+        {
+            "index": 302,
+            "company_name": "Hensgårds elektriska",
+            "location": "Hensgård",
+            "power_station_name": "Hensgårds kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 303,
+            "company_name": "Värmskog, Gårds- och and.-fören.",
+            "location": "Bogen",
+            "power_station_name": "Homefos kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 304,
+            "company_name": "Värmskog, Gårds- och and.-fören.",
+            "location": "Rehnoldsfon",
+            "power_station_name": "Rehnoldsfon kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 300
+        },
+        {
+            "index": 306,
+            "company_name": "B. Eriksson B. T. Arneson",
+            "location": "Bruksås, Bruksån",
+            "power_station_name": "Värmskog kraftstation Ank.",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 307,
+            "company_name": "Gävla och S. Färnebo",
+            "location": "Skartanst.",
+            "power_station_name": "Mekrunda kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 308,
+            "company_name": "A. V. Flygd",
+            "location": "Mullerud",
+            "power_station_name": "Mullerud kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 309,
+            "company_name": "Trollhätte kraftverk, se även Trollhätte Energi",
+            "location": "Strömvården",
+            "power_station_name": "Eno kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 275
+        },
+        {
+            "index": 310,
+            "company_name": "R. Skäre, St. Arvidsons Gård",
+            "location": "Säffle",
+            "power_station_name": "Säffle kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 375
+        },
+        {
+            "index": 311,
+            "company_name": "Uddelalmo A.-B.",
+            "location": "Don, Don",
+            "power_station_name": "Konstfallet",
+            "power_source": "water",
+            "installed_capacity_kva": 276500
+        },
+        {
+            "index": 312,
+            "company_name": "Trembo B.",
+            "location": "Permbö",
+            "power_station_name": "Finsbotten",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 313,
+            "company_name": "Lemme Lövgren, L. O.",
+            "location": "Sollebrunn",
+            "power_station_name": "Åmål",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 314,
+            "company_name": "C. Danielsson",
+            "location": "Serr.",
+            "power_station_name": "Stöytjöforn",
+            "power_source": "water",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 316,
+            "company_name": "Hellerö Bruk",
+            "location": "Corstan",
+            "power_station_name": "Hellerö Bruk kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 317,
+            "company_name": "Hellerö Brucks A.-B.",
+            "location": "Vänersborg",
+            "power_station_name": "Storskebacken",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 318,
+            "company_name": "Brännergårds Millets.",
+            "location": "Nysund.",
+            "power_station_name": "Brännergårds Millets,",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 320,
+            "company_name": "I.Persson och A. Lorell",
+            "location": "Nysund",
+            "power_station_name": "Håkanbol",
+            "power_source": "water",
+            "installed_capacity_kva": 60
+        }
+    ],
+    "filename": "Värmland_10.png"
+}

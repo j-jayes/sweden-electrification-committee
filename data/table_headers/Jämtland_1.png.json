@@ -1,0 +1,90 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn, ägare eller innehavare",
+            "description": "Företagets namn eller ägare eller innehavare"
+        },
+        {
+            "id": 3,
+            "label": "Kommun, stad",
+            "description": "Kommun eller stad"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn eller läge",
+            "description": "Kraftstationens namn eller läge"
+        },
+        {
+            "id": 5,
+            "label": "Drivkraft",
+            "description": "Drivkraft (t.ex. vatten, ångkraft, etc.)"
+        },
+        {
+            "id": 6,
+            "label": "Utbyggd fallhöjd",
+            "description": "Utbyggd fallhöjd (i meter)"
+        },
+        {
+            "id": 7,
+            "label": "Generator effekt",
+            "description": "Generatorns effekt (i kVA)"
+        },
+        {
+            "id": 8,
+            "label": "Ortstans",
+            "description": "Ort eller plats"
+        },
+        {
+            "id": 9,
+            "label": "Periodtal",
+            "description": "Periodtal"
+        },
+        {
+            "id": 10,
+            "label": "Spänningssystem",
+            "description": "Spänningssystem (t.ex. 6000/380)"
+        },
+        {
+            "id": 11,
+            "label": "Anslutning",
+            "description": "Anslutningstyp"
+        },
+        {
+            "id": 12,
+            "label": "Belastning",
+            "description": "Belastning (i kW)"
+        },
+        {
+            "id": 13,
+            "label": "Motorer",
+            "description": "Antal motorer"
+        },
+        {
+            "id": 14,
+            "label": "Divergerande apparatur",
+            "description": "Divergerande apparatur (i kW)"
+        },
+        {
+            "id": 15,
+            "label": "Byggår",
+            "description": "Byggår"
+        },
+        {
+            "id": 16,
+            "label": "Anm. (Siffra avsnittskolumnen)",
+            "description": "Anteckningar, siffra refererande till avsnittskolumnen"
+        },
+        {
+            "id": 17,
+            "label": "Nr",
+            "description": "Referensnummer"
+        }
+    ],
+    "filename": "Jämtland_1.png"
+}

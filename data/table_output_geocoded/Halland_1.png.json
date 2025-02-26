@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Ängrededfors kraft & belysning",
+      "location": "Mölnlycke",
+      "power_station_name": "subscription from Yngeredafors kraft a-b, Mölnal",
+      "power_source": "subscription",
+      "installed_capacity_kva": 400,
+      "full_location": "Mölnlycke, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Anderstorps spinneri, Lindome",
+      "location": "Lindome",
+      "power_station_name": "subscription from Yngeredafors spinneri, Lindome",
+      "power_source": "subscription",
+      "installed_capacity_kva": 210,
+      "full_location": "Lindome, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindome, Sweden",
+        "location": {
+          "lat": 57.5948712,
+          "lng": 12.1354944
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Anderstorps spinneri, Lindome",
+      "location": "Lindome",
+      "power_station_name": "Lindome",
+      "power_source": "steam",
+      "installed_capacity_kva": 210,
+      "full_location": "Lindome, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindome, Sweden",
+        "location": {
+          "lat": 57.5948712,
+          "lng": 12.1354944
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Widforss, Lidköping",
+      "location": "Lidköping",
+      "power_station_name": "Lidköping workers association",
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Lidköping, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "Finnholmens elektriska före...",
+      "location": "Hälsö",
+      "power_station_name": "Hälsö",
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Hälsö, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Skyttevägen 32, 302 44 Halmstad, Sweden",
+        "location": {
+          "lat": 56.679573,
+          "lng": 12.8839616
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Finnholmens elektriska före...",
+      "location": "Lindome",
+      "power_station_name": "Vattenturbins",
+      "power_source": "water",
+      "installed_capacity_kva": 215,
+      "full_location": "Lindome, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindome, Sweden",
+        "location": {
+          "lat": 57.5948712,
+          "lng": 12.1354944
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Finnholmens elektriska före...",
+      "location": "Lindome",
+      "power_station_name": "Vattentubins",
+      "power_source": "water",
+      "installed_capacity_kva": 157,
+      "full_location": "Lindome, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lindome, Sweden",
+        "location": {
+          "lat": 57.5948712,
+          "lng": 12.1354944
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Släp sn",
+      "location": "Släp",
+      "power_station_name": "subscription from Yngeredafors kraft a-b, Mölnad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Släp, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Halland County, Sweden",
+        "location": {
+          "lat": 56.7957699,
+          "lng": 12.893493
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Fjärås sn",
+      "location": "Kungsbacka",
+      "power_station_name": "Vattenturbins",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Kungsbacka, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kungsbacka, Sweden",
+        "location": {
+          "lat": 57.48749189999999,
+          "lng": 12.0761927
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Fjärås sn",
+      "location": "Kungsbacka",
+      "power_station_name": "Vattentubins",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Kungsbacka, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kungsbacka, Sweden",
+        "location": {
+          "lat": 57.48749189999999,
+          "lng": 12.0761927
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Älvsäker sn",
+      "location": "Älvsäker",
+      "power_station_name": "subscription from Yngeredaforsoksen kraft a-b, Lindome",
+      "power_source": "subscription",
+      "installed_capacity_kva": 110,
+      "full_location": "Älvsäker, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "434 96 Älvsåker, Sweden",
+        "location": {
+          "lat": 57.54232500000001,
+          "lng": 12.1168244
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Kungsbacka stad",
+      "location": "Kungsbacka",
+      "power_station_name": "Kungsbacka Municipallity Power Station",
+      "power_source": "water",
+      "installed_capacity_kva": 16,
+      "full_location": "Kungsbacka, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kungsbacka, Sweden",
+        "location": {
+          "lat": 57.48749189999999,
+          "lng": 12.0761927
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Kungsbacka stad",
+      "location": "Kungsbacka",
+      "power_station_name": "Kungsbacka Municipality Power Station",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Kungsbacka, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kungsbacka, Sweden",
+        "location": {
+          "lat": 57.48749189999999,
+          "lng": 12.0761927
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Fjärås sn",
+      "location": "Kungsbacka",
+      "power_station_name": "Fjäärås",
+      "power_source": "water",
+      "installed_capacity_kva": 800,
+      "full_location": "Kungsbacka, Halland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kungsbacka, Sweden",
+        "location": {
+          "lat": 57.48749189999999,
+          "lng": 12.0761927
+        }
+      }
+    }
+  ],
+  "filename": "Halland_1.png"
+}

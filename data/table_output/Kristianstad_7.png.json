@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "index": 117,
+            "company_name": "Sydsvenska Kraft A.-B.",
+            "location": "Fjälkestad, Kristianstad",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 118,
+            "company_name": "Råbelövs Gods, Kristianstad",
+            "location": "Österslöv, Kristianstad",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 119,
+            "company_name": "Näsum Elektriska Krafta.-B.",
+            "location": "Näsum, O. Näsum",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 120,
+            "company_name": "Högarns-Billesholms A.-B.",
+            "location": "Ivetofta samt Arups Gård, Bromölla",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 122,
+            "company_name": "Ivetofta Andelselektricitetsförening",
+            "location": "Ivetofta, Bromölla",
+            "power_station_name": "subscription from Sydsvenska Kraft A.-B., Karlshamn",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 123,
+            "company_name": "Ivetofta Andelselektricitetsförening",
+            "location": "Arups Gård, Bromölla",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 129,
+            "company_name": "Åhus Andelselektricitetsförening",
+            "location": "Åhus",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 660
+        },
+        {
+            "index": 130,
+            "company_name": "Sydsvenska Kraft A.-B., Karlshamn",
+            "location": "Kristianstad stad",
+            "power_station_name": null,
+            "power_source": "diesel",
+            "installed_capacity_kva": 300
+        }
+    ],
+    "filename": "Kristianstad_7.png"
+}

@@ -1,0 +1,341 @@
+{
+  "data": [
+    {
+      "index": 14,
+      "company_name": "A.-B. Åsavallsutills elektricitet- o kraftv.",
+      "location": "Säby sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 5000,
+      "full_location": "Säby sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "573 93 Säby, Sweden",
+        "location": {
+          "lat": 57.9911979,
+          "lng": 14.9203985
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Höij elektricitet förening",
+      "location": "Säby sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 250,
+      "full_location": "Säby sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "573 93 Säby, Sweden",
+        "location": {
+          "lat": 57.9911979,
+          "lng": 14.9203985
+        }
+      }
+    },
+    {
+      "index": 16,
+      "company_name": "Munkåvarns elektricitetsverk",
+      "location": "Lommaryd sn",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 580,
+      "full_location": "Lommaryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 91 Lommaryd, Sweden",
+        "location": {
+          "lat": 57.8885342,
+          "lng": 14.7509031
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Noaks elektricitetsverk",
+      "location": "Lommaryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Lommaryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 91 Lommaryd, Sweden",
+        "location": {
+          "lat": 57.8885342,
+          "lng": 14.7509031
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Kleryds elektricitetsverk",
+      "location": "Frinnaryd",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 290,
+      "full_location": "Frinnaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 74 Frinnaryd, Sweden",
+        "location": {
+          "lat": 57.9337032,
+          "lng": 14.8202189
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Peppås kraft A-B.",
+      "location": "Vireda sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Vireda sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 92 Vireda, Sweden",
+        "location": {
+          "lat": 57.91509249999999,
+          "lng": 14.6329876
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Kleryds elektricitetsverk",
+      "location": "Vireda",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 0,
+      "full_location": "Vireda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 92 Vireda, Sweden",
+        "location": {
+          "lat": 57.91509249999999,
+          "lng": 14.6329876
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Vrangsjö elektricitetsverk",
+      "location": "Marbäck sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Marbäck sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 94 Marbäck, Sweden",
+        "location": {
+          "lat": 57.8587189,
+          "lng": 14.8572915
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Herrstads elektricitetsverk",
+      "location": "Frinnaryd",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Frinnaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 74 Frinnaryd, Sweden",
+        "location": {
+          "lat": 57.9337032,
+          "lng": 14.8202189
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Vittaryd, Stolpes elektricitetsverk",
+      "location": "Marbäck sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Marbäck sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 94 Marbäck, Sweden",
+        "location": {
+          "lat": 57.8587189,
+          "lng": 14.8572915
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Thorstorps elektricitetsverk",
+      "location": "Blåeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Blåeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Flisby dist.-anläggn.",
+      "location": "Aneby",
+      "power_station_name": "subscription from A.-B. Åsavallehult el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Aneby, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Aneby, Sweden",
+        "location": {
+          "lat": 57.83852100000001,
+          "lng": 14.8178021
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Aneby elektricitetsverk",
+      "location": "Aneby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Aneby, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Aneby, Sweden",
+        "location": {
+          "lat": 57.83852100000001,
+          "lng": 14.8178021
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Bona elektricitetsverk",
+      "location": "Aneby",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Aneby, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Aneby, Sweden",
+        "location": {
+          "lat": 57.83852100000001,
+          "lng": 14.8178021
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Motorplogfabriken June",
+      "location": "Bankeryd sn",
+      "power_station_name": "subscription from Habo sulfitfabr.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Ortstidf. i Bankeryd",
+      "location": "Bankeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Attarps ståln, Bankeryd",
+      "location": "Bankeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 940,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Domeås kraft A-B. Bankeryd",
+      "location": "Bankeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 1500,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Domeås kraft A-B. Bankeryd",
+      "location": "Bankeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 660,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Lindholms latin",
+      "location": "Bankeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Flaskebo elektricitetsverk",
+      "location": "Bankeryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Bankeryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Bankeryd, Sweden",
+        "location": {
+          "lat": 57.8574137,
+          "lng": 14.1312259
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_2.png"
+}

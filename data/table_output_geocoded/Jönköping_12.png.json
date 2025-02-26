@@ -1,0 +1,389 @@
+{
+  "data": [
+    {
+      "index": 252,
+      "company_name": "Bodafors municipalsamhälle",
+      "location": "Norra Sandsjö, Bodafors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 60,
+      "full_location": "Norra Sandsjö, Bodafors, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 63 Norra Sandsjö, Sweden",
+        "location": {
+          "lat": 57.466936,
+          "lng": 14.7577702
+        }
+      }
+    },
+    {
+      "index": 253,
+      "company_name": "A.-B. Granitor",
+      "location": "Norra Sandsjö, Bodafors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Norra Sandsjö, Bodafors, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 63 Norra Sandsjö, Sweden",
+        "location": {
+          "lat": 57.466936,
+          "lng": 14.7577702
+        }
+      }
+    },
+    {
+      "index": 254,
+      "company_name": "Bodafors möbelfabrik, Bodafors",
+      "location": "Norra Sandsjö, Bodafors",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 45,
+      "full_location": "Norra Sandsjö, Bodafors, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 63 Norra Sandsjö, Sweden",
+        "location": {
+          "lat": 57.466936,
+          "lng": 14.7577702
+        }
+      }
+    },
+    {
+      "index": 255,
+      "company_name": "Bodafors möbelfabrik, Bodafors",
+      "location": "Norra Sandsjö, Bodafors",
+      "power_station_name": "Nedre kraftstationen",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Norra Sandsjö, Bodafors, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 63 Norra Sandsjö, Sweden",
+        "location": {
+          "lat": 57.466936,
+          "lng": 14.7577702
+        }
+      }
+    },
+    {
+      "index": 256,
+      "company_name": "Hagels Elektriciteitsverk, Bodafors",
+      "location": "Norra Sandsjö, Bodafors",
+      "power_station_name": "Ab. fr. Prinsfors kraftab, Sävsjö",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Norra Sandsjö, Bodafors, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 63 Norra Sandsjö, Sweden",
+        "location": {
+          "lat": 57.466936,
+          "lng": 14.7577702
+        }
+      }
+    },
+    {
+      "index": 257,
+      "company_name": "Prinsfors Kraftstation, Sävsjö",
+      "location": "Vrigstad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 380,
+      "full_location": "Vrigstad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 96 Vrigstad, Sweden",
+        "location": {
+          "lat": 57.3554934,
+          "lng": 14.4756316
+        }
+      }
+    },
+    {
+      "index": 259,
+      "company_name": "Kråkefors kvarn, Sävsjö",
+      "location": "Norra Ljunga sn, Sävsjö",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Norra Ljunga sn, Sävsjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Norra Ljunga, Sweden",
+        "location": {
+          "lat": 57.3759373,
+          "lng": 14.5927748
+        }
+      }
+    },
+    {
+      "index": 260,
+      "company_name": "Komstads kvarn, Sävsjö",
+      "location": "Norra Ljunga sn, Sävsjö",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 19,
+      "full_location": "Norra Ljunga sn, Sävsjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Norra Ljunga, Sweden",
+        "location": {
+          "lat": 57.3759373,
+          "lng": 14.5927748
+        }
+      }
+    },
+    {
+      "index": 261,
+      "company_name": "Lundholmens gård, Vrigstad",
+      "location": "Vrigstad sn",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 114,
+      "full_location": "Vrigstad sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 96 Vrigstad, Sweden",
+        "location": {
+          "lat": 57.3554934,
+          "lng": 14.4756316
+        }
+      }
+    },
+    {
+      "index": 262,
+      "company_name": "Kvarnagårdens kraftstation",
+      "location": "Vrigstad sn",
+      "power_station_name": "Vrigstad belysningsförening",
+      "power_source": "subscription",
+      "installed_capacity_kva": 880,
+      "full_location": "Vrigstad sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 96 Vrigstad, Sweden",
+        "location": {
+          "lat": 57.3554934,
+          "lng": 14.4756316
+        }
+      }
+    },
+    {
+      "index": 263,
+      "company_name": "Vrigstad belysningsförening",
+      "location": "Vrigstad",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Vrigstad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 96 Vrigstad, Sweden",
+        "location": {
+          "lat": 57.3554934,
+          "lng": 14.4756316
+        }
+      }
+    },
+    {
+      "index": 264,
+      "company_name": "Gisabo o. Klintåns elektriska förening, Vrigstad",
+      "location": "Stockaryd sn",
+      "power_station_name": "Ab. fr. Kvarnagårdens kraftst.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Stockaryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 94 Stockaryd, Sweden",
+        "location": {
+          "lat": 57.3196489,
+          "lng": 14.5937415
+        }
+      }
+    },
+    {
+      "index": 266,
+      "company_name": "Stockaryds elektricitetsförening, Stockaryd",
+      "location": "Hjälmseryd sn",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 85,
+      "full_location": "Hjälmseryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 93 Hjälmseryd, Sweden",
+        "location": {
+          "lat": 57.24385230000001,
+          "lng": 14.5134695
+        }
+      }
+    },
+    {
+      "index": 267,
+      "company_name": "Veteryd, Stockaryd",
+      "location": "Hjälmseryd sn",
+      "power_station_name": "Brokulls elektricitetsverk",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Hjälmseryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 93 Hjälmseryd, Sweden",
+        "location": {
+          "lat": 57.24385230000001,
+          "lng": 14.5134695
+        }
+      }
+    },
+    {
+      "index": 268,
+      "company_name": "Stockaryds elektricitetsverk",
+      "location": "Nydala sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 8,
+      "full_location": "Nydala sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 97 Nydala, Sweden",
+        "location": {
+          "lat": 57.324138,
+          "lng": 14.3329715
+        }
+      }
+    },
+    {
+      "index": 269,
+      "company_name": "Långås m.fl., ortens elkraftsförening, Stockaryd",
+      "location": "Vallsjö sn",
+      "power_station_name": "Ab. fr. Smålands kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 250,
+      "full_location": "Vallsjö sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "vallsjon, 576 91 Sävsjö, Sweden",
+        "location": {
+          "lat": 57.40166999999999,
+          "lng": 14.78212
+        }
+      }
+    },
+    {
+      "index": 270,
+      "company_name": "Stockaryds kommunala elektriska verk, Sävsjö",
+      "location": "Vallsjö sn",
+      "power_station_name": "Ab. fr. Sävsjö samhällets el.-verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Vallsjö sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "vallsjon, 576 91 Sävsjö, Sweden",
+        "location": {
+          "lat": 57.40166999999999,
+          "lng": 14.78212
+        }
+      }
+    },
+    {
+      "index": 271,
+      "company_name": "Sävsjö sanatorium, Sävsjö",
+      "location": "Vallsjö sn, Sävsjö",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 80,
+      "full_location": "Vallsjö sn, Sävsjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "vallsjon, 576 91 Sävsjö, Sweden",
+        "location": {
+          "lat": 57.40166999999999,
+          "lng": 14.78212
+        }
+      }
+    },
+    {
+      "index": 272,
+      "company_name": "Sävsjö municipalsamhälle",
+      "location": "Stockaryd",
+      "power_station_name": "Stockaryd belysningsförening",
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Stockaryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 94 Stockaryd, Sweden",
+        "location": {
+          "lat": 57.3196489,
+          "lng": 14.5937415
+        }
+      }
+    },
+    {
+      "index": 273,
+      "company_name": "Agunnaryds elektricitetsförening, Stockaryd",
+      "location": "Rydaholm sn",
+      "power_station_name": "Ab. fr. Smålands kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Rydaholm sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "331 76 Rydaholm, Sweden",
+        "location": {
+          "lat": 56.9861429,
+          "lng": 14.3061766
+        }
+      }
+    },
+    {
+      "index": 274,
+      "company_name": "Skeby",
+      "location": "Ramkvilla sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Ramkvilla sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 74 Ramkvilla, Sweden",
+        "location": {
+          "lat": 57.204722,
+          "lng": 14.9515284
+        }
+      }
+    },
+    {
+      "index": 275,
+      "company_name": "Skeby gård, Ramkvilla",
+      "location": "Ramkvilla sn",
+      "power_station_name": "Ab. fr. Smålands kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Ramkvilla sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 74 Ramkvilla, Sweden",
+        "location": {
+          "lat": 57.204722,
+          "lng": 14.9515284
+        }
+      }
+    },
+    {
+      "index": 276,
+      "company_name": "Västervarvs kraftstation, Ramkvilla",
+      "location": "Södra Vedbo h.d.",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 47,
+      "full_location": "Södra Vedbo h.d., Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Österlånggatan 17, 575 31 Eksjö, Sweden",
+        "location": {
+          "lat": 57.66799340000001,
+          "lng": 14.9721376
+        }
+      }
+    },
+    {
+      "index": 277,
+      "company_name": "Ramkvilla gård, Ramkvilla",
+      "location": "Flisby sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 45,
+      "full_location": "Flisby sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 75 Flisby, Sweden",
+        "location": {
+          "lat": 57.7832666,
+          "lng": 14.8001215
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_12.png"
+}

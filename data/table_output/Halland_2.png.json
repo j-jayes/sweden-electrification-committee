@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "index": 15,
+            "company_name": "Soleryds elektricitetsverk, Larbr., E. Andersson",
+            "location": "Landa sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 16,
+            "company_name": "Hofors, såg och elektricitetsverk, Skagerback, Joh. Andersson",
+            "location": "Idala sn, Hjortsberga",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 17,
+            "company_name": "Edsbyns elektriska distributionsförening, Edsbyn",
+            "location": "Vedums sn",
+            "power_station_name": "subscription from Yngeredsfors kraft a.-b., Mölndal",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 18,
+            "company_name": "Kullagården, Godisg. J. Å. Johansson",
+            "location": "Vedums sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 20,
+            "company_name": "Lindbergs distributionsanläggning, Tofta",
+            "location": "Lindberg sn",
+            "power_station_name": "subscription from Yngeredsfors kraft a.-b., Mölndal",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 22,
+            "company_name": "Yttra Elektricitetsverk, f.d. Viskestyrelsens E.f.",
+            "location": "Ställinge sn, Glosgården",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 290
+        },
+        {
+            "index": 23,
+            "company_name": "Vikelsa elektricitetsverk, Lantbr. Johan Algot Persson",
+            "location": "Skällinge sn, Gärdhems gård, Täng",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 24,
+            "company_name": "Varbergs stads elverk, Rosendahl",
+            "location": "Varbergs stad",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 25,
+            "company_name": "Tullinge elektriska distr.förening, Tullinge by",
+            "location": "Åre sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 26,
+            "company_name": "Tossebäcks kvarn, Lantbr., Oskar Andersson",
+            "location": "Rolvs sn, Rolvstorp",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 27,
+            "company_name": "Melleruds elektriska distributionsförening",
+            "location": "Högvads sn, Högvads",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 920
+        },
+        {
+            "index": 28,
+            "company_name": "Hindelens elektriska distributionsförening, Bolsgård",
+            "location": "Äspered sn",
+            "power_station_name": "subscription from Yngeredsfors kraft a.-b., Mölndal",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 29,
+            "company_name": "Tvååkers kraft a.-b., Tvååker",
+            "location": "Tvååkers sn",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 10000
+        }
+    ],
+    "filename": "Halland_2.png"
+}

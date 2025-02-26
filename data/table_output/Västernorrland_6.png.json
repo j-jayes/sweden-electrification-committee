@@ -1,0 +1,269 @@
+{
+    "data": [
+        {
+            "index": 196,
+            "company_name": "Kramfors A.B. Transform.-central i Gudmundrå",
+            "location": "Gudmundrå",
+            "power_station_name": "subscription from Edsele kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 197,
+            "company_name": "Sandvikens Sågverks A.B.",
+            "location": "Gudmundrå",
+            "power_station_name": "subscription from Grängesbergs A.B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 198,
+            "company_name": "Svanö A.-B.",
+            "location": "Gudmundrå",
+            "power_station_name": "subscription from Grängesbergs A.B. i Svartvik",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 199,
+            "company_name": "Strömnäs A.-B.",
+            "location": "Gudmundrå",
+            "power_station_name": "subscription from Kramfors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 201,
+            "company_name": "Nensjö cellulose A.B.",
+            "location": "Gudmundrå",
+            "power_station_name": "subscription from Grängesbergs A.B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 302,
+            "company_name": "Skärsvikens Ångsåg",
+            "location": "Gudmundrå",
+            "power_station_name": "Skärsviken",
+            "power_source": "water",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 303,
+            "company_name": "Grängesbergs A.-B. Transform. central i Lunde",
+            "location": "Gudmundrå",
+            "power_station_name": "subscription from Forse kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 304,
+            "company_name": "Mjóvatnets Elektriska Förening",
+            "location": "Gudmundrå",
+            "power_station_name": "Nästvatten",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 305,
+            "company_name": "Bror Lidbaum",
+            "location": "Gudmundrå",
+            "power_station_name": "Bjästa",
+            "power_source": "diesel",
+            "installed_capacity_kva": 6
+        },
+        {
+            "index": 206,
+            "company_name": "Ödby El.-verk, Mellander & Co.",
+            "location": "Högsjö",
+            "power_station_name": "Ödby",
+            "power_source": "water",
+            "installed_capacity_kva": 13
+        },
+        {
+            "index": 307,
+            "company_name": "F. Th. Wiedergreen",
+            "location": "Högsjö",
+            "power_station_name": "Ramö sågverk",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 208,
+            "company_name": "Gustafsbergs Orlogsbad",
+            "location": "Högsjö",
+            "power_station_name": "subscription from Kramfors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 209,
+            "company_name": "Torsviks Ångverk, Ramvik",
+            "location": "Högsjö",
+            "power_station_name": "subscription from D. A. Gräfström, Backland",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 210,
+            "company_name": "Ström Aktiebolag Ramviks Sågverk",
+            "location": "Högsjö",
+            "power_station_name": "subscription from Kramfors A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 211,
+            "company_name": "Utansjö Cellulosa A.-B.",
+            "location": "Gudmundrå",
+            "power_station_name": "Utansjö",
+            "power_source": "water",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 212,
+            "company_name": "Tio Nya Sågverks A.-B.",
+            "location": "Gudmundrå",
+            "power_station_name": "Rö",
+            "power_source": "water",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 913,
+            "company_name": "Kallnäs Saltningsförening",
+            "location": "Gudmundrå",
+            "power_station_name": "Vallnäs",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 914,
+            "company_name": "Karlsviks Trästoff och Lysofförening",
+            "location": "Gudmundrå",
+            "power_station_name": "Karlsvik",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 915,
+            "company_name": "D. A. Gräfström",
+            "location": "Gudmundrå",
+            "power_station_name": "Backland",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 916,
+            "company_name": "Blandella bymänn",
+            "location": "Gudmundrå",
+            "power_station_name": "Blandella",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 217,
+            "company_name": "Jude m. fl. byamän",
+            "location": "Bjärtå",
+            "power_station_name": "Jude",
+            "power_source": "water",
+            "installed_capacity_kva": 27
+        },
+        {
+            "index": 51,
+            "company_name": "Kranesjö m. fl. byamän",
+            "location": "Bjärtå",
+            "power_station_name": "Kranesjö",
+            "power_source": "water",
+            "installed_capacity_kva": 8
+        },
+        {
+            "index": 218,
+            "company_name": "Arnfors Elfverk A.-B.",
+            "location": "Bjärtå",
+            "power_station_name": "Öfverfälle",
+            "power_source": "water",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 52,
+            "company_name": "Bjärtek Elektriska A.-B.",
+            "location": "Bjärtå",
+            "power_station_name": "Sjägön",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 220,
+            "company_name": "Kungsgården—Marieberg A.-B.",
+            "location": "Ljustom",
+            "power_station_name": "Mariebergs sågverk",
+            "power_source": "steam",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 222,
+            "company_name": "Fjärdvikens sågverks A.-B.",
+            "location": "Ljustom",
+            "power_station_name": "subscription from Bjärtå El.-A.B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 223,
+            "company_name": "Ströms Trävaru A.-B.",
+            "location": "Ljustom",
+            "power_station_name": "Hjärnviks",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 324,
+            "company_name": "Björkå A.-B. Hallstahans trävaritet",
+            "location": "Ljustom",
+            "power_station_name": "Röja sågverk",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 225,
+            "company_name": "Lägnviviks sågverk",
+            "location": "Ljustom",
+            "power_station_name": "Kullen",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 56,
+            "company_name": "A.-B. Svenska Fönsterglasbruk en",
+            "location": "Sundsvall",
+            "power_station_name": "Sands glasbruk",
+            "power_source": "steam",
+            "installed_capacity_kva": 82
+        },
+        {
+            "index": 226,
+            "company_name": "Sunds A.-B.",
+            "location": "Sundsvall",
+            "power_station_name": "Rundbacks",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 227,
+            "company_name": "Lövbergs och Björkörns byamän",
+            "location": "Sundsvall",
+            "power_station_name": "Björkörn",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 228,
+            "company_name": "Mellbergs, Höglands och Öppoms byamän",
+            "location": "Sundsvall",
+            "power_station_name": "Höglands",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        }
+    ],
+    "filename": "Västernorrland_6.png"
+}

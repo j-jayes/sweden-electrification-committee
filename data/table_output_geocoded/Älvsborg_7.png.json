@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "index": 186,
+      "company_name": "Hilmer Kellman",
+      "location": "Skållerud, Mellerud",
+      "power_station_name": "Ingribyn",
+      "power_source": "water",
+      "installed_capacity_kva": 9000,
+      "full_location": "Skållerud, Mellerud, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 40 Skållerud, Sweden",
+        "location": {
+          "lat": 58.7817585,
+          "lng": 12.4269627
+        }
+      }
+    },
+    {
+      "index": 187,
+      "company_name": "Köpmannebro el. distr.-fören.",
+      "location": "Holm, Skållerud",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Holm, Skållerud, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 93 Holms Socken, Sweden",
+        "location": {
+          "lat": 58.7121623,
+          "lng": 12.4697699
+        }
+      }
+    },
+    {
+      "index": 188,
+      "company_name": "Håverströms A.-B.",
+      "location": "Upperud",
+      "power_station_name": "Högfors",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Upperud, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "464 40 Upperud, Sweden",
+        "location": {
+          "lat": 58.8086316,
+          "lng": 12.4355554
+        }
+      }
+    },
+    {
+      "index": 189,
+      "company_name": "A.-B. Upperuds tråmassefabr.",
+      "location": "Ställdalen",
+      "power_station_name": "Upperudsfällen",
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "Ställdalen, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "714 72 Ställdalen, Sweden",
+        "location": {
+          "lat": 59.93729020000001,
+          "lng": 14.9403352
+        }
+      }
+    },
+    {
+      "index": 190,
+      "company_name": "Sv. silikatgefabr.",
+      "location": "Åmål",
+      "power_station_name": "Sjöleden",
+      "power_source": "oil",
+      "installed_capacity_kva": 5,
+      "full_location": "Åmål, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åmål, Sweden",
+        "location": {
+          "lat": 59.05111699999999,
+          "lng": 12.6977323
+        }
+      }
+    },
+    {
+      "index": 191,
+      "company_name": "Trollhätte kraftverk, Sektion i Åmål",
+      "location": "Ånimskog",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Ånimskog, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "662 97 Ånimskog, Sweden",
+        "location": {
+          "lat": 58.88360489999999,
+          "lng": 12.5679117
+        }
+      }
+    },
+    {
+      "index": 192,
+      "company_name": "Ånimskog el. distr.-fören.",
+      "location": "Ånimskog",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 40,
+      "full_location": "Ånimskog, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "662 97 Ånimskog, Sweden",
+        "location": {
+          "lat": 58.88360489999999,
+          "lng": 12.5679117
+        }
+      }
+    },
+    {
+      "index": 193,
+      "company_name": "Grav A.-B. Lake Copper Elektromagn. A.-B.",
+      "location": "Grav",
+      "power_station_name": "Rödane",
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Grav, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 195,
+      "company_name": "Tegnersfors A.-B.",
+      "location": "Håbol",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 450,
+      "full_location": "Håbol, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 91 Håbol, Sweden",
+        "location": {
+          "lat": 58.9738465,
+          "lng": 12.0308769
+        }
+      }
+    },
+    {
+      "index": 196,
+      "company_name": "Hannebols bruk",
+      "location": "Tösse",
+      "power_station_name": "Tösse",
+      "power_source": "steam",
+      "installed_capacity_kva": 900,
+      "full_location": "Tösse, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "662 98 Tösse, Sweden",
+        "location": {
+          "lat": 58.9736643,
+          "lng": 12.6411073
+        }
+      }
+    },
+    {
+      "index": 197,
+      "company_name": "Tösse-Tydje el. distr.-fören.",
+      "location": "Tösse",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Tösse, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "662 98 Tösse, Sweden",
+        "location": {
+          "lat": 58.9736643,
+          "lng": 12.6411073
+        }
+      }
+    },
+    {
+      "index": 198,
+      "company_name": "Åmåls stads el.-verk",
+      "location": "Mo",
+      "power_station_name": "Korsbyn",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Mo, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 198,
+      "company_name": "Åmåls stads el.-verk",
+      "location": "Mo",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 17,
+      "full_location": "Mo, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 199,
+      "company_name": "Knut Larsson",
+      "location": "Mo",
+      "power_station_name": "Sägo",
+      "power_source": "diesel",
+      "installed_capacity_kva": 65,
+      "full_location": "Mo, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 200,
+      "company_name": "A. Gustavsson",
+      "location": "Åmål",
+      "power_station_name": "Ab. från Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Åmål, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åmål, Sweden",
+        "location": {
+          "lat": 59.05111699999999,
+          "lng": 12.6977323
+        }
+      }
+    },
+    {
+      "index": 201,
+      "company_name": "Treta el. distr.-fören.",
+      "location": "Laxarby",
+      "power_station_name": "Norrlands kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 90,
+      "full_location": "Laxarby, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Älvsborg, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.6740043,
+          "lng": 11.881866
+        }
+      }
+    },
+    {
+      "index": 210,
+      "company_name": "E. Hansson",
+      "location": "Håbol",
+      "power_station_name": "Gräsjö",
+      "power_source": "water",
+      "installed_capacity_kva": 80,
+      "full_location": "Håbol, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 91 Håbol, Sweden",
+        "location": {
+          "lat": 58.9738465,
+          "lng": 12.0308769
+        }
+      }
+    },
+    {
+      "index": 211,
+      "company_name": "Nössemarks el. distr.-fören.",
+      "location": "Nössemark",
+      "power_station_name": "Nössemark",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Nössemark, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 91 Nössemark, Sweden",
+        "location": {
+          "lat": 59.135756,
+          "lng": 11.844644
+        }
+      }
+    },
+    {
+      "index": 212,
+      "company_name": "Dals-Ed–Rolanda el. distr.-fören.",
+      "location": "Dals-Ed",
+      "power_station_name": "Ab. från kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 125,
+      "full_location": "Dals-Ed, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 91 Dalsed, Sweden",
+        "location": {
+          "lat": 58.95811,
+          "lng": 11.89495
+        }
+      }
+    },
+    {
+      "index": 213,
+      "company_name": "A.-B. Hökedalen kraftst.",
+      "location": "Dals-Ed",
+      "power_station_name": "Dals-Ed kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 145,
+      "full_location": "Dals-Ed, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 91 Dalsed, Sweden",
+        "location": {
+          "lat": 58.95811,
+          "lng": 11.89495
+        }
+      }
+    },
+    {
+      "index": 214,
+      "company_name": "Ernst Samuelsson kvarn & såg",
+      "location": "Dals-Ed",
+      "power_station_name": "Hökedalen",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Dals-Ed, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 91 Dalsed, Sweden",
+        "location": {
+          "lat": 58.95811,
+          "lng": 11.89495
+        }
+      }
+    },
+    {
+      "index": 216,
+      "company_name": "Mon El. A.-B.",
+      "location": "Töftedal",
+      "power_station_name": "Mon",
+      "power_source": "oil",
+      "installed_capacity_kva": 50,
+      "full_location": "Töftedal, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 93 Töftedal, Sweden",
+        "location": {
+          "lat": 58.8500373,
+          "lng": 11.788369
+        }
+      }
+    },
+    {
+      "index": 217,
+      "company_name": "Åmåls lands. el.-fören.",
+      "location": "Bäckefors",
+      "power_station_name": "Nossemark",
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Bäckefors, Älvsborg county, Sweden",
+      "geocoding": {
+        "formatted_address": "668 40 Bäckefors, Sweden",
+        "location": {
+          "lat": 58.8058606,
+          "lng": 12.1563562
+        }
+      }
+    }
+  ],
+  "filename": "Älvsborg_7.png"
+}

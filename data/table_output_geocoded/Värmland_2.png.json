@@ -1,0 +1,581 @@
+{
+  "data": [
+    {
+      "index": 26,
+      "company_name": "Johan Johanson",
+      "location": "Lekvattnet",
+      "power_station_name": "Källstorp kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 23,
+      "full_location": "Lekvattnet, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "685 91 Lekvattned, Sweden",
+        "location": {
+          "lat": 60.1923584,
+          "lng": 12.6695633
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Fernström & Nilsson",
+      "location": "Lekvattnet",
+      "power_station_name": "Östanåns kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Lekvattnet, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "685 91 Lekvattned, Sweden",
+        "location": {
+          "lat": 60.1923584,
+          "lng": 12.6695633
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Billeruds A.-B.",
+      "location": "Grums",
+      "power_station_name": "Gustafsfors kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Grums, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Grums, Sweden",
+        "location": {
+          "lat": 59.35317870000001,
+          "lng": 13.1117319
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Söreforsens elektriska förening",
+      "location": "Fryksände",
+      "power_station_name": "Sundshöjdens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 19,
+      "full_location": "Fryksände, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Torsby Municipality, Sweden",
+        "location": {
+          "lat": 60.60933889999999,
+          "lng": 12.9219628
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Alfred Nilsson",
+      "location": "Gräsmark",
+      "power_station_name": "Krooks såg",
+      "power_source": "water",
+      "installed_capacity_kva": 19,
+      "full_location": "Gräsmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 98 Gräsmark, Sweden",
+        "location": {
+          "lat": 59.93384759999999,
+          "lng": 12.8389526
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Sågbackens elektr.-verk",
+      "location": "Koppom",
+      "power_station_name": "Sågbackens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 19,
+      "full_location": "Koppom, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 37 Koppom, Sweden",
+        "location": {
+          "lat": 59.70056,
+          "lng": 12.15812
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Billeruds A.-B.",
+      "location": "Qvarnström & Person",
+      "power_station_name": "Karvikens kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Qvarnström & Person, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "B. A. Petersson",
+      "location": "Lysvik",
+      "power_station_name": "Håmers",
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Lysvik, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 97 Lysvik, Sweden",
+        "location": {
+          "lat": 60.0149009,
+          "lng": 13.132743
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Ditto",
+      "location": "Råbäcks",
+      "power_station_name": "Hammerdalens",
+      "power_source": "water",
+      "installed_capacity_kva": 230,
+      "full_location": "Råbäcks, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Råbäck, 655 93 Karlstad, Sweden",
+        "location": {
+          "lat": 59.47052369999999,
+          "lng": 13.5750135
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Ditto",
+      "location": "",
+      "power_station_name": "Hålks",
+      "power_source": "water",
+      "installed_capacity_kva": 290,
+      "full_location": ", Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Timsanfallets byamän",
+      "location": "N. Råda",
+      "power_station_name": "Timsanfallets",
+      "power_source": "water",
+      "installed_capacity_kva": 40,
+      "full_location": "N. Råda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 93 Råda, Sweden",
+        "location": {
+          "lat": 60.0044883,
+          "lng": 13.5978744
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "Lövinsforsens elektr. belysningsförening",
+      "location": "N. Råda",
+      "power_station_name": "Lövinsforsens",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "N. Råda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 93 Råda, Sweden",
+        "location": {
+          "lat": 60.0044883,
+          "lng": 13.5978744
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Bäck kraft A.-B.",
+      "location": "Sunne",
+      "power_station_name": "Bäcks",
+      "power_source": "water",
+      "installed_capacity_kva": 505,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "Karlskoga elek.-andelsförening",
+      "location": "Sunne",
+      "power_station_name": "Karlkolens",
+      "power_source": "water",
+      "installed_capacity_kva": 105,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "Kullberg & Mayer",
+      "location": "Rottnesfors",
+      "power_station_name": "Stöpafors",
+      "power_source": "water",
+      "installed_capacity_kva": 185,
+      "full_location": "Rottnesfors, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "Runnel & Nilson",
+      "location": "Gräsmark",
+      "power_station_name": "Irjafors",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Gräsmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 98 Gräsmark, Sweden",
+        "location": {
+          "lat": 59.93384759999999,
+          "lng": 12.8389526
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Tybdel & Brattman",
+      "location": "Gräsmark",
+      "power_station_name": "Sörv. Rotna",
+      "power_source": "water",
+      "installed_capacity_kva": 19,
+      "full_location": "Gräsmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 98 Gräsmark, Sweden",
+        "location": {
+          "lat": 59.93384759999999,
+          "lng": 12.8389526
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "Emil Johansson",
+      "location": "Gräsmark",
+      "power_station_name": "Bara kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 18,
+      "full_location": "Gräsmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 98 Gräsmark, Sweden",
+        "location": {
+          "lat": 59.93384759999999,
+          "lng": 12.8389526
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Emil Edsvalla Bruk",
+      "location": "Gunnarsberg",
+      "power_station_name": "Högforss kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Gunnarsberg, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "Västrums B.-A.",
+      "location": "Gunnarsberg",
+      "power_station_name": "Treskogens",
+      "power_source": "water",
+      "installed_capacity_kva": 65,
+      "full_location": "Gunnarsberg, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "Treskogs elektriska förening",
+      "location": "Gunnarsberg",
+      "power_station_name": "Abonnemang från Treskogsbrukets kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Gunnarsberg, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 47,
+      "company_name": "Ditto",
+      "location": "Borrås",
+      "power_station_name": "Borrås kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Borrås, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 98 Borra, Sweden",
+        "location": {
+          "lat": 59.916667,
+          "lng": 12.9
+        }
+      }
+    },
+    {
+      "index": 48,
+      "company_name": "Gunnarsbergs elektriska",
+      "location": "Gunnarsberg",
+      "power_station_name": "Helge. bodafors",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Gunnarsberg, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 49,
+      "company_name": "Billeruds A.-B.",
+      "location": "Eda",
+      "power_station_name": "Abonnemang från Helge",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1,
+      "full_location": "Eda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 92 Eda, Sweden",
+        "location": {
+          "lat": 59.83754039999999,
+          "lng": 12.3140314
+        }
+      }
+    },
+    {
+      "index": 50,
+      "company_name": "Hälvarlands elektriska belysningsförening",
+      "location": "Eda",
+      "power_station_name": "Eda Bruk",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Eda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 92 Eda, Sweden",
+        "location": {
+          "lat": 59.83754039999999,
+          "lng": 12.3140314
+        }
+      }
+    },
+    {
+      "index": 51,
+      "company_name": "Billeruds A.-B.",
+      "location": "Eda",
+      "power_station_name": "Charlottenbergs Kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Eda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 92 Eda, Sweden",
+        "location": {
+          "lat": 59.83754039999999,
+          "lng": 12.3140314
+        }
+      }
+    },
+    {
+      "index": 52,
+      "company_name": "Olof Olssons elektriska belysningsförening",
+      "location": "Eda",
+      "power_station_name": "Abonnemang från Charlottenbergs kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1,
+      "full_location": "Eda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 92 Eda, Sweden",
+        "location": {
+          "lat": 59.83754039999999,
+          "lng": 12.3140314
+        }
+      }
+    },
+    {
+      "index": 53,
+      "company_name": "Vassgö elektriska distributionsförening",
+      "location": "Sunne",
+      "power_station_name": "Do Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 54,
+      "company_name": "Helge distributionsför.",
+      "location": "Sunne",
+      "power_station_name": "Do Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 55,
+      "company_name": "Sunne elektriska andelsförening",
+      "location": "Sunne",
+      "power_station_name": "Do Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 56,
+      "company_name": "Charlottenbergs bruk & distriktets Västergårda elkraft andelsförening",
+      "location": "Sunne",
+      "power_station_name": "Do Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 57,
+      "company_name": "Ditto",
+      "location": "Sunne",
+      "power_station_name": "Do Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1,
+      "full_location": "Sunne, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sunne, Sweden",
+        "location": {
+          "lat": 59.83655749999999,
+          "lng": 13.1440464
+        }
+      }
+    },
+    {
+      "index": 58,
+      "company_name": "Olofsfors A.-B.",
+      "location": "N. Råda",
+      "power_station_name": "Adolfsfors kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "N. Råda, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "683 93 Råda, Sweden",
+        "location": {
+          "lat": 60.0044883,
+          "lng": 13.5978744
+        }
+      }
+    },
+    {
+      "index": 59,
+      "company_name": "Gustaf Jonsson",
+      "location": "Skillingemark",
+      "power_station_name": "Adolfsfors kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 125,
+      "full_location": "Skillingemark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 60,
+      "company_name": "Sundholms",
+      "location": "Sundholms",
+      "power_station_name": "Sundshögfs",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Sundholms, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 61,
+      "company_name": "A.-B. Järnskogs elektricitetsverk",
+      "location": "Järnskogs",
+      "power_station_name": "Järnskogs elektricitetsverk",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Järnskogs, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 98 Järnskog, Sweden",
+        "location": {
+          "lat": 59.686305,
+          "lng": 12.1475732
+        }
+      }
+    }
+  ],
+  "filename": "Värmland_2.png"
+}

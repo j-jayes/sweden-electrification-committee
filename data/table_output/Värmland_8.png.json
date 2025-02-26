@@ -1,0 +1,261 @@
+{
+    "data": [
+        {
+            "index": 324,
+            "company_name": "Mölneryds elektriska andelsförening",
+            "location": "Brunskog",
+            "power_station_name": "Mölneryds kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 375
+        },
+        {
+            "index": 325,
+            "company_name": "Kraftbolaget Gylite",
+            "location": "Mangskog",
+            "power_station_name": "Gylteruds",
+            "power_source": "water",
+            "installed_capacity_kva": 149
+        },
+        {
+            "index": 326,
+            "company_name": "Ullförs elektriska andelsförening",
+            "location": "Arvika l.f.",
+            "power_station_name": "Slogfors','power_source':'water",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 327,
+            "company_name": "Joh. Olofsson",
+            "location": "Vikene",
+            "power_station_name": "Ferreros",
+            "power_source": "water",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 328,
+            "company_name": "A.-B. Arvika-Verken",
+            "location": "Do",
+            "power_station_name": "Vike",
+            "power_source": "water",
+            "installed_capacity_kva": 585
+        },
+        {
+            "index": 329,
+            "company_name": "Billeruds A.-B. Do",
+            "location": "Arvika stad",
+            "power_station_name": "Karlstads kraftstation (Go) ",
+            "power_source": "subscription",
+            "installed_capacity_kva": 5540
+        },
+        {
+            "index": 330,
+            "company_name": "Do",
+            "location": "Arvika stad",
+            "power_station_name": "Säfiboda",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3650
+        },
+        {
+            "index": 331,
+            "company_name": "Do",
+            "location": "Arvika stad",
+            "power_station_name": "Anläggn från krftstationerna nris 231, 232 och 229",
+            "power_source": "subscription",
+            "installed_capacity_kva": 5560
+        },
+        {
+            "index": 332,
+            "company_name": "Arvika elektriska A.-B.",
+            "location": "Arvika l.f.",
+            "power_station_name": "Silbodal",
+            "power_source": "water",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 333,
+            "company_name": "Kårmosens s:a elektriska ljusförening",
+            "location": "Arvika l.f.",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 334,
+            "company_name": "Koppångs gård",
+            "location": "Koppom",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 335,
+            "company_name": "Höyfors-Gilberuds elektriska förening",
+            "location": "Elga",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 33
+        },
+        {
+            "index": 336,
+            "company_name": "Svilles elektriska andel koförening",
+            "location": "Do",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 141
+        },
+        {
+            "index": 337,
+            "company_name": "Luodensby",
+            "location": "Do",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 152
+        },
+        {
+            "index": 338,
+            "company_name": "Elga mellersta ljusförening",
+            "location": "Do",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 190
+        },
+        {
+            "index": 339,
+            "company_name": "Elga s:a ljusförening",
+            "location": "Do",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 340,
+            "company_name": "Billeruds A.-B.",
+            "location": "Arvika l.f.",
+            "power_station_name": "Brättne kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 341,
+            "company_name": "Wagge elektriska andelsförening",
+            "location": "Ny",
+            "power_station_name": "Wagge",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 342,
+            "company_name": "Norseruds genedom','location':'Norserud",
+            "location": "Arvika l.f.",
+            "power_station_name": "Norseunds",
+            "power_source": "subscription",
+            "installed_capacity_kva": 115
+        },
+        {
+            "index": 343,
+            "company_name": "Andersföreningen Nordals",
+            "location": "Do",
+            "power_station_name": "Kalseruds mark",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 344,
+            "company_name": "Lars Johansson",
+            "location": "Kilsmo",
+            "power_station_name": "Smoens kraftstation",
+            "power_source": "steam",
+            "installed_capacity_kva": 1200
+        },
+        {
+            "index": 345,
+            "company_name": "Karlstads elektriska kraft A.-b.",
+            "location": "Silbodal",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 346,
+            "company_name": "C Nielsson",
+            "location": "Torpedalen",
+            "power_station_name": "Korsbyns",
+            "power_source": "water",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 347,
+            "company_name": "Torpedalens elektricitetsförening",
+            "location": "Östervallskog",
+            "power_station_name": "Torpedalens",
+            "power_source": "steam",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 348,
+            "company_name": "Tocksmarks elektricitets A.-B.",
+            "location": "Tocksmark",
+            "power_station_name": "Tocksmarks",
+            "power_source": "subscription",
+            "installed_capacity_kva": 172
+        },
+        {
+            "index": 349,
+            "company_name": "Fryks Velykes Elektriska Förening",
+            "location": "V. Fägelvik",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 151
+        },
+        {
+            "index": 350,
+            "company_name": "Hokne Olsson A.-B.",
+            "location": "Holmedal",
+            "power_station_name": "Länne",
+            "power_source": "water",
+            "installed_capacity_kva": 551
+        },
+        {
+            "index": 351,
+            "company_name": "Olssons Olssons A.-B.",
+            "location": "Arjängs",
+            "power_station_name": "Do",
+            "power_source": "water",
+            "installed_capacity_kva": 1000
+        },
+        {
+            "index": 352,
+            "company_name": "Arjängs elektriska A.-B.",
+            "location": "Silbodal",
+            "power_station_name": "Hormunefors",
+            "power_source": "subscription",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 353,
+            "company_name": "Do",
+            "location": "Arvas",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 450
+        },
+        {
+            "index": 354,
+            "company_name": "Evinden kyl eljusförening",
+            "location": "Högend jagens ถนนสุขุมวิท",
+            "power_station_name": "Hormunefors",
+            "power_source": "subscription",
+            "installed_capacity_kva": 52
+        },
+        {
+            "index": 355,
+            "company_name": "Larsons Elektriska Fobrening",
+            "location": "Do",
+            "power_station_name": "Do",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        }
+    ],
+    "filename": "Värmland_8.png"
+}

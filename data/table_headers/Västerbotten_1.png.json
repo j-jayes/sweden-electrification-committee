@@ -1,0 +1,45 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer av anläggning"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn, ägare eller innehavare",
+            "description": "Företagets namn inklusive ägare eller annan innehavare"
+        },
+        {
+            "id": 3,
+            "label": "Kommun",
+            "description": "Kommun där anläggningen är belägen"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn",
+            "description": "Namn på den specifika kraftstationen"
+        },
+        {
+            "id": 5,
+            "label": "Drivkraft",
+            "description": "Typ av drivkraft som används i anläggningen (t.ex. vatten, ånga, etc.)"
+        },
+        {
+            "id": 6,
+            "label": "Uthållighet",
+            "description": "Kapacitet att stå emot belastning över tid (i timmar)"
+        },
+        {
+            "id": 7,
+            "label": "Installationsgeneralföretak",
+            "description": "Generalföretag ansvarigt för installation"
+        },
+        {
+            "id": 8,
+            "label": "Strömart",
+            "description": "Typ av ström som produceras (e.g., växelström, likströms)"
+        }
+    ],
+    "filename": "Västerbotten_1.png"
+}

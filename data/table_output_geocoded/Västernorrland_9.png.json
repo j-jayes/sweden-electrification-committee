@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "index": 311,
+      "company_name": "Tävran A.B.",
+      "location": "Svartvik",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 9200,
+      "full_location": "Svartvik, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "862 33 Svartvik, Sweden",
+        "location": {
+          "lat": 62.31400709999999,
+          "lng": 17.3702196
+        }
+      }
+    },
+    {
+      "index": 312,
+      "company_name": "Ljungå Älv Flottningsförening",
+      "location": "Kläppenborg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 220,
+      "full_location": "Kläppenborg, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 313,
+      "company_name": "Sundsvalls Cellulosa A.-B.",
+      "location": "Nyhamn",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 5000,
+      "full_location": "Nyhamn, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "872 96 Nyhamn, Sweden",
+        "location": {
+          "lat": 62.9800352,
+          "lng": 17.7961819
+        }
+      }
+    },
+    {
+      "index": 315,
+      "company_name": "Ortjö bysaman",
+      "location": "Ortjö",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 2000,
+      "full_location": "Ortjö, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 317,
+      "company_name": "Sundsvalls Cellulosa A.-B.",
+      "location": "Njurunda",
+      "power_station_name": "Nyhamn",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Njurunda, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Njurunda, 862 40 Njurunda, Sweden",
+        "location": {
+          "lat": 62.27070439999999,
+          "lng": 17.3718572
+        }
+      }
+    },
+    {
+      "index": 318,
+      "company_name": "Ortjö bysaman",
+      "location": "Sörsjö",
+      "power_station_name": "Ortjö",
+      "power_source": "water",
+      "installed_capacity_kva": 6000,
+      "full_location": "Sörsjö, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sörsjön, 882 93 Helgum, Sweden",
+        "location": {
+          "lat": 63.20956580000001,
+          "lng": 16.6604103
+        }
+      }
+    },
+    {
+      "index": 322,
+      "company_name": "T. O. Landgr",
+      "location": "Stångom",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 259,
+      "full_location": "Stångom, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "862 41 Stångom, Sweden",
+        "location": {
+          "lat": 62.266667,
+          "lng": 17.366667
+        }
+      }
+    },
+    {
+      "index": 328,
+      "company_name": "Nolby Elektriska Förening",
+      "location": "Stöde",
+      "power_station_name": "Näsångom",
+      "power_source": "water",
+      "installed_capacity_kva": 6300,
+      "full_location": "Stöde, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "864 41 Stöde, Sweden",
+        "location": {
+          "lat": 62.42137309999999,
+          "lng": 16.5910855
+        }
+      }
+    },
+    {
+      "index": 330,
+      "company_name": "Ede byamäns Elektriska Distributionsförening",
+      "location": "Abon. fr. Ljungaverk",
+      "power_station_name": "subscription from Ljungaverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 6000,
+      "full_location": "Abon. fr. Ljungaverk, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "841 98 Ljungaverk, Sweden",
+        "location": {
+          "lat": 62.4892714,
+          "lng": 16.0421105
+        }
+      }
+    },
+    {
+      "index": 331,
+      "company_name": "Fanbyn Elektriska verk",
+      "location": "Fanbyn",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 5000,
+      "full_location": "Fanbyn, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "864 41 Fanbyn, Sweden",
+        "location": {
+          "lat": 62.40852570000001,
+          "lng": 16.574691
+        }
+      }
+    },
+    {
+      "index": 335,
+      "company_name": "Janne Westins sterbhus",
+      "location": "Abon. fr. Westin, Nederede",
+      "power_station_name": "subscription from Westin, Nederede",
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Abon. fr. Westin, Nederede, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "864 96 Nederede, Sweden",
+        "location": {
+          "lat": 62.42331420000001,
+          "lng": 16.4984754
+        }
+      }
+    },
+    {
+      "index": 338,
+      "company_name": "Torp",
+      "location": "Panbyn",
+      "power_station_name": "Panbyn",
+      "power_source": "water",
+      "installed_capacity_kva": 2820,
+      "full_location": "Panbyn, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 341,
+      "company_name": "Hjältans byamäns Elektriska Kraftförening",
+      "location": "Torpshammar",
+      "power_station_name": "Abon. fr. Ljungaverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 6000,
+      "full_location": "Torpshammar, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "841 75 Torpshammar, Sweden",
+        "location": {
+          "lat": 62.4755923,
+          "lng": 16.324512
+        }
+      }
+    },
+    {
+      "index": 346,
+      "company_name": "P. O. Sundell, Björmoden",
+      "location": "Hansipska",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 920,
+      "full_location": "Hansipska, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    },
+    {
+      "index": 348,
+      "company_name": "J. Jonsson, Österåker",
+      "location": "Abon. fr. Ljunga verk",
+      "power_station_name": "subscription from Ljunga verk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 6000,
+      "full_location": "Abon. fr. Ljunga verk, Västernorrland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västernorrland County, Sweden",
+        "location": {
+          "lat": 62.98552900000001,
+          "lng": 18.1258604
+        }
+      }
+    }
+  ],
+  "filename": "Västernorrland_9.png"
+}

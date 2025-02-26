@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "index": 47,
+            "company_name": "V. Orusts el. distr.-fören.",
+            "location": "Moulönna, Gullholmen, Käringön, Mollösund",
+            "power_station_name": "subscription from Trollhätte kraft-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 48,
+            "company_name": "Vasbottens el. fören.",
+            "location": "Naverstad, Skee",
+            "power_station_name": "Vasbotten",
+            "power_source": "water",
+            "installed_capacity_kva": 1300
+        },
+        {
+            "index": 49,
+            "company_name": "O. Hansson",
+            "location": "Blomsholm",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 1600
+        },
+        {
+            "index": 50,
+            "company_name": "Strömstads el.-verk",
+            "location": "Strömstad",
+            "power_station_name": "Stadens el.-verk",
+            "power_source": "diesel",
+            "installed_capacity_kva": 40
+        },
+        {
+            "index": 51,
+            "company_name": "A.-B. Grebbestads el.-verk",
+            "location": "Tanum",
+            "power_station_name": "Grebbestad",
+            "power_source": "oil",
+            "installed_capacity_kva": 1295
+        }
+    ],
+    "filename": "Goteborgs-och-Bohus_3.png"
+}

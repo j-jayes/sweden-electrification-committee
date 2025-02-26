@@ -1,0 +1,105 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Hälsan eller tingsl.",
+            "description": "Hälsan eller tingsl. ang. socken eller landskommun, vars anläggning är belägen till visst del till bevilgad deläga."
+        },
+        {
+            "id": 2,
+            "label": "Anläggningens namn och adress",
+            "description": "Anläggningens namn och adress."
+        },
+        {
+            "id": 3,
+            "label": "Drivmotor",
+            "description": "Typ av drivmotor."
+        },
+        {
+            "id": 4,
+            "label": "Utbyggd effekt (koä)",
+            "description": "Utbyggd effekt, mätt i koä (hästkrafter)."
+        },
+        {
+            "id": 5,
+            "label": "Slag",
+            "description": "Typ av anläggning."
+        },
+        {
+            "id": 6,
+            "label": "Sammanlagd storlek",
+            "description": "Sammanlagd storlek, anges i kvm och för proliferation."
+        },
+        {
+            "id": 7,
+            "label": "Vattenmolekyl",
+            "description": "Vattenmolekyler för elektriskt system."
+        },
+        {
+            "id": 8,
+            "label": "Strömart",
+            "description": "Typ av ström (växel eller likström)."
+        },
+        {
+            "id": 9,
+            "label": "Period",
+            "description": "Period för elektrofonden."
+        },
+        {
+            "id": 10,
+            "label": "Spänning",
+            "description": "Anger spänning."
+        },
+        {
+            "id": 11,
+            "label": "Sammanlagd längd",
+            "description": "Sammanlagd längd av ledningar."
+        },
+        {
+            "id": 12,
+            "label": "Sammanlagd transformatoreffekt",
+            "description": "Sammanlagd effekt av transformatorer."
+        },
+        {
+            "id": 13,
+            "label": "El, kr./å",
+            "description": "El, kostnad per år i kronor."
+        },
+        {
+            "id": 14,
+            "label": "Byggnadsår",
+            "description": "Årtal för byggnad."
+        },
+        {
+            "id": 15,
+            "label": "Anmärkningar",
+            "description": "Anmärkningar eller övriga upplysningar."
+        },
+        {
+            "id": 16,
+            "label": "Ungfärlig årlig avgift",
+            "description": "Uppskattad årlig avgift."
+        },
+        {
+            "id": 17,
+            "label": "Anläggningskostnad",
+            "description": "Kostnad för anläggningen."
+        },
+        {
+            "id": 18,
+            "label": "Artal",
+            "description": "Är ett identifieringsnummer."
+        },
+        {
+            "id": 19,
+            "label": "Anmärkningar",
+            "description": "Ytterligare anmärkningar."
+        },
+        {
+            "id": 20,
+            "label": "Anläggningsnr",
+            "description": "Anläggningsnummer."
+        }
+    ],
+    "filename": "Halland_1.png"
+}

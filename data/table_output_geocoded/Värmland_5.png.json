@@ -1,0 +1,501 @@
+{
+  "data": [
+    {
+      "index": 130,
+      "company_name": "Bergs o. Bergstorps elektriska",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 131,
+      "company_name": "O. Deje elektriska förening",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Rönningens gård",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Åratorps ålderdomshem",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "Bråten Ämtatorps elektriska",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 135,
+      "company_name": "Forshaga elektriska A.-B.",
+      "location": "Grava",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Grava, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "686 95 Grava, Sweden",
+        "location": {
+          "lat": 59.6777441,
+          "lng": 13.1791888
+        }
+      }
+    },
+    {
+      "index": 136,
+      "company_name": "A.-B. Mölnbacka Trysil",
+      "location": "Forshaga",
+      "power_station_name": "Klarafors kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 3755,
+      "full_location": "Forshaga, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Forshaga, Sweden",
+        "location": {
+          "lat": 59.52976049999999,
+          "lng": 13.4860836
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": "Forshaga sulfit A.-B.",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": "Lökken gård",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": "Apertins gård",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": "Ivarps skog",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": "Kils elektriska A.-B.",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 142,
+      "company_name": "Runnevalsströmmens elektriska",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "Ortstidstr. i Fagerås och Frykerud",
+      "location": "Extrad",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Extrad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "L. Anderssons distributörsområde",
+      "location": "Frykerud",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Frykerud, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Frykerud, 665 92 Kil, Sweden",
+        "location": {
+          "lat": 59.56472299999999,
+          "lng": 13.167545
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "Ortstidstr. i Skog",
+      "location": "Extrad",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Extrad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 146,
+      "company_name": "Ortstidstr. i Ridsblus",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 147,
+      "company_name": "Sätrabons distribuerande",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 148,
+      "company_name": "Storkärrs elektriska andelsförening",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 149,
+      "company_name": "Svalåna bruk och stationssamhälle",
+      "location": "Nor",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Nor, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 150,
+      "company_name": "Bryngelruds elektriska",
+      "location": "Nor",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Nor, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 151,
+      "company_name": "Högs Ugn",
+      "location": "Nor",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Nor, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 152,
+      "company_name": "Risa egndom",
+      "location": "Nor",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Nor, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 153,
+      "company_name": "C. Johansson Årjäng",
+      "location": "Nor",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Nor, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 154,
+      "company_name": "Töosens egendom",
+      "location": "Nor",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Nor, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 155,
+      "company_name": "L. J. Olsson Mellerud",
+      "location": "Nor",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Nor, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 156,
+      "company_name": "Varpans egendom",
+      "location": "Ed",
+      "power_station_name": "Slottsbrons kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 650,
+      "full_location": "Ed, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "672 95 Ed, Sweden",
+        "location": {
+          "lat": 59.26666700000001,
+          "lng": 12.216667
+        }
+      }
+    },
+    {
+      "index": 157,
+      "company_name": "Slottsbrons sulfitbruk",
+      "location": "Ed",
+      "power_station_name": "Slottsbrons kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 650,
+      "full_location": "Ed, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "672 95 Ed, Sweden",
+        "location": {
+          "lat": 59.26666700000001,
+          "lng": 12.216667
+        }
+      }
+    },
+    {
+      "index": 158,
+      "company_name": "Sälsbrom Hamns",
+      "location": "St. Kil",
+      "power_station_name": "Hamns ångkraft",
+      "power_source": "steam",
+      "installed_capacity_kva": 1000,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    },
+    {
+      "index": 159,
+      "company_name": "Karlstad stad",
+      "location": "Karlstad",
+      "power_station_name": "Stadens elektricitetsverk",
+      "power_source": "oil",
+      "installed_capacity_kva": 250,
+      "full_location": "Karlstad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Karlstad, Sweden",
+        "location": {
+          "lat": 59.4021806,
+          "lng": 13.5114977
+        }
+      }
+    },
+    {
+      "index": 160,
+      "company_name": "Handels A.-B P. G. Jans",
+      "location": "St. Kil",
+      "power_station_name": "Abonnemang från Deje kraftstation",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "St. Kil, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kil, Sweden",
+        "location": {
+          "lat": 59.50368019999999,
+          "lng": 13.3170477
+        }
+      }
+    }
+  ],
+  "filename": "Värmland_5.png"
+}

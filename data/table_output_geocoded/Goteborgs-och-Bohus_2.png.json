@@ -1,0 +1,437 @@
+{
+  "data": [
+    {
+      "index": 20,
+      "company_name": "Säve el. distr.-fören.",
+      "location": "Säve",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Säve, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Säve, Gothenburg, Sweden",
+        "location": {
+          "lat": 57.80393849999999,
+          "lng": 11.9112144
+        }
+      }
+    },
+    {
+      "index": 21,
+      "company_name": "Kungälvs stads el.-verk",
+      "location": "Kungälv",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Kungälv, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kungälv, Sweden",
+        "location": {
+          "lat": 57.86975400000001,
+          "lng": 11.9740317
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Torsby-Harestads el. distr.-fören.",
+      "location": "Torsby och Harestad",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Torsby och Harestad, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "442 74 Harestad, Sweden",
+        "location": {
+          "lat": 57.81752049999999,
+          "lng": 11.8386299
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Tjörn egendom",
+      "location": "Lycke",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Lycke, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "442 75 Lycke, Sweden",
+        "location": {
+          "lat": 57.8767175,
+          "lng": 11.7205569
+        }
+      }
+    },
+    {
+      "index": 24,
+      "company_name": "Gullbringa egendom",
+      "location": ".ditto",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": ".ditto, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Marstrands stads el.-verk",
+      "location": "Marstrand",
+      "power_station_name": "Marstrands reservestation",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Marstrand, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "442 66 Marstrand, Sweden",
+        "location": {
+          "lat": 57.8884502,
+          "lng": 11.5967453
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Bromelanda el.distr.-fören.",
+      "location": "Bromelanda",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Bromelanda, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 27,
+      "company_name": "Stora Borgs tegelbruk",
+      "location": "Västerlanda",
+      "power_station_name": ".ditto",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Västerlanda, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "463 93 Västerlanda, Sweden",
+        "location": {
+          "lat": 58.09040710000001,
+          "lng": 12.1205747
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Norums och Ucklums el. distr.-fören.",
+      "location": "Spekeröd, Ucklum och Uddamal",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Spekeröd, Ucklum och Uddamal, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "444 93 Spekeröd, Sweden",
+        "location": {
+          "lat": 58.033333,
+          "lng": 11.866667
+        }
+      }
+    },
+    {
+      "index": 29,
+      "company_name": "Hjärtums och Hjärtums västra el. distr.-fören.",
+      "location": "Hjärtum",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Hjärtum, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "463 75 Hjärtum, Sweden",
+        "location": {
+          "lat": 58.1814857,
+          "lng": 12.107908
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Island papperfabrik",
+      "location": "Island",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Island, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 31,
+      "company_name": "Ytterby el. distr.-fören.",
+      "location": "Ytterby",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ytterby, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ytterby, Kungälv, Sweden",
+        "location": {
+          "lat": 57.8650368,
+          "lng": 11.9253123
+        }
+      }
+    },
+    {
+      "index": 32,
+      "company_name": "Casselgården",
+      "location": ".ditto",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": ".ditto, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 33,
+      "company_name": "Trollhätte kraftverk Socknarkstationen i Uddevalla",
+      "location": "Uddevalla",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Uddevalla, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uddevalla, Sweden",
+        "location": {
+          "lat": 58.3498003,
+          "lng": 11.935649
+        }
+      }
+    },
+    {
+      "index": 34,
+      "company_name": "Uddevalla stads el.-verk",
+      "location": "Uddevalla",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Uddevalla, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Uddevalla, Sweden",
+        "location": {
+          "lat": 58.3498003,
+          "lng": 11.935649
+        }
+      }
+    },
+    {
+      "index": 35,
+      "company_name": "Båve el. distr.-fören.",
+      "location": "Båve",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Båve, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 36,
+      "company_name": "Forshälla el. distr.-fören.",
+      "location": "Forshälla",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Forshälla, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Forshälla, 451 91 Uddevalla, Sweden",
+        "location": {
+          "lat": 58.286947,
+          "lng": 11.907513
+        }
+      }
+    },
+    {
+      "index": 37,
+      "company_name": "Ljung el. distr.-fören.",
+      "location": "Ljung",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ljung, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "524 41 Ljung, Sweden",
+        "location": {
+          "lat": 57.9882597,
+          "lng": 13.0597259
+        }
+      }
+    },
+    {
+      "index": 38,
+      "company_name": "Herrestads el.distr.-fören.",
+      "location": "Herrestad",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Herrestad, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Herrestad, Sweden",
+        "location": {
+          "lat": 58.34643999999999,
+          "lng": 11.8490249
+        }
+      }
+    },
+    {
+      "index": 39,
+      "company_name": "Foss och Håby el. distr.-fören.",
+      "location": "Foss och Håby",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Foss och Håby, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "455 91 Håby, Sweden",
+        "location": {
+          "lat": 58.49013480000001,
+          "lng": 11.6247261
+        }
+      }
+    },
+    {
+      "index": 40,
+      "company_name": "Munkedals A.-B.",
+      "location": "Foss",
+      "power_station_name": "Munkedal",
+      "power_source": "water",
+      "installed_capacity_kva": 41,
+      "full_location": "Foss, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 41,
+      "company_name": "Lyse el. distr.-fören.",
+      "location": "Lyse",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 400,
+      "full_location": "Lyse, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "453 92 Lyse, Sweden",
+        "location": {
+          "lat": 58.3201052,
+          "lng": 11.4645121
+        }
+      }
+    },
+    {
+      "index": 42,
+      "company_name": "Lysekils stads el.-verk",
+      "location": "Lysekil",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Lysekil, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Lysekil, Sweden",
+        "location": {
+          "lat": 58.27557299999999,
+          "lng": 11.435558
+        }
+      }
+    },
+    {
+      "index": 43,
+      "company_name": "Skandinaviska Granit A.-B.",
+      "location": "Brostad",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Brostad, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Götaland County, Sweden",
+        "location": {
+          "lat": 58.15991589999999,
+          "lng": 12.1360549
+        }
+      }
+    },
+    {
+      "index": 44,
+      "company_name": "Stångenäs el. distr.-fören.",
+      "location": "Bro och Brostad",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Bro och Brostad, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "454 30 Brastad, Sweden",
+        "location": {
+          "lat": 58.3814058,
+          "lng": 11.4843472
+        }
+      }
+    },
+    {
+      "index": 45,
+      "company_name": "Sotenäs el. distr.-fören.",
+      "location": "Tossene, Askum, Malmön, Säm",
+      "power_station_name": "subscription from Trollhätte kraftverk",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Tossene, Askum, Malmön, Säm, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "456 93 Askum, Sweden",
+        "location": {
+          "lat": 58.4167006,
+          "lng": 11.3393845
+        }
+      }
+    },
+    {
+      "index": 46,
+      "company_name": "Skarstads el. distr.-fören.",
+      "location": "Fiskebäck, Grundsund",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Fiskebäck, Grundsund, Goteborgs-och-Bohus county, Sweden",
+      "geocoding": {
+        "formatted_address": "451 79 Grundsund, Sweden",
+        "location": {
+          "lat": 58.214729,
+          "lng": 11.4178031
+        }
+      }
+    }
+  ],
+  "filename": "Goteborgs-och-Bohus_2.png"
+}

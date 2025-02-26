@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "index": 259,
+            "company_name": "Björbo Såg",
+            "location": "Floda",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 850
+        },
+        {
+            "index": 260,
+            "company_name": "A.-B. E. P. Persson",
+            "location": "Malung",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 1100
+        },
+        {
+            "index": 261,
+            "company_name": "Öje Elektricitetsverk",
+            "location": "Elinga",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 72
+        },
+        {
+            "index": 262,
+            "company_name": "Mindre distr.företag",
+            "location": "Öje",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 130
+        },
+        {
+            "index": 263,
+            "company_name": "Lima Sågbruks-andels A.-B.",
+            "location": "Lima",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 180
+        },
+        {
+            "index": 264,
+            "company_name": "Broddens Elektr.-verk",
+            "location": "Arbrå",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 195
+        },
+        {
+            "index": 265,
+            "company_name": "Transtrand Såg o. Kvarn A.-B.",
+            "location": "Transtrand",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 266,
+            "company_name": "Gräsjöns El. A.-B.",
+            "location": "Ovanåker",
+            "power_station_name": "Gräsjön",
+            "power_source": "water",
+            "installed_capacity_kva": 175
+        },
+        {
+            "index": 267,
+            "company_name": "Appelbo Kraft A.-B.",
+            "location": "Appelbo",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 35
+        },
+        {
+            "index": 268,
+            "company_name": "Förstat.-stat. v. Nyhammar",
+            "location": "Grängesberg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 535
+        },
+        {
+            "index": 269,
+            "company_name": "Grängesbergs Gruv A.-B.",
+            "location": "Grängesberg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 660
+        },
+        {
+            "index": 270,
+            "company_name": "Grängesbergs Gruv A.-B.",
+            "location": "Grängesberg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 271,
+            "company_name": "Nyhammars Bruk A.-B.",
+            "location": "Grangärde",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 272,
+            "company_name": "Viastansjö El. Bel.-För.",
+            "location": "Nyhammar",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 45
+        },
+        {
+            "index": 273,
+            "company_name": "Ludvika Bruksägare",
+            "location": "Nyhammar",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 43
+        },
+        {
+            "index": 274,
+            "company_name": "Ludvika Bruksägare",
+            "location": "Vinonese",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 19
+        },
+        {
+            "index": 275,
+            "company_name": "Ludvika Bruksägare",
+            "location": "Los",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 3
+        },
+        {
+            "index": 276,
+            "company_name": "Ludvika Bruksägare",
+            "location": "Sunnanå",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 2
+        },
+        {
+            "index": 277,
+            "company_name": "Mindre distr.-företag",
+            "location": "Saxhyttan",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 32
+        },
+        {
+            "index": 278,
+            "company_name": "Grängesbergs Gruv A.-B.",
+            "location": "Ekullen",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 70
+        },
+        {
+            "index": 279,
+            "company_name": "Storsjöns El. För.",
+            "location": "Ab. f Grängesbergs",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 102
+        },
+        {
+            "index": 280,
+            "company_name": "Gonäs El. Distr.-För.",
+            "location": "Ekullen",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 281,
+            "company_name": "Stansbo El. Bel.-För.",
+            "location": "Ludvik",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 282,
+            "company_name": "Mindre distr.-företag",
+            "location": "Persbo",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 283,
+            "company_name": "Mindre distr.-företag",
+            "location": "Ludvika",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 60
+        },
+        {
+            "index": 284,
+            "company_name": "Persbo El. Distr.-Förit.",
+            "location": "O. Norrbrikte",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 85
+        },
+        {
+            "index": 285,
+            "company_name": "Gravjärn L. Lekomberg",
+            "location": "Lekomberg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 286,
+            "company_name": "Grängesbergs Gruv A.-B.",
+            "location": "Lekomberg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 287,
+            "company_name": "Div. industrietableringer",
+            "location": "Heljisbo",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 288,
+            "company_name": "Morgårdshammars Mek.-V. A.-B.",
+            "location": "Lemfors",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 289,
+            "company_name": "Stenåldersverkets Vals. A.-B.",
+            "location": "Björhytan",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 115
+        },
+        {
+            "index": 290,
+            "company_name": "Starbo Bruksägare",
+            "location": "Norberg",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 80
+        },
+        {
+            "index": 291,
+            "company_name": "Starbo Bruksägare",
+            "location": "Gessbo",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 110
+        },
+        {
+            "index": 292,
+            "company_name": "Mindre distr.-företag",
+            "location": "Sebsbyte",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 293,
+            "company_name": "P. J. Leorimaton",
+            "location": "Thorshän",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 45
+        },
+        {
+            "index": 294,
+            "company_name": "Söderbärke El. Kraft o. Bel.-A.-B.",
+            "location": "Björling",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 295,
+            "company_name": "Söderbärke El. Kraft o. Bel.-A.-B.",
+            "location": "Filabermo",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 2000
+        },
+        {
+            "index": 296,
+            "company_name": "Söderbärke El. Kraft o. Bel.-A.-B.",
+            "location": "Söderbärke",
+            "power_station_name": null,
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        }
+    ],
+    "filename": "Kopparberg_8.png"
+}

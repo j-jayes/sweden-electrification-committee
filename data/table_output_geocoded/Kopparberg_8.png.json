@@ -1,0 +1,613 @@
+{
+  "data": [
+    {
+      "index": 259,
+      "company_name": "Björbo Såg",
+      "location": "Floda",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 850,
+      "full_location": "Floda, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "786 95 Dala-Floda, Sweden",
+        "location": {
+          "lat": 60.5079552,
+          "lng": 14.7926914
+        }
+      }
+    },
+    {
+      "index": 260,
+      "company_name": "A.-B. E. P. Persson",
+      "location": "Malung",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 1100,
+      "full_location": "Malung, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Malung, Sweden",
+        "location": {
+          "lat": 60.686372,
+          "lng": 13.720966
+        }
+      }
+    },
+    {
+      "index": 261,
+      "company_name": "Öje Elektricitetsverk",
+      "location": "Elinga",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 72,
+      "full_location": "Elinga, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 262,
+      "company_name": "Mindre distr.företag",
+      "location": "Öje",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 130,
+      "full_location": "Öje, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "780 61 Öje, Sweden",
+        "location": {
+          "lat": 60.81059,
+          "lng": 13.85089
+        }
+      }
+    },
+    {
+      "index": 263,
+      "company_name": "Lima Sågbruks-andels A.-B.",
+      "location": "Lima",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 180,
+      "full_location": "Lima, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "780 64 Lima, Sweden",
+        "location": {
+          "lat": 60.9371076,
+          "lng": 13.3602943
+        }
+      }
+    },
+    {
+      "index": 264,
+      "company_name": "Broddens Elektr.-verk",
+      "location": "Arbrå",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 195,
+      "full_location": "Arbrå, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "821 61 Arbrå, Sweden",
+        "location": {
+          "lat": 61.4724671,
+          "lng": 16.3786367
+        }
+      }
+    },
+    {
+      "index": 265,
+      "company_name": "Transtrand Såg o. Kvarn A.-B.",
+      "location": "Transtrand",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Transtrand, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "780 68 Transtrand, Sweden",
+        "location": {
+          "lat": 61.08087849999999,
+          "lng": 13.3145792
+        }
+      }
+    },
+    {
+      "index": 266,
+      "company_name": "Gräsjöns El. A.-B.",
+      "location": "Ovanåker",
+      "power_station_name": "Gräsjön",
+      "power_source": "water",
+      "installed_capacity_kva": 175,
+      "full_location": "Ovanåker, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "775 95 Ovanåker, Sweden",
+        "location": {
+          "lat": 60.15114639999999,
+          "lng": 16.2451304
+        }
+      }
+    },
+    {
+      "index": 267,
+      "company_name": "Appelbo Kraft A.-B.",
+      "location": "Appelbo",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 35,
+      "full_location": "Appelbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "786 94 Äppelbo, Sweden",
+        "location": {
+          "lat": 60.4839289,
+          "lng": 14.0117557
+        }
+      }
+    },
+    {
+      "index": 268,
+      "company_name": "Förstat.-stat. v. Nyhammar",
+      "location": "Grängesberg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 535,
+      "full_location": "Grängesberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "772 31 Grängesberg, Sweden",
+        "location": {
+          "lat": 60.0785553,
+          "lng": 15.0110618
+        }
+      }
+    },
+    {
+      "index": 269,
+      "company_name": "Grängesbergs Gruv A.-B.",
+      "location": "Grängesberg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 660,
+      "full_location": "Grängesberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "772 31 Grängesberg, Sweden",
+        "location": {
+          "lat": 60.0785553,
+          "lng": 15.0110618
+        }
+      }
+    },
+    {
+      "index": 270,
+      "company_name": "Grängesbergs Gruv A.-B.",
+      "location": "Grängesberg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 80,
+      "full_location": "Grängesberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "772 31 Grängesberg, Sweden",
+        "location": {
+          "lat": 60.0785553,
+          "lng": 15.0110618
+        }
+      }
+    },
+    {
+      "index": 271,
+      "company_name": "Nyhammars Bruk A.-B.",
+      "location": "Grangärde",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 75,
+      "full_location": "Grangärde, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 13 Grangärde, Sweden",
+        "location": {
+          "lat": 60.2681,
+          "lng": 14.9796
+        }
+      }
+    },
+    {
+      "index": 272,
+      "company_name": "Viastansjö El. Bel.-För.",
+      "location": "Nyhammar",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 45,
+      "full_location": "Nyhammar, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 14 Nyhammar, Sweden",
+        "location": {
+          "lat": 60.28775270000001,
+          "lng": 14.9674176
+        }
+      }
+    },
+    {
+      "index": 273,
+      "company_name": "Ludvika Bruksägare",
+      "location": "Nyhammar",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 43,
+      "full_location": "Nyhammar, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 14 Nyhammar, Sweden",
+        "location": {
+          "lat": 60.28775270000001,
+          "lng": 14.9674176
+        }
+      }
+    },
+    {
+      "index": 274,
+      "company_name": "Ludvika Bruksägare",
+      "location": "Vinonese",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 19,
+      "full_location": "Vinonese, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 275,
+      "company_name": "Ludvika Bruksägare",
+      "location": "Los",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 3,
+      "full_location": "Los, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 276,
+      "company_name": "Ludvika Bruksägare",
+      "location": "Sunnanå",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 2,
+      "full_location": "Sunnanå, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "781 94 Sunnanö, Sweden",
+        "location": {
+          "lat": 60.4749332,
+          "lng": 15.5938678
+        }
+      }
+    },
+    {
+      "index": 277,
+      "company_name": "Mindre distr.-företag",
+      "location": "Saxhyttan",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 32,
+      "full_location": "Saxhyttan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 14 Saxhyttan, Sweden",
+        "location": {
+          "lat": 60.2923836,
+          "lng": 15.0118071
+        }
+      }
+    },
+    {
+      "index": 278,
+      "company_name": "Grängesbergs Gruv A.-B.",
+      "location": "Ekullen",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 70,
+      "full_location": "Ekullen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 279,
+      "company_name": "Storsjöns El. För.",
+      "location": "Ab. f Grängesbergs",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 102,
+      "full_location": "Ab. f Grängesbergs, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "772 31 Grängesberg, Sweden",
+        "location": {
+          "lat": 60.0785553,
+          "lng": 15.0110618
+        }
+      }
+    },
+    {
+      "index": 280,
+      "company_name": "Gonäs El. Distr.-För.",
+      "location": "Ekullen",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 90,
+      "full_location": "Ekullen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 281,
+      "company_name": "Stansbo El. Bel.-För.",
+      "location": "Ludvik",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 75,
+      "full_location": "Ludvik, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ludvika, Sweden",
+        "location": {
+          "lat": 60.152358,
+          "lng": 15.191639
+        }
+      }
+    },
+    {
+      "index": 282,
+      "company_name": "Mindre distr.-företag",
+      "location": "Persbo",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Persbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "771 92 Persbo, Sweden",
+        "location": {
+          "lat": 60.2070794,
+          "lng": 15.2218005
+        }
+      }
+    },
+    {
+      "index": 283,
+      "company_name": "Mindre distr.-företag",
+      "location": "Ludvika",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 60,
+      "full_location": "Ludvika, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Ludvika, Sweden",
+        "location": {
+          "lat": 60.152358,
+          "lng": 15.191639
+        }
+      }
+    },
+    {
+      "index": 284,
+      "company_name": "Persbo El. Distr.-Förit.",
+      "location": "O. Norrbrikte",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 85,
+      "full_location": "O. Norrbrikte, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 285,
+      "company_name": "Gravjärn L. Lekomberg",
+      "location": "Lekomberg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Lekomberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 286,
+      "company_name": "Grängesbergs Gruv A.-B.",
+      "location": "Lekomberg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 90,
+      "full_location": "Lekomberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 287,
+      "company_name": "Div. industrietableringer",
+      "location": "Heljisbo",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 80,
+      "full_location": "Heljisbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 288,
+      "company_name": "Morgårdshammars Mek.-V. A.-B.",
+      "location": "Lemfors",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 125,
+      "full_location": "Lemfors, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 289,
+      "company_name": "Stenåldersverkets Vals. A.-B.",
+      "location": "Björhytan",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 115,
+      "full_location": "Björhytan, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 290,
+      "company_name": "Starbo Bruksägare",
+      "location": "Norberg",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 80,
+      "full_location": "Norberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Norberg, Sweden",
+        "location": {
+          "lat": 60.06504200000001,
+          "lng": 15.923796
+        }
+      }
+    },
+    {
+      "index": 291,
+      "company_name": "Starbo Bruksägare",
+      "location": "Gessbo",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 110,
+      "full_location": "Gessbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 292,
+      "company_name": "Mindre distr.-företag",
+      "location": "Sebsbyte",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 25,
+      "full_location": "Sebsbyte, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 293,
+      "company_name": "P. J. Leorimaton",
+      "location": "Thorshän",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 45,
+      "full_location": "Thorshän, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 294,
+      "company_name": "Söderbärke El. Kraft o. Bel.-A.-B.",
+      "location": "Björling",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 500,
+      "full_location": "Björling, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Sweden",
+        "location": {
+          "lat": 60.12816100000001,
+          "lng": 18.643501
+        }
+      }
+    },
+    {
+      "index": 295,
+      "company_name": "Söderbärke El. Kraft o. Bel.-A.-B.",
+      "location": "Filabermo",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 2000,
+      "full_location": "Filabermo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 296,
+      "company_name": "Söderbärke El. Kraft o. Bel.-A.-B.",
+      "location": "Söderbärke",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Söderbärke, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "777 60 Söderbärke, Sweden",
+        "location": {
+          "lat": 60.07021489999999,
+          "lng": 15.5589042
+        }
+      }
+    }
+  ],
+  "filename": "Kopparberg_8.png"
+}

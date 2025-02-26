@@ -1,0 +1,85 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Socken eller landskommun (städt)",
+            "description": null
+        },
+        {
+            "id": 2,
+            "label": "Anläggningens namn",
+            "description": null
+        },
+        {
+            "id": 3,
+            "label": "Ägare",
+            "description": null
+        },
+        {
+            "id": 4,
+            "label": "Kraftmaskiner",
+            "description": null
+        },
+        {
+            "id": 5,
+            "label": "Utrustning (fallhöjd)",
+            "description": null
+        },
+        {
+            "id": 6,
+            "label": "Ström och (perial)",
+            "description": null
+        },
+        {
+            "id": 7,
+            "label": "Spänning volt",
+            "description": null
+        },
+        {
+            "id": 8,
+            "label": "Sammanlagd effekt kVA",
+            "description": null
+        },
+        {
+            "id": 9,
+            "label": "Generatorer",
+            "description": null
+        },
+        {
+            "id": 10,
+            "label": "Distribusiolösningar",
+            "description": null
+        },
+        {
+            "id": 11,
+            "label": "Sammanlagd sekunderstransformerar",
+            "description": null
+        },
+        {
+            "id": 12,
+            "label": "Sammanlagd energi - konsumtion inkl. feluster med belysning",
+            "description": null
+        },
+        {
+            "id": 13,
+            "label": "Årlig energiförbrukning (Arealed jord)",
+            "description": null
+        },
+        {
+            "id": 14,
+            "label": "kW",
+            "description": null
+        },
+        {
+            "id": 15,
+            "label": "kWh",
+            "description": null
+        },
+        {
+            "id": 16,
+            "label": "Anmärkningar",
+            "description": null
+        }
+    ],
+    "filename": "Blekinge_1.png"
+}

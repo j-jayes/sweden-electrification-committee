@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "index": 106,
+      "company_name": "Ingarps elektr.-verk",
+      "location": "Åsenhöga pr Gnosjö",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 110,
+      "full_location": "Åsenhöga pr Gnosjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 93 Åsenhöga, Sweden",
+        "location": {
+          "lat": 57.406381,
+          "lng": 13.7963093
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Åsenhöga elektr. foreningen",
+      "location": "Åsenhöga pr Gnosjö",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Åsenhöga pr Gnosjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 93 Åsenhöga, Sweden",
+        "location": {
+          "lat": 57.406381,
+          "lng": 13.7963093
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Götarps kraftsta, Åsenhöga pr Gnosjö",
+      "location": "Åsenhöga",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 220,
+      "full_location": "Åsenhöga, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 93 Åsenhöga, Sweden",
+        "location": {
+          "lat": 57.406381,
+          "lng": 13.7963093
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Skärvhults o. Skärvs elektr. foren., Åsenhöga pr Gnosjö",
+      "location": "Åsenhöga",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 46,
+      "full_location": "Åsenhöga, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 93 Åsenhöga, Sweden",
+        "location": {
+          "lat": 57.406381,
+          "lng": 13.7963093
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "Nissafors krafttulppieri",
+      "location": "Nissafors",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 111,
+      "full_location": "Nissafors, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 92 Nissafors, Sweden",
+        "location": {
+          "lat": 57.40924090000001,
+          "lng": 13.6354214
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "Nissafors elektr.-verk, Nissafors",
+      "location": "Nissafors",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 96,
+      "full_location": "Nissafors, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 92 Nissafors, Sweden",
+        "location": {
+          "lat": 57.40924090000001,
+          "lng": 13.6354214
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "A.-B. Hestra elektr.-verk",
+      "location": "Hestra",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Hestra, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 71 Hestra, Sweden",
+        "location": {
+          "lat": 57.4431502,
+          "lng": 13.5960313
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Forsviks kvarn",
+      "location": "Hestra",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Hestra, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 71 Hestra, Sweden",
+        "location": {
+          "lat": 57.4431502,
+          "lng": 13.5960313
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Språttebo elektr.-verk",
+      "location": "Språttebo pr Hestra",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 38,
+      "full_location": "Språttebo pr Hestra, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "335 71 Hestra, Sweden",
+        "location": {
+          "lat": 57.4431502,
+          "lng": 13.5960313
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "Öranholms kvarn, Bårarydsby pr Gislaved",
+      "location": "Bårarydsby",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 18,
+      "full_location": "Bårarydsby, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Hedenstorps elektr. for.",
+      "location": "Bårarydsby pr Gislaved",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 15,
+      "full_location": "Bårarydsby pr Gislaved, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gislaved, Sweden",
+        "location": {
+          "lat": 57.2985,
+          "lng": 13.54326
+        }
+      }
+    },
+    {
+      "index": 118,
+      "company_name": "Båraryds elektr. foren.",
+      "location": "Båraryds by Gislaved",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Båraryds by Gislaved, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "8HR3+FM, 332 92 Gislaved, Sweden",
+        "location": {
+          "lat": 57.341126,
+          "lng": 13.554162
+        }
+      }
+    },
+    {
+      "index": 119,
+      "company_name": "Gnosjö elektr.-verk",
+      "location": "Gnosjö",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 62,
+      "full_location": "Gnosjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gnosjö, Sweden",
+        "location": {
+          "lat": 57.35803979999999,
+          "lng": 13.7371898
+        }
+      }
+    },
+    {
+      "index": 120,
+      "company_name": "Gnosjö gjuteri",
+      "location": "Gnosjö",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Gnosjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gnosjö, Sweden",
+        "location": {
+          "lat": 57.35803979999999,
+          "lng": 13.7371898
+        }
+      }
+    },
+    {
+      "index": 122,
+      "company_name": "Hylte mekan. verks.",
+      "location": "Gnosjö",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Gnosjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gnosjö, Sweden",
+        "location": {
+          "lat": 57.35803979999999,
+          "lng": 13.7371898
+        }
+      }
+    },
+    {
+      "index": 123,
+      "company_name": "Finaryds elektr. anlelsofor.",
+      "location": "Gnosjö",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 51,
+      "full_location": "Gnosjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gnosjö, Sweden",
+        "location": {
+          "lat": 57.35803979999999,
+          "lng": 13.7371898
+        }
+      }
+    },
+    {
+      "index": 124,
+      "company_name": "Håryd bruk",
+      "location": "Gnosjö",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 8,
+      "full_location": "Gnosjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gnosjö, Sweden",
+        "location": {
+          "lat": 57.35803979999999,
+          "lng": 13.7371898
+        }
+      }
+    },
+    {
+      "index": 125,
+      "company_name": "Svenshult s:o, för Vafattubt pr Gislaved",
+      "location": "Vafattub pr Gislaved",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 9,
+      "full_location": "Vafattub pr Gislaved, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gislaved, Sweden",
+        "location": {
+          "lat": 57.2985,
+          "lng": 13.54326
+        }
+      }
+    },
+    {
+      "index": 126,
+      "company_name": "Våthultströms elektr.-verk",
+      "location": "Våthult",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 245,
+      "full_location": "Våthult, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "332 91 Våthult, Sweden",
+        "location": {
+          "lat": 57.3076889,
+          "lng": 13.4551869
+        }
+      }
+    },
+    {
+      "index": 127,
+      "company_name": "Mag. fabriker P. Petterson",
+      "location": "Gislaved",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 36,
+      "full_location": "Gislaved, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gislaved, Sweden",
+        "location": {
+          "lat": 57.2985,
+          "lng": 13.54326
+        }
+      }
+    },
+    {
+      "index": 128,
+      "company_name": "Svenshults elektr. belysningsfor",
+      "location": "Vafattub pr Gislaved",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Vafattub pr Gislaved, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gislaved, Sweden",
+        "location": {
+          "lat": 57.2985,
+          "lng": 13.54326
+        }
+      }
+    },
+    {
+      "index": 129,
+      "company_name": "Sv. Gummifabr. A.-B.",
+      "location": "Gislaved",
+      "power_station_name": "Vattenturbiner",
+      "power_source": "water",
+      "installed_capacity_kva": 0,
+      "full_location": "Gislaved, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gislaved, Sweden",
+        "location": {
+          "lat": 57.2985,
+          "lng": 13.54326
+        }
+      }
+    },
+    {
+      "index": 130,
+      "company_name": "Henja elektr. belysningsforening",
+      "location": "Gislaved",
+      "power_station_name": "subscription from Våtahultsströms el-verkv",
+      "power_source": "subscription",
+      "installed_capacity_kva": 9,
+      "full_location": "Gislaved, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Gislaved, Sweden",
+        "location": {
+          "lat": 57.2985,
+          "lng": 13.54326
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_6.png"
+}

@@ -1,0 +1,677 @@
+{
+  "data": [
+    {
+      "index": 76,
+      "company_name": "J. Larsson",
+      "location": "Stömsund",
+      "power_station_name": "Stamsel",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Stömsund, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Strömsund, Sweden",
+        "location": {
+          "lat": 63.85366209999999,
+          "lng": 15.5568691
+        }
+      }
+    },
+    {
+      "index": 77,
+      "company_name": "Fridersg barhrom",
+      "location": "Hällsund",
+      "power_station_name": "Hälsand",
+      "power_source": "water",
+      "installed_capacity_kva": 7,
+      "full_location": "Hällsund, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 78,
+      "company_name": "Mindre distr. företag",
+      "location": "Svänged",
+      "power_station_name": "Svänged",
+      "power_source": "water",
+      "installed_capacity_kva": 75,
+      "full_location": "Svänged, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 79,
+      "company_name": "Storaes El. Kraft A.-B.",
+      "location": "Gävdraftnet",
+      "power_station_name": "Gävdraftnet",
+      "power_source": "water",
+      "installed_capacity_kva": 900,
+      "full_location": "Gävdraftnet, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 80,
+      "company_name": "Slåjesaesn El. Fören.",
+      "location": "Slåjeåsen",
+      "power_station_name": "Slåjeåsen",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Slåjeåsen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 81,
+      "company_name": "Glödede El. Kraft A.-B.",
+      "location": "Frostviken",
+      "power_station_name": "Frostviken",
+      "power_source": "water",
+      "installed_capacity_kva": 38,
+      "full_location": "Frostviken, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kvarnbergsvattnet, 833 98 Gäddede, Sweden",
+        "location": {
+          "lat": 64.6,
+          "lng": 13.8833333
+        }
+      }
+    },
+    {
+      "index": 82,
+      "company_name": "Jonvattnens El. Fören.",
+      "location": "Bågede",
+      "power_station_name": "Bågede",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Bågede, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 83,
+      "company_name": "St. Svartvattn.",
+      "location": "Edet",
+      "power_station_name": "Edet",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Edet, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "835 96 Ede, Sweden",
+        "location": {
+          "lat": 63.3612956,
+          "lng": 13.9651175
+        }
+      }
+    },
+    {
+      "index": 84,
+      "company_name": "Järpens Cellulosafabr. o. Pap.",
+      "location": "Järpen",
+      "power_station_name": "Fabriksfallet",
+      "power_source": "water",
+      "installed_capacity_kva": 61,
+      "full_location": "Järpen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Järpen, Sweden",
+        "location": {
+          "lat": 63.34963049999999,
+          "lng": 13.4529077
+        }
+      }
+    },
+    {
+      "index": 85,
+      "company_name": "Järpens Cellulosafabr. o. Pap.",
+      "location": "Järpen",
+      "power_station_name": "subscription from Edet",
+      "power_source": "subscription",
+      "installed_capacity_kva": 320,
+      "full_location": "Järpen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Järpen, Sweden",
+        "location": {
+          "lat": 63.34963049999999,
+          "lng": 13.4529077
+        }
+      }
+    },
+    {
+      "index": 86,
+      "company_name": "Fören. Kraftworksverket",
+      "location": "Kyrannfallet",
+      "power_station_name": "Kyrannfallet",
+      "power_source": "water",
+      "installed_capacity_kva": 3200,
+      "full_location": "Kyrannfallet, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 87,
+      "company_name": "A.-B. Järplens Elektricitet",
+      "location": "Undersåker",
+      "power_station_name": "Undersåker",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Undersåker, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "837 95 Undersåker, Sweden",
+        "location": {
+          "lat": 63.31415089999999,
+          "lng": 13.2528978
+        }
+      }
+    },
+    {
+      "index": 88,
+      "company_name": "A.-B. Husa-Frösö gruvor samt Jordbruks— El. Kraft A.-B.",
+      "location": "Ängeforssarna",
+      "power_station_name": "Ängeforssarna",
+      "power_source": "water",
+      "installed_capacity_kva": 145,
+      "full_location": "Ängeforssarna, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 89,
+      "company_name": "Fören. El. Energi",
+      "location": "Östersund",
+      "power_station_name": "subscription from Ab. fr. Äggfors A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3000,
+      "full_location": "Östersund, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Östersund, Sweden",
+        "location": {
+          "lat": 63.1766832,
+          "lng": 14.6360681
+        }
+      }
+    },
+    {
+      "index": 90,
+      "company_name": "Öre A.-B.",
+      "location": "Mörsil",
+      "power_station_name": "Mörsil",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Mörsil, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "837 41 Mörsil, Sweden",
+        "location": {
+          "lat": 63.30797519999999,
+          "lng": 13.663175
+        }
+      }
+    },
+    {
+      "index": 91,
+      "company_name": "Nordhallens El. Fören.",
+      "location": "Nordhallen",
+      "power_station_name": "Kyrann",
+      "power_source": "water",
+      "installed_capacity_kva": 35,
+      "full_location": "Nordhallen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "837 72 Nordhallen, Sweden",
+        "location": {
+          "lat": 63.46580999999999,
+          "lng": 12.8137741
+        }
+      }
+    },
+    {
+      "index": 92,
+      "company_name": "Handels Maj. Tjänst. &.— Vattentarkas A.-B.",
+      "location": "Hammerdal",
+      "power_station_name": "Hammerdal",
+      "power_source": "water",
+      "installed_capacity_kva": 246,
+      "full_location": "Hammerdal, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "833 41 Hammerdal, Sweden",
+        "location": {
+          "lat": 63.5915718,
+          "lng": 15.3550589
+        }
+      }
+    },
+    {
+      "index": 93,
+      "company_name": "Angörsfors A.-B.",
+      "location": "Handalag",
+      "power_station_name": "subscription from Ab. fr. Handols A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10000,
+      "full_location": "Handalag, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 94,
+      "company_name": "Tankeleby Ivariin",
+      "location": "Åre",
+      "power_station_name": "Tankglel",
+      "power_source": "water",
+      "installed_capacity_kva": 550,
+      "full_location": "Åre, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Åre, Sweden",
+        "location": {
+          "lat": 63.3990428,
+          "lng": 13.0815059
+        }
+      }
+    },
+    {
+      "index": 95,
+      "company_name": "Mörsil",
+      "location": "Mörsil",
+      "power_station_name": "Tangånge",
+      "power_source": "water",
+      "installed_capacity_kva": 5,
+      "full_location": "Mörsil, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "837 41 Mörsil, Sweden",
+        "location": {
+          "lat": 63.30797519999999,
+          "lng": 13.663175
+        }
+      }
+    },
+    {
+      "index": 96,
+      "company_name": "Lo. åth. Fören. Kraftverken",
+      "location": "Järpen",
+      "power_station_name": "Skotaraln",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Järpen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Järpen, Sweden",
+        "location": {
+          "lat": 63.34963049999999,
+          "lng": 13.4529077
+        }
+      }
+    },
+    {
+      "index": 97,
+      "company_name": "Järpen",
+      "location": "Järpen",
+      "power_station_name": "subscription from Ljunglichons",
+      "power_source": "subscription",
+      "installed_capacity_kva": 17,
+      "full_location": "Järpen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Järpen, Sweden",
+        "location": {
+          "lat": 63.34963049999999,
+          "lng": 13.4529077
+        }
+      }
+    },
+    {
+      "index": 98,
+      "company_name": "Kall El. A.-B",
+      "location": "Älsön",
+      "power_station_name": "Lörden",
+      "power_source": "water",
+      "installed_capacity_kva": 132,
+      "full_location": "Älsön, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 99,
+      "company_name": "Tålmark El. A.-B.",
+      "location": "Gärde",
+      "power_station_name": "Gärde",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Gärde, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "835 98 Gärde, Sweden",
+        "location": {
+          "lat": 63.56629389999999,
+          "lng": 13.7765508
+        }
+      }
+    },
+    {
+      "index": 100,
+      "company_name": "E. B. Company.",
+      "location": "Krus.",
+      "power_station_name": "subscription from Krusic & Sechsing",
+      "power_source": "subscription",
+      "installed_capacity_kva": 96,
+      "full_location": "Krus., Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 101,
+      "company_name": "Kaxås El. Fören.",
+      "location": "Frostviken",
+      "power_station_name": "Långfans",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Frostviken, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kvarnbergsvattnet, 833 98 Gäddede, Sweden",
+        "location": {
+          "lat": 64.6,
+          "lng": 13.8833333
+        }
+      }
+    },
+    {
+      "index": 102,
+      "company_name": "O. Nilsson",
+      "location": "Järpen",
+      "power_station_name": "subscription from Lunkler & Hammary",
+      "power_source": "subscription",
+      "installed_capacity_kva": 7,
+      "full_location": "Järpen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Järpen, Sweden",
+        "location": {
+          "lat": 63.34963049999999,
+          "lng": 13.4529077
+        }
+      }
+    },
+    {
+      "index": 103,
+      "company_name": "Järpens Cell",
+      "location": "Älssøn",
+      "power_station_name": "subscription from Vikisoffens",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Älssøn, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 104,
+      "company_name": "O. Nilsson",
+      "location": "Kaxås",
+      "power_station_name": "subscription from Morsig",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5,
+      "full_location": "Kaxås, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "835 97 Kaxås, Sweden",
+        "location": {
+          "lat": 63.49488470000001,
+          "lng": 13.899765
+        }
+      }
+    },
+    {
+      "index": 105,
+      "company_name": "Dist. Disser. Före.",
+      "location": "Linsärz",
+      "power_station_name": "subscription from Støre & Pollsk\nawerna",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Linsärz, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 106,
+      "company_name": "Åre A.-B",
+      "location": "Kavåla",
+      "power_station_name": "subscription from Greg Ville & Høgur",
+      "power_source": "subscription",
+      "installed_capacity_kva": 48,
+      "full_location": "Kavåla, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 107,
+      "company_name": "Tegforse Verek",
+      "location": "Offerdal",
+      "power_station_name": "Ågregeghääf",
+      "power_source": "water",
+      "installed_capacity_kva": 5000,
+      "full_location": "Offerdal, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "835 97 Offerdal, Sweden",
+        "location": {
+          "lat": 63.4666113,
+          "lng": 14.0109874
+        }
+      }
+    },
+    {
+      "index": 108,
+      "company_name": "Hissmo",
+      "location": "Hissmest",
+      "power_station_name": "Kaksås",
+      "power_source": "water",
+      "installed_capacity_kva": 48,
+      "full_location": "Hissmest, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 109,
+      "company_name": "Fören. Härjd.å. Kraft",
+      "location": "Kuks",
+      "power_station_name": "Kuks",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Kuks, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 110,
+      "company_name": "Gro Laup",
+      "location": "Mjölme",
+      "power_station_name": "subscription from Gråk Käv Tütenstad",
+      "power_source": "subscription",
+      "installed_capacity_kva": 600,
+      "full_location": "Mjölme, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 111,
+      "company_name": "O. Nilsson",
+      "location": "Åsarna",
+      "power_station_name": "subscription from Morsig",
+      "power_source": "subscription",
+      "installed_capacity_kva": 6,
+      "full_location": "Åsarna, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "845 51 Åsarna, Sweden",
+        "location": {
+          "lat": 62.6443671,
+          "lng": 14.3715816
+        }
+      }
+    },
+    {
+      "index": 112,
+      "company_name": "O. Nilsson",
+      "location": "Storsjön",
+      "power_station_name": "subscription from Sla,",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Storsjön, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Storsjön, Sweden",
+        "location": {
+          "lat": 63.2148443,
+          "lng": 14.3145267
+        }
+      }
+    },
+    {
+      "index": 113,
+      "company_name": "Ets A.-B.,",
+      "location": "Åredsbina",
+      "power_station_name": "subscription from Albens",
+      "power_source": "subscription",
+      "installed_capacity_kva": 465,
+      "full_location": "Åredsbina, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 114,
+      "company_name": "Gånsta",
+      "location": "Söråker",
+      "power_station_name": "Slandom",
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Söråker, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 115,
+      "company_name": "Mysjö o. Oviken Kraft A.-B.",
+      "location": "Mysjö",
+      "power_station_name": "Mysjö",
+      "power_source": "water",
+      "installed_capacity_kva": 100,
+      "full_location": "Mysjö, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 116,
+      "company_name": "A. Eriksson",
+      "location": "Vincr",
+      "power_station_name": "Viirastø",
+      "power_source": "water",
+      "installed_capacity_kva": 1,
+      "full_location": "Vincr, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    },
+    {
+      "index": 117,
+      "company_name": "Hällans El. A.-B.",
+      "location": "Hovalen",
+      "power_station_name": "Dammans",
+      "power_source": "water",
+      "installed_capacity_kva": 500,
+      "full_location": "Hovalen, Jämtland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jamtland County, Sweden",
+        "location": {
+          "lat": 63.1711922,
+          "lng": 14.95918
+        }
+      }
+    }
+  ],
+  "filename": "Jämtland_3.png"
+}

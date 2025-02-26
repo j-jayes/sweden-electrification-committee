@@ -1,0 +1,597 @@
+{
+  "data": [
+    {
+      "index": 130,
+      "company_name": "Trekantens and.-el.-fören.",
+      "location": "Ljungby",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ljungby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 31 Ljungby, Sweden",
+        "location": {
+          "lat": 56.6260966,
+          "lng": 16.1665943
+        }
+      }
+    },
+    {
+      "index": 131,
+      "company_name": "Ljunghybohm—Vassmolösa and.-el.-fören.",
+      "location": "Ljungbyholm",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ljungbyholm, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 30 Ljungbyholm, Sweden",
+        "location": {
+          "lat": 56.6325386,
+          "lng": 16.1729081
+        }
+      }
+    },
+    {
+      "index": 132,
+      "company_name": "Torsås el.-verk.",
+      "location": "Ljungbyholm",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": null,
+      "full_location": "Ljungbyholm, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 30 Ljungbyholm, Sweden",
+        "location": {
+          "lat": 56.6325386,
+          "lng": 16.1729081
+        }
+      }
+    },
+    {
+      "index": 133,
+      "company_name": "Danabo gård",
+      "location": "Dörby",
+      "power_station_name": "Dansbo",
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Dörby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "386 96 Dörby, Sweden",
+        "location": {
+          "lat": 56.6405016,
+          "lng": 16.6358319
+        }
+      }
+    },
+    {
+      "index": 134,
+      "company_name": "Röstorps gård",
+      "location": "Ljungby",
+      "power_station_name": "Rostorp",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Ljungby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 31 Ljungby, Sweden",
+        "location": {
+          "lat": 56.6260966,
+          "lng": 16.1665943
+        }
+      }
+    },
+    {
+      "index": 135,
+      "company_name": "Skärgård gård",
+      "location": "Ljungby",
+      "power_station_name": "Fredrikström",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Ljungby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 31 Ljungby, Sweden",
+        "location": {
+          "lat": 56.6260966,
+          "lng": 16.1665943
+        }
+      }
+    },
+    {
+      "index": 136,
+      "company_name": "Godsäg. Jeansson",
+      "location": "Rinkabyholm",
+      "power_station_name": "Kallstorp",
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Rinkabyholm, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "394 77 Rinkabyholm, Sweden",
+        "location": {
+          "lat": 56.6528567,
+          "lng": 16.2552848
+        }
+      }
+    },
+    {
+      "index": 137,
+      "company_name": "C. Fredriksson",
+      "location": "Mortorp",
+      "power_station_name": "Strömsholm",
+      "power_source": "steam",
+      "installed_capacity_kva": 20,
+      "full_location": "Mortorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 91 Mortorp, Sweden",
+        "location": {
+          "lat": 56.5893577,
+          "lng": 16.0864536
+        }
+      }
+    },
+    {
+      "index": 138,
+      "company_name": "Strömsholms bruk",
+      "location": "Strömsholm",
+      "power_station_name": "Strömsholm",
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Strömsholm, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 139,
+      "company_name": "C. Falkö",
+      "location": "Kranklosa",
+      "power_station_name": "Kranklosa",
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Kranklosa, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 140,
+      "company_name": "J. Ylvaryd",
+      "location": "Goiby",
+      "power_station_name": "Rostorp",
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Goiby, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 141,
+      "company_name": "Aug. Jonsson",
+      "location": "Mortorp",
+      "power_station_name": "Holmen",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Mortorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 91 Mortorp, Sweden",
+        "location": {
+          "lat": 56.5893577,
+          "lng": 16.0864536
+        }
+      }
+    },
+    {
+      "index": 142,
+      "company_name": "Sören Walden",
+      "location": "Nyaråd",
+      "power_station_name": "Nyaråd",
+      "power_source": "water",
+      "installed_capacity_kva": 30,
+      "full_location": "Nyaråd, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 143,
+      "company_name": "Tvärkogs byalage",
+      "location": "Trekobo",
+      "power_station_name": "Trekobo",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Trekobo, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 144,
+      "company_name": "Rumstorps",
+      "location": "Rumstorp",
+      "power_station_name": "Rumstorp",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Rumstorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 145,
+      "company_name": "Rumstorps",
+      "location": "Mortorp",
+      "power_station_name": "Montert",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Mortorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 91 Mortorp, Sweden",
+        "location": {
+          "lat": 56.5893577,
+          "lng": 16.0864536
+        }
+      }
+    },
+    {
+      "index": 146,
+      "company_name": "Christinelunds gård",
+      "location": "Högby el.",
+      "power_station_name": "Christinelund",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Högby el., Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "387 72 Högby, Sweden",
+        "location": {
+          "lat": 57.1611835,
+          "lng": 16.9916761
+        }
+      }
+    },
+    {
+      "index": 147,
+      "company_name": "Iglesia, J. Högby el.",
+      "location": "Växtorp",
+      "power_station_name": "Iglesia kvarn",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Växtorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 148,
+      "company_name": "A. Antonsson",
+      "location": "Växtorp",
+      "power_station_name": "Värnans",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Växtorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 149,
+      "company_name": "Värmans gård",
+      "location": "Halltorp",
+      "power_station_name": "Värmans",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Halltorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "387 92 Halltorp, Sweden",
+        "location": {
+          "lat": 56.80107950000001,
+          "lng": 16.5894906
+        }
+      }
+    },
+    {
+      "index": 150,
+      "company_name": "A. Antonsson",
+      "location": "Brąntorp",
+      "power_station_name": "Winterbo",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Brąntorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 151,
+      "company_name": "Bergkvarn—Gökahulds and.-el.-fören.",
+      "location": "Söderåkra",
+      "power_station_name": "subscription from Finsjö Kraft A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Söderåkra, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "385 51 Söderåkra, Sweden",
+        "location": {
+          "lat": 56.4481706,
+          "lng": 16.0659234
+        }
+      }
+    },
+    {
+      "index": 152,
+      "company_name": "Torsås ångkvarn o. träförsunds aktiebolag",
+      "location": "Torsås",
+      "power_station_name": "Torsås el-verk",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Torsås, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Torsås, Sweden",
+        "location": {
+          "lat": 56.4126384,
+          "lng": 15.9982746
+        }
+      }
+    },
+    {
+      "index": 153,
+      "company_name": "Gullabo byalage",
+      "location": "Väckelsång",
+      "power_station_name": "Gullabo",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Väckelsång, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 154,
+      "company_name": "Strandby kvarn",
+      "location": "Ljungbyhed",
+      "power_station_name": "Strandby",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Ljungbyhed, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 155,
+      "company_name": "Påryds el. and.-fören.",
+      "location": "Karlskrona",
+      "power_station_name": "Påryd",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Karlskrona, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 156,
+      "company_name": "Trionbo kvarn",
+      "location": "Mortorp",
+      "power_station_name": "Långeström",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Mortorp, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "388 91 Mortorp, Sweden",
+        "location": {
+          "lat": 56.5893577,
+          "lng": 16.0864536
+        }
+      }
+    },
+    {
+      "index": 157,
+      "company_name": "Mörbylånga",
+      "location": "Madesjö",
+      "power_station_name": "Torsbo",
+      "power_source": "water",
+      "installed_capacity_kva": 20,
+      "full_location": "Madesjö, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 45 Madesjö, Sweden",
+        "location": {
+          "lat": 56.741977,
+          "lng": 15.8866186
+        }
+      }
+    },
+    {
+      "index": 158,
+      "company_name": "Mönsterås and.-fören.",
+      "location": "Torsö",
+      "power_station_name": "Torsö",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Torsö, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kalmar County, Sweden",
+        "location": {
+          "lat": 57.0942447,
+          "lng": 16.5435605
+        }
+      }
+    },
+    {
+      "index": 159,
+      "company_name": "Enhörna",
+      "location": "Örnjö",
+      "power_station_name": "Sjöbo",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Örnjö, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "382 90 Örsjö, Sweden",
+        "location": {
+          "lat": 56.70523,
+          "lng": 15.75326
+        }
+      }
+    },
+    {
+      "index": 160,
+      "company_name": "Vassmolösa",
+      "location": "Linnefors",
+      "power_station_name": "Linhefors",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Linnefors, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "361 96 Linnefors, Sweden",
+        "location": {
+          "lat": 56.5685588,
+          "lng": 15.5653295
+        }
+      }
+    },
+    {
+      "index": 161,
+      "company_name": "Lindås läder o. remfabrik",
+      "location": "Vissefjärda",
+      "power_station_name": "Lindås",
+      "power_source": "steam",
+      "installed_capacity_kva": 40,
+      "full_location": "Vissefjärda, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Vissefjärda, Sweden",
+        "location": {
+          "lat": 56.5340631,
+          "lng": 15.5850161
+        }
+      }
+    },
+    {
+      "index": 162,
+      "company_name": "Borgholms El.-A.-B.",
+      "location": "Borgholm",
+      "power_station_name": "Borgholms el-verk",
+      "power_source": "diesel",
+      "installed_capacity_kva": 75,
+      "full_location": "Borgholm, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Borgholm, Sweden",
+        "location": {
+          "lat": 56.88022969999999,
+          "lng": 16.6562355
+        }
+      }
+    },
+    {
+      "index": 163,
+      "company_name": "Gärdslösa el.-fören.",
+      "location": "Gärdslösa",
+      "power_station_name": "Gärdslösakorn",
+      "power_source": "diesel",
+      "installed_capacity_kva": 80,
+      "full_location": "Gärdslösa, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "387 93 Gärdslösa, Sweden",
+        "location": {
+          "lat": 56.7848032,
+          "lng": 16.7376531
+        }
+      }
+    },
+    {
+      "index": 164,
+      "company_name": "Högsrums gård",
+      "location": "Högsrum",
+      "power_station_name": "Högsrum",
+      "power_source": "diesel",
+      "installed_capacity_kva": 40,
+      "full_location": "Högsrum, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "387 92 Högsrum, Sweden",
+        "location": {
+          "lat": 56.7567831,
+          "lng": 16.6152371
+        }
+      }
+    },
+    {
+      "index": 165,
+      "company_name": "Firma. König & Oilands Sockerf.",
+      "location": "Mörbylånga",
+      "power_station_name": "Sockerfabriken",
+      "power_source": "diesel",
+      "installed_capacity_kva": 40,
+      "full_location": "Mörbylånga, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "Mörbylånga, Sweden",
+        "location": {
+          "lat": 56.5241245,
+          "lng": 16.3884109
+        }
+      }
+    },
+    {
+      "index": 166,
+      "company_name": "Ölands Cement A.-B.",
+      "location": "Degerhamn",
+      "power_station_name": "Cementfabriken",
+      "power_source": "steam",
+      "installed_capacity_kva": 1000,
+      "full_location": "Degerhamn, Kalmar county, Sweden",
+      "geocoding": {
+        "formatted_address": "386 63 Degerhamn, Sweden",
+        "location": {
+          "lat": 56.3596399,
+          "lng": 16.4075762
+        }
+      }
+    }
+  ],
+  "filename": "Kalmar_5.png"
+}

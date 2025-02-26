@@ -1,0 +1,221 @@
+{
+    "data": [
+        {
+            "index": 56,
+            "company_name": "Dalby el. distr.-fören.",
+            "location": "Dalby, Uppsalaslän",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 57,
+            "company_name": "Bälinge el. distr.-fören.",
+            "location": "Bälinge, V. Åker, Högbeck, Skogsbro",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 58,
+            "company_name": "Håtuna el. distr.-fören.",
+            "location": "Håtuna, Håtunaborg, Tibbla",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 59,
+            "company_name": "Västra Bygds el. distr.-fören.",
+            "location": "V. Byd",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 60,
+            "company_name": "Stockholms-Näs el. distr.-fören.",
+            "location": "Stockholms-Näs",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 61,
+            "company_name": "Loss el. distr.-fören.",
+            "location": "Loss, Lossa",
+            "power_station_name": "Säbyholm",
+            "power_source": "water",
+            "installed_capacity_kva": 130
+        },
+        {
+            "index": 62,
+            "company_name": "Kumlaels hemkoøäer el. distr.-fören.",
+            "location": "Kumla, Enköping",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 63,
+            "company_name": "Älvkarleby kraftverk, Sekundärstationen 1 Enköping",
+            "location": "Enköping",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 64,
+            "company_name": "Enköpings stads el. verk",
+            "location": "Enköping, Täby, Vartrbruk",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 3000
+        },
+        {
+            "index": 65,
+            "company_name": "Vänge el. distr.-fören.",
+            "location": "Vänge, Järlåsa",
+            "power_station_name": "Enköpings el.-verk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 67,
+            "company_name": "Skolsta el. distr.-fören.",
+            "location": "Skolsta",
+            "power_station_name": "Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 68,
+            "company_name": "Sparrsätra el. distr.-fören.",
+            "location": "Sparrsätra, Långdsbacka",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 69,
+            "company_name": "Sparredia el. distr.-fören.",
+            "location": "Sparta, Sjöfallet",
+            "power_station_name": "Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 70,
+            "company_name": "[Älv-B. Grillby el.-verk och Villbery el. distr.-fören.",
+            "location": "Grillby, Enköping",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 71,
+            "company_name": "Litslema el. distr.-fören.",
+            "location": "Litslema, Härteberg",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 130
+        },
+        {
+            "index": 72,
+            "company_name": "Örsnäsbro el. distr.-fören.",
+            "location": "Örnsbro, Grensta, Önader, Tullinge, Stenkälla, Överda",
+            "power_station_name": "Västmanlands län",
+            "power_source": "oil",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 73,
+            "company_name": "Husby-Sjutolfts el. distr.-fören.",
+            "location": "Husby-Sjutolfts, Torp",
+            "power_station_name": "Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 74,
+            "company_name": "Rogsta el. distr.-fören.",
+            "location": "Rogsta-Kvistberga",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 75,
+            "company_name": "Bacarna och Eskillå kvarnar",
+            "location": "Bacarn, Grän",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 76,
+            "company_name": "Hallby el. distr.-fören.",
+            "location": "Hallby, Lillforsa, Vaxmora",
+            "power_station_name": "Västmanlands län",
+            "power_source": "oil",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 77,
+            "company_name": "Lots el. distr.-fören.",
+            "location": "Lots, Hacksta",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 78,
+            "company_name": "Skölsta el. distr.-fören.",
+            "location": "Skölsta, Eggby",
+            "power_station_name": "Västmanlands län",
+            "power_source": "subscription",
+            "installed_capacity_kva": 74
+        },
+        {
+            "index": 79,
+            "company_name": "Boglösa el. distr.-fören.",
+            "location": "Boglösa, Namibia",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 80,
+            "company_name": "Enköpings-Näs el. distr.-fören.",
+            "location": "Enköping",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 81,
+            "company_name": "Teda el. distr.-fören.",
+            "location": "Teda",
+            "power_station_name": "Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 82,
+            "company_name": "Strömbergs el. distr.-fören.",
+            "location": "Strömbergs",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        },
+        {
+            "index": 83,
+            "company_name": "Kulla el. distr.-fören.",
+            "location": "Kulla, Hammad",
+            "power_station_name": "subscription from Älvkarleby kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 200
+        }
+    ],
+    "filename": "Uppsala_3.png"
+}

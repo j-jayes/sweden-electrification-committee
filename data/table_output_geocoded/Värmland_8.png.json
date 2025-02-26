@@ -1,0 +1,517 @@
+{
+  "data": [
+    {
+      "index": 324,
+      "company_name": "Mölneryds elektriska andelsförening",
+      "location": "Brunskog",
+      "power_station_name": "Mölneryds kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 375,
+      "full_location": "Brunskog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 94 Brunskog, Sweden",
+        "location": {
+          "lat": 59.6440147,
+          "lng": 12.918935
+        }
+      }
+    },
+    {
+      "index": 325,
+      "company_name": "Kraftbolaget Gylite",
+      "location": "Mangskog",
+      "power_station_name": "Gylteruds",
+      "power_source": "water",
+      "installed_capacity_kva": 149,
+      "full_location": "Mangskog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 96 Mangskog, Sweden",
+        "location": {
+          "lat": 59.7551058,
+          "lng": 12.7455203
+        }
+      }
+    },
+    {
+      "index": 326,
+      "company_name": "Ullförs elektriska andelsförening",
+      "location": "Arvika l.f.",
+      "power_station_name": "Slogfors','power_source':'water",
+      "power_source": "water",
+      "installed_capacity_kva": 150,
+      "full_location": "Arvika l.f., Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 327,
+      "company_name": "Joh. Olofsson",
+      "location": "Vikene",
+      "power_station_name": "Ferreros",
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Vikene, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "671 94 Vikene, Sweden",
+        "location": {
+          "lat": 59.683333,
+          "lng": 12.883333
+        }
+      }
+    },
+    {
+      "index": 328,
+      "company_name": "A.-B. Arvika-Verken",
+      "location": "Do",
+      "power_station_name": "Vike",
+      "power_source": "water",
+      "installed_capacity_kva": 585,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 329,
+      "company_name": "Billeruds A.-B. Do",
+      "location": "Arvika stad",
+      "power_station_name": "Karlstads kraftstation (Go) ",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5540,
+      "full_location": "Arvika stad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 330,
+      "company_name": "Do",
+      "location": "Arvika stad",
+      "power_station_name": "Säfiboda",
+      "power_source": "subscription",
+      "installed_capacity_kva": 3650,
+      "full_location": "Arvika stad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 331,
+      "company_name": "Do",
+      "location": "Arvika stad",
+      "power_station_name": "Anläggn från krftstationerna nris 231, 232 och 229",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5560,
+      "full_location": "Arvika stad, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 332,
+      "company_name": "Arvika elektriska A.-B.",
+      "location": "Arvika l.f.",
+      "power_station_name": "Silbodal",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Arvika l.f., Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 333,
+      "company_name": "Kårmosens s:a elektriska ljusförening",
+      "location": "Arvika l.f.",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Arvika l.f., Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 334,
+      "company_name": "Koppångs gård",
+      "location": "Koppom",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Koppom, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "673 37 Koppom, Sweden",
+        "location": {
+          "lat": 59.70056,
+          "lng": 12.15812
+        }
+      }
+    },
+    {
+      "index": 335,
+      "company_name": "Höyfors-Gilberuds elektriska förening",
+      "location": "Elga",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 33,
+      "full_location": "Elga, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 336,
+      "company_name": "Svilles elektriska andel koförening",
+      "location": "Do",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 141,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 337,
+      "company_name": "Luodensby",
+      "location": "Do",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 152,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 338,
+      "company_name": "Elga mellersta ljusförening",
+      "location": "Do",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 190,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 339,
+      "company_name": "Elga s:a ljusförening",
+      "location": "Do",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 340,
+      "company_name": "Billeruds A.-B.",
+      "location": "Arvika l.f.",
+      "power_station_name": "Brättne kraftstation",
+      "power_source": "water",
+      "installed_capacity_kva": 200,
+      "full_location": "Arvika l.f., Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 341,
+      "company_name": "Wagge elektriska andelsförening",
+      "location": "Ny",
+      "power_station_name": "Wagge",
+      "power_source": "water",
+      "installed_capacity_kva": 400,
+      "full_location": "Ny, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 342,
+      "company_name": "Norseruds genedom','location':'Norserud",
+      "location": "Arvika l.f.",
+      "power_station_name": "Norseunds",
+      "power_source": "subscription",
+      "installed_capacity_kva": 115,
+      "full_location": "Arvika l.f., Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Arvika, Sweden",
+        "location": {
+          "lat": 59.6548534,
+          "lng": 12.592136
+        }
+      }
+    },
+    {
+      "index": 343,
+      "company_name": "Andersföreningen Nordals",
+      "location": "Do",
+      "power_station_name": "Kalseruds mark",
+      "power_source": "subscription",
+      "installed_capacity_kva": 1500,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 344,
+      "company_name": "Lars Johansson",
+      "location": "Kilsmo",
+      "power_station_name": "Smoens kraftstation",
+      "power_source": "steam",
+      "installed_capacity_kva": 1200,
+      "full_location": "Kilsmo, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 345,
+      "company_name": "Karlstads elektriska kraft A.-b.",
+      "location": "Silbodal",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Silbodal, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Storgatan, 672 31 Årjäng, Sweden",
+        "location": {
+          "lat": 59.3859301,
+          "lng": 12.1241929
+        }
+      }
+    },
+    {
+      "index": 346,
+      "company_name": "C Nielsson",
+      "location": "Torpedalen",
+      "power_station_name": "Korsbyns",
+      "power_source": "water",
+      "installed_capacity_kva": 2000,
+      "full_location": "Torpedalen, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 347,
+      "company_name": "Torpedalens elektricitetsförening",
+      "location": "Östervallskog",
+      "power_station_name": "Torpedalens",
+      "power_source": "steam",
+      "installed_capacity_kva": 150,
+      "full_location": "Östervallskog, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "672 96 Östervallskog, Sweden",
+        "location": {
+          "lat": 59.6355251,
+          "lng": 11.8584338
+        }
+      }
+    },
+    {
+      "index": 348,
+      "company_name": "Tocksmarks elektricitets A.-B.",
+      "location": "Tocksmark",
+      "power_station_name": "Tocksmarks",
+      "power_source": "subscription",
+      "installed_capacity_kva": 172,
+      "full_location": "Tocksmark, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "672 41 Töcksmark's parish, Sweden",
+        "location": {
+          "lat": 59.50833789999999,
+          "lng": 11.8304726
+        }
+      }
+    },
+    {
+      "index": 349,
+      "company_name": "Fryks Velykes Elektriska Förening",
+      "location": "V. Fägelvik",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 151,
+      "full_location": "V. Fägelvik, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Västra Fågelvik, 672 96 Töcksfors, Sweden",
+        "location": {
+          "lat": 59.44990999999999,
+          "lng": 11.84167
+        }
+      }
+    },
+    {
+      "index": 350,
+      "company_name": "Hokne Olsson A.-B.",
+      "location": "Holmedal",
+      "power_station_name": "Länne",
+      "power_source": "water",
+      "installed_capacity_kva": 551,
+      "full_location": "Holmedal, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Holmedal, 672 94 Årjäng, Sweden",
+        "location": {
+          "lat": 59.487846,
+          "lng": 11.96162
+        }
+      }
+    },
+    {
+      "index": 351,
+      "company_name": "Olssons Olssons A.-B.",
+      "location": "Arjängs",
+      "power_station_name": "Do",
+      "power_source": "water",
+      "installed_capacity_kva": 1000,
+      "full_location": "Arjängs, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Årjäng, Sweden",
+        "location": {
+          "lat": 59.3891592,
+          "lng": 12.132717
+        }
+      }
+    },
+    {
+      "index": 352,
+      "company_name": "Arjängs elektriska A.-B.",
+      "location": "Silbodal",
+      "power_station_name": "Hormunefors",
+      "power_source": "subscription",
+      "installed_capacity_kva": 5000,
+      "full_location": "Silbodal, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Storgatan, 672 31 Årjäng, Sweden",
+        "location": {
+          "lat": 59.3859301,
+          "lng": 12.1241929
+        }
+      }
+    },
+    {
+      "index": 353,
+      "company_name": "Do",
+      "location": "Arvas",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 450,
+      "full_location": "Arvas, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 354,
+      "company_name": "Evinden kyl eljusförening",
+      "location": "Högend jagens ถนนสุขุมวิท",
+      "power_station_name": "Hormunefors",
+      "power_source": "subscription",
+      "installed_capacity_kva": 52,
+      "full_location": "Högend jagens ถนนสุขุมวิท, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    },
+    {
+      "index": 355,
+      "company_name": "Larsons Elektriska Fobrening",
+      "location": "Do",
+      "power_station_name": "Do",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Do, Värmland county, Sweden",
+      "geocoding": {
+        "formatted_address": "Varmland County, Sweden",
+        "location": {
+          "lat": 59.5807897,
+          "lng": 12.8472974
+        }
+      }
+    }
+  ],
+  "filename": "Värmland_8.png"
+}

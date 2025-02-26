@@ -1,0 +1,261 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "company_name": "Tåsjö Elektriska Kraftförening",
+            "location": "Tåsjö",
+            "power_station_name": "subscription from Å.B. Kvarnfoswerken",
+            "power_source": "subscription",
+            "installed_capacity_kva": 305
+        },
+        {
+            "index": 2,
+            "company_name": "Hotings Elektriska A.B.",
+            "location": "Bodum",
+            "power_station_name": "Kvarforsen, 9 stationer",
+            "power_source": "water",
+            "installed_capacity_kva": 240
+        },
+        {
+            "index": 3,
+            "company_name": "Backe Elektriska A.B.",
+            "location": "Fjällsjö",
+            "power_station_name": "subscription from Å.B. Kvarnforswerken",
+            "power_source": "subscription",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 4,
+            "company_name": "Junsele Elektriska A.B.",
+            "location": "Junsele",
+            "power_station_name": "Eden",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 5,
+            "company_name": "F. M. Wallenzon, Junselevallen",
+            "location": "Junsele",
+            "power_station_name": "-",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 6,
+            "company_name": "A. Hallin, Gulsele",
+            "location": "Junsele",
+            "power_station_name": "-",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 7,
+            "company_name": "Otto Salm, Tara",
+            "location": "Ramsele",
+            "power_station_name": "-",
+            "power_source": "water",
+            "installed_capacity_kva": 90
+        },
+        {
+            "index": 8,
+            "company_name": "Ramsele Elektricitetsverk",
+            "location": "Ramsele",
+            "power_station_name": "Näslugot",
+            "power_source": "water",
+            "installed_capacity_kva": 11
+        },
+        {
+            "index": 9,
+            "company_name": "Långsele Kraftstations A.B.",
+            "location": "Långsele",
+            "power_station_name": "-",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 10,
+            "company_name": "Sehlis Elektricitetsförening",
+            "location": "Edsele",
+            "power_station_name": "Valasjön",
+            "power_source": "water",
+            "installed_capacity_kva": 37
+        },
+        {
+            "index": 11,
+            "company_name": "Edsele Elektricitetsförening",
+            "location": "Edsele",
+            "power_station_name": "Edsele kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 120
+        },
+        {
+            "index": 12,
+            "company_name": "Edsele Elektricitetsförening",
+            "location": "Edsele",
+            "power_station_name": "-",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 13,
+            "company_name": "Framfors A-B, jämte distribution from Edsele kraftstation",
+            "location": "Edsele",
+            "power_station_name": "Edsele kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 14,
+            "company_name": "Kungs. Vattenfallsstyrelse",
+            "location": "Ådalsliden",
+            "power_station_name": "Holaforsen",
+            "power_source": "water",
+            "installed_capacity_kva": 150
+        },
+        {
+            "index": 15,
+            "company_name": "KA Elektriska Förening",
+            "location": "Vigsjö",
+            "power_station_name": "subscription from Resele Elektriska",
+            "power_source": "subscription",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 16,
+            "company_name": "Bodviksnäs Elektriska A.B.",
+            "location": "Resele",
+            "power_station_name": "Sjölön",
+            "power_source": "water",
+            "installed_capacity_kva": 106
+        },
+        {
+            "index": 17,
+            "company_name": "Ådalsslidens och Resele Elektr. A.-B.",
+            "location": "Ådalsliden",
+            "power_station_name": "subscription from Holaforsen",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 18,
+            "company_name": "Ortsträsti i Mellansel",
+            "location": "Anundsjö",
+            "power_station_name": "subscription from Gottne-Ytterells Elektr",
+            "power_source": "subscription",
+            "installed_capacity_kva": 86
+        },
+        {
+            "index": 19,
+            "company_name": "Bredby Elektriska A.-B",
+            "location": "Näsforsen",
+            "power_station_name": "G.stationen",
+            "power_source": "water",
+            "installed_capacity_kva": 840
+        },
+        {
+            "index": 20,
+            "company_name": "Ödaly ochTvärlandsböle byamän",
+            "location": "Anundsjö",
+            "power_station_name": "Ödaly",
+            "power_source": "water",
+            "installed_capacity_kva": 8
+        },
+        {
+            "index": 21,
+            "company_name": "Myckelgensjö Elektriska A.-B.",
+            "location": "Anundsjö",
+            "power_station_name": "Myckelgensjö",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 22,
+            "company_name": "Nordvik och Sorböles byamän",
+            "location": "Anundsjö",
+            "power_station_name": "Nordvik",
+            "power_source": "water",
+            "installed_capacity_kva": 56
+        },
+        {
+            "index": 23,
+            "company_name": "Sorböle byamän",
+            "location": "Anundsjö",
+            "power_station_name": "Sorböle",
+            "power_source": "water",
+            "installed_capacity_kva": 58
+        },
+        {
+            "index": 24,
+            "company_name": "Åsbygd Elektriska A.-B.",
+            "location": "Anundsjö",
+            "power_station_name": "Åsbygd",
+            "power_source": "water",
+            "installed_capacity_kva": 38
+        },
+        {
+            "index": 25,
+            "company_name": "Skalmsjö byamän",
+            "location": "Skorped",
+            "power_station_name": "Skalmsjö",
+            "power_source": "water",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 26,
+            "company_name": "Risvik och Hemvåg Elektriska För.",
+            "location": "Skorped",
+            "power_station_name": "Risvik",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 27,
+            "company_name": "Risvik och Hemvåg Elektriska För.",
+            "location": "Skorped",
+            "power_station_name": "Handäng",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 28,
+            "company_name": "Hägg Bernhard",
+            "location": "Oljefjäll",
+            "power_station_name": "Oljefjäll",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 29,
+            "company_name": "Stenströms Snickerifabriks A.-B.",
+            "location": "Mjösjö",
+            "power_station_name": "Stenströms",
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 30,
+            "company_name": "Jons Mjöeliföret, Björna",
+            "location": "Djuptjärn",
+            "power_station_name": "subscription from Tjäresjö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 31,
+            "company_name": "Björna Elektriska Förening",
+            "location": "Björna",
+            "power_station_name": "Djuptjärn",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 32,
+            "company_name": "Björna Elektriska Förening",
+            "location": "Björna",
+            "power_station_name": "Abon. fr. Mjöeliföret, Björna",
+            "power_source": "subscription",
+            "installed_capacity_kva": 10
+        }
+    ],
+    "filename": "Västernorrland_1.png"
+}

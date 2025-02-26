@@ -1,0 +1,253 @@
+{
+    "data": [
+        {
+            "index": 50,
+            "company_name": "Vangaortens El. Distr.-Fören.",
+            "location": "Vånga",
+            "power_station_name": "Vånga",
+            "power_source": "water",
+            "installed_capacity_kva": 30
+        },
+        {
+            "index": 51,
+            "company_name": "Doverstorps El. Distr.-Fören.",
+            "location": "Vånga",
+            "power_station_name": "subscription from A.-B. Knutsbro kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": 100
+        },
+        {
+            "index": 52,
+            "company_name": "Kullerstads El. Distr.-Fören.",
+            "location": "Kullerstad",
+            "power_station_name": "subscription from Skärblacka A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 53,
+            "company_name": "Distr. i Skärblacka",
+            "location": "Skärblacka",
+            "power_station_name": "Skärblacka A.-B.",
+            "power_source": "water",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 54,
+            "company_name": "Skärblacka A.-B. — Transformatorstationen i Norrköping",
+            "location": "Norrköping",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 1500
+        },
+        {
+            "index": 55,
+            "company_name": "Kvarn A.-B. J. G. Swartz",
+            "location": "Dagsberg",
+            "power_station_name": "subscription from Skärblacka A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 215
+        },
+        {
+            "index": 56,
+            "company_name": "Vikbolandets El. Kraft A.-B. — Kuddbyverket",
+            "location": "Kuddby",
+            "power_station_name": "Dagsberg",
+            "power_source": "diesel",
+            "installed_capacity_kva": 215
+        },
+        {
+            "index": 57,
+            "company_name": "Vikbolandets El. Kraft A.-B. — Jonsbergsverk",
+            "location": "Jonsberg",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 7
+        },
+        {
+            "index": 58,
+            "company_name": "Vikbolandets El. Kraft A.-B. — Furingstadverket",
+            "location": "Furingstad",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 59,
+            "company_name": "Vikbolandets El. Kraft A.-B. — Ö. Stenbyverket",
+            "location": "Östra Stenby",
+            "power_station_name": "subscription from Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 60,
+            "company_name": "Vikbolandets El. Kraft A.-B. — Yxelkedsstation",
+            "location": "Östra Husby",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 61,
+            "company_name": "Vikbolandets El. Kraft A.-B. — Vikbolandets El. Kraft A.-B. — Lönsanätsverk",
+            "location": "Östra XY",
+            "power_station_name": "subscription from Norrköpings stad",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 62,
+            "company_name": "St. Långans Gruv A.-B.",
+            "location": "Vikbolandet",
+            "power_station_name": null,
+            "power_source": "steam",
+            "installed_capacity_kva": 51
+        },
+        {
+            "index": 63,
+            "company_name": "C.J. Lundbergs Lädefabriks A.-B.",
+            "location": "Valdemarsvik",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 64,
+            "company_name": "Gusums Bruks o. Fabriks A.-B.",
+            "location": "Ringarum",
+            "power_station_name": "Mellanbruket",
+            "power_source": "water",
+            "installed_capacity_kva": 140
+        },
+        {
+            "index": 64,
+            "company_name": "Gusums Bruks o. Fabriks A.-B.",
+            "location": "Ringarum",
+            "power_station_name": "Utsíter",
+            "power_source": "subscription",
+            "installed_capacity_kva": 500
+        },
+        {
+            "index": 65,
+            "company_name": "Belysnings A.-B. Tomten",
+            "location": "Skönberga, Söderköping",
+            "power_station_name": "subscription from Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 240
+        },
+        {
+            "index": 66,
+            "company_name": "Distr. i Karterop",
+            "location": "Drothem, Söderköping",
+            "power_station_name": "subscription from Motala Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 67,
+            "company_name": "H. Jonsson o. abonnenter, bl. a. O. Ryds El. Distr.-Fören.",
+            "location": "Östra Ryd, Atvid",
+            "power_station_name": "St Johannes",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 68,
+            "company_name": "Baronet Adelswärd",
+            "location": "Söderköping",
+            "power_station_name": "subscription from Baroniet Adelsvärd",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 69,
+            "company_name": "Norsholmskretsens El. Distr.-Fören.",
+            "location": "Kimstad, Skärkind, Gårdeby",
+            "power_station_name": "Rabboteberg",
+            "power_source": "diesel",
+            "installed_capacity_kva": 25
+        },
+        {
+            "index": 70,
+            "company_name": "Bankekinds El. Distr.-Fören.",
+            "location": "Bankekind",
+            "power_station_name": "subscription from Baroniet Adelsvärd",
+            "power_source": "subscription",
+            "installed_capacity_kva": 800
+        },
+        {
+            "index": 71,
+            "company_name": "A.-B. Knutsbro Kraftstation",
+            "location": "Kind",
+            "power_station_name": "Hovetorp",
+            "power_source": "water",
+            "installed_capacity_kva": 125
+        },
+        {
+            "index": 72,
+            "company_name": "Th. G. Bäck",
+            "location": "Sturefors",
+            "power_station_name": "Nykarra",
+            "power_source": "water",
+            "installed_capacity_kva": 130
+        },
+        {
+            "index": 73,
+            "company_name": "A.-B. Nyvkams Emgsdaleikrafiks",
+            "location": "Linköping",
+            "power_station_name": "Tankefors",
+            "power_source": "water",
+            "installed_capacity_kva": 215
+        },
+        {
+            "index": 74,
+            "company_name": "Linköpings El. Kraft o. Bel-A.-B.",
+            "location": "Linköping",
+            "power_station_name": null,
+            "power_source": "water",
+            "installed_capacity_kva": 325
+        },
+        {
+            "index": 74,
+            "company_name": "Ditto",
+            "location": "Linkoping",
+            "power_station_name": "subscription from Odonots",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 74,
+            "company_name": "Ditto",
+            "location": "Linkoping",
+            "power_station_name": "Svanfors",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 74,
+            "company_name": "Ditto",
+            "location": "Linkoping",
+            "power_station_name": "Nykarra",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 75,
+            "company_name": "Söderköpings Vidbo",
+            "location": "Tierp",
+            "power_station_name": "subscription from Linköpings El. Kraft o. Bel-A.-B",
+            "power_source": "subscription",
+            "installed_capacity_kva": 0
+        },
+        {
+            "index": 75,
+            "company_name": "Ditto",
+            "location": "Nykarra",
+            "power_station_name": "Söderköping",
+            "power_source": "water",
+            "installed_capacity_kva": 100
+        }
+    ],
+    "filename": "Östergötland_3.png"
+}

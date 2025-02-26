@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "index": 319,
+      "company_name": "Pauliströms bruk, Järn- forsen",
+      "location": "Karlstorp sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 90,
+      "full_location": "Karlstorp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "598 97 Karlstorp, Sweden",
+        "location": {
+          "lat": 57.5133595,
+          "lng": 15.5151755
+        }
+      }
+    },
+    {
+      "index": 320,
+      "company_name": "Pauliströms bruk, Järn- forsen. Pauliströms kraftstation",
+      "location": "Karlstorp sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 445,
+      "full_location": "Karlstorp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "598 97 Karlstorp, Sweden",
+        "location": {
+          "lat": 57.5133595,
+          "lng": 15.5151755
+        }
+      }
+    },
+    {
+      "index": 321,
+      "company_name": "Ökna elektriska förening",
+      "location": "Ökna sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "Ökna sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 55 Ökna, Sweden",
+        "location": {
+          "lat": 57.43594659999999,
+          "lng": 15.4271628
+        }
+      }
+    },
+    {
+      "index": 322,
+      "company_name": "Kvillebruks elektriciteits- verk, Kvillsfors",
+      "location": "Ökna sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 95,
+      "full_location": "Ökna sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 55 Ökna, Sweden",
+        "location": {
+          "lat": 57.43594659999999,
+          "lng": 15.4271628
+        }
+      }
+    },
+    {
+      "index": 323,
+      "company_name": "P. d. Finspång kraft A.-B. Distributionsnät i Jön- köping",
+      "location": "Lemnhult sn",
+      "power_station_name": null,
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Lemnhult sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 76 Lemnhult, Sweden",
+        "location": {
+          "lat": 57.2872129,
+          "lng": 15.2683744
+        }
+      }
+    },
+    {
+      "index": 324,
+      "company_name": "Besväras elektricitettsverk",
+      "location": "Näshult sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 25,
+      "full_location": "Näshult sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 33 Näshult, Sweden",
+        "location": {
+          "lat": 57.27036469999999,
+          "lng": 15.3912324
+        }
+      }
+    },
+    {
+      "index": 325,
+      "company_name": "Nissjös möbelfabrik, Niss- jö",
+      "location": "Nissjö",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Nissjö, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 326,
+      "company_name": "Nusnäs elektricietetsverk, Nässjö",
+      "location": "Gryteryd sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Gryteryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 92 Gryteryd, Sweden",
+        "location": {
+          "lat": 57.0918808,
+          "lng": 13.1390332
+        }
+      }
+    },
+    {
+      "index": 327,
+      "company_name": "Björjedys såg- och el.-verk",
+      "location": "Gryteryd sn",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 45,
+      "full_location": "Gryteryd sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 92 Gryteryd, Sweden",
+        "location": {
+          "lat": 57.0918808,
+          "lng": 13.1390332
+        }
+      }
+    },
+    {
+      "index": 328,
+      "company_name": "C. A. Carlsson",
+      "location": "Burseryd",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 10,
+      "full_location": "Burseryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 77 Burseryd, Sweden",
+        "location": {
+          "lat": 57.1999942,
+          "lng": 13.2835439
+        }
+      }
+    },
+    {
+      "index": 329,
+      "company_name": "Gullbergets a.- and.-för.",
+      "location": "Burseryd",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 10,
+      "full_location": "Burseryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "333 77 Burseryd, Sweden",
+        "location": {
+          "lat": 57.1999942,
+          "lng": 13.2835439
+        }
+      }
+    },
+    {
+      "index": 330,
+      "company_name": "Åsfors bruk",
+      "location": "Åker sn",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 100,
+      "full_location": "Åker sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "568 92 Åker, Sweden",
+        "location": {
+          "lat": 57.3819473,
+          "lng": 13.9967739
+        }
+      }
+    },
+    {
+      "index": 331,
+      "company_name": "C. A. Anderson",
+      "location": "Anderstorp sn",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 26,
+      "full_location": "Anderstorp sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "334 33 Anderstorp, Sweden",
+        "location": {
+          "lat": 57.2812542,
+          "lng": 13.6271963
+        }
+      }
+    },
+    {
+      "index": 332,
+      "company_name": "P. Fomander",
+      "location": "Malmbäck sn",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Malmbäck sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 68 Malmbäck, Sweden",
+        "location": {
+          "lat": 57.5781694,
+          "lng": 14.4641901
+        }
+      }
+    },
+    {
+      "index": 333,
+      "company_name": "Skaftorps Kraftverk",
+      "location": "Bringetofta sn",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 50,
+      "full_location": "Bringetofta sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "576 91 Bringetofta, Sweden",
+        "location": {
+          "lat": 57.4457701,
+          "lng": 14.6174904
+        }
+      }
+    },
+    {
+      "index": 334,
+      "company_name": "A. W. Johansson",
+      "location": "Almesåkra sn",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 15,
+      "full_location": "Almesåkra sn, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "571 66 Almesåkra, Sweden",
+        "location": {
+          "lat": 57.556985,
+          "lng": 14.6013622
+        }
+      }
+    },
+    {
+      "index": 335,
+      "company_name": "A. Danielsson",
+      "location": "Ålaseda",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 20,
+      "full_location": "Ålaseda, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 336,
+      "company_name": "A. Karlsson",
+      "location": "Karlsberga",
+      "power_station_name": null,
+      "power_source": "water",
+      "installed_capacity_kva": 10,
+      "full_location": "Karlsberga, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 337,
+      "company_name": "G. Johansson",
+      "location": "Johannestad",
+      "power_station_name": null,
+      "power_source": "steam",
+      "installed_capacity_kva": 10,
+      "full_location": "Johannestad, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "Jonkoping County, Sweden",
+        "location": {
+          "lat": 57.3708434,
+          "lng": 14.3439173
+        }
+      }
+    },
+    {
+      "index": 338,
+      "company_name": "Ludv. Karlson, Fagerhult",
+      "location": "Marbäck",
+      "power_station_name": null,
+      "power_source": "oil",
+      "installed_capacity_kva": 5,
+      "full_location": "Marbäck, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "578 94 Marbäck, Sweden",
+        "location": {
+          "lat": 57.8587189,
+          "lng": 14.8572915
+        }
+      }
+    },
+    {
+      "index": 339,
+      "company_name": "P. O. Adel",
+      "location": "Lekeryd",
+      "power_station_name": null,
+      "power_source": "diesel",
+      "installed_capacity_kva": 15,
+      "full_location": "Lekeryd, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "561 96 Lekeryd, Sweden",
+        "location": {
+          "lat": 57.77233500000001,
+          "lng": 14.4154747
+        }
+      }
+    },
+    {
+      "index": 340,
+      "company_name": "Se nr 75 i Kalmar län",
+      "location": "Stenberga",
+      "power_station_name": "subscription from Kraftstationer i Kalmar län",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Stenberga, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "574 97 Stenberga, Sweden",
+        "location": {
+          "lat": 57.3229024,
+          "lng": 15.4204502
+        }
+      }
+    },
+    {
+      "index": 341,
+      "company_name": "Se nr 78",
+      "location": "Näshult",
+      "power_station_name": "subscription from Kraftstationer",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Näshult, Jönköping county, Sweden",
+      "geocoding": {
+        "formatted_address": "364 33 Näshult, Sweden",
+        "location": {
+          "lat": 57.27036469999999,
+          "lng": 15.3912324
+        }
+      }
+    }
+  ],
+  "filename": "Jönköping_15.png"
+}

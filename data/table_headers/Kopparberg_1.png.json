@@ -1,0 +1,125 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "label": "Nr",
+            "description": "Nummer i tabell"
+        },
+        {
+            "id": 2,
+            "label": "Företagets namn, ägare eller innehavare",
+            "description": "Namnet på företaget och dess ägare eller innehavare"
+        },
+        {
+            "id": 3,
+            "label": "Kommun Stad",
+            "description": "Kommun och stadsnamn där anläggningen är belägen"
+        },
+        {
+            "id": 4,
+            "label": "Kraftstationens namn eller läge",
+            "description": "Namn eller läge på kraftstationen"
+        },
+        {
+            "id": 5,
+            "label": "Olad elektrifierad areal",
+            "description": "Olad elektrifierad areal i hektar"
+        },
+        {
+            "id": 6,
+            "label": "med beläggning och notering",
+            "description": "Uppgifter om beläggning och noteringar"
+        },
+        {
+            "id": 7,
+            "label": "Utbyggnadshöjd",
+            "description": "Utbyggnadshöjd i meter"
+        },
+        {
+            "id": 8,
+            "label": "Generatortransformatorer",
+            "description": "Specifikationer om generatortansformatorer"
+        },
+        {
+            "id": 9,
+            "label": "Huvudtransformatorer",
+            "description": "Uppgift om huvudtransformatorer"
+        },
+        {
+            "id": 10,
+            "label": "Driftår",
+            "description": "År då anläggningen togs i drift"
+        },
+        {
+            "id": 11,
+            "label": "Ortstransformatorer",
+            "description": "Uppgifter om ortstransformatorer"
+        },
+        {
+            "id": 12,
+            "label": "Anslutning",
+            "description": "Information om anslutning till nät"
+        },
+        {
+            "id": 13,
+            "label": "Spänningssystem",
+            "description": "Typ av spänningssystem som används"
+        },
+        {
+            "id": 14,
+            "label": "motorer",
+            "description": "Antal motorer kopplade i systemet"
+        },
+        {
+            "id": 15,
+            "label": "belysningsaggregat",
+            "description": "Antal belysningsaggregat kopplade i systemet"
+        },
+        {
+            "id": 16,
+            "label": "Energiproduktion 1920 i kWh",
+            "description": "Energiproduktion under 1920 i kilowattimmar"
+        },
+        {
+            "id": 17,
+            "label": "Total anläggningskostnad",
+            "description": "Den totala kostnaden för anläggningen i kronor"
+        },
+        {
+            "id": 18,
+            "label": "Anm.",
+            "description": "Anmärkningar och särskilda noteringar"
+        },
+        {
+            "id": 19,
+            "label": "kVA",
+            "description": "KVA-värde, apparatens kapacitet"
+        },
+        {
+            "id": 20,
+            "label": "Spänning volt",
+            "description": "Operativ spänning i volt"
+        },
+        {
+            "id": 21,
+            "label": "kW",
+            "description": "Installerad effekt i kW"
+        },
+        {
+            "id": 22,
+            "label": "Årsproduktion",
+            "description": "Årlig produktion av energi"
+        },
+        {
+            "id": 23,
+            "label": "Nr",
+            "description": "Nummer i tabellen"
+        },
+        {
+            "id": 24,
+            "label": "",
+            "description": "Reservnummer eller ytterligare information"
+        }
+    ],
+    "filename": "Kopparberg_1.png"
+}

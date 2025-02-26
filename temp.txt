@@ -1,0 +1,1 @@
+python src/01-create-table-pdfs.py "committee-reports-pdf/Gotland.pdf" 15 15

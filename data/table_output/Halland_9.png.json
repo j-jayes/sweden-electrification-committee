@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "index": 140,
+            "company_name": "Tjärby elektriska andelsförening, Genevad",
+            "location": "Tjärby sn",
+            "power_station_name": "subscription from Veinge elektriska andelsförening, Veinge",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 141,
+            "company_name": "Skogaby elektriska andelsförening, Stakelyckesper G. Strand, Skogaby",
+            "location": "Laholms landskommun, Flagbuster",
+            "power_station_name": "subscription from Sydsvenska kraft a.-b., Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 142,
+            "company_name": "Bonnarps, Skottorp på Storgatan, agent Gottfrid Andersson, Bonarp, Laholm",
+            "location": "Laholms landskommun",
+            "power_station_name": "vattenhjul",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 143,
+            "company_name": "Södra Hallands kraftförening, Laholm",
+            "location": "Laholms landskommun",
+            "power_station_name": "subscription from Laholms stads elektricitetverk, Laholm",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 144,
+            "company_name": "Laholms stads elektricitetverk, Laholm",
+            "location": "Laholms stad",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 400
+        },
+        {
+            "index": 145,
+            "company_name": "Ysby elektriska kraftförening, Ysby pr Laholm",
+            "location": "Ysby sn",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 146,
+            "company_name": "Staffanstorps elektriska kraftförening, Bytorp pr Laholm",
+            "location": "Ränneslöv sn",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 75
+        },
+        {
+            "index": 147,
+            "company_name": "Ränneslövs kraft- och kvarnförening, Ränneslöv pr Laholm",
+            "location": "Ränneslöv sn",
+            "power_station_name": "vattenhjul",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 148,
+            "company_name": "Ränneslövs kvarn, Kvarnag pr Laholm",
+            "location": "Ränneslöv sn",
+            "power_station_name": "vattenhjul",
+            "power_source": "water",
+            "installed_capacity_kva": 15
+        },
+        {
+            "index": 149,
+            "company_name": "Sydsvenska kraft a.-b., Malmö, Mjellens kraftstation",
+            "location": "Kråkered sn",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 10130
+        },
+        {
+            "index": 150,
+            "company_name": "Sydsvenska kraft a.-b., Malmö, Basalts kraftstation",
+            "location": "Kråkered sn",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 8110
+        },
+        {
+            "index": 151,
+            "company_name": "Sydsvenska kraft a.-b., Malmö, Övrig kraftstation",
+            "location": "Kråkered sn",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 8110
+        },
+        {
+            "index": 152,
+            "company_name": "Sydsvenska kraft a.-b., Malmö, Vödre kraftstation",
+            "location": "Kråkered sn",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 14520
+        },
+        {
+            "index": 153,
+            "company_name": "Sydsvenska kraft a.-b., Malmö, Skogaby kraftstation",
+            "location": "Kråkered sn",
+            "power_station_name": "vatten-turbin",
+            "power_source": "water",
+            "installed_capacity_kva": 14250
+        },
+        {
+            "index": 154,
+            "company_name": "Sydsvenska kraft a.-b., Malmö, Landtlonger och transformatorcentral inom Hallands län",
+            "location": "Kråkered sn",
+            "power_station_name": "vattenhjul",
+            "power_source": "water",
+            "installed_capacity_kva": 600
+        },
+        {
+            "index": 155,
+            "company_name": "Vergesjö elektricitetsverk, Svia pr Falkenberg",
+            "location": "Knäred sn",
+            "power_station_name": "vattenhjul",
+            "power_source": "water",
+            "installed_capacity_kva": 10
+        },
+        {
+            "index": 156,
+            "company_name": "Brännets och Tvistsens elektriska andelsförening, Knäred",
+            "location": "Knäred sn",
+            "power_station_name": "vattenhjul",
+            "power_source": "water",
+            "installed_capacity_kva": 20
+        },
+        {
+            "index": 157,
+            "company_name": "Knäreds andelsförening för afs. kraft, Knäred",
+            "location": "Knäred sn",
+            "power_station_name": "subscription from Sydsvenska kraft a.-b., Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        },
+        {
+            "index": 158,
+            "company_name": "Röcreds andelselektricitetsförening, Lambet pr Anton Jonsson, Puteswed, Mjellens, Kråkered",
+            "location": "Knäred sn",
+            "power_station_name": "subscription from Sydsvenska kraft a.-b., Malmö",
+            "power_source": "subscription",
+            "installed_capacity_kva": 50
+        }
+    ],
+    "filename": "Halland_9.png"
+}

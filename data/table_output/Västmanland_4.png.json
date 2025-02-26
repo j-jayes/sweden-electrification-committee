@@ -1,0 +1,173 @@
+{
+    "data": [
+        {
+            "index": 96,
+            "company_name": "Runhällens elektr. distributionsförening",
+            "location": "Enåker",
+            "power_station_name": "subscription from Älvkarleby Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 97,
+            "company_name": "Möklinta",
+            "location": "Möklinta",
+            "power_station_name": "subscription from Älvkarleby Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 98,
+            "company_name": "Brovallens",
+            "location": "Västerfärnebo",
+            "power_station_name": "subscription from Älvkarleby Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 99,
+            "company_name": "Nora",
+            "location": "Nora",
+            "power_station_name": "subscription from Älvkarleby Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 100,
+            "company_name": "Tärnsjö",
+            "location": "Nora",
+            "power_station_name": "subscription from Älvkarleby Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 101,
+            "company_name": "Nora",
+            "location": "Östervåla",
+            "power_station_name": "subscription from Älvkarleby Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 102,
+            "company_name": "Östervåla",
+            "location": "Östervåla",
+            "power_station_name": "Forsbo kraftstation",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 103,
+            "company_name": "A. P. Eriksson",
+            "location": "Möklinta Västerfärnebo",
+            "power_station_name": "Hornsjöfors Bruk",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 104,
+            "company_name": "A.-B. Svensen Metallverken",
+            "location": "Forsbo",
+            "power_station_name": "Karbennings",
+            "power_source": "water",
+            "installed_capacity_kva": 12
+        },
+        {
+            "index": 105,
+            "company_name": "Västerfärnebo",
+            "location": "Karbennings",
+            "power_station_name": "subscription from Virsbo-Ramnäs Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 106,
+            "company_name": "Hedemora",
+            "location": "Svedvi",
+            "power_station_name": "subscription from Virsbo-Ramnäs Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 107,
+            "company_name": "Skultuna elektr. distributionsförening",
+            "location": "Skultuna",
+            "power_station_name": "Skultuna Bruk",
+            "power_source": "water",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 108,
+            "company_name": "Medåker",
+            "location": "Medåker",
+            "power_station_name": "subscription from Gindbergs kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 109,
+            "company_name": "Horndals Järnverks A-B, Långgruvan",
+            "location": "Norberg",
+            "power_station_name": "subscription from Näs kraftstation",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 110,
+            "company_name": "Statens Skogsskola",
+            "location": "Grav",
+            "power_station_name": "subscription from Norbergs El. A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 111,
+            "company_name": "Gruv A.-B. Stak.",
+            "location": "Västanfors",
+            "power_station_name": "subscription from Virsbo-Ramnäs Kraft A.-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 112,
+            "company_name": "Ljusne-Voxna A-B.",
+            "location": "Skinnskatteberg",
+            "power_station_name": "Kraft från Älvkarleby Kraftverk",
+            "power_source": "subscription",
+            "installed_capacity_kva": null
+        },
+        {
+            "index": 113,
+            "company_name": "Statens Vattenfallsverk, Tråmlesbärg",
+            "location": "Ramnäs",
+            "power_station_name": "subscription from Riddarhyttte A-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 30000
+        },
+        {
+            "index": 114,
+            "company_name": "Statens Vattenfallsverk, Stormossen",
+            "location": "Malma",
+            "power_station_name": "subscription from Riddarhyttte A-B.",
+            "power_source": "subscription",
+            "installed_capacity_kva": 20000
+        },
+        {
+            "index": 115,
+            "company_name": "Gisslarbo samhälle m.m.",
+            "location": "Hed",
+            "power_station_name": "Älvkarleby Kraftverk",
+            "power_source": "water",
+            "installed_capacity_kva": 5000
+        },
+        {
+            "index": 116,
+            "company_name": "Sala gruva",
+            "location": "Sala stad",
+            "power_station_name": "Älvkarleby Kraftverk",
+            "power_source": "water",
+            "installed_capacity_kva": 90000
+        }
+    ],
+    "filename": "Västmanland_4.png"
+}

@@ -1,0 +1,405 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "company_name": "Munktells Pappersfabr. A.-B.",
+      "location": "Kopparberg",
+      "power_station_name": "Bergsgården",
+      "power_source": "steam",
+      "installed_capacity_kva": 250,
+      "full_location": "Kopparberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 2,
+      "company_name": "Bergsgårdens Bel.-För.",
+      "location": "Grycksbo",
+      "power_station_name": "subscription from Munktells A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Grycksbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "790 20 Grycksbo, Sweden",
+        "location": {
+          "lat": 60.6881289,
+          "lng": 15.4843016
+        }
+      }
+    },
+    {
+      "index": 3,
+      "company_name": "Mindre distr.-företag",
+      "location": "Grycksbo",
+      "power_station_name": "subscription from Munktells A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 100,
+      "full_location": "Grycksbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "790 20 Grycksbo, Sweden",
+        "location": {
+          "lat": 60.6881289,
+          "lng": 15.4843016
+        }
+      }
+    },
+    {
+      "index": 4,
+      "company_name": "Grycksbo El. Bel.-För.",
+      "location": "Grycksbo",
+      "power_station_name": "subscription from Munktells A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Grycksbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "790 20 Grycksbo, Sweden",
+        "location": {
+          "lat": 60.6881289,
+          "lng": 15.4843016
+        }
+      }
+    },
+    {
+      "index": 5,
+      "company_name": "K. J. Hellbergs sterbhus",
+      "location": "Österå",
+      "power_station_name": "Ab. Fr. St. Kop. A.-B.",
+      "power_source": "water",
+      "installed_capacity_kva": 275,
+      "full_location": "Österå, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 6,
+      "company_name": "Morbynsdals El. Diste.-För.",
+      "location": "Grangärde",
+      "power_station_name": "Ab. Fr. St. Kop. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 15,
+      "full_location": "Grangärde, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "770 13 Grangärde, Sweden",
+        "location": {
+          "lat": 60.2681,
+          "lng": 14.9796
+        }
+      }
+    },
+    {
+      "index": 7,
+      "company_name": "Grönbo",
+      "location": "Grönbo",
+      "power_station_name": "Ab. Fr. St. Kop. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "Grönbo, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "791 94 Grönbo, Sweden",
+        "location": {
+          "lat": 60.5866954,
+          "lng": 15.4720537
+        }
+      }
+    },
+    {
+      "index": 8,
+      "company_name": "Distr.-företag i Källvik en",
+      "location": "Källviken",
+      "power_station_name": "o. Åspegbo Diste.et.-Fören.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "Källviken, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "791 53 Källviken, Sweden",
+        "location": {
+          "lat": 60.57375929999999,
+          "lng": 15.6497747
+        }
+      }
+    },
+    {
+      "index": 9,
+      "company_name": "Säfussare El. Distr.-Fören.",
+      "location": "o. Åspegbo Kopparberge",
+      "power_station_name": "Ab. Fr. Falun El. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "o. Åspegbo Kopparberge, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 10,
+      "company_name": "Helingsbergs Bel.-För.",
+      "location": "Stora Kopparberg",
+      "power_station_name": " subscription from Ab. Fr. Falun El. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Stora Kopparberg, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Kopparberg, Sweden",
+        "location": {
+          "lat": 59.87548999999999,
+          "lng": 15.00051
+        }
+      }
+    },
+    {
+      "index": 11,
+      "company_name": "Höglo-Holmens",
+      "location": "Höglo-Holmen",
+      "power_station_name": "Ab. Fr. Falun El. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "Höglo-Holmen, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 12,
+      "company_name": "Där distr.-företag",
+      "location": "Där",
+      "power_station_name": "Ab. Fr. Falun El. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "Där, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 13,
+      "company_name": "Korsnäs Sågverks A.-B.",
+      "location": "Korsnäs",
+      "power_station_name": "Korsnäs",
+      "power_source": "water",
+      "installed_capacity_kva": 300,
+      "full_location": "Korsnäs, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "791 44 Korsnäs, Sweden",
+        "location": {
+          "lat": 60.58931879999999,
+          "lng": 15.7114734
+        }
+      }
+    },
+    {
+      "index": 14,
+      "company_name": "Falu El. Bel. A.-B.",
+      "location": "Falun",
+      "power_station_name": "Falu El-verkk",
+      "power_source": "steam",
+      "installed_capacity_kva": 775,
+      "full_location": "Falun, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Falun, Sweden",
+        "location": {
+          "lat": 60.60646000000001,
+          "lng": 15.6355
+        }
+      }
+    },
+    {
+      "index": 15,
+      "company_name": "Falu distr.-företag",
+      "location": "Falun",
+      "power_station_name": "Fr. Falu El. Bel. A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 0,
+      "full_location": "Falun, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Falun, Sweden",
+        "location": {
+          "lat": 60.60646000000001,
+          "lng": 15.6355
+        }
+      }
+    },
+    {
+      "index": 17,
+      "company_name": "Koppar. Bergsl. A.-B.",
+      "location": "Hyttan (Falu)",
+      "power_station_name": "Hyttan (Falu)",
+      "power_source": "steam",
+      "installed_capacity_kva": 0,
+      "full_location": "Hyttan (Falu), Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "774 92 Hyttan, Sweden",
+        "location": {
+          "lat": 60.1756741,
+          "lng": 16.2103369
+        }
+      }
+    },
+    {
+      "index": 18,
+      "company_name": "Tracst.-fallet i Falun",
+      "location": "Falun",
+      "power_station_name": "St. Kop. Bergsi. A.-B.",
+      "power_source": "water",
+      "installed_capacity_kva": 3000,
+      "full_location": "Falun, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Falun, Sweden",
+        "location": {
+          "lat": 60.60646000000001,
+          "lng": 15.6355
+        }
+      }
+    },
+    {
+      "index": 19,
+      "company_name": "Tracst.-fallet i Falun",
+      "location": "Falun",
+      "power_station_name": "Ab. Fr. St. Kop. B.A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 150,
+      "full_location": "Falun, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Falun, Sweden",
+        "location": {
+          "lat": 60.60646000000001,
+          "lng": 15.6355
+        }
+      }
+    },
+    {
+      "index": 20,
+      "company_name": "Mindre distr.-företag",
+      "location": "Åspegoda",
+      "power_station_name": "Ab. Fr. St. Kop. B.A.-B.",
+      "power_source": "subscription",
+      "installed_capacity_kva": 10,
+      "full_location": "Åspegoda, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 22,
+      "company_name": "Aspöboda El. Distr.-Förening",
+      "location": "Aspöboda",
+      "power_station_name": "Aspöboda",
+      "power_source": "water",
+      "installed_capacity_kva": 147,
+      "full_location": "Aspöboda, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "791 93 Aspeboda, Sweden",
+        "location": {
+          "lat": 60.557039,
+          "lng": 15.492931
+        }
+      }
+    },
+    {
+      "index": 23,
+      "company_name": "Spånga El. Distr.-Förening",
+      "location": "Spånga",
+      "power_station_name": "Aspöboda",
+      "power_source": "water",
+      "installed_capacity_kva": 115,
+      "full_location": "Spånga, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Dalarna County, Sweden",
+        "location": {
+          "lat": 61.0917012,
+          "lng": 14.6663653
+        }
+      }
+    },
+    {
+      "index": 25,
+      "company_name": "Mindre distr.-företag",
+      "location": "o. Tensta",
+      "power_station_name": "subscription from Åspegbo distrikts",
+      "power_source": "subscription",
+      "installed_capacity_kva": 50,
+      "full_location": "o. Tensta, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "Tensta, Spånga-Tensta, Stockholm, Sweden",
+        "location": {
+          "lat": 59.39734389999999,
+          "lng": 17.9096574
+        }
+      }
+    },
+    {
+      "index": 26,
+      "company_name": "Olsbacka El. Dist.-För.",
+      "location": "o. Tuna",
+      "power_station_name": "subscription from Åspegbo distrikts",
+      "power_source": "subscription",
+      "installed_capacity_kva": 40,
+      "full_location": "o. Tuna, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "784 63 Stora Tuna, Sweden",
+        "location": {
+          "lat": 60.4470971,
+          "lng": 15.4793016
+        }
+      }
+    },
+    {
+      "index": 28,
+      "company_name": "Olsbacka El . Distr.-Fören.",
+      "location": "Olsbacka",
+      "power_station_name": "subscription from Åspegbo distrikts",
+      "power_source": "subscription",
+      "installed_capacity_kva": 35,
+      "full_location": "Olsbacka, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "791 93 Olsbacka, Sweden",
+        "location": {
+          "lat": 60.5517689,
+          "lng": 15.553535
+        }
+      }
+    },
+    {
+      "index": 30,
+      "company_name": "Munktells Pappersfabr. A.-B.",
+      "location": "Svärdsjö",
+      "power_station_name": "Borgärde",
+      "power_source": "steam",
+      "installed_capacity_kva": 1078,
+      "full_location": "Svärdsjö, Kopparberg county, Sweden",
+      "geocoding": {
+        "formatted_address": "790 23 Svärdsjö, Sweden",
+        "location": {
+          "lat": 60.74080979999999,
+          "lng": 15.9049241
+        }
+      }
+    }
+  ],
+  "filename": "Kopparberg_1.png"
+}
